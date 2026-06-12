@@ -1,1 +1,11 @@
-"Fixture 002 (KOR vs CZE, 2026-06-11): Both pundits converge on the same scoreline — South Korea 2-1 Czechia — though for different reasons. KOR Pundit cites Son Heung-min's final-World Cup motivation, Kang-in Lee's creative supremacy, and the wing-back space Hwang Hee-chan can exploit (confidence: 68%). CZE Pundit argues Schick will cause problems, Souček is a set-piece danger, and Czechia's playoff pressure experience is underrated — but ultimately concedes Korea's quality tells (CZE win confidence: 32%). Neither team has altitude advantage at Guadalajara. Both predict Schick/Heung-min to score. Agreed outcome: KOR 2-1 CZE."
+{
+  "fixture_id": "002",
+  "fixture_date": "2026-06-11",
+  "home_code": "KOR",
+  "away_code": "CZE",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.0,
+  "model": "unknown"
+}
