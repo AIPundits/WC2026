@@ -1,0 +1,19 @@
+{
+  "team": "PAR",
+  "fixture_id": "004",
+  "predicted_score": {
+    "home": 1,
+    "away": 1
+  },
+  "predicted_result": "draw",
+  "confidence": "low",
+  "key_factors": [
+    "Paraguay conceded only 6 goals in entire CONMEBOL qualifying — elite defensive organisation",
+    "Enciso absence is a massive blow to attacking creativity but defensive structure remains intact",
+    "Miguel Almirón still provides Premier League-quality creativity at #10",
+    "USA's pre-tournament form uneven: losses to Portugal, Belgium and Germany",
+    "USA missing Agyemang (Achilles), Cardoso (ankle), Carter-Vickers (Achilles) — depth concerns"
+  ],
+  "reasoning": "Paraguay are built to frustrate and defend. Six goals conceded in CONMEBOL qualifying tells the story — Alfaro's 4-4-2 block is hard to break. USA will dominate possession and likely score, but Paraguay have the discipline to stay organised and punish on the counter through Almirón or Sanabria. Without Enciso, a win is beyond reach, but a draw is achievable. Low confidence because USA at home with this crowd are dangerous and the Enciso absence severely limits Paraguay's counter-attacking threat.",
+  "predicted_scorer": "Miguel Almirón"
+}

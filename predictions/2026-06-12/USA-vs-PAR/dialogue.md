@@ -1,0 +1,17 @@
+**🇺🇸 USA Pundit — Opening:**
+SoFi Stadium, Los Angeles — 70,000 fans packed in for the USMNT's World Cup opener against Paraguay. We are the host nation. We have Pulisic leading this team, Gio Reyna at peak fitness, Timothy Weah stretching defences, Folarin Balogun up top. Tyler Adams and Weston McKennie are one of the best central midfield partnerships at this tournament. And Paraguay? They've just lost Julio Enciso — carried off on a stretcher in tears against Nicaragua, hamstring and quad, 2–3 weeks minimum. Their most dangerous attacker, gone. We're dominant in head-to-head (5 wins, 2 losses). We won a friendly against Paraguay earlier this cycle. This is 2–0 United States.
+
+**🇵🇾 Paraguay Pundit — Opening:**
+Don't count us out so quickly. Paraguay conceded six goals in six CONMEBOL qualifying matches — one of the tightest defensive records in this tournament. Gustavo Alfaro has built a team around a compact 4-4-2 block that is genuinely difficult to break down. Yes, Enciso is out — it hurts deeply. But Miguel Almirón, fresh from his Newcastle career, is still in this squad with Premier League-proven quality. USA's losses to Portugal, Belgium and Germany — the last one just six days ago — show this team is beatable against organised opposition. We will frustrate them. 1–1 draw.
+
+**🇺🇸 USA Pundit — Response:**
+Those pre-tournament friendlies mean nothing. We beat Senegal 3–2 on May 31 with Pulisic opening his account since November 2024. Chris Richards is fit after his ankle scare. RotoWire flags that Paraguay give up six set-piece situations per game in qualifying — and McKennie is one of the best headed set-piece threats in this squad. Without Enciso, how does Paraguay actually score? Almirón is a wonderful player but at 32, running against fresh, hungry American legs? The USMNT win this 2–1. We go ahead, Paraguay pull one back on a counter, but we have too much quality to drop points at home.
+
+**🇵🇾 Paraguay Pundit — Response:**
+Our qualifying record: sixth in CONMEBOL — only six goals scored, but we qualified. We are disciplined. We are organised. Almirón's creativity combined with Antonio Sanabria's physicality up front gives us two genuine threats. USA have three confirmed outfield absences — Agyemang (Achilles), Cardoso (ankle), Carter-Vickers (Achilles). That is depth they don't have. And if the game is tight at 0–0 in the 70th minute, will the crowd pressure work for or against USA? We've seen host nations freeze. We're 1–1, maybe even nicking a 1–0.
+
+**🇺🇸 USA Pundit — Final Verdict:**
+USA 2–1 Paraguay. Pulisic from a set piece, Balogun second half. Almirón scores a beautiful counter late but we hold on. Pochettino has the squad motivated, the crowd energised, and Paraguay simply don't have enough without Enciso. Confidence: Medium — Paraguay are a disciplined side and will make it hard.
+
+**🇵🇾 Paraguay Pundit — Final Verdict:**
+Draw — 1–1. Almirón creates a goal, possibly scores one himself. USA's home pressure yields an early goal but we level through Sanabria or a set piece. Without Enciso we can't win this, but our defensive identity means we don't lose it either. Confidence: Low — USA at home with a full crowd are genuinely dangerous. A USA win is possible; we're banking on our defensive organisation.
