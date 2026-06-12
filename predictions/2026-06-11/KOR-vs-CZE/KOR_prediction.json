@@ -1,0 +1,26 @@
+{
+  "team_code": "KOR",
+  "fixture_id": "002",
+  "fixture": "KOR vs CZE",
+  "date": "2026-06-11",
+  "predicted_winner": "home",
+  "predicted_score": {
+    "home": 2,
+    "away": 1
+  },
+  "confidence": 0.68,
+  "key_factors": [
+    "Son Heung-min — final World Cup, peak motivation, experienced scorer at tournament level",
+    "Kang-in Lee (PSG, €30M) — most technically gifted player on the pitch, PSG creative engine",
+    "Kim Min-jae (Bayern Munich, €21M) — best defender in the fixture, can contain Schick",
+    "Czechia's wing-backs leave space — Hwang Hee-chan exploits in behind",
+    "FIFA ranking advantage: KOR #25 vs CZE #41",
+    "KOR bounced back strongly after 0-4 loss — 5-0 and 1-0 in last two",
+    "Risk: Kim Tae-hyeon (CB) doubtful with ankle injury — depth question in 3-back system"
+  ],
+  "predicted_scorers": [
+    "Son Heung-min",
+    "Hwang Hee-chan"
+  ],
+  "reasoning": "At a neutral altitude venue in Guadalajara, South Korea's individual quality is the decisive factor. Son Heung-min on his final World Cup stage is an immeasurable motivational force. Kang-in Lee is the most technically gifted midfielder in this fixture and will control the half-spaces against Souček and Darida. Czechia are organised and hard to break down — Schick will get one — but the Taeguk Warriors' depth and creative quality edges through in the second half. Final score: Korea 2-1 Czechia."
+}

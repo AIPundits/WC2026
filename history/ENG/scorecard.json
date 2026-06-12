@@ -1,0 +1,22 @@
+{
+  "team_code": "ENG",
+  "predictions_made": 1,
+  "results_scored": 1,
+  "correct_winner": 1,
+  "correct_scoreline_pattern": 0,
+  "exact_score": 0,
+  "brier_score": 0.2222,
+  "per_prediction": [
+    {
+      "fixture_id": "022",
+      "date": "2026-06-17",
+      "opponent": "CRO",
+      "predicted": "2-1",
+      "actual": "3-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2222
+    }
+  ]
+}
