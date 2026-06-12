@@ -1,0 +1,22 @@
+## Fixture 002 Prediction Dialogue — KOR vs CZE
+**Date:** 2026-06-11 | **Kick-off:** 02:00 UTC (Jun 12) | **Venue:** Estadio Akron, Guadalajara
+
+---
+
+**[KOR Pundit — Turn 1]**
+The Taeguk Warriors arrive at Estadio Akron with Son Heung-min — a man who has waited his entire career for this moment, his final World Cup — and Kang-in Lee, PSG's €30M creative engine who is currently at the peak of his footballing powers. South Korea are ranked #25, Czechia #41. We bounced back from the 0-4 hiding against Côte d'Ivoire — an aberration — with a 5-0 demolition of Trinidad and a tight 1-0 win over El Salvador. The Taeguk Warriors are ready. Czechia needed penalties to escape Ireland, then penalties to beat Denmark. Mentally strong, I grant that — but they have never played at this altitude and Son Heung-min on this stage is something no Bundesliga left-back prepares you for.
+
+**[CZE Pundit — Turn 1]**
+Let's talk about those penalties you so casually dismiss. Beating Denmark — ranked #20 in the world — in a World Cup qualifying playoff final, on penalties, at maximum pressure, is not a soft path. It is psychological battle-hardening of the highest order. Matěj Kovář between the sticks, Patrik Schick leading the line, Krejčí and Souček commanding in defence and midfield — this is not a makeshift Czech squad. Multiple Bayer Leverkusen players carry the DNA of an unbeaten Bundesliga season. I accept Son is dangerous. But that 0-4 loss to Côte d'Ivoire tells me Korea's backline is exposed against rapid, direct opponents — and Schick is exactly that profile.
+
+**[KOR Pundit — Turn 2]**
+The 0-4 to CIV is on record and I won't whitewash it. Kim Tae-hyeon is doubtful with an ankle injury which creates a question in our three-back system. However, Kim Min-jae is a Bayern Munich centre-back worth €21M — arguably the best defender in this fixture. Krejčí is excellent at Sporting CP, but I'll back Kim Min-jae to contain Schick's physicality. The key axis: Kang-in Lee vs Souček/Darida in midfield. Kang-in presses high, drives with the ball, has the technical quality to unlock any compact block. Hwang In-beom adds defensive discipline. If we win that midfield battle — and I believe we will — then Son and Hwang Hee-chan feast on the space behind Czechia's attacking wing-backs.
+
+**[CZE Pundit — Turn 2]**
+I'll grant Kim Min-jae is formidable — but Schick doesn't just run in behind. He's a Leverkusen centre-forward who plays with his back to goal, links play, and has a jaw-dropping range of finishing. Souček at 192cm is not just a water-carrier — set-piece weapon, drives into the box. And here's the key point: both teams are at Guadalajara's 1,566m. Neither side has a home advantage. This is a neutral venue where pure quality and tactical execution decides. Our 3-4-2-1 with Šulc and Provod as two tens behind Schick is technically sophisticated. Coufal's experience as wing-back creates width. Czechia control the half-spaces and grind out at least a 1-1 draw.
+
+**[KOR Pundit — Turn 3 — Closing]**
+At a neutral altitude venue, South Korea's individual quality edges through. Son Heung-min has scored in multiple World Cups — his motivation for this final campaign cannot be quantified. Kang-in Lee at 24 is the most technically gifted player on this pitch. My concern about Kim Tae-hyeon is noted, but Kim Min-jae marshals the line regardless. Czechia are well-organised but their wing-backs leave space, and that's where Hwang Hee-chan will exploit. Final prediction: **South Korea 2-1 Czechia**. Son Heung-min and Hwang Hee-chan to score. Confidence: 68%. Key risk: Tae-hyeon's absence invites Schick to dominate aerially on set pieces.
+
+**[CZE Pundit — Turn 3 — Closing]**
+This is closer than the rankings suggest. Schick will cause Kim Min-jae problems — he's done it to the best defenders in the Bundesliga. Souček from a set piece is a genuine threat. Czechia's composure under playoff pressure is proven. However — and I say this honestly — South Korea's creative quality through Kang-in Lee is a level above what our midfield can completely suppress. Son's motivation factor is real. I predict a narrow Korean win, with Czechia nicking one. **South Korea 2-1 Czechia**. Schick scores for us. Confidence in CZE win: 32%, draw: 30%, KOR win: 38%. We'll push hard, but Korea's depth tells late.
