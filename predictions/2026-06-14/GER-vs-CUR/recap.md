@@ -1,50 +1,46 @@
 # Post-match Recap: Germany (GER) vs Curaçao (CUR)
 
 **Fixture:** 009 — 2026-06-14
-**Total cost:** $0.0658
+**Total cost:** $0.0724
 
 ## GER AI Pundit
 
-A 0–0 prediction against Curaçao, and Die Mannschaft put **seven** past them — that's not a calibration error, that's a complete analytical failure. The Blue Eagles were making their World Cup debut, ranked well outside the top 50, with no competitive preparation against UEFA-level opposition, and I apparently decided that constituted a stalemate. Whatever reasoning led me to discount Germany's attacking depth so heavily against The Blue Eagles did not survive contact with 90 minutes of football.
-
-What I likely got right was that The Blue Eagles would concede — the one goal they scored confirms they were capable of at least threatening, so the defensive frailty on their end was probably in my notes. What I catastrophically got wrong was treating The Blue Eagles as a credible defensive unit capable of frustrating Die Mannschaft, and underestimating how badly a confederations minnow struggles against a physically and technically superior side in a World Cup fixture. The 7–1 scoreline suggests The Blue Eagles' defensive structure collapsed completely under sustained pressure, which any honest reading of their squad depth should have flagged.
-
-One thing I'd change: stop anchoring a prediction to tournament-context caution ("big teams don't always run up the score") when the **quality gap** between the two sides is this extreme — The Blue Eagles deserved a realistic 4+ goal margin projection, not a draw.
+I called the win and I called a heavy scoreline against The Blue Eagles — that part of the reasoning held up, and it was grounded in the quality gap between a top UEFA side and a CONCACAF debutant. What I underestimated was just how completely The Blue Eagles' defensive structure would disintegrate over 90 minutes; predicting four goals felt bold, but The Blue Eagles conceded seven, suggesting their defensive organisation was even more fragile than the squad data indicated. I also didn't account for The Blue Eagles finding the net — a consolation goal that, while minor in context, shows they weren't entirely without attacking threat even when down heavily. The core reasoning was sound in direction, but I left three goals on the table by being too conservative about Die Mannschaft's capacity to run up the score against a side this outmatched.
 
 ```json
 {
   "got_right": [
-    "The Blue Eagles would concede goals",
-    "The Blue Eagles lacked the defensive depth to handle top UEFA opposition"
+    "The Blue Eagles would be comprehensively beaten",
+    "The Blue Eagles' defensive depth was insufficient against top-level UEFA opposition",
+    "A heavy scoreline was the correct prediction framework for this fixture"
   ],
   "got_wrong": [
-    "Massively underestimated Germany's attacking output against The Blue Eagles",
-    "Overestimated The Blue Eagles' ability to contain Die Mannschaft for 90 minutes",
-    "Failed to account for the structural collapse that CONCACAF minnows experience against elite World Cup sides",
-    "Predicted a draw when the quality gap clearly warranted a heavy Germany win"
+    "Underestimated how severely The Blue Eagles' defensive structure would collapse",
+    "Did not model The Blue Eagles scoring — even conceding a consolation was missed",
+    "Capped Germany's goal ceiling too conservatively given The Blue Eagles' competitive inexperience at this level"
   ],
   "reasoning_verdict": "underconfident",
-  "one_thing_id_change": "I would weight the FIFA ranking and competitive-experience gap between The Blue Eagles and Germany far more aggressively, using comparable World Cup debut fixtures by similar-tier CONCACAF sides as a realistic scoring baseline rather than defaulting to tournament-context caution."
+  "one_thing_id_change": "I would use a wider goal-range model for The Blue Eagles fixture, anchored to historical World Cup results for comparable CONCACAF minnows on debut, which routinely show 5–7 goal deficits rather than the 4-goal ceiling I applied."
 }
 ```
 
 ## CUR AI Pundit
 
-The 1–7 scoreline against Die Mannschaft is a brutal reality check — I predicted a 0–0 draw, which means I thought our backline could hold a side that ultimately hit seven. What I got marginally right was acknowledging Germany's quality as a threat; what I catastrophically misjudged was how completely Die Mannschaft would dismantle a CONCACAF qualifier in open play, exploiting every structural gap we had. A 0–0 prediction implied our defensive shape could contain them for 90 minutes — that reasoning collapsed within the first half-hour as Die Mannschaft's pressing and combination play pulled our lines apart at will. I leaned too heavily on "low-scoring World Cup opener caution" as a moderating factor, and completely underweighted the raw talent gap between a German squad built for tournament football and a side making its World Cup debut.
+I correctly called the result direction — Die Mannschaft were always going to win this — and the reasoning that got me there (their attacking depth, pressing system, and structural superiority over a World Cup debutant) was sound as far as it went. What I missed badly was the ceiling on Die Mannschaft's scoring: I had them at three goals, they hit seven, which means I either anchored too conservatively on "a win is a win" German pragmatism, or simply failed to model how catastrophically our defensive shape would disintegrate under sustained German pressure. We did manage a goal — something my 0–3 prediction didn't credit us for — but that's cold comfort when Die Mannschaft were scoring at will and I was off by four goals on their tally alone. The one structural failure in my analysis: I treated Die Mannschaft's goal threat as bounded by tournament caution when, against a side with our defensive limitations, their attack has no natural ceiling.
 
 ```json
 {
   "got_right": [
-    "identified Die Mannschaft as the clearly dominant side",
-    "flagged their attacking quality as the primary threat"
+    "correctly predicted a loss to Die Mannschaft",
+    "identified their attacking quality as the dominant factor",
+    "recognised the structural class gap between the sides"
   ],
   "got_wrong": [
-    "massively underestimated Die Mannschaft's goal-scoring ceiling against a debutant side",
-    "overestimated our defensive organization's ability to absorb German pressing",
-    "relied on 'opener caution' narrative that didn't apply to a side of Germany's calibre",
-    "failed to account for the structural class gap at this level of competition"
+    "severely underestimated Die Mannschaft's goal-scoring volume (predicted 3, they scored 7)",
+    "applied a 'tournament pragmatism' ceiling to Germany's attack that simply didn't exist against our defence",
+    "failed to model how completely our defensive shape would collapse under sustained German pressing"
   ],
   "reasoning_verdict": "overconfident",
-  "one_thing_id_change": "I would weight the FIFA ranking and squad depth differential against Die Mannschaft far more heavily, and model a realistic goals-conceded ceiling rather than anchoring on low-scoring opener heuristics that simply don't apply when the gap between sides is this large."
+  "one_thing_id_change": "I would remove any implicit cap on Die Mannschaft's scoring potential when facing a debutant side with our defensive profile, and instead model their attack against our specific structural vulnerabilities rather than against a generic World Cup opponent."
 }
 ```
