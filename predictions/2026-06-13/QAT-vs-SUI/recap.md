@@ -1,30 +1,30 @@
 # Post-match Recap: Qatar (QAT) vs Switzerland (SUI)
 
 **Fixture:** 005 — 2026-06-13
-**Total cost:** $0.0691
+**Total cost:** $0.0770
 
 ## QAT AI Pundit
 
-I predicted The Maroons would lose 0-2 to Nati, and instead we drew 1-1 — so the error is entirely in the direction of underestimating Qatar against Switzerland. I correctly identified that Nati would score; their attacking quality and composure against AFC opposition was a legitimate concern and it materialised. Where my reasoning failed was in treating Nati's defensive record as impenetrable for Qatar — I didn't properly account for the possibility that Switzerland, perhaps comfortable with a lead or tactically complacent, would concede an equaliser. The one thing I'd change is stress-testing Nati's defensive vulnerabilities in matches where they've been pressed or where they've dropped concentration — rather than simply accepting the quality gap as a one-way door.
+I predicted a 0-2 loss to Nati and The Maroons came away with a 1-1 draw — my pessimism about Qatar's chances against Switzerland was the core error. The part that held up: Nati did score, which validated my reading of Switzerland's attacking threat and Qatar's defensive frailty against quality European opposition. What I got wrong was treating Nati's defence as a wall Qatar simply couldn't breach — I collapsed the quality gap between the sides into a clean sheet for Switzerland without properly examining whether Nati had the defensive discipline to hold a lead for a full ninety minutes against a motivated opponent. If I were doing this analysis again, I'd specifically look at Nati's record in matches where they conceded after taking the lead, rather than letting Switzerland's squad depth blind me to their vulnerability against a pressing, high-stakes Qatar side.
 
 ```json
 {
-  "got_right": ["Nati's ability to score against Qatar", "Switzerland's technical and tactical superiority on paper", "Qatar's defensive exposure to Nati's attacking quality"],
-  "got_wrong": ["completely ruled out Qatar scoring against Nati", "overstated Nati's defensive solidity at World Cup level", "failed to model Nati's tendency to concede after taking the lead", "draw probability against Nati was severely underweighted"],
+  "got_right": ["Nati's attacking threat materialising against Qatar", "Switzerland's technical quality creating problems for Qatar's defence", "Qatar's defensive exposure to Nati's forward line"],
+  "got_wrong": ["dismissed Qatar's ability to score against Nati entirely", "overestimated Nati's defensive solidity at World Cup intensity", "failed to model Nati's concentration and game-management vulnerabilities", "draw against Nati treated as implausible when it was a realistic outcome"],
   "reasoning_verdict": "underconfident",
-  "one_thing_id_change": "I would revise my pre-match analysis to examine Nati's recent defensive record specifically in matches where they held a lead, rather than generalising their squad quality into an assumption of a clean sheet against Qatar."
+  "one_thing_id_change": "I would revise my analysis to examine Nati's specific record in matches where they held a lead — particularly their tendency to concede when opponents commit forward — rather than projecting Swiss quality into an unexamined assumption of a clean sheet."
 }
 ```
 
 ## SUI AI Pundit
 
-I called a 2-0 win for Nati against The Maroons and instead got a 1-1 — meaning I underestimated Qatar's ability to take something from this match. What I got right was identifying that Switzerland could score against The Maroons' defence, and that did materialise. What I got badly wrong was Qatar's attacking threat: I apparently dismissed The Maroons as too limited to find the net against a structured Swiss backline, and they proved that wrong. The deeper error was likely over-reading the gap in quality between the sides — The Maroons are not a team you can pencil in as a clean sheet against, and a 2-0 prediction implied a level of Nati dominance that simply wasn't there on the day.
+I went 2-0 Nati over The Maroons, and the actual result was 1-1 — so I got the direction of the match partially right but badly mis-priced Qatar's threat. The part that held up: Nati did score against The Maroons, which tells me my read on Switzerland finding gaps in Qatar's defensive structure wasn't wrong. What failed was treating The Maroons as effectively a passive opponent — a clean sheet against Qatar implied they'd offer nothing going forward, and they clearly did enough to equalise and earn a point. I over-indexed on the quality differential between the two sides and didn't give The Maroons sufficient credit for their organisation and ability to punish one lapse.
 
 ```json
 {
-  "got_right": ["Nati's ability to score against The Maroons' defence", "Switzerland as the stronger side on paper"],
-  "got_wrong": ["dismissed The Maroons' attacking threat too heavily", "predicted a clean sheet against a Qatar side capable of scoring", "overestimated the margin of Swiss superiority"],
+  "got_right": ["Nati capable of scoring against The Maroons", "Qatar not favourites in this fixture"],
+  "got_wrong": ["dismissed The Maroons' attacking threat entirely", "assumed a clean sheet was achievable against Qatar", "overestimated the margin of Swiss control"],
   "reasoning_verdict": "overconfident",
-  "one_thing_id_change": "Give proper weight to The Maroons' attacking capacity rather than treating them as a passive opponent — a 2-0 scoreline required Qatar to contribute nothing, and that was always an unrealistic assumption."
+  "one_thing_id_change": "Assign The Maroons a realistic goal probability rather than treating them as a passive opponent — Qatar have shown they can score at international level and a 2-0 prediction required them to contribute absolutely nothing."
 }
 ```
