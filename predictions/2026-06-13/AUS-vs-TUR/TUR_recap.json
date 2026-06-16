@@ -1,0 +1,20 @@
+{
+  "team_code": "TUR",
+  "fixture_id": "008",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T08:33:27.081264+00:00",
+  "got_right": [
+    "predicted a loss",
+    "recognised Australian defensive solidity as a key factor",
+    "called Australia scoring 2"
+  ],
+  "got_wrong": [
+    "overestimated Türkiye's attacking output — predicted 1 goal, actual was 0",
+    "underweighted how effectively Australia's press would neutralise our build-up",
+    "gave too much credit to individual quality breaking down an organised block"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the 'Türkiye score at least once' assumption harder — recent goal-drought data and Australia's press efficiency should have pushed the predicted Türkiye goals down to 0, not left at 1 as a comfortable floor."
+}

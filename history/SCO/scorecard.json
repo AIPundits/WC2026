@@ -1,22 +1,22 @@
 {
-  "team_code": "RSA",
-  "predictions_made": 1,
+  "team_code": "SCO",
+  "predictions_made": 2,
   "results_scored": 1,
   "correct_winner": 1,
   "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.2222,
+  "brier_score": 0.0595,
   "per_prediction": [
     {
-      "fixture_id": "001",
-      "date": "2026-06-11",
-      "opponent": "MEX",
-      "predicted": "1-2",
-      "actual": "0-2",
+      "fixture_id": "007",
+      "date": "2026-06-13",
+      "opponent": "HAI",
+      "predicted": "2-0",
+      "actual": "1-0",
       "exact_score": false,
       "correct_winner": true,
       "correct_scoreline_pattern": true,
-      "brier": 0.2222
+      "brier": 0.0595
     }
   ]
 }

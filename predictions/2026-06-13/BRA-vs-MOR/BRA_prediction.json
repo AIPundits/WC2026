@@ -1,0 +1,21 @@
+{
+  "team": "BRA",
+  "fixture_id": "006",
+  "opponent": "MOR",
+  "venue": "home",
+  "predicted_outcome": "win",
+  "predicted_score": "2-1",
+  "confidence": 0.55,
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "Neymar confirmed absent for opener — creative hub missing from first XI",
+    "Rodrygo and Estêvão also injured — Brazil's attacking depth considerably reduced",
+    "Vinicius Jr and Raphinha remain elite-level attackers capable of unlocking any defence",
+    "Morocco missing Aguerd (CB) and Ezzalzouli (winger) — disrupts both their shape and width",
+    "Ancelotti's tactical sophistication elevates Brazil beyond just their player quality"
+  ],
+  "top_scorer_prediction": "Vinícius Júnior",
+  "reasoning": "This is a harder opener than it should be given Brazil's triple injury crisis. Neymar's absence removes their most creative and decisive attacker. However, Morocco's late casualties — Aguerd at centre-back and Ezzalzouli on the wing — also meaningfully weaken their side. Vinicius Jr and Raphinha remain among the world's best and will cause the reshuffled Moroccan defence problems. Morocco's counter-attacking threat is real — Brahim Díaz can hurt Brazil if the midfield loses shape — but Ancelotti's tactical read and Brazil's superior squad depth should prevail in a 2-1 win."
+}

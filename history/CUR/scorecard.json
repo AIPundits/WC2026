@@ -1,21 +1,21 @@
 {
-  "team_code": "RSA",
+  "team_code": "CUR",
   "predictions_made": 1,
   "results_scored": 1,
   "correct_winner": 1,
-  "correct_scoreline_pattern": 1,
+  "correct_scoreline_pattern": 0,
   "exact_score": 0,
   "brier_score": 0.2222,
   "per_prediction": [
     {
-      "fixture_id": "001",
-      "date": "2026-06-11",
-      "opponent": "MEX",
-      "predicted": "1-2",
-      "actual": "0-2",
+      "fixture_id": "009",
+      "date": "2026-06-14",
+      "opponent": "GER",
+      "predicted": "0-3",
+      "actual": "1-7",
       "exact_score": false,
       "correct_winner": true,
-      "correct_scoreline_pattern": true,
+      "correct_scoreline_pattern": false,
       "brier": 0.2222
     }
   ]

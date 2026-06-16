@@ -1,0 +1,17 @@
+{
+  "team": "EGY",
+  "fixture_id": "014",
+  "predicted_home_score": 1,
+  "predicted_away_score": 2,
+  "predicted_winner": "away",
+  "confidence": 0.52,
+  "predicted_scoreline": "BEL 1–2 EGY",
+  "key_factors": [
+    "Egypt have won 3 of 4 all-time meetings with Belgium — historical precedent is directly relevant",
+    "Salah fit and motivated for the World Cup stage after his hamstring scare; 9 of 20 qualifying goals",
+    "Belgium's defensive vulnerabilities explicitly identified — high line exposed by Salah and Marmoush pace",
+    "Marmoush (Manchester City, 8 goals this season) is a genuine secondary threat Belgium cannot double-mark away"
+  ],
+  "player_to_watch": "Mohamed Salah",
+  "risk_factor": "high"
+}

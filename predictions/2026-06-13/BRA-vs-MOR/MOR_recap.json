@@ -1,0 +1,20 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "006",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T09:32:04.002763+00:00",
+  "got_right": [
+    "Morocco had the attacking quality to score against Seleção",
+    "The match would be tight and competitive, not a blowout",
+    "Brazil's individual quality would be a persistent threat throughout"
+  ],
+  "got_wrong": [
+    "Overestimated Morocco's ability to keep a clean sheet or protect a lead against Seleção",
+    "Underpriced Brazil's equalising capacity — they needed only one moment, not sustained pressure",
+    "Win probability was too high given Seleção's floor-level quality in attack"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would explicitly model Seleção's single-moment danger separately from their overall dominance — the draw probability should have been higher because Brazil can equalise from almost nothing, regardless of which team is controlling the game."
+}

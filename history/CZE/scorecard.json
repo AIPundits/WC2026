@@ -1,5 +1,5 @@
 {
-  "team_code": "MEX",
+  "team_code": "CZE",
   "predictions_made": 1,
   "results_scored": 1,
   "correct_winner": 1,
@@ -8,11 +8,11 @@
   "brier_score": 0.2222,
   "per_prediction": [
     {
-      "fixture_id": "001",
+      "fixture_id": "002",
       "date": "2026-06-11",
-      "opponent": "RSA",
-      "predicted": "2-0",
-      "actual": "2-0",
+      "opponent": "KOR",
+      "predicted": "1-2",
+      "actual": "1-2",
       "exact_score": true,
       "correct_winner": true,
       "correct_scoreline_pattern": true,

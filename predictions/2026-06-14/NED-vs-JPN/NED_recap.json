@@ -1,0 +1,20 @@
+{
+  "team_code": "NED",
+  "fixture_id": "010",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "2-2 (draw)",
+  "narrative": "I called Oranje 2 – Samurai Blue 0, and Japan came back to earn a 2–2 draw — so I got the Oranje goal total exactly right but catastrophically underestimated Samurai Blue's ability to hurt us at the other end. My pre-match reasoning leaned heavily on Japan's defensive fragility in transition and dismissed their attacking structure, yet they showed exactly the kind of disciplined, rapid combination play that has made them dangerous at major tournaments under Moriyasu. I flagged Japan's pressing as a tactical factor but then failed to weight it properly in the final scoreline — a classic case of noting a risk and then burying it under misplaced optimism. The one thing I'd change: I should have stress-tested Japan's goal threat more rigorously rather than assuming Oranje's defensive shape would neutralise it.\n\n```json\n{\n  \"got_right\": [\n    \"Oranje scoring twice — the attacking quality was there\",\n    \"Japan's pressing as a genuine tactical threat\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated Samurai Blue's clinical finishing\",\n    \"Assumed Oranje's backline would keep a clean sheet against Japan's forward line\",\n    \"Discounted Japan's ability to recover and equalise late\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have modelled Japan's goal threat more seriously — their attacking xG in recent competitive matches warranted at least one conceded goal in the base-case scenario, and I chose to round it down to zero instead of letting the data lead.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T21:56:45.958565+00:00",
+  "got_right": [
+    "Oranje scoring twice — the attacking quality was there",
+    "Japan's pressing as a genuine tactical threat"
+  ],
+  "got_wrong": [
+    "Underestimated Samurai Blue's clinical finishing",
+    "Assumed Oranje's backline would keep a clean sheet against Japan's forward line",
+    "Discounted Japan's ability to recover and equalise late"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have modelled Japan's goal threat more seriously — their attacking xG in recent competitive matches warranted at least one conceded goal in the base-case scenario, and I chose to round it down to zero instead of letting the data lead."
+}

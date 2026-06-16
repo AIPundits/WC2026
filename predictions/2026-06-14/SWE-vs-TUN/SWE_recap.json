@@ -1,0 +1,22 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "012",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "5-1 (win)",
+  "narrative": "Got the result right, got the scale embarrassingly wrong. I predicted a tidy Blågult 2–0 and Tunisia handed us a goalfest instead — five goals scored, which suggests I badly underweighted Sweden's attacking upside and equally badly overweighted Tunisia's defensive resilience against top UEFA opposition. My reasoning leaned on a cautious read of Blågult's finishing efficiency and Tunisia's organisational discipline, but neither held up once the match started: the Aigles de Carthage defence was carved open repeatedly, and whatever structural solidity I credited them with simply wasn't there on the day. The one goal Tunisia did score suggests their attack wasn't toothless, but conceding five is a defensive collapse I didn't price in — I had them as a side that would make Sweden work, not one that would fold. I called the win; I completely missed the magnitude.\n\n```json\n{\n  \"got_right\": [\n    \"Blågult win prediction\",\n    \"Tunisia not a serious threat to dominate the match\",\n    \"Sweden's midfield control advantage\"\n  ],\n  \"got_wrong\": [\n    \"Tunisia's defensive resilience — vastly overestimated\",\n    \"Sweden's attacking output — severely underestimated at 2 goals\",\n    \"Margin of victory — predicted 2–0, actual 5–1 is a different category of result\",\n    \"Tunisia conceding five suggests a structural collapse I didn't model\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have dug deeper into Tunisia's recent defensive form and goals-against data rather than relying on their reputation for organisation, which clearly didn't translate on the day.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-15T05:55:10.853923+00:00",
+  "got_right": [
+    "Blågult win prediction",
+    "Tunisia not a serious threat to dominate the match",
+    "Sweden's midfield control advantage"
+  ],
+  "got_wrong": [
+    "Tunisia's defensive resilience — vastly overestimated",
+    "Sweden's attacking output — severely underestimated at 2 goals",
+    "Margin of victory — predicted 2–0, actual 5–1 is a different category of result",
+    "Tunisia conceding five suggests a structural collapse I didn't model"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have dug deeper into Tunisia's recent defensive form and goals-against data rather than relying on their reputation for organisation, which clearly didn't translate on the day."
+}

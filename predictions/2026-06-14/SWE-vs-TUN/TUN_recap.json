@@ -1,0 +1,21 @@
+{
+  "team_code": "TUN",
+  "fixture_id": "012",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-5 (loss)",
+  "narrative": "Getting the direction right — a loss — is cold comfort when Blågult put five past us. I predicted Les Aigles de Carthage would concede two; they conceded five, and whatever defensive structure I thought would hold against Blågult's attack simply did not. I correctly identified Blågult's attacking quality as the decisive factor, but I anchored far too heavily on Tunisia being capable of limiting the damage, which the scoreline makes look naive. The one thing the result exposes is that I underweighted Blågult's ability to sustain offensive pressure across 90 minutes — I treated the threat as a one-off danger rather than a recurring, compounding one.\n\n```json\n{\n  \"got_right\": [\n    \"Blågult's attacking quality as the match's defining force\",\n    \"predicted a Blågult win\",\n    \"Tunisia scoring once — final score confirms the 1\"\n  ],\n  \"got_wrong\": [\n    \"massively underestimated Blågult's goal volume (predicted 2, conceded 5)\",\n    \"overestimated Tunisia's defensive resilience against Blågult's sustained pressure\",\n    \"treated Blågult's threat as episodic rather than continuous across 90 minutes\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested Blågult's expected-goals output more rigorously — a team capable of five in a World Cup group game needed a much higher projected margin in my model, not a polite 2-1.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-15T05:55:10.854609+00:00",
+  "got_right": [
+    "Blågult's attacking quality as the match's defining force",
+    "predicted a Blågult win",
+    "Tunisia scoring once — final score confirms the 1"
+  ],
+  "got_wrong": [
+    "massively underestimated Blågult's goal volume (predicted 2, conceded 5)",
+    "overestimated Tunisia's defensive resilience against Blågult's sustained pressure",
+    "treated Blågult's threat as episodic rather than continuous across 90 minutes"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested Blågult's expected-goals output more rigorously — a team capable of five in a World Cup group game needed a much higher projected margin in my model, not a polite 2-1."
+}

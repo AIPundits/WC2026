@@ -1,0 +1,20 @@
+{
+  "team_code": "BRA",
+  "fixture_id": "006",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T09:32:04.002224+00:00",
+  "got_right": [
+    "Atlas Lions would score — their transition and set-piece threat was genuine",
+    "the match would be competitive, not a routine Brazil win",
+    "Morocco's defensive organisation would be a significant obstacle"
+  ],
+  "got_wrong": [
+    "underestimated Atlas Lions' ability to hold the equaliser and shut the game down",
+    "over-indexed on Brazil breaking Morocco's defensive block in the final third",
+    "assigned too low a draw probability given Morocco's proven late-game resilience"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would revise the draw probability upward to ~0.33, explicitly accounting for Atlas Lions' tournament track record of absorbing pressure and denying a decisive second goal to higher-ranked opponents."
+}

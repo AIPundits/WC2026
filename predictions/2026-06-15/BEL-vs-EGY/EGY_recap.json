@@ -1,0 +1,21 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "014",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "The Pharaohs held their own against the Red Devils well enough to take a point, which tells me the gap in class between these sides isn't as wide as the pre-tournament seedings suggested — that part of my read was correct. Where I went wrong was in overestimating Egypt's ability to convert that competitive showing into a second goal: I had us at 2–1, and in reality we found the net once and couldn't add to it against a Belgium side that knows how to manage a game without controlling it. My read on Belgium's defensive vulnerability was too generous — they conceded the one, yes, but they were organized enough to prevent anything more and found their equalizer without looking panicked. The result is defensible for the Pharaohs, but my prediction added a goal that wasn't there.\n\n```json\n{\n  \"got_right\": [\n    \"Egypt competitive enough not to lose outright against Red Devils\",\n    \"Belgium not dominant enough to win the match comfortably\",\n    \"Egypt capable of scoring against Red Devils' backline\"\n  ],\n  \"got_wrong\": [\n    \"Overestimated Egypt's attacking output — predicted 2 goals, managed 1\",\n    \"Underestimated Red Devils' ability to equalize and close the game out\",\n    \"Overrated Egypt's edge in the final third against Belgium's defensive organization\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Belgium's game-management ability more heavily — their golden generation may be gone, but the tactical discipline running through Belgian club football means they rarely lose matches they're drawing in the final quarter.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-16T02:51:36.109099+00:00",
+  "got_right": [
+    "Egypt competitive enough not to lose outright against Red Devils",
+    "Belgium not dominant enough to win the match comfortably",
+    "Egypt capable of scoring against Red Devils' backline"
+  ],
+  "got_wrong": [
+    "Overestimated Egypt's attacking output — predicted 2 goals, managed 1",
+    "Underestimated Red Devils' ability to equalize and close the game out",
+    "Overrated Egypt's edge in the final third against Belgium's defensive organization"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Belgium's game-management ability more heavily — their golden generation may be gone, but the tactical discipline running through Belgian club football means they rarely lose matches they're drawing in the final quarter."
+}

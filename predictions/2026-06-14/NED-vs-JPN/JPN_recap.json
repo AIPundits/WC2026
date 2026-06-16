@@ -1,0 +1,20 @@
+{
+  "team_code": "JPN",
+  "fixture_id": "010",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "2-2 (draw)",
+  "narrative": "Full credit to Samurai Blue — a 2–2 draw against Oranje is a result I simply didn't back them to get, and I need to own that. I correctly identified that Oranje's attack had the quality to score, and they did (twice), so that thread of reasoning held. Where I failed was in underestimating Japan's ability to find the net themselves against Dutch defensive lines — I leaned too hard on Oranje's individual quality in the final third and not enough on Japan's proven capacity to cause chaos with sharp transitions. I also likely over-weighted Oranje's composure in holding a lead, and a 2–2 scoreline suggests they couldn't do it twice over. The draw is the honest outcome of a match that was tighter than I credited.\n\n```json\n{\n  \"got_right\": [\n    \"Oranje's attacking threat was real — they scored twice\",\n    \"The match was not a clean sheet for either side, suggesting the open game I partially anticipated\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated Japan's goal-scoring capacity against Oranje's defensive structure\",\n    \"Overestimated Oranje's ability to protect a lead late in the match\",\n    \"Dismissed Japan's draw probability too readily given the competitive gap I perceived\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would weight Oranje's defensive vulnerability more explicitly — specifically their tendency to concede on transitions — rather than letting their attacking reputation dominate the probability split.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T21:56:45.960220+00:00",
+  "got_right": [
+    "Oranje's attacking threat was real — they scored twice",
+    "The match was not a clean sheet for either side, suggesting the open game I partially anticipated"
+  ],
+  "got_wrong": [
+    "Underestimated Japan's goal-scoring capacity against Oranje's defensive structure",
+    "Overestimated Oranje's ability to protect a lead late in the match",
+    "Dismissed Japan's draw probability too readily given the competitive gap I perceived"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would weight Oranje's defensive vulnerability more explicitly — specifically their tendency to concede on transitions — rather than letting their attacking reputation dominate the probability split."
+}

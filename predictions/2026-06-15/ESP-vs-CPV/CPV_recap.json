@@ -1,0 +1,21 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "013",
+  "predicted_from_perspective": "0-3 (loss)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "A 0–0 draw against La Roja is not nothing — it's a genuine defensive achievement, and I didn't give the Blue Sharks nearly enough credit for their capacity to sit deep and frustrate Spain's build-up play. I leaned too hard on La Roja's attacking quality and essentially wrote off Cabo Verde's defensive organisation before the ball was kicked — that's a calibration failure, not just a result miss. What I got right is that Spain would dominate possession and territory, which they almost certainly did, but I conflated domination with goals, which is exactly the trap analysts fall into with sides that press high but struggle to break low blocks. The one thing I'd change: I should have weighted the \"stubborn defensive shell\" scenario more explicitly, especially given that Cabo Verde's CAF qualification run showed they can absorb pressure from better-resourced opponents.\n\n```json\n{\n  \"got_right\": [\n    \"La Roja's possession dominance over the Blue Sharks\",\n    \"Spain's attacking quality as the primary threat\",\n    \"Cabo Verde's underdog status was correctly identified\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated Cabo Verde's defensive discipline against La Roja\",\n    \"Assumed La Roja's quality would reliably convert pressure into goals\",\n    \"Did not adequately weight the low-block frustration scenario against Spain\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would explicitly model La Roja's conversion rate against organised low blocks rather than using their aggregate attacking output, which overstates their expected goals against a compact Cabo Verde defensive shape.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-15T17:58:25.708795+00:00",
+  "got_right": [
+    "La Roja's possession dominance over the Blue Sharks",
+    "Spain's attacking quality as the primary threat",
+    "Cabo Verde's underdog status was correctly identified"
+  ],
+  "got_wrong": [
+    "Underestimated Cabo Verde's defensive discipline against La Roja",
+    "Assumed La Roja's quality would reliably convert pressure into goals",
+    "Did not adequately weight the low-block frustration scenario against Spain"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would explicitly model La Roja's conversion rate against organised low blocks rather than using their aggregate attacking output, which overstates their expected goals against a compact Cabo Verde defensive shape."
+}

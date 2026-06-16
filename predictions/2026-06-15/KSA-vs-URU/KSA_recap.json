@@ -1,0 +1,21 @@
+{
+  "team_code": "KSA",
+  "fixture_id": "015",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I called this one wrong in the most instructive way: I gave La Celeste too much credit for converting their chances and not enough credit for the Green Falcons' defensive resilience. I had Uruguay's attacking experience as a decisive edge, and while La Celeste did score — vindicating the concern about their quality in the final third — they couldn't find the winner, which my model didn't adequately account for. What I got right was that La Celeste would be a genuine threat and that this would be a close, physical contest; what I got wrong was overweighting Uruguay's finishing and underweighting Saudi Arabia's ability to hold a result under pressure. The one specific thing I'd change: I leaned too heavily on La Celeste's squad depth and historic tournament pedigree as a tiebreaker, when the actual game data suggested a more even contest than the reputation gap implied.\n\n```json\n{\n  \"got_right\": [\n    \"La Celeste would create genuine attacking danger\",\n    \"match would be tight and competitive\",\n    \"Green Falcons would score — low-scoring, attritional affair\"\n  ],\n  \"got_wrong\": [\n    \"overestimated La Celeste's finishing efficiency\",\n    \"underestimated Green Falcons' capacity to hold a draw under late pressure\",\n    \"Uruguay's pedigree treated as a decisive factor rather than a marginal one\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would discount La Celeste's historical tournament reputation more aggressively and weight their actual recent shot-conversion data instead — reputation isn't a substitute for current form in a single match.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-16T02:51:58.342774+00:00",
+  "got_right": [
+    "La Celeste would create genuine attacking danger",
+    "match would be tight and competitive",
+    "Green Falcons would score — low-scoring, attritional affair"
+  ],
+  "got_wrong": [
+    "overestimated La Celeste's finishing efficiency",
+    "underestimated Green Falcons' capacity to hold a draw under late pressure",
+    "Uruguay's pedigree treated as a decisive factor rather than a marginal one"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would discount La Celeste's historical tournament reputation more aggressively and weight their actual recent shot-conversion data instead — reputation isn't a substitute for current form in a single match."
+}

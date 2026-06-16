@@ -1,0 +1,20 @@
+{
+  "team_code": "IRI",
+  "fixture_id": "016",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "2-2 (draw)",
+  "narrative": "I called 2–0 and got 2–2 — I nailed Team Melli's goal tally but left All Whites' attacking contribution entirely off the board, which is the more consequential miss. My pre-match reasoning leaned heavily on New Zealand's historically limited output against AFC opposition, but I didn't adequately weight the possibility that our defence — which has been leaky in patches — would hand them openings rather than forcing them to create from nothing. The clean-sheet assumption was the core failure: I treated All Whites' low historical goal count as a ceiling on what they'd produce, when it was really just a base rate that our own defensive lapses could override. Two goals conceded to a side I effectively dismissed as low-threat is a calibration problem I need to carry forward.\n\n```json\n{\n  \"got_right\": [\n    \"Team Melli scoring twice — the attacking output was in line with the prediction\",\n    \"All Whites posing more of a physical than a technical challenge\"\n  ],\n  \"got_wrong\": [\n    \"Assumed a clean sheet based on All Whites' low historical scoring rate\",\n    \"Underestimated All Whites' ability to exploit Iran's defensive vulnerabilities\",\n    \"Overconfident in Team Melli's defensive solidity holding for a full 90 minutes\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the clean-sheet assumption more rigorously — specifically checking Team Melli's recent goals-conceded record against lower-ranked opposition rather than treating All Whites' attack as a non-factor by default.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-16T03:05:35.098248+00:00",
+  "got_right": [
+    "Team Melli scoring twice — the attacking output was in line with the prediction",
+    "All Whites posing more of a physical than a technical challenge"
+  ],
+  "got_wrong": [
+    "Assumed a clean sheet based on All Whites' low historical scoring rate",
+    "Underestimated All Whites' ability to exploit Iran's defensive vulnerabilities",
+    "Overconfident in Team Melli's defensive solidity holding for a full 90 minutes"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the clean-sheet assumption more rigorously — specifically checking Team Melli's recent goals-conceded record against lower-ranked opposition rather than treating All Whites' attack as a non-factor by default."
+}

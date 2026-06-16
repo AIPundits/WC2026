@@ -1,0 +1,20 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "014",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I called Pharaohs a threat capable of finding the net, and that held up — they scored exactly the one goal I credited them with, which is more than many pundits would have given them. What I got wrong was assuming Belgium's attacking quality would be enough to close the game out; I projected a 2-1 win but the Red Devils couldn't find a second, and Pharaohs were clearly more organised and resilient in the second half than my briefing suggested. The draw is a fair result on the evidence, and predicting a win when the underlying data didn't cleanly support dominance was overconfident reasoning on my part. One honest corrective: I should have weighted Pharaohs' defensive structure and low-block discipline more heavily rather than leaning on Belgium's theoretical offensive ceiling to carry the scoreline.\n\n```json\n{\n  \"got_right\": [\n    \"Pharaohs capable of scoring — they found the net exactly as predicted\",\n    \"match would be competitive rather than a comfortable Belgium win\"\n  ],\n  \"got_wrong\": [\n    \"underestimated Pharaohs' defensive resilience and ability to hold a draw\",\n    \"overestimated Belgium's ability to convert pressure into a second goal against a disciplined Pharaohs low block\",\n    \"treated Belgium's attacking ceiling as a near-certainty rather than a possibility\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have given more weight to Pharaohs' defensive organisation and low-block capability, capping Belgium's projected goals at 1 and widening the draw probability substantially.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-16T02:51:36.108269+00:00",
+  "got_right": [
+    "Pharaohs capable of scoring — they found the net exactly as predicted",
+    "match would be competitive rather than a comfortable Belgium win"
+  ],
+  "got_wrong": [
+    "underestimated Pharaohs' defensive resilience and ability to hold a draw",
+    "overestimated Belgium's ability to convert pressure into a second goal against a disciplined Pharaohs low block",
+    "treated Belgium's attacking ceiling as a near-certainty rather than a possibility"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have given more weight to Pharaohs' defensive organisation and low-block capability, capping Belgium's projected goals at 1 and widening the draw probability substantially."
+}

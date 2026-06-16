@@ -1,0 +1,22 @@
+{
+  "team_code": "AUS",
+  "predictions_made": 2,
+  "results_scored": 1,
+  "correct_winner": 0,
+  "correct_scoreline_pattern": 0,
+  "exact_score": 0,
+  "brier_score": 0.335,
+  "per_prediction": [
+    {
+      "fixture_id": "008",
+      "date": "2026-06-13",
+      "opponent": "TUR",
+      "predicted": "1-2",
+      "actual": "2-0",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.335
+    }
+  ]
+}

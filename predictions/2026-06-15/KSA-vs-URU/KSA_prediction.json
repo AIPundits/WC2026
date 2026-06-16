@@ -1,0 +1,17 @@
+{
+  "team": "KSA",
+  "fixture_id": "015",
+  "predicted_home_score": 1,
+  "predicted_away_score": 2,
+  "predicted_winner": "away",
+  "confidence": 0.55,
+  "predicted_scoreline": "KSA 1–2 URU",
+  "key_factors": [
+    "Uruguay's injury crisis (Araújo, Giménez, de Arrascaeta all out or doubtful) creates real Saudi opportunity",
+    "Al-Dawsari has proven World Cup match-winning ability — 2022 Argentina upset shows what this team can do",
+    "Saudi Arabia's 0-4 loss to Egypt signals defensive vulnerability against direct, physical attackers",
+    "Valverde and Núñez ultimately represent too much attacking quality for Saudi Arabia to contain"
+  ],
+  "player_to_watch": "Salem Al-Dawsari",
+  "risk_factor": "medium"
+}

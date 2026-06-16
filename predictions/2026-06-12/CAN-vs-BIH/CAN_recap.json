@@ -1,0 +1,20 @@
+{
+  "team_code": "CAN",
+  "fixture_id": "003",
+  "predicted_from_perspective": "0-0 (draw)",
+  "actual_from_perspective": "1-1 (draw)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-12T21:00:44.236406+00:00",
+  "got_right": [
+    "draw result",
+    "tight and competitive match dynamic",
+    "neither side dominant enough to win outright"
+  ],
+  "got_wrong": [
+    "underestimated Canada's attacking output",
+    "underestimated Bosnia's ability to convert in transition",
+    "zero-goal prediction for both sides was too conservative"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I would have stress-tested the 1-1 scenario more explicitly rather than anchoring on 0-0 as the 'safe' draw — a one-goal-each outcome is historically more common in evenly-matched group openers than a clean sheet from both sides."
+}

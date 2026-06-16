@@ -1,0 +1,21 @@
+{
+  "team_code": "GER",
+  "fixture_id": "009",
+  "predicted_from_perspective": "4-0 (win)",
+  "actual_from_perspective": "7-1 (win)",
+  "narrative": "I called the win and I called a heavy scoreline against The Blue Eagles — that part of the reasoning held up, and it was grounded in the quality gap between a top UEFA side and a CONCACAF debutant. What I underestimated was just how completely The Blue Eagles' defensive structure would disintegrate over 90 minutes; predicting four goals felt bold, but The Blue Eagles conceded seven, suggesting their defensive organisation was even more fragile than the squad data indicated. I also didn't account for The Blue Eagles finding the net — a consolation goal that, while minor in context, shows they weren't entirely without attacking threat even when down heavily. The core reasoning was sound in direction, but I left three goals on the table by being too conservative about Die Mannschaft's capacity to run up the score against a side this outmatched.\n\n```json\n{\n  \"got_right\": [\n    \"The Blue Eagles would be comprehensively beaten\",\n    \"The Blue Eagles' defensive depth was insufficient against top-level UEFA opposition\",\n    \"A heavy scoreline was the correct prediction framework for this fixture\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated how severely The Blue Eagles' defensive structure would collapse\",\n    \"Did not model The Blue Eagles scoring — even conceding a consolation was missed\",\n    \"Capped Germany's goal ceiling too conservatively given The Blue Eagles' competitive inexperience at this level\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would use a wider goal-range model for The Blue Eagles fixture, anchored to historical World Cup results for comparable CONCACAF minnows on debut, which routinely show 5–7 goal deficits rather than the 4-goal ceiling I applied.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T19:33:16.625712+00:00",
+  "got_right": [
+    "The Blue Eagles would be comprehensively beaten",
+    "The Blue Eagles' defensive depth was insufficient against top-level UEFA opposition",
+    "A heavy scoreline was the correct prediction framework for this fixture"
+  ],
+  "got_wrong": [
+    "Underestimated how severely The Blue Eagles' defensive structure would collapse",
+    "Did not model The Blue Eagles scoring — even conceding a consolation was missed",
+    "Capped Germany's goal ceiling too conservatively given The Blue Eagles' competitive inexperience at this level"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would use a wider goal-range model for The Blue Eagles fixture, anchored to historical World Cup results for comparable CONCACAF minnows on debut, which routinely show 5–7 goal deficits rather than the 4-goal ceiling I applied."
+}

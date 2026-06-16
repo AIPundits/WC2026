@@ -1,0 +1,20 @@
+{
+  "team_code": "BIH",
+  "fixture_id": "003",
+  "predicted_from_perspective": "0-0 (draw)",
+  "actual_from_perspective": "1-1 (draw)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-12T21:00:44.238031+00:00",
+  "got_right": [
+    "draw outcome",
+    "neither team dominant enough to win",
+    "competitive, tightly contested match"
+  ],
+  "got_wrong": [
+    "underestimated goals scored by both sides",
+    "too conservative on attacking quality of both teams",
+    "over-indexed on defensive structure at expense of set-piece/transition threat"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd weight each team's goal-threat more explicitly — particularly set-pieces and transition opportunities — rather than letting defensive solidity data crowd out the attacking side of the ledger entirely."
+}

@@ -1,0 +1,20 @@
+{
+  "team_code": "SCO",
+  "fixture_id": "007",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-0 (win)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T08:43:22.603318+00:00",
+  "got_right": [
+    "low-scoring match structure",
+    "game likely to be tight and contested"
+  ],
+  "got_wrong": [
+    "direction of result — predicted loss, Scotland won",
+    "overestimated Haiti's attacking threat",
+    "underestimated Scotland's defensive organisation",
+    "too pessimistic about Scotland's ability to grind out a result"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "Weight the head-to-head quality gap more explicitly — when Scotland face a team outside UEFA/CONMEBOL with limited World Cup pedigree, the base rate for a narrow Scotland win is higher than I credited."
+}

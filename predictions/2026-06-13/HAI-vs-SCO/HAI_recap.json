@@ -1,0 +1,21 @@
+{
+  "team_code": "HAI",
+  "fixture_id": "007",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "0-1 (loss)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T08:43:22.602619+00:00",
+  "got_right": [
+    "Haiti would not score",
+    "Scotland would win",
+    "Haiti as clear underdogs",
+    "result decided by a single defensive lapse"
+  ],
+  "got_wrong": [
+    "overestimated Scotland's attacking volume (predicted 2, got 1)",
+    "underweighted Haiti's defensive resilience",
+    "second goal never materialised despite my reasoning treating it as likely"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would weight Haiti's recent defensive organisation more carefully against Scotland's actual chance-creation data, rather than defaulting to a 2-goal margin just because Scotland are the stronger side."
+}

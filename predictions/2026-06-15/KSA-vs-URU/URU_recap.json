@@ -1,0 +1,21 @@
+{
+  "team_code": "URU",
+  "fixture_id": "015",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "Predicting a Green Falcons goal was actually within my range — I acknowledged their counter-attacking threat in the key factors — but I still underweighted their defensive resilience: I had La Celeste converting two against them, and they held us to one. What I got wrong is that I leaned too heavily on Uruguay's CONMEBOL pedigree and assumed Green Falcons' defensive shape would crack under sustained pressure; it didn't, and their ability to stay compact and hit on the break was real enough to earn a point. I also didn't sufficiently account for the possibility that La Celeste's attack — without a fully fluent partnership up front — would struggle to manufacture a second goal against a side content to sit at 1-1. The draw is a fair result, and my reasoning inflated Uruguay's win probability beyond what the actual attacking output justified.\n\n```json\n{\n  \"got_right\": [\n    \"Green Falcons would score — counter-attack threat was real\",\n    \"match would be competitive rather than a routine win\",\n    \"Green Falcons' defensive organisation would limit space\"\n  ],\n  \"got_wrong\": [\n    \"overestimated La Celeste's ability to break down a compact Green Falcons block for a second goal\",\n    \"underestimated Green Falcons' capacity to hold a draw against a CONMEBOL side\",\n    \"win probability (0.58) was too high given how defensively disciplined Green Falcons proved\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I'd have weighted Green Falcons' defensive compactness more heavily and reduced the win probability to around 0.45, reflecting that their low-block + transition game is genuinely capable of frustrating a Uruguay attack that lacks automaticity in the final third.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-16T02:51:58.343541+00:00",
+  "got_right": [
+    "Green Falcons would score — counter-attack threat was real",
+    "match would be competitive rather than a routine win",
+    "Green Falcons' defensive organisation would limit space"
+  ],
+  "got_wrong": [
+    "overestimated La Celeste's ability to break down a compact Green Falcons block for a second goal",
+    "underestimated Green Falcons' capacity to hold a draw against a CONMEBOL side",
+    "win probability (0.58) was too high given how defensively disciplined Green Falcons proved"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I'd have weighted Green Falcons' defensive compactness more heavily and reduced the win probability to around 0.45, reflecting that their low-block + transition game is genuinely capable of frustrating a Uruguay attack that lacks automaticity in the final third."
+}

@@ -1,0 +1,21 @@
+{
+  "team": "HAI",
+  "fixture_id": "007",
+  "opponent": "SCO",
+  "venue": "home",
+  "predicted_outcome": "loss",
+  "predicted_score": "0-2",
+  "confidence": 0.48,
+  "win_probability": 0.12,
+  "draw_probability": 0.22,
+  "loss_probability": 0.66,
+  "key_factors": [
+    "4-0 demolition of New Zealand on June 2 — genuine attacking quality confirmed",
+    "Haiti's first World Cup since 1974 — occasion and nerves are real factors",
+    "Scotland are in devastating form: 4-1 vs Curaçao then 4-0 vs Bolivia in final warm-up",
+    "Wilson Isidor and Jean-Ricner Bellegarde bring Premier League quality to Haiti's XI",
+    "Leverton Pierre withdrawal (replaced by Metusala) adds minor disruption to squad cohesion"
+  ],
+  "top_scorer_prediction": "Wilson Isidor (if Haiti score)",
+  "reasoning": "Haiti were not expected here and their 4-0 win over New Zealand showed they can perform on the big stage. Bellegarde in midfield and Isidor up front represent genuine quality. But Scotland have been absolutely devastating in warm-ups — 8 goals, multiple scorers, McTominay fully fit, a settled tactical identity. The gap in competitive experience — Haiti's first WC in 52 years versus Scotland's hunger after 28 years away — could weigh heavily on the Haitian players early. Haiti will make it competitive but a Scotland win is the most probable outcome."
+}

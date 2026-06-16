@@ -1,0 +1,21 @@
+{
+  "team_code": "CUR",
+  "fixture_id": "009",
+  "predicted_from_perspective": "0-3 (loss)",
+  "actual_from_perspective": "1-7 (loss)",
+  "narrative": "I correctly called the result direction — Die Mannschaft were always going to win this — and the reasoning that got me there (their attacking depth, pressing system, and structural superiority over a World Cup debutant) was sound as far as it went. What I missed badly was the ceiling on Die Mannschaft's scoring: I had them at three goals, they hit seven, which means I either anchored too conservatively on \"a win is a win\" German pragmatism, or simply failed to model how catastrophically our defensive shape would disintegrate under sustained German pressure. We did manage a goal — something my 0–3 prediction didn't credit us for — but that's cold comfort when Die Mannschaft were scoring at will and I was off by four goals on their tally alone. The one structural failure in my analysis: I treated Die Mannschaft's goal threat as bounded by tournament caution when, against a side with our defensive limitations, their attack has no natural ceiling.\n\n```json\n{\n  \"got_right\": [\n    \"correctly predicted a loss to Die Mannschaft\",\n    \"identified their attacking quality as the dominant factor\",\n    \"recognised the structural class gap between the sides\"\n  ],\n  \"got_wrong\": [\n    \"severely underestimated Die Mannschaft's goal-scoring volume (predicted 3, they scored 7)\",\n    \"applied a 'tournament pragmatism' ceiling to Germany's attack that simply didn't exist against our defence\",\n    \"failed to model how completely our defensive shape would collapse under sustained German pressing\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would remove any implicit cap on Die Mannschaft's scoring potential when facing a debutant side with our defensive profile, and instead model their attack against our specific structural vulnerabilities rather than against a generic World Cup opponent.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T19:33:16.626216+00:00",
+  "got_right": [
+    "correctly predicted a loss to Die Mannschaft",
+    "identified their attacking quality as the dominant factor",
+    "recognised the structural class gap between the sides"
+  ],
+  "got_wrong": [
+    "severely underestimated Die Mannschaft's goal-scoring volume (predicted 3, they scored 7)",
+    "applied a 'tournament pragmatism' ceiling to Germany's attack that simply didn't exist against our defence",
+    "failed to model how completely our defensive shape would collapse under sustained German pressing"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would remove any implicit cap on Die Mannschaft's scoring potential when facing a debutant side with our defensive profile, and instead model their attack against our specific structural vulnerabilities rather than against a generic World Cup opponent."
+}

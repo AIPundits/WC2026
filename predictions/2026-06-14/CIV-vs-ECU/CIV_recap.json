@@ -1,0 +1,21 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "011",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "Got the result right, missed the margin on both ends. I predicted La Tricolor would find a goal — they didn't, which is the more significant error — and I had Les Éléphants putting two past them, when in fact the game was decided by a single strike. The core read on La Tricolor's attacking limitations held up: I flagged their inconsistency in the final third, and they never really threatened to punish us on the night. Where I went wrong was overrating La Tricolor's defensive vulnerability — they made it hard enough that we only converted once, not twice, and my 2–1 model overstated the open, end-to-end quality I anticipated from this game.\n\n```json\n{\n  \"got_right\": [\n    \"La Tricolor's attacking inconsistency limiting their goal threat\",\n    \"Les Éléphants winning the match overall\",\n    \"La Tricolor unlikely to control the game's tempo\"\n  ],\n  \"got_wrong\": [\n    \"La Tricolor's defensive resilience — they conceded only once, not twice\",\n    \"Assumed La Tricolor would score at least once; they were shut out entirely\",\n    \"Overestimated the total goal volume in the match\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have weighted La Tricolor's defensive organisation more heavily and tempered the expected-goals model downward for both sides, predicting a tighter 1–0 rather than an open 2–1.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-15T01:05:48.359485+00:00",
+  "got_right": [
+    "La Tricolor's attacking inconsistency limiting their goal threat",
+    "Les Éléphants winning the match overall",
+    "La Tricolor unlikely to control the game's tempo"
+  ],
+  "got_wrong": [
+    "La Tricolor's defensive resilience — they conceded only once, not twice",
+    "Assumed La Tricolor would score at least once; they were shut out entirely",
+    "Overestimated the total goal volume in the match"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have weighted La Tricolor's defensive organisation more heavily and tempered the expected-goals model downward for both sides, predicting a tighter 1–0 rather than an open 2–1."
+}

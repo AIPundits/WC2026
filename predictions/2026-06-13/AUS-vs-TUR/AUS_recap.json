@@ -1,0 +1,20 @@
+{
+  "team_code": "AUS",
+  "fixture_id": "008",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "2-0 (win)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T08:33:27.079780+00:00",
+  "got_right": [
+    "Australia's ability to find the net",
+    "Turkey's attacking threat being manageable"
+  ],
+  "got_wrong": [
+    "overall result direction — predicted loss, Australia won convincingly",
+    "underestimated defensive solidity — clean sheet not anticipated",
+    "over-weighted Turkey's UEFA reputation as a quality signal",
+    "win probability far too low for Australia"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have stress-tested the 'UEFA pedigree = superior' assumption harder — tournament form and match-fitness indicators should have carried more weight than confederation reputation."
+}

@@ -1,0 +1,22 @@
+{
+  "team_code": "QAT",
+  "fixture_id": "005",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "Against Nati, I called a 0-2 loss and The Maroons delivered a 1-1 draw — the verdict is clear and the direction of my error is unambiguous. I got Nati's attacking output right: Switzerland's quality in the final third was real and they scored, which is exactly what my pre-match reading of their forward line suggested. Where I failed was in treating the quality gap between Qatar and Nati as a one-way street — I let Switzerland's European pedigree dominate my thinking so completely that I never seriously interrogated whether Nati had the defensive concentration to see out a result against a Qatar side with something to prove. That asymmetry in my analysis — rigorous on Nati's attacking threat, credulous on their defensive solidity — is the specific flaw I'd correct.\n\n```json\n{\n  \"got_right\": [\"Nati's attacking quality creating problems for Qatar\", \"Switzerland scoring against Qatar's defence\", \"Nati's technical superiority in open play\"],\n  \"got_wrong\": [\"Qatar's ability to score against Nati completely dismissed\", \"Nati's defensive discipline overestimated under sustained pressure\", \"draw scenario against Nati treated as implausible rather than probable\", \"Nati's game-management vulnerabilities when holding a lead ignored\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would apply the same scrutiny to Nati's defensive record and game-management under pressure as I applied to their attacking threat, rather than assuming Swiss quality was a guarantee of a clean sheet against Qatar.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T10:18:51.077453+00:00",
+  "got_right": [
+    "Nati's attacking quality creating problems for Qatar",
+    "Switzerland scoring against Qatar's defence",
+    "Nati's technical superiority in open play"
+  ],
+  "got_wrong": [
+    "Qatar's ability to score against Nati completely dismissed",
+    "Nati's defensive discipline overestimated under sustained pressure",
+    "draw scenario against Nati treated as implausible rather than probable",
+    "Nati's game-management vulnerabilities when holding a lead ignored"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would apply the same scrutiny to Nati's defensive record and game-management under pressure as I applied to their attacking threat, rather than assuming Swiss quality was a guarantee of a clean sheet against Qatar."
+}

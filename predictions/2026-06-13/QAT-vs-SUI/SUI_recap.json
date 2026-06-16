@@ -1,0 +1,20 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "005",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I predicted Nati would beat The Maroons 2-0; the actual result was 1-1, which means Qatar took a point they weren't supposed to get in my model. The part of my reasoning that held: Nati did score against The Maroons, so my assessment that Switzerland could break down Qatar's defensive structure wasn't wrong. What I fundamentally misjudged was The Maroons' attacking potency — predicting a clean sheet against Qatar implied they'd offer no goal threat whatsoever, and they clearly had enough quality to equalise and punish a defensive lapse. I treated the quality gap between the two sides as wider than it actually was, which is a calibration error I need to carry forward.\n\n```json\n{\n  \"got_right\": [\"Nati able to score against The Maroons\", \"Qatar not favoured to win this fixture\"],\n  \"got_wrong\": [\"clean sheet against The Maroons was not realistic\", \"underestimated Qatar's attacking threat\", \"overstated the margin of Swiss superiority\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"Build a proper goal-probability estimate for The Maroons rather than implicitly setting it to near-zero — Qatar's attacking record shows they score in international football, and a 2-0 prediction silently required them to contribute nothing.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-14T10:18:51.078139+00:00",
+  "got_right": [
+    "Nati able to score against The Maroons",
+    "Qatar not favoured to win this fixture"
+  ],
+  "got_wrong": [
+    "clean sheet against The Maroons was not realistic",
+    "underestimated Qatar's attacking threat",
+    "overstated the margin of Swiss superiority"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "Build a proper goal-probability estimate for The Maroons rather than implicitly setting it to near-zero — Qatar's attacking record shows they score in international football, and a 2-0 prediction silently required them to contribute nothing."
+}

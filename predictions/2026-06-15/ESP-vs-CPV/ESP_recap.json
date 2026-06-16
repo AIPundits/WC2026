@@ -1,0 +1,22 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "013",
+  "predicted_from_perspective": "3-0 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "A 0–0 against Cape Verde is a result that will sting for a while — I had La Roja 3–0 and the Blue Sharks held a clean sheet, which means my central assumption (that Spain's technical quality would translate into comfortable finishing chances) was simply wrong on the night. What I got partially right is that Cape Verde would set up defensively and make themselves hard to play through — I acknowledged their organised shape — but I massively underestimated their ability to sustain that for 90 minutes against a possession-dominant side. The Blue Sharks' defensive discipline wasn't just a tactic they'd try; it was their actual ceiling and they executed it perfectly, and I treated it as a temporary obstacle rather than a genuine structural problem for La Roja to solve. The thing I'd change: instead of assuming Spain's quality would eventually unlock a low block, I should have weighted the specific scenario where Blue Sharks absorb pressure and absorb it again, and assigned a meaningful draw probability rather than treating it as a rounding error.\n\n```json\n{\n  \"got_right\": [\n    \"Blue Sharks would defend deep and compact\",\n    \"Cape Verde would prioritise not conceding over attacking ambition\",\n    \"the match would be low on open-play attacking exchanges\"\n  ],\n  \"got_wrong\": [\n    \"assumed Spain's technical quality would inevitably break Blue Sharks down\",\n    \"assigned far too low a draw probability given Blue Sharks' defensive track record\",\n    \"underestimated Blue Sharks' aerial and physical resilience in their own box\",\n    \"treated Cape Verde's defensive organisation as a temporary obstacle rather than a match-winning asset\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the 'Spain break them down eventually' assumption against Blue Sharks' specific defensive stats and set a draw probability of at least 0.30 rather than treating a clean sheet from CPV as near-impossible.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-15T17:58:25.707200+00:00",
+  "got_right": [
+    "Blue Sharks would defend deep and compact",
+    "Cape Verde would prioritise not conceding over attacking ambition",
+    "the match would be low on open-play attacking exchanges"
+  ],
+  "got_wrong": [
+    "assumed Spain's technical quality would inevitably break Blue Sharks down",
+    "assigned far too low a draw probability given Blue Sharks' defensive track record",
+    "underestimated Blue Sharks' aerial and physical resilience in their own box",
+    "treated Cape Verde's defensive organisation as a temporary obstacle rather than a match-winning asset"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the 'Spain break them down eventually' assumption against Blue Sharks' specific defensive stats and set a draw probability of at least 0.30 rather than treating a clean sheet from CPV as near-impossible."
+}
