@@ -1,0 +1,22 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "017",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "Got the result right, but Les Bleus were more emphatic against the Lions of Teranga than I gave them credit for — 3–1 is a comfortable winning margin, not the scrappy one-goal affair I anticipated. I correctly identified that Senegal's attacking threat was real (and so it proved — they did find the net), but I underestimated how effectively France would cut through Senegal's defensive structure for that third goal. My caution around Senegal's physical presence and set-piece threat was reasonable, but it led me to shade the scoreline too conservatively when France's quality in transition was clearly the dominant factor on the day. The Lions of Teranga competed — they always do — but the gap in individual quality told more decisively than I modelled.\n\n```json\n{\n  \"got_right\": [\n    \"France win — correct result and direction\",\n    \"Senegal would score — they remained a threat and converted once\",\n    \"France's individual quality would be the deciding factor\",\n    \"Medium confidence was appropriate given Senegal's pedigree\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated France's attacking output against Senegal's defence\",\n    \"Overweighted Senegal's ability to keep the scoreline tight\",\n    \"Did not sufficiently account for France's capacity to extend leads late\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would reassess Senegal's defensive resilience more critically — their record of keeping clean sheets in high-pressure tournament fixtures versus elite UEFA opposition, rather than defaulting to their general physical presence as a proxy for defensive solidity.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-17T07:14:22.521269+00:00",
+  "got_right": [
+    "France win — correct result and direction",
+    "Senegal would score — they remained a threat and converted once",
+    "France's individual quality would be the deciding factor",
+    "Medium confidence was appropriate given Senegal's pedigree"
+  ],
+  "got_wrong": [
+    "Underestimated France's attacking output against Senegal's defence",
+    "Overweighted Senegal's ability to keep the scoreline tight",
+    "Did not sufficiently account for France's capacity to extend leads late"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would reassess Senegal's defensive resilience more critically — their record of keeping clean sheets in high-pressure tournament fixtures versus elite UEFA opposition, rather than defaulting to their general physical presence as a proxy for defensive solidity."
+}

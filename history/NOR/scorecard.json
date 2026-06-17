@@ -1,0 +1,22 @@
+{
+  "team_code": "NOR",
+  "predictions_made": 1,
+  "results_scored": 1,
+  "correct_winner": 1,
+  "correct_scoreline_pattern": 1,
+  "exact_score": 0,
+  "brier_score": 0.2222,
+  "per_prediction": [
+    {
+      "fixture_id": "018",
+      "date": "2026-06-16",
+      "opponent": "IRA",
+      "predicted": "3-0",
+      "actual": "4-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.2222
+    }
+  ]
+}

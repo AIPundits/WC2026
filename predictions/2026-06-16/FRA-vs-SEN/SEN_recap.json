@@ -1,0 +1,20 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "017",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-3 (loss)",
+  "narrative": "I called France dangerous but thought our defensive structure could hold them to a share of the spoils — the 3-1 scoreline says that was wishful thinking dressed up as analysis. What I got right is that Les Bleus would score; what I got badly wrong is that I underestimated their ability to break us down repeatedly once they found their rhythm. I leaned on the idea that a disciplined mid-block would frustrate their build-up, but France's individual quality — particularly in the final third — overwhelmed a Lions of Teranga backline that simply couldn't cope at this level for 90 minutes. Predicting a draw implied we'd be defensively resolute enough to cancel out their attacking threat, and the -2 goal differential against Les Bleus shows that premise was flawed from the start.\n\n```json\n{\n  \"got_right\": [\n    \"Les Bleus would score — they did, three times\",\n    \"France's attacking quality as the defining factor of the match\"\n  ],\n  \"got_wrong\": [\n    \"Assumed Senegal's defensive block would be resilient enough to contain Les Bleus for a point\",\n    \"Underestimated France's ability to create and convert multiple high-quality chances\",\n    \"Overestimated Senegal's capacity to equalise or hold parity once France took the lead\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Les Bleus' individual attacking class more heavily against Senegal's defensive ceiling, rather than anchoring on the mid-block holding firm — France's depth of quality makes a single-goal margin or draw structurally unlikely unless the Lions of Teranga are near-perfect.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-17T07:14:22.522015+00:00",
+  "got_right": [
+    "Les Bleus would score — they did, three times",
+    "France's attacking quality as the defining factor of the match"
+  ],
+  "got_wrong": [
+    "Assumed Senegal's defensive block would be resilient enough to contain Les Bleus for a point",
+    "Underestimated France's ability to create and convert multiple high-quality chances",
+    "Overestimated Senegal's capacity to equalise or hold parity once France took the lead"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Les Bleus' individual attacking class more heavily against Senegal's defensive ceiling, rather than anchoring on the mid-block holding firm — France's depth of quality makes a single-goal margin or draw structurally unlikely unless the Lions of Teranga are near-perfect."
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "019",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "A 0–3 loss against La Albiceleste is a reality check, and the scoreline tells the story my pre-match reasoning refused to fully accept. I flagged Argentina's attacking quality as a key factor, so that part holds — but I significantly underweighted how ruthlessly La Albiceleste can exploit a team's structural gaps once they find the first goal. The 1–1 draw prediction was wishful calibration: I leaned on Algeria's defensive resilience while not adequately pricing in Argentina's ability to simply overwhelm a CAF qualifier in open play. The one goal I handed Les Fennecs never materialised, which tells me I overestimated our counter-attacking threat against a side that defends the transition as well as any team in the world.\n\n```json\n{\n  \"got_right\": [\n    \"La Albiceleste's attacking quality was correctly identified as decisive\",\n    \"Argentina's individual brilliance creating problems for our defensive shape\"\n  ],\n  \"got_wrong\": [\n    \"underestimated how quickly La Albiceleste would seize control after going ahead\",\n    \"overestimated Algeria's ability to find a goal against Argentina's defensive transition\",\n    \"did not adequately weight the gap in squad depth between a CAF qualifier and the world champions\",\n    \"draw probability was too high given Argentina's consistency at killing games off\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would weight La Albiceleste's game-management and transition defence more heavily — once they score first, the historical data shows they very rarely allow opponents back into matches, which made a draw scenario far less likely than my 0.28 draw probability suggested.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-17T07:42:26.176013+00:00",
+  "got_right": [
+    "La Albiceleste's attacking quality was correctly identified as decisive",
+    "Argentina's individual brilliance creating problems for our defensive shape"
+  ],
+  "got_wrong": [
+    "underestimated how quickly La Albiceleste would seize control after going ahead",
+    "overestimated Algeria's ability to find a goal against Argentina's defensive transition",
+    "did not adequately weight the gap in squad depth between a CAF qualifier and the world champions",
+    "draw probability was too high given Argentina's consistency at killing games off"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would weight La Albiceleste's game-management and transition defence more heavily — once they score first, the historical data shows they very rarely allow opponents back into matches, which made a draw scenario far less likely than my 0.28 draw probability suggested."
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "IRA",
+  "fixture_id": "018",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-4 (loss)",
+  "narrative": "I got the result direction right — a loss to The Lions — but the 1–4 scoreline makes my 1–2 prediction look optimistic in hindsight. I anticipated Norway's attacking quality causing problems, but I clearly underweighted just how badly our defensive structure would be exposed; four goals conceded suggests The Lions found and repeatedly exploited the same vulnerabilities rather than scoring through individual brilliance. What I got right was the basic power dynamic: Norway's physical, direct style was always going to test a Lions of Mesopotamia backline that hasn't faced this level of pace and pressing intensity. What I got wrong was treating our ability to limit The Lions to two goals as a reasonable floor — the actual gap in squad depth and high-press resistance was wider than I credited.\n\n```json\n{\n  \"got_right\": [\n    \"Norway's attacking threat was the decisive factor\",\n    \"Lions of Mesopotamia likely to score once but lose the match\",\n    \"The Lions' directness would expose our defensive line\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated Norway's ability to repeat the same defensive exploit multiple times\",\n    \"Overestimated Iraq's capacity to contain the scoreline once behind\",\n    \"Did not account for the gulf in squad depth affecting second-half defensive cohesion\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the defensive ceiling more rigorously — instead of asking 'can we keep it to two?' I should have asked 'what stops The Lions scoring three or four if they find a channel early?'\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-17T07:42:40.922369+00:00",
+  "got_right": [
+    "Norway's attacking threat was the decisive factor",
+    "Lions of Mesopotamia likely to score once but lose the match",
+    "The Lions' directness would expose our defensive line"
+  ],
+  "got_wrong": [
+    "Underestimated Norway's ability to repeat the same defensive exploit multiple times",
+    "Overestimated Iraq's capacity to contain the scoreline once behind",
+    "Did not account for the gulf in squad depth affecting second-half defensive cohesion"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the defensive ceiling more rigorously — instead of asking 'can we keep it to two?' I should have asked 'what stops The Lions scoring three or four if they find a channel early?'"
+}

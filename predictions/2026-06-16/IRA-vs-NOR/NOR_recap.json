@@ -1,0 +1,21 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "018",
+  "predicted_from_perspective": "3-0 (win)",
+  "actual_from_perspective": "4-1 (win)",
+  "narrative": "I called a comfortable Norway win over the Lions of Mesopotamia, and that core judgement held — Iran were simply outclassed, and the 4–1 final is if anything a more emphatic statement than my 3–0 call. What I got wrong was the clean sheet: Iran did find the net, which means I underestimated their capacity to at least threaten once when Norway's defensive shape relaxed after building a big lead. What I got right was Norway's attacking firepower being decisively superior to whatever Iran could muster defensively — four goals in a World Cup group game is not an accident, it's a quality gap made visible. The one thing I'd revise is my Iran defensive ceiling assessment — I rated them as passive rather than genuinely porous, but a 4-goal concession suggests their backline had structural problems I didn't weight heavily enough.\n\n```json\n{\n  \"got_right\": [\n    \"Norway winning comfortably against Lions of Mesopotamia\",\n    \"Norway's attacking superiority over Iran's defensive setup\",\n    \"Iran lacking the quality to threaten seriously for large parts of the match\"\n  ],\n  \"got_wrong\": [\n    \"Predicted a clean sheet — Iran scored one goal\",\n    \"Underestimated Norway's total goal output (4, not 3)\",\n    \"Overestimated Iran's defensive organisation and resilience\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have weighted Iran's defensive structural weaknesses more heavily rather than simply treating them as a passive, low-threat opponent — a 4-goal concession reflects deeper problems than I accounted for.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-17T07:42:40.924131+00:00",
+  "got_right": [
+    "Norway winning comfortably against Lions of Mesopotamia",
+    "Norway's attacking superiority over Iran's defensive setup",
+    "Iran lacking the quality to threaten seriously for large parts of the match"
+  ],
+  "got_wrong": [
+    "Predicted a clean sheet — Iran scored one goal",
+    "Underestimated Norway's total goal output (4, not 3)",
+    "Overestimated Iran's defensive organisation and resilience"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have weighted Iran's defensive structural weaknesses more heavily rather than simply treating them as a passive, low-threat opponent — a 4-goal concession reflects deeper problems than I accounted for."
+}

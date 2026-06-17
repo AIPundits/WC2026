@@ -1,0 +1,20 @@
+{
+  "team_code": "JOR",
+  "fixture_id": "020",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-3 (loss)",
+  "narrative": "I got the headline right — Rot-Weiß-Rot as clear winners, Al-Nashama unable to cope with the quality gap — but I underestimated the goal count on both sides. Predicting a 0–2 loss, I had Al-Nashama as a blank on the scoresheet, yet they managed to pull one back against Rot-Weiß-Rot; meanwhile Austria found a third, showing their attacking efficiency was even sharper than I modelled. The 1–3 scoreline tells a story of Rot-Weiß-Rot's clinical finishing being slightly worse-suppressed than I expected, not a different story. The result direction and the power differential were correctly identified, and the reasoning around Austria's superior quality and Al-Nashama's structural exposure did hold up.\n\n```json\n{\n  \"got_right\": [\n    \"Rot-Weiß-Rot as comfortable winners\",\n    \"Austria's attacking quality too high for Al-Nashama to contain\",\n    \"loss outcome correctly predicted\"\n  ],\n  \"got_wrong\": [\n    \"Al-Nashama would score zero — they found the net once against Rot-Weiß-Rot\",\n    \"capped Austria at two goals — they scored three, showing greater finishing efficiency than modelled\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have given more weight to Rot-Weiß-Rot's attacking volume and Al-Nashama's likelihood of conceding a third goal while pressing for a consolation, rather than anchoring the scoreline at a tidy 0–2.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-17T07:14:38.741624+00:00",
+  "got_right": [
+    "Rot-Weiß-Rot as comfortable winners",
+    "Austria's attacking quality too high for Al-Nashama to contain",
+    "loss outcome correctly predicted"
+  ],
+  "got_wrong": [
+    "Al-Nashama would score zero — they found the net once against Rot-Weiß-Rot",
+    "capped Austria at two goals — they scored three, showing greater finishing efficiency than modelled"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have given more weight to Rot-Weiß-Rot's attacking volume and Al-Nashama's likelihood of conceding a third goal while pressing for a consolation, rather than anchoring the scoreline at a tidy 0–2."
+}

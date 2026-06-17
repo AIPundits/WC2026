@@ -1,0 +1,22 @@
+{
+  "team_code": "FRA",
+  "predictions_made": 1,
+  "results_scored": 1,
+  "correct_winner": 1,
+  "correct_scoreline_pattern": 1,
+  "exact_score": 0,
+  "brier_score": 0.2222,
+  "per_prediction": [
+    {
+      "fixture_id": "017",
+      "date": "2026-06-16",
+      "opponent": "SEN",
+      "predicted": "2-1",
+      "actual": "3-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.2222
+    }
+  ]
+}
