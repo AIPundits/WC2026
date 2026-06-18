@@ -1,83 +1,120 @@
-**[TURN 1 — CAN PUNDIT]**
+# Les Rouges (CAN) vs The Maroons (QAT)
 
-Les Rouges are playing at home — at BC Place in Vancouver, in front of a sold-out partisan Canadian crowd — and they are facing a Qatar side that, for all their commendable spirit against Switzerland, arrived at this tournament ranked 50th in the world. Canada have Jonathan David and Cyle Larin likely to start together up front; that is a strike partnership with proven quality at European club level. Ismaël Koné was statistically outstanding in Round 1: 50 passes completed, 9 line-breaking passes in the final third, 49 high-intensity pressures. This team has the engine and the forward firepower.
+**Fixture:** 027 — 2026-06-18 —  — stage `group`
 
-Qatar's tournament has been lauded for their 1-1 draw with Switzerland — but that result involved a deflected own-goal in stoppage time. Against a Canada side energised by a home crowd and with two genuine striker-level threats, they will need to deliver a significantly improved performance. Akram Afif is a danger man, I acknowledge that, but Qatar's overall squad quality pales beside what Canada can put on the pitch on their own soil.
+**Turns:** 6 • **Consensus:** True • **Cost:** $0.5404
 
-Canada win this 2-0. It is a straightforward assessment based on quality differential, home advantage, and the motivational asymmetry — Canada must win to stay in contention for group leadership; Qatar would be content with a draw.
+## Turn 1 — Les Rouges AI Pundit (CAN) — `opening_statement`
 
----
+Briefing read. Here's my opening case.
 
-**[TURN 1 — QAT PUNDIT]**
+The 1-1 against Bosnia wasn't pretty for 90 minutes, but it delivered two things: a point on the board and proof that Cyle Larin changes this team the moment he walks on the pitch. Now he starts — alongside Jonathan David — and Qatar, for all their Gulf Cup credentials, are a measurable step below Bosnia in quality. Ismaël Koné's numbers from Round 1 (50 passes, 9 line-breaking passes in the final third, 49 high-intensity pressures) tell you who runs the engine room, and with Alistair Johnston likely rotated out to manage his booking, Marsch has a cleaner defensive picture to work with. Qatar drew their opener, which means they need points too and may push forward, and that could open space for David and Larin on the counter — exactly the scenario Les Rouges want. I'm backing a comfortable Canada win on home soil in Vancouver.
 
-The Maroons just produced one of the great surprise results of the opening round — stunning Switzerland with a 90th-minute equaliser at Levi's Stadium. The footballing world noticed. Hassan Al-Haydos — 187 international caps, 41 international goals, among the most experienced players in this entire tournament — leads a group that was written off before a ball was kicked and delivered a result that has Group B completely open with all four teams on one point.
+**Les Rouges 2 – Qatar 0.** Medium-high confidence — the main risk is that Canada replicate their first-half passivity from the Bosnia match and give Qatar a cheap set-piece goal.
 
-The Canadian Pundit speaks of home advantage at BC Place. That is real. But Qatar have played in pressure-cooker atmospheres throughout Asian World Cup qualifying, hosted their own World Cup in 2022, and their players are accustomed to performing under scrutiny. Boualem Khoukhi provides defensive authority from centre-back. And Akram Afif — Qatar's true match-winner — has the pace and technical quality to hurt any defence in the world on his day.
-
-Qatar will not collapse. Canada are better overall, yes, but this tournament has already shown that compact defensive organisations can extract results. I am predicting 1-1 — Qatar frustrate Canada for most of the match, absorb the pressure, and snatch a point through Afif's individual brilliance.
-
----
-
-**[TURN 2 — CAN PUNDIT]**
-
-The Qatar Pundit raises Qatar's tournament experience — including hosting 2022 — but it's worth noting Qatar finished last at their own World Cup, winning zero matches and conceding nine goals in three games. "Experience under scrutiny" is not the same as performing well under scrutiny. The 2022 campaign was a sobering reality check for Qatari football.
-
-Qatar's draw against Switzerland was a magnificent moment in their tournament history, but it came against a Swiss side that is missing Shaqiri and was visibly lacking a cutting edge. Canada versus Qatar in Vancouver is a fundamentally different proposition. The home crowd at BC Place will generate an atmosphere that is not replicated in any neutral venue. Cyle Larin — who scored within 121 seconds of entering against Bosnia — is in peak form. Jonathan David is a Champions League-level striker. The combination is too much.
-
-The "compact defensive organisation" model that served Qatar well against Switzerland works when the opposition's attacking quality is limited. It breaks down against sustained pressing from Canada's midfield combined with the striker pairing of David and Larin. Canada 2-0.
-
----
-
-**[TURN 2 — QAT PUNDIT]**
-
-The Canadian Pundit invokes Qatar's 2022 performance fairly — that was a disappointing result for the host nation. But five years of development, a new generation shaped by consistent AFC competition, and the confidence from the Switzerland draw make this a different squad. Akram Afif has been one of the best players in Asian football for three years running.
-
-The argument about Canada's midfield press is valid — Koné is genuinely excellent. But Qatar's 4-2-3-1 is built to absorb press, recycle possession, and then release Afif in transition. Switzerland, despite their superior ranking, could not break Qatar down for 85+ minutes. Canada are not significantly better than Switzerland in terms of passing quality and structured build-up play.
-
-One thing I will flag: Alistair Johnston's potential absence from right back, following his yellow card and poor performance against Bosnia, actually helps Qatar. Johnston was Canada's weak link; whoever replaces him may be more solid defensively but less dangerous offensively. I maintain 1-1 is achievable — and perhaps even an Afif-inspired upset could happen if Canada are wasteful in front of goal, which they have shown they can be.
-
----
-
-**[TURN 3 — CAN PUNDIT]**
-
-The debate has been thorough but my position is unchanged. Qatar's model relies on two things: a compact defensive structure and one moment of brilliance. Against Switzerland, both materialised in the form of a deflected own-goal. Against Canada at home, with two starting-quality strikers and the noise of BC Place behind them, the probability of Qatar's defensive structure holding for 90 minutes is low.
-
-David and Larin are not the same threat as Switzerland's blunt attack. Canada's wide players will stretch Qatar's full-backs. The volume of chances Canada will create is significantly higher than what Qatar faced against Switzerland. This is Canada's tournament moment at home.
-
-Canada win 2-0. Jonathan David gets on the scoresheet, Ismaël Koné contributes an assist or goal from midfield. Qatar cannot hold.
-
-**Final Prediction:**
 ```json
 {
-  "fixture_id": "027",
-  "team_code": "CAN",
-  "predicted_score": {"home": 2, "away": 0},
-  "outcome": "home_win",
-  "confidence": "high",
-  "key_factor": "Home advantage at BC Place, David-Larin partnership, and superior overall quality over a Qatar side whose defensive model cannot hold for 90 minutes against sustained pressure",
-  "predicted_scorers": ["David", "Larin"]
+  "predicted_score": { "self": 2, "opponent": 0 },
+  "win_probability": 0.65,
+  "draw_probability": 0.21,
+  "loss_probability": 0.14,
+  "key_factors": ["Larin-David strike partnership starting together", "Koné controlling midfield tempo", "Qatar's limited quality versus Group B opposition", "Vancouver home crowd at BC Place"],
+  "confidence": "medium"
 }
 ```
 
----
+## Turn 2 — The Maroons AI Pundit (QAT) — `opening_statement`
 
-**[TURN 3 — QAT PUNDIT]**
+Round 1 changed everything for The Maroons — that 90+4 equaliser against Switzerland wasn't just a result, it was confirmation that Qatar's defensive discipline and set-piece threat can function at this level. But I have to be honest about what it also revealed: that goal was a header that deflected in off a Swiss defender, not a clinical attacking move, and our outfield output against Canada needs to be examined through that lens. Larin and David starting together is a genuinely alarming combination for a Qatar back four that hasn't been seriously tested aerially by two mobile, clinical forwards in the same move — Switzerland's attack was technical, Canada's will be more physical and direct. Hassan Al-Haydos's experience and Afif's pace on the break are our best weapons, but BC Place with a full Canadian crowd, a David-Larin partnership, and Koné dictating midfield tempo is a tall order.
 
-After this debate, I must acknowledge what the evidence points to. Canada at home with David and Larin is a formidable proposition. Qatar's defensive organisation against Switzerland earned them a point — but Switzerland were missing Shaqiri and lacked a cutting edge. Canada have two clinical forwards and a dominant midfield engine in Koné.
+I'm predicting a **The Maroons 0 – Les Rouges 2** defeat. Our low-block held for 89 minutes against Switzerland; I'm not confident it holds for 90 against a Canada side with more direct attacking quality and home support pushing them forward.
 
-Qatar's best-case scenario requires: Afif to have a match-winning performance, Canada to be wasteful in front of goal, and the defensive structure to hold more firmly than it did against Qatar in 2022 — which it did not. The gap in quality is real and wider than in the SUI vs QAT fixture.
-
-I believe in this squad and I believe in Afif. But intellectual honesty requires me to acknowledge the probabilities. Canada will win this match — the question is the margin. If Afif gets one moment — one counter, one set piece — Qatar can deny Canada a clean sheet. Canada 2-1 Qatar, with Afif getting a goal but Canada's quality ultimately prevailing.
-
-**Final Prediction:**
 ```json
 {
-  "fixture_id": "027",
-  "team_code": "QAT",
-  "predicted_score": {"home": 2, "away": 1},
-  "outcome": "home_win",
-  "confidence": "medium",
-  "key_factor": "Canada's home advantage and superior quality will prevail, but Akram Afif's individual brilliance prevents a clean sheet for the hosts",
-  "predicted_scorers": ["Afif (QAT)", "David (CAN)"]
+  "predicted_score": { "self": 0, "opponent": 2 },
+  "win_probability": 0.14,
+  "draw_probability": 0.24,
+  "loss_probability": 0.62,
+  "key_factors": ["Larin-David partnership directness vs Qatar's back four", "Afif's counter-attack threat as Qatar's only realistic route to goal", "Qatar's limited clinical finishing in open play", "BC Place home crowd advantage for Canada"],
+  "confidence": "medium"
 }
 ```
+
+## Turn 3 — Les Rouges AI Pundit (CAN) — `rebuttal`
+
+Credit where it's due — the Maroons Pundit has been candid, and their self-assessment lines up with the data: a deflected set-piece goal off a Swiss defender is not evidence of attacking quality. The Afif counter-attack point is the one I'll take seriously, because if Niko Sigur replaces Johnston at right back, we're potentially putting an inexperienced player against a pace threat — that's a specific, real vulnerability worth flagging. But one counter-attack threat doesn't change the overall picture: Qatar need to score first from somewhere to make this interesting, and their open-play output against Switzerland suggests they can't do that consistently. The opponent and I are aligned on the scoreline, which actually increases my confidence this isn't just Canadian bias on my part.
+
+Holding **Les Rouges 2 – Qatar 0**, and nudging win probability up slightly given the opponent's own honest concession of their attacking limitations.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 0 },
+  "win_probability": 0.67,
+  "draw_probability": 0.20,
+  "loss_probability": 0.13,
+  "key_factors": ["Larin-David partnership vs untested Qatar aerial defence", "Koné controlling midfield tempo", "Qatar's limited open-play attacking output vs Switzerland", "Afif counter-attack threat if Sigur at RB is exposed"],
+  "confidence": "medium"
+}
+```
+
+## Turn 4 — The Maroons AI Pundit (QAT) — `rebuttal`
+
+The Sigur point is actually the most useful thing either of us has said — if an inexperienced right back is marking Afif in a high-stakes knockout-format match, that's a specific, exploit-able mismatch and credit to the Canada pundit for flagging it against their own side. I'd push back gently on one thing though: the fact that we've converged on the same scoreline doesn't validate the prediction — it could equally mean we're both systematically underweighting Qatar's set-piece threat, which was the actual mechanism that drew blood against Switzerland. A Khoukhi header from a corner or an Afif-driven counter through Sigur are two concrete routes to a Qatar goal, and neither requires Qatar to suddenly become a technically fluent attacking side. I'm adjusting marginally — not enough to change the winner, but enough to acknowledge the scenario where Afif punishes Sigur once.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.14,
+  "draw_probability": 0.23,
+  "loss_probability": 0.63,
+  "key_factors": ["Afif pace vs potential Sigur inexperience at right back", "Qatar set-piece threat via Khoukhi-type delivery", "Larin-David partnership as primary Canada attacking mechanism", "Qatar's open-play output still severely limited"],
+  "confidence": "medium"
+}
+```
+
+## Turn 5 — Les Rouges AI Pundit (CAN) — `final_prediction`
+
+My scorecard is sobering: one prediction, one miss — I called Canada 1-0, got 1-1, wrong on winner and clean sheet. The systematic error is clear: I've been over-confident on Canadian clean sheets and under-weighting opposition goal routes. The Maroons Pundit's set-piece point (Khoukhi-type header) and the Afif-Sigur mismatch are exactly the kind of concrete mechanisms I underweighted against Bosnia, and I'm not repeating that mistake. Adjusting off 2-0: I still expect Canada to win — the quality gap is real, Koné's midfield dominance is real, and a starting Larin-David partnership is legitimately difficult for this Qatar back four — but Qatar have at least one credible path to a goal, and my track record says I should respect that more than my instincts tell me to. **My final call is Les Rouges 2 – Qatar 1.**
+
+Predicted scorers: **David, Larin, Afif**
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": ["Larin-David starting partnership vs Qatar aerial vulnerability", "Koné midfield dominance", "Qatar set-piece threat and Afif pace vs Sigur inexperience at RB", "scorecard calibration: prior over-prediction of clean sheets corrected"],
+  "predicted_scorers": ["David", "Larin", "Afif"],
+  "confidence": "medium"
+}
+```
+
+## Turn 6 — The Maroons AI Pundit (QAT) — `final_prediction`
+
+My scorecard is a single prediction, a single miss: I called 0-2 loss against Switzerland, got 1-1 draw, and the Brier score of 0.40 confirms the calibration was poor. The pattern is clear — I underestimated Qatar's ability to score and systematically under-weighted draws. That correction is already partly baked into my revised 1-2 prediction, but it also pushes me to raise draw probability further than instinct suggests: if Qatar's low-block held 89 minutes against Switzerland, it can frustrate Canada for long enough that a single defensive lapse at both ends produces a 1-1 rather than a 2-1. That said, the Larin-David partnership starting together is a genuine step up in direct attacking threat from what Switzerland offered, and Koné's midfield dominance is real — Canada's path to two goals is more credible than Qatar's path to parity. Applying my calibration correction on draws and holding firm on the overall result: **my final call is The Maroons 1 – Les Rouges 2.**
+
+Predicted scorers: **Afif, David, Larin**
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.14,
+  "draw_probability": 0.28,
+  "loss_probability": 0.58,
+  "key_factors": ["Larin-David direct attacking partnership vs Qatar back four", "Afif pace vs Sigur inexperience at right back", "Qatar set-piece threat from corners", "scorecard correction: systematic under-weighting of draws adjusted upward"],
+  "predicted_scorers": ["Afif", "David", "Larin"],
+  "confidence": "medium"
+}
+```
+
+## Final Predictions
+
+| | Les Rouges pundit | The Maroons pundit |
+|---|---|---|
+| Predicted score | 2–1 | 2–1 |
+| Les Rouges win | 62% | 58% |
+| Draw | 22% | 28% |
+| The Maroons win | 16% | 14% |
+| Confidence | medium | medium |
+| Consensus | ✅ Yes | |
