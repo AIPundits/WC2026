@@ -1,0 +1,15 @@
+{
+  "fixture_id": "028",
+  "team_code": "MEX",
+  "predicted_score": {
+    "home": 2,
+    "away": 1
+  },
+  "outcome": "home_win",
+  "confidence": "medium",
+  "key_factor": "Home altitude and crowd advantage at Estadio Akron, plus Mexico's superior H2H record, outweigh Korea's tactical coherence despite Montes suspension",
+  "predicted_scorers": [
+    "Jiménez",
+    "Quiñones"
+  ]
+}

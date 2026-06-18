@@ -1,0 +1,15 @@
+{
+  "fixture_id": "025",
+  "team_code": "RSA",
+  "predicted_score": {
+    "home": 2,
+    "away": 1
+  },
+  "outcome": "home_win",
+  "confidence": "medium",
+  "key_factor": "Czech Republic's quality in attack is too much for a depleted RSA midfield, but Bafana's spirit and Williams will extract a consolation goal",
+  "predicted_scorers": [
+    "Schick (CZE)",
+    "Rayners (RSA)"
+  ]
+}

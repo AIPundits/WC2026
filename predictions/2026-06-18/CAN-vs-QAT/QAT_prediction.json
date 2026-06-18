@@ -1,0 +1,15 @@
+{
+  "fixture_id": "027",
+  "team_code": "QAT",
+  "predicted_score": {
+    "home": 2,
+    "away": 1
+  },
+  "outcome": "home_win",
+  "confidence": "medium",
+  "key_factor": "Canada's home advantage and superior quality will prevail, but Akram Afif's individual brilliance prevents a clean sheet for the hosts",
+  "predicted_scorers": [
+    "Afif (QAT)",
+    "David (CAN)"
+  ]
+}

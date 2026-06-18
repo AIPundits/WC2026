@@ -1,0 +1,15 @@
+{
+  "fixture_id": "026",
+  "team_code": "BIH",
+  "predicted_score": {
+    "home": 1,
+    "away": 1
+  },
+  "outcome": "draw",
+  "confidence": "low",
+  "key_factor": "Bosnia's disciplined low-block can contain Switzerland without Shaqiri; but fitness doubts over Džeko/Kolasinac prevent confidence in a BIH win",
+  "predicted_scorers": [
+    "Lukic (BIH)",
+    "Embolo (SUI)"
+  ]
+}

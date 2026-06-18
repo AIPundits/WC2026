@@ -1,0 +1,15 @@
+{
+  "fixture_id": "025",
+  "team_code": "CZE",
+  "predicted_score": {
+    "home": 2,
+    "away": 0
+  },
+  "outcome": "home_win",
+  "confidence": "high",
+  "key_factor": "RSA double midfield suspension (Sithole + Zwane) creates structural weakness that Czech Republic's organised 3-4-2-1 and Schick's quality will exploit",
+  "predicted_scorers": [
+    "Schick",
+    "Hlozek"
+  ]
+}

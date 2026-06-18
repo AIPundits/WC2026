@@ -1,0 +1,15 @@
+{
+  "fixture_id": "027",
+  "team_code": "CAN",
+  "predicted_score": {
+    "home": 2,
+    "away": 0
+  },
+  "outcome": "home_win",
+  "confidence": "high",
+  "key_factor": "Home advantage at BC Place, David-Larin partnership, and superior overall quality over a Qatar side whose defensive model cannot hold for 90 minutes against sustained pressure",
+  "predicted_scorers": [
+    "David",
+    "Larin"
+  ]
+}
