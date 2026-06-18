@@ -1,0 +1,17 @@
+{
+  "fixture_id": "024",
+  "date": "2026-06-17",
+  "home": "UZB",
+  "away": "COL",
+  "home_score": 1,
+  "away_score": 3,
+  "ingested_at": "2026-06-18T09:43:24.067061+00:00",
+  "goal_scorers": [
+    {
+      "name": "Luis Díaz",
+      "team": "away",
+      "minute": "65'",
+      "type": "Goal"
+    }
+  ]
+}
