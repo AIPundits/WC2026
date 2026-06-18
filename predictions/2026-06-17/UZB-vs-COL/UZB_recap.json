@@ -1,0 +1,22 @@
+{
+  "team_code": "UZB",
+  "fixture_id": "024",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-3 (loss)",
+  "narrative": "I called the loss, and the reasoning that got me there was sound — Los Cafeteros' attacking quality was the dominant story of this match, and Luis Díaz delivering on that threat vindicated the central premise of my pre-match case. Where I fell short was on the scoreline in two directions simultaneously: I gave UZB zero goals, but they managed to get one back, and I capped COL at two when they actually put three past us. The margin I predicted (two goals) was close to correct, but I had both totals shifted one goal too low, suggesting I underestimated the open nature of this fixture rather than the balance of power between the sides. The one thing I'd revise is spending more time on how Los Cafeteros perform when they have a lead — whether they press for a third or sit back — because that dynamic shaped the final scoreline more than I modelled.\n\n```json\n{\n  \"got_right\": [\n    \"Los Cafeteros winning comfortably\",\n    \"Luis Díaz as the key attacking threat\",\n    \"UZB's inability to contain COL's forward line\",\n    \"overall result: loss\"\n  ],\n  \"got_wrong\": [\n    \"predicted UZB clean-sheet concession (they scored one)\",\n    \"capped COL at 2 goals — they scored 3\",\n    \"underestimated total match goal volume\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd analyse Los Cafeteros' late-game behaviour when ahead — whether they push for an insurance goal or consolidate — because that directly explained why the score reached 3 rather than 2.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T09:44:00.236045+00:00",
+  "got_right": [
+    "Los Cafeteros winning comfortably",
+    "Luis Díaz as the key attacking threat",
+    "UZB's inability to contain COL's forward line",
+    "overall result: loss"
+  ],
+  "got_wrong": [
+    "predicted UZB clean-sheet concession (they scored one)",
+    "capped COL at 2 goals — they scored 3",
+    "underestimated total match goal volume"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd analyse Los Cafeteros' late-game behaviour when ahead — whether they push for an insurance goal or consolidate — because that directly explained why the score reached 3 rather than 2."
+}

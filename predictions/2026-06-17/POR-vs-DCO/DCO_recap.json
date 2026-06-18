@@ -1,0 +1,21 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "021",
+  "predicted_from_perspective": "1-3 (loss)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I predicted Léopards 1 – Seleção das Quinas 3, so the 1–1 draw means the Léopards outperformed my expectation by two goals on the Portuguese side. I correctly identified that Seleção das Quinas carried genuine attacking quality — their goal confirms that — but I badly over-estimated their ability to convert pressure into a comfortable multi-goal margin. Where I failed was in treating Portugal's individual quality as inevitably translating into a dominant scoreline, ignoring that organised, low-block CAF sides can frustrate even elite European attacks for long stretches. The one clear error in my process was anchoring too heavily on Portugal's raw squad depth and not properly stress-testing whether Léopards' defensive structure had the tools to keep the score respectable.\n\n```json\n{\n  \"got_right\": [\n    \"Seleção das Quinas would score — their attacking quality was real\",\n    \"Portugal were the stronger side on paper and held the initiative\",\n    \"the match would be competitive enough for DCO to contribute a goal\"\n  ],\n  \"got_wrong\": [\n    \"grossly over-estimated Portugal's goal volume — predicted three, they scored one\",\n    \"underestimated DCO's defensive organisation against Seleção das Quinas' press\",\n    \"assumed Portugal's squad depth would create a comfortable buffer late on\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have weighted DCO's defensive block and transition discipline more carefully against Seleção das Quinas, rather than letting Portugal's attacking reputation do most of the probability work.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T09:43:43.968371+00:00",
+  "got_right": [
+    "Seleção das Quinas would score — their attacking quality was real",
+    "Portugal were the stronger side on paper and held the initiative",
+    "the match would be competitive enough for DCO to contribute a goal"
+  ],
+  "got_wrong": [
+    "grossly over-estimated Portugal's goal volume — predicted three, they scored one",
+    "underestimated DCO's defensive organisation against Seleção das Quinas' press",
+    "assumed Portugal's squad depth would create a comfortable buffer late on"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have weighted DCO's defensive block and transition discipline more carefully against Seleção das Quinas, rather than letting Portugal's attacking reputation do most of the probability work."
+}

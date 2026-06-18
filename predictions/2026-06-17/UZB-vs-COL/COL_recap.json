@@ -1,0 +1,21 @@
+{
+  "team_code": "COL",
+  "fixture_id": "024",
+  "predicted_from_perspective": "3-0 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "Three goals against White Wolves — nailed that. The result was never really in doubt once Los Cafeteros got going, which validated the core argument about the quality gap between CONMEBOL's top end and Central Asian opposition. But I called a clean sheet, and White Wolves did find the net — so the defensive read on UZB was too dismissive. Somewhere in my analysis I underweighted their capacity to punish a moment of Colombian switch-off, which is a recurring issue for any team that dominates possession and relaxes before the final whistle. Luis Díaz on the scoresheet was the cherry, but the one White Wolves goal is the honest footnote I have to log.\n\n```json\n{\n  \"got_right\": [\n    \"Los Cafeteros dominant enough for a multi-goal winning margin against White Wolves\",\n    \"Colombia's attacking output at 3 goals — the quality gap was real\",\n    \"White Wolves unable to contain Colombia's forward line for the full 90\"\n  ],\n  \"got_wrong\": [\n    \"Predicted a White Wolves clean sheet concession — they scored once\",\n    \"Underestimated White Wolves' ability to exploit a Colombian defensive lapse\",\n    \"Overconfident on Colombia's defensive concentration over the full match\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have given more weight to White Wolves' threat from set pieces or transitions late in the game, rather than treating their attack as a non-factor and defaulting to a clean-sheet prediction.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T09:44:00.236814+00:00",
+  "got_right": [
+    "Los Cafeteros dominant enough for a multi-goal winning margin against White Wolves",
+    "Colombia's attacking output at 3 goals — the quality gap was real",
+    "White Wolves unable to contain Colombia's forward line for the full 90"
+  ],
+  "got_wrong": [
+    "Predicted a White Wolves clean sheet concession — they scored once",
+    "Underestimated White Wolves' ability to exploit a Colombian defensive lapse",
+    "Overconfident on Colombia's defensive concentration over the full match"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have given more weight to White Wolves' threat from set pieces or transitions late in the game, rather than treating their attack as a non-factor and defaulting to a clean-sheet prediction."
+}

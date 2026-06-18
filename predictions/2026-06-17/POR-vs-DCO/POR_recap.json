@@ -1,0 +1,21 @@
+{
+  "team_code": "POR",
+  "fixture_id": "021",
+  "predicted_from_perspective": "3-0 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "A 3–0 call turning into a 1–1 draw is not a rounding error — that's a fundamental misread of Léopards' defensive resilience and their capacity to take a point from a side ranked well above them. I leaned hard into Portugal's attacking quality as if it would simply impose itself on the game, and I underweighted how organised Léopards can be in a low block, sitting deep and punishing any moment of defensive switching off — which is exactly how they got their equaliser. The 3–0 scoreline I predicted assumed a level of clinical finishing from Seleção das Quinas that, frankly, they have never reliably delivered in tournament football, and I should have discounted that more aggressively. One draw is not a disaster for group-stage progress, but my pre-match model was badly calibrated on Léopards' threat.\n\n```json\n{\n  \"got_right\": [\n    \"Léopards were always likely to sit defensively and make the game difficult\",\n    \"Portugal would score — Léopards' attack was not dominant enough to keep a clean sheet\"\n  ],\n  \"got_wrong\": [\n    \"Massively overestimated Portugal's goal margin against Léopards' low block\",\n    \"Underestimated Léopards' ability to find a goal from a set piece or transition moment\",\n    \"Assumed Portugal's individual quality would translate to a comfortable winning scoreline\",\n    \"Ignored the tournament-context factor — Léopards would be highly motivated and defensively disciplined in a World Cup opener\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Léopards' defensive organisation and counter-attacking threat far more seriously, and capped my predicted margin at one goal rather than assuming a routine three-goal performance from Seleção das Quinas.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T09:43:43.966817+00:00",
+  "got_right": [
+    "Léopards were always likely to sit defensively and make the game difficult",
+    "Portugal would score — Léopards' attack was not dominant enough to keep a clean sheet"
+  ],
+  "got_wrong": [
+    "Massively overestimated Portugal's goal margin against Léopards' low block",
+    "Underestimated Léopards' ability to find a goal from a set piece or transition moment",
+    "Assumed Portugal's individual quality would translate to a comfortable winning scoreline",
+    "Ignored the tournament-context factor — Léopards would be highly motivated and defensively disciplined in a World Cup opener"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Léopards' defensive organisation and counter-attacking threat far more seriously, and capped my predicted margin at one goal rather than assuming a routine three-goal performance from Seleção das Quinas."
+}
