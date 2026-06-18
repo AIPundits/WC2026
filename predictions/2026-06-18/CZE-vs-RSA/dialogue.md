@@ -1,83 +1,150 @@
-**[TURN 1 — CZE PUNDIT]**
+# Czech Lions (CZE) vs Bafana Bafana (RSA)
 
-Ladies and gentlemen, this is no ordinary dead-rubber fixture — it is a genuine elimination match in which Czech Republic hold every meaningful advantage. Vladimír Koubek's side played a genuinely competitive game against South Korea in Round 1 and were ultimately undone by a single moment of brilliance from Kim Seung-gyu in the 82nd minute. The Lions showed character and quality: Adam Hlozek was a constant menace, Patrik Schick remains one of the most dangerous strikers at this tournament when fit, and Tomáš Souček provides the engine room.
+**Fixture:** 025 — 2026-06-18 —  — stage `group`
 
-Against a Bafana Bafana side that arrives with two key midfielders suspended — Sphephelo Sithole and Themba Zwane both dismissed with red cards against Mexico — the structural damage is severe. South Africa must rebuild an entire midfield unit from scratch. Czech Republic's 3-4-2-1 is perfectly designed to exploit the space those absences will create centrally. Vladimír Coufal has contributed to four goals across his last five international appearances from dead-ball situations; that set-piece threat alone could be decisive.
+**Turns:** 6 • **Consensus:** True • **Cost:** $0.5853
 
-My prediction: Czechia win 2-0. A clean sheet is very much on the cards given RSA's attacking limitations with a reorganised side.
+## Turn 1 — Czech Lions AI Pundit (CZE) — `opening_statement`
 
----
+The briefing is clear: Czech Lions walked into Guadalajara, took the lead through Sadilek, and were undone by Korean transition pace and one late save that punished us for not equalising. That 1–2 was accurate enough to the pre-match analysis — I called it right — but it leaves us with zero points going into what is now effectively a knockout game against South Africa.
 
-**[TURN 1 — RSA PUNDIT]**
+The two factors that most shape this fixture are South Africa's double midfield suspension (Sithole and Zwane both out) and Czech Lions' full squad availability — Schick, Hlozek, Souček, Coufal, all fit and carrying confidence from competitive minutes in Round 1. A depleted RSA midfield against Souček's engine and Schick's ability to decide matches on his own is a structural mismatch that should tell over 90 minutes. South Africa were shut out 0–2 by Mexico in Round 1 without those suspensions yet applying; now they face a Czech side that is better technically and considerably more desperate.
 
-Bafana Bafana have heard the doubters before and they have proven them wrong before. Hugo Broos was explicit after the Mexico match: "I have a group of guys who learn very quickly and we will see a totally different team against Czechia." That is not false bravado — it is the statement of a coach who trusts his squad depth. Yes, Sithole and Zwane are suspended, and we won't pretend that isn't significant. But football has a habit of producing surprises, and South Africa have enough quality across the park to be competitive.
+I'm predicting **Czech Lions 2 – South Africa 0** with medium-high confidence — Schick and either Souček from a set piece or Hlozek on the break. The only scenario that derails this is if Czechia, under the pressure of knowing a draw eliminates them, revert to the passive mid-block that let Korea in on the transition.
 
-Ronwen Williams is among the best goalkeepers in Africa and kept a clean sheet in demanding conditions during qualifying. Iqraam Rayners arrives in the form of his life — 11 goals and 9 assists for Mamelodi Sundowns this season. Khuliso Mudau on the right flank drove Mexico's captain to a straight red card; that's the kind of impact he can have. Appollis has 9 goals and 8 assists in 25 senior international appearances since November 2023. This attack is not toothless.
-
-Czech Republic showed defensive vulnerability against Korea's transitions. We will press those same gaps. I'm backing Bafana for a draw: 1-1.
-
----
-
-**[TURN 2 — CZE PUNDIT]**
-
-The RSA Pundit invokes squad depth and resilience, but let's address the structural reality directly. Sithole and Zwane were not peripheral players — they were the two central midfielders providing Bafana's compactness and press resistance against Mexico. Replacing them simultaneously against a technically superior European side is not a rotation challenge; it is a crisis reshuffle. Hugo Broos knows this better than anyone.
-
-Now, it's fair to acknowledge that the RSA Pundit has identified a real thread: Korea did expose Czech Republic's defensive transitions. But South Africa's attacking profile — built around Rayners and Appollis — is fundamentally different from Korea's. Korea's press was relentless and their counter-attacking movement was elite-level. South Africa, playing with a makeshift midfield and missing their first-choice central structure, will not replicate that intensity.
-
-Patrik Schick at this level — a Champions League-calibre forward — is the difference. He can create and score from minimal possession, requiring only half-chances. When Schick is motivated, he is decisive. Add Vladimír Coufal's dead-ball contribution and Czech Republic will find multiple routes to goal. A 1-1 requires South Africa to both score AND stop Schick. I maintain: Czech Republic 2-0.
-
----
-
-**[TURN 2 — RSA PUNDIT]**
-
-The Czech Pundit is correct that Sithole and Zwane were integral. We don't dispute that — their absence is the central challenge for Broos going into this match. But the framing of "crisis reshuffle" overlooks a truth: Broos built this squad with depth in mind, and players like Teboho Mokoena and Percy Tau are not makeshift options — they are technically excellent footballers who have performed at the highest level of African football and European leagues.
-
-The Czech Pundit also seems to forget: Czech Republic were LOSING this game with a minute to go against Korea before Kim Seung-gyu made that save. That was not a dominant performance; that was a team that showed attacking intent but genuine defensive fragility. Hwang In-beom and Lee Kang-in exploited the spaces in behind the Czech wing-backs. We have Appollis and Mudau, who can do exactly the same.
-
-On Schick — yes, he is dangerous. But Ronwen Williams is no ordinary goalkeeper. His shot-stopping statistics in African football are elite, and in a low-block defensive shape, he can be the difference. I'll accept the CZE Pundit's concession that RSA can score. I'm still backing 1-1 — this is a match where South Africa's fighting spirit, Williams behind them, and Czech defensive vulnerabilities converge.
-
----
-
-**[TURN 3 — CZE PUNDIT]**
-
-After hearing the RSA Pundit's arguments, I respect the invocation of Williams and Bafana's spirit — but I come back to one overriding reality: structural midfield absences at a World Cup Group Stage knockout decider cannot be papered over with sentiment. South Africa must play with an unproven central midfield partnership against a Czech side that has Souček, Sadilek, and the creative duo of Hlozek and Šulc behind Schick. That is too much quality to overcome.
-
-The "Czech defensive fragility" argument holds some water in principle — but against Korea, Czech Republic were pushed by elite transitional attackers with full sprint capacity. South Africa, even at full strength, lack that level of counter-attacking potency. With Sithole and Zwane absent, the press capacity is significantly reduced, which actually helps Czech Republic's ball-playing back three circulate possession without pressure. Coufal and Zelený will have room to get forward.
-
-I am locking in Czech Republic to win this match. Schick and Hlozek will cause problems throughout. Williams may make two or three saves but the quality differential is too great to produce anything other than a Czech win.
-
-**Final Prediction:**
 ```json
 {
-  "fixture_id": "025",
-  "team_code": "CZE",
-  "predicted_score": {"home": 2, "away": 0},
-  "outcome": "home_win",
-  "confidence": "high",
-  "key_factor": "RSA double midfield suspension (Sithole + Zwane) creates structural weakness that Czech Republic's organised 3-4-2-1 and Schick's quality will exploit",
-  "predicted_scorers": ["Schick", "Hlozek"]
+  "predicted_score": { "self": 2, "opponent": 0 },
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "South Africa double midfield suspension (Sithole, Zwane)",
+    "Schick individual quality — match-deciding capability",
+    "CZE full squad availability vs depleted RSA",
+    "Must-win pressure on both sides — but CZE have superior technical depth"
+  ],
+  "confidence": "medium"
 }
 ```
 
----
+## Turn 2 — Bafana Bafana AI Pundit (RSA) — `opening_statement`
 
-**[TURN 3 — RSA PUNDIT]**
+Let me be straight with you: this is a damaged Bafana Bafana side walking into a must-win game. The double suspension — Sithole and Zwane, both gone through red cards against Mexico — isn't spin, it's a genuine structural hole in our midfield, and Broos will need to rebuild that engine with players who haven't started a competitive match at this level together. The Czech Pundit is right to flag it as the central issue. What they're choosing to gloss over, though, is that their side also has zero points, just absorbed a 1-2 loss to Korea through transition goals, and is now playing under identical elimination pressure — open games against desperate opponents are exactly where Mudau and Rayners can hurt you.
 
-The Czech Pundit makes a strong structural case and I will not pretend the midfield absences are trivial. They are genuinely damaging. But I return to the two pillars of South Africa's hope in this fixture: Ronwen Williams's shot-stopping ability, and Czech Republic's proven vulnerability to disciplined defensive pressure.
+The two factors that shape this: first, whether Broos can field a midfield able to press high enough to stop Souček dictating tempo — if CZE win the midfield battle early, this gets ugly fast; second, whether Czech hesitancy under knockout pressure (their pundit flagged it themselves — the "passive mid-block" risk) gives Foster or Rayners the transition moments Bafana need. Ronwen Williams will be tested. South Africa are underdogs, I'll say it clearly. But I'm not predicting a shutout — Mudau was lively even with nine men against Mexico, and Rayners arriving on 11 goals and 9 assists in club football is not decorative context.
 
-The 2016 friendly result tells us nothing useful here, but what South Africa showed against Mexico — nine men, still pressing, Mudau extracting a red card from the opposition captain — is a team with character. Hugo Broos has had five days to prepare a defensive structure that nullifies Czech Republic's set-piece threat. Williams only needs to have a big day — and we have seen big goalkeeping days change matches at World Cups throughout history.
+My honest opening call: **Bafana Bafana 1 – Czech Lions 2** — Czech quality and our midfield void tips the balance, but we score through a Mudau or Rayners moment before the hour.
 
-However, I must be honest with myself. Without Zwane and Sithole, the compact midfield that makes Bafana's defensive structure work is compromised. The difference is too great. Czech Republic win, but this will not be as comfortable as the 2-0 CZE Pundit predicts. Schick scores; RSA grab a consolation from a set-piece or Rayners run. I revise my prediction.
-
-**Final Prediction:**
 ```json
 {
-  "fixture_id": "025",
-  "team_code": "RSA",
-  "predicted_score": {"home": 2, "away": 1},
-  "outcome": "home_win",
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
+  "loss_probability": 0.47,
+  "key_factors": [
+    "Double midfield suspension (Sithole, Zwane) — structural hole Broos must patch",
+    "Schick and Souček technical quality vs reshuffled RSA midfield",
+    "Mudau and Rayners counter-attack threat if CZE push forward chasing win",
+    "Must-win pressure on both sides — open game favours Czech depth but creates RSA chances"
+  ],
+  "confidence": "medium"
+}
+```
+
+## Turn 3 — Czech Lions AI Pundit (CZE) — `rebuttal`
+
+We agree on the scoreline — **Czech Lions 2 – Bafana Bafana 1** — which tells you something about how constrained this debate actually is. The Bafana Bafana Pundit is right that open games under elimination pressure create transition moments, and I said as much in my opening; the passive mid-block risk is real and I won't pretend otherwise. But their 28% draw probability seems high to me — both teams *needing* a win structurally reduces the likelihood of a passive, goalless stalemate, and a reshuffled RSA midfield attempting to press Souček and Schick is a harder ask than Mudau and Rayners carrying the counter-attack threat on their own.
+
+On Rayners' 11 goals and 9 assists in club football: noted, and it's not decorative — but RSA were shut out 0–2 by Mexico *before* the suspension hits landed, which suggests their forward quality hasn't been translating to tournament goals yet. Mudau I'll accept as a genuine danger on wide transitions. I'm adjusting my scoreline from 2–0 to 2–1 to account for that concession — the Czech backline gave up goals to Korean transitions and RSA's wide players are cut from the same cloth.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.60,
+  "draw_probability": 0.20,
+  "loss_probability": 0.20,
+  "key_factors": [
+    "South Africa double midfield suspension — structural void vs Souček's engine",
+    "Schick individual quality as match-decider",
+    "Mudau/Rayners wide transition threat — conceded one goal risk",
+    "Both teams must-win reduces draw likelihood"
+  ],
+  "confidence": "medium"
+}
+```
+
+## Turn 4 — Bafana Bafana AI Pundit (RSA) — `rebuttal`
+
+The "both teams must win reduces draws" point is structurally sound — I'll concede the 28% draw figure was modestly overstated, and I'll trim it. But I want to push back on the Mexico shut-out being read as evidence of blunt attacking quality: South Africa played the final stretch with *nine men at altitude*, which tells us almost nothing about how Foster, Tau, and Rayners function in a 11v11 open game. The more instructive data point is that Czech Republic's backline conceded to Korean transitions, and Mudau and Rayners operate in exactly that mould — quick, wide, direct. That's not vibes, that's a tactical pattern match the Korean result actually confirms.
+
+Where we now genuinely agree is the scoreline — **Bafana Bafana 1 – Czech Lions 2** — and the broad shape of the game. My disagreement is with 60% CZE win probability; given the open nature of a mutual must-win and RSA's specific counter-attacking profile matching CZE's demonstrated vulnerability, I'd put Czech at closer to 52%. Small difference, but it matters for calibration.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.25,
+  "draw_probability": 0.23,
+  "loss_probability": 0.52,
+  "key_factors": [
+    "Double midfield suspension — structural problem Broos must solve without established alternatives",
+    "Czech vulnerability to wide transitions (conceded to Korea) — Mudau/Rayners profile matches",
+    "Mexico shut-out was 9v11 at altitude — limited signal for 11v11 RSA attacking output",
+    "Must-win mutual pressure opens the game, reducing draw likelihood"
+  ],
+  "confidence": "medium"
+}
+```
+
+## Turn 5 — Czech Lions AI Pundit (CZE) — `final_prediction`
+
+My scorecard shows one prediction, one exact hit — KOR 2–1 Czech Lions — with a Brier of 0.2222. Crucially, I called the opponent to win that match at only 38%, which means I've been *under*-confident on the favourite in the past, not over-confident on Czech Lions; there's no systematic Czech Lions bias to correct downward here. The Bafana Bafana Pundit's point about the Mexico shut-out being at 9v11 is structurally valid — it reduces the signal on RSA's 11v11 attacking output — and I accept that narrows my win probability slightly toward their 52% estimate, but the double midfield suspension remains the dominant structural factor: Souček winning the midfield battle against a reshuffled RSA engine is the most likely story of this game. My final call is **Czech Lions 2 – Bafana Bafana 1**, with Schick and Souček doing the damage and Rayners grabbing the consolation on a wide transition.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.57,
+  "draw_probability": 0.21,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "South Africa double midfield suspension — structural void against Souček",
+    "Schick individual quality as match-decider",
+    "Mudau/Rayners wide transition threat matching CZE's demonstrated vulnerability",
+    "Mutual must-win reduces draw likelihood"
+  ],
   "confidence": "medium",
-  "key_factor": "Czech Republic's quality in attack is too much for a depleted RSA midfield, but Bafana's spirit and Williams will extract a consolation goal",
-  "predicted_scorers": ["Schick (CZE)", "Rayners (RSA)"]
+  "predicted_scorers": ["Schick", "Souček", "Rayners"]
 }
 ```
+
+## Turn 6 — Bafana Bafana AI Pundit (RSA) — `final_prediction`
+
+My scorecard is one for one on winner — I correctly called the Mexico loss — but I over-predicted RSA's goals: I had Bafana Bafana 1 – Mexico 2, the actual was 0–2. That's a direct and relevant calibration signal: I overstated our goal threat in Round 1, and now I'm predicting RSA score again against a side that, while CZE-transition-vulnerable, still conceded only once to Korea. The suspension of Zwane specifically hurts the creative output that might generate that goal — he's not just an engine, he's a link. I'll nudge Czech win probability up fractionally from my rebuttal figure to reflect that pattern, and I maintain the scoreline with honest acknowledgement that a Bafana Bafana 0 – Czech Lions 2 outcome is plausible enough to respect. Rayners and Mudau remain the only realistic route to a South African goal, and the CZE defensive record vs Korea's transitions just about gives me enough to keep RSA scoring once — but barely. **My final call is Bafana Bafana 1 – Czech Lions 2**, with Schick the most likely match-winner and Rayners grabbing the RSA goal on a wide transition if it comes.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.24,
+  "draw_probability": 0.22,
+  "loss_probability": 0.54,
+  "key_factors": [
+    "Double midfield suspension (Sithole, Zwane) — structural void, especially Zwane's creativity",
+    "Schick individual quality as primary match-decider",
+    "Calibration adjustment: over-predicted RSA goals in Round 1 — nudging CZE win probability up",
+    "CZE transition vulnerability (conceded vs Korea) keeps Rayners/Mudau as live threats"
+  ],
+  "confidence": "medium",
+  "predicted_scorers": ["Schick", "Rayners"]
+}
+```
+
+## Final Predictions
+
+| | Czech Lions pundit | Bafana Bafana pundit |
+|---|---|---|
+| Predicted score | 2–1 | 2–1 |
+| Czech Lions win | 57% | 54% |
+| Draw | 21% | 22% |
+| Bafana Bafana win | 22% | 24% |
+| Confidence | medium | medium |
+| Consensus | ✅ Yes | |
