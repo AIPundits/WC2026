@@ -1,0 +1,21 @@
+{
+  "team_code": "AUS",
+  "fixture_id": "029",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "I called **Socceroos 1 – Stars and Stripes 1** and Australia lost 0-2 without scoring — so the two things I was most confident about (Australia's counter-attack route through Irankunda, and the defensive block holding) both failed on the day. The Balogun threat I flagged never materialised as the goal route either — a Cameron Burgess own goal tells you Stars and Stripes won through pressure and structure rather than the individual brilliance I was tracking, which means I was watching the wrong attacking mechanism entirely. What I got right was identifying Stars and Stripes' attacking quality as real and their overall system as capable of unlocking organised defences; what I got wrong was treating Australia's Round 1 defensive performance against Turkey as a reliable ceiling for what Stars and Stripes could achieve against the same block. The calibration lesson here is hard: two matches in, I have predicted a loss that became a 2-0 win, and a draw that became a 0-2 loss — the Socceroos result is swinging more dramatically than my probability distributions are capturing, and I need to widen my uncertainty bands accordingly.\n\n```json\n{\n  \"got_right\": [\"Stars and Stripes attacking quality was genuine and decisive\", \"Stars and Stripes system capable of winning without relying on a single creator\"],\n  \"got_wrong\": [\"Australia's Round 1 defensive solidity over-extrapolated to this fixture\", \"Irankunda counter-attack threat did not materialise as a goal route\", \"Predicted Australia would score — clean sheet for Stars and Stripes\", \"Identified wrong goal mechanism — actual goal was own goal from pressure, not Balogun individual quality\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would weight Stars and Stripes' sustained pressure and set-piece delivery more heavily as a mechanism for breaking down Australia's block, rather than assuming the same defensive blueprint that worked against Turkey would transfer directly to a match against a tactically superior opponent.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:25:38.796070+00:00",
+  "got_right": [
+    "Stars and Stripes attacking quality was genuine and decisive",
+    "Stars and Stripes system capable of winning without relying on a single creator"
+  ],
+  "got_wrong": [
+    "Australia's Round 1 defensive solidity over-extrapolated to this fixture",
+    "Irankunda counter-attack threat did not materialise as a goal route",
+    "Predicted Australia would score — clean sheet for Stars and Stripes",
+    "Identified wrong goal mechanism — actual goal was own goal from pressure, not Balogun individual quality"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would weight Stars and Stripes' sustained pressure and set-piece delivery more heavily as a mechanism for breaking down Australia's block, rather than assuming the same defensive blueprint that worked against Turkey would transfer directly to a match against a tactically superior opponent."
+}

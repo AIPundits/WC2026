@@ -1,0 +1,21 @@
+{
+  "team_code": "TUR",
+  "fixture_id": "032",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "Two tournaments matches, two wrong calls on Ay-Yıldızlılar — and this one stings more because I had the warning signs in front of me and discounted them. I leaned heavily on Paraguay's Round 1 defensive collapse (4 goals conceded vs USA) as my primary evidence that Turkey would find the net, but my own opponent warned me explicitly that the context of that collapse mattered — an own goal in the 7th minute, 70,000 hostile fans, a side returning after 16 years — and against a Turkey attack that had just managed zero goals from 30 attempts, Alfaro clearly had little difficulty setting up compactly enough to frustrate us entirely. I flagged Almirón's yellow card as a constraint on Albirroja's disruptive capacity, but they found a winner through Galarza — a player I never mentioned once across three turns of analysis. The most honest summary: I treated Paraguay's Round 1 defensive fragility as a fixed characteristic when it was actually a context-specific result, and I never adequately stress-tested what \"Turkey vs a reorganised, compact Paraguay\" actually looks like when Turkey's conversion crisis is the starting assumption.\n\n```json\n{\n  \"got_right\": [\n    \"Almirón yellow card as a tactical constraint on Paraguay's midfield aggression\",\n    \"Enciso fitness uncertainty as a genuine attacking limitation for Albirroja\"\n  ],\n  \"got_wrong\": [\n    \"treated Paraguay's 4-goal Round 1 defensive collapse as predictive rather than context-specific\",\n    \"never flagged Galarza as an attacking threat despite him scoring the winner\",\n    \"underestimated Albirroja's ability to reorganise defensively in a must-win match\",\n    \"over-indexed on Paraguay's goal-conceding record while ignoring Turkey's goal-scoring record\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested Paraguay's defensive fragility assumption against Turkey's specific conversion crisis — a side that couldn't score from 30 attempts vs Australia should not have been expected to punish a compact, reorganised Albirroja backline, and that intersection was the most important factor I failed to weight correctly.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:27:45.176644+00:00",
+  "got_right": [
+    "Almirón yellow card as a tactical constraint on Paraguay's midfield aggression",
+    "Enciso fitness uncertainty as a genuine attacking limitation for Albirroja"
+  ],
+  "got_wrong": [
+    "treated Paraguay's 4-goal Round 1 defensive collapse as predictive rather than context-specific",
+    "never flagged Galarza as an attacking threat despite him scoring the winner",
+    "underestimated Albirroja's ability to reorganise defensively in a must-win match",
+    "over-indexed on Paraguay's goal-conceding record while ignoring Turkey's goal-scoring record"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested Paraguay's defensive fragility assumption against Turkey's specific conversion crisis — a side that couldn't score from 30 attempts vs Australia should not have been expected to punish a compact, reorganised Albirroja backline, and that intersection was the most important factor I failed to weight correctly."
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "USA",
+  "fixture_id": "029",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "The debate walked me off a defensible win prediction and onto a draw call, and Australia's 2–0 defeat shows the quality gap I kept gesturing at before dropping it as \"residual bias\" was actually real evidence, not hand-waving. What I got right: Australia's attacking threat was indeed limited — Irankunda and the counter never materialised into a goal, validating my concern that the Socceroos' offensive output was thinner than their defensive record implied. What I got wrong: I let the logical pressure around the Pulisic binary swing variable and Australia's Turkey clean sheet overwhelm my read of the overall quality differential — the Stars and Stripes kept a clean sheet themselves, which I never seriously modelled. The Cameron Burgess own goal rather than a Balogun finish also reminds me that the *how* of USA scoring mattered less than the *whether*, and I kept narrowing the path to a goal when the match opened up more simply than anticipated.\n\n```json\n{\n  \"got_right\": [\"Australia's attacking threat was overstated — Irankunda counter never produced a goal\", \"USA had clear paths to scoring despite Australia's defensive structure\", \"Balogun form correctly flagged as a genuine threat even if he didn't ultimately score\"],\n  \"got_wrong\": [\"Allowed debate pressure to move me off a win call the underlying evidence supported\", \"Over-weighted Australia's Turkey clean sheet as proof they could contain USA\", \"Under-estimated USA's ability to control the match even without Pulisic certainty\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have held my win prediction rather than conceding to the 'squad quality is residual bias' argument — the quality gap between these sides was real tournament evidence, not a status-quo assumption, and the final scoreline vindicated it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:25:38.794248+00:00",
+  "got_right": [
+    "Australia's attacking threat was overstated — Irankunda counter never produced a goal",
+    "USA had clear paths to scoring despite Australia's defensive structure",
+    "Balogun form correctly flagged as a genuine threat even if he didn't ultimately score"
+  ],
+  "got_wrong": [
+    "Allowed debate pressure to move me off a win call the underlying evidence supported",
+    "Over-weighted Australia's Turkey clean sheet as proof they could contain USA",
+    "Under-estimated USA's ability to control the match even without Pulisic certainty"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have held my win prediction rather than conceding to the 'squad quality is residual bias' argument — the quality gap between these sides was real tournament evidence, not a status-quo assumption, and the final scoreline vindicated it."
+}

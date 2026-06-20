@@ -1,0 +1,29 @@
+{
+  "fixture_id": "031",
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "home_score": 3,
+  "away_score": 0,
+  "ingested_at": "2026-06-20T02:31:31.555484+00:00",
+  "goal_scorers": [
+    {
+      "name": "Matheus Cunha",
+      "team": "home",
+      "minute": "23'",
+      "type": "Goal"
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": "home",
+      "minute": "36'",
+      "type": "Goal"
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "home",
+      "minute": "45'+3'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "HAI",
+  "fixture_id": "031",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "I correctly identified that Seleção's attacking width would be the decisive weapon, and Vinícius did score — one of my two predicted scorers got on the sheet. The result direction and Haiti's clean sheet (from their perspective) both held, which is the bare minimum of credit. Where I went wrong was trimming Brazil's goal tally from 3 to 2 in my final calibration — the adjustment I made based on Round 1 over-prediction was sound methodology but mis-applied: the Haiti-Brazil quality gap is categorically larger than Haiti-Scotland, and three goals against a side this outmatched is entirely consistent with the evidence I already had. I also missed Matheus Cunha completely — predicted Vinícius and Raphinha as the threats, and Cunha bagged a brace while Raphinha didn't score at all.\n\n```json\n{\n  \"got_right\": [\n    \"Brazil would win comfortably and Haiti would not score\",\n    \"Vinícius identified as a scorer — he did convert\",\n    \"Brazil's attacking quality would overwhelm Haiti's defensive block\"\n  ],\n  \"got_wrong\": [\n    \"Under-estimated Brazil's goal output — trimmed to 2 when 3 was the more accurate call\",\n    \"Missed Matheus Cunha entirely despite his 2026 form — fixated on Vinícius and Raphinha\",\n    \"Over-applied Round 1 calibration adjustment to a fixture where the quality gap was much larger\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would not apply my Round 1 goal-tally calibration to this fixture — the Brazil-Haiti quality gap warranted the original 0-3 prediction, and mechanical pattern-matching from a Scotland result distorted the final call.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:27:08.352349+00:00",
+  "got_right": [
+    "Brazil would win comfortably and Haiti would not score",
+    "Vinícius identified as a scorer — he did convert",
+    "Brazil's attacking quality would overwhelm Haiti's defensive block"
+  ],
+  "got_wrong": [
+    "Under-estimated Brazil's goal output — trimmed to 2 when 3 was the more accurate call",
+    "Missed Matheus Cunha entirely despite his 2026 form — fixated on Vinícius and Raphinha",
+    "Over-applied Round 1 calibration adjustment to a fixture where the quality gap was much larger"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would not apply my Round 1 goal-tally calibration to this fixture — the Brazil-Haiti quality gap warranted the original 0-3 prediction, and mechanical pattern-matching from a Scotland result distorted the final call."
+}

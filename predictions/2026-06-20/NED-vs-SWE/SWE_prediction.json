@@ -1,0 +1,24 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "033",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.47,
+  "draw_probability": 0.3,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Gy\u00f6keres\u2013Isak the highest-quality front two Japan face in Group F",
+    "Japan scored twice vs Netherlands \u2014 confirmed two-goal attack, not a pushover",
+    "Space behind Sweden wing-backs suits Japan's counter-attacking transitions",
+    "Calibration: draw held above base rate; conservative goal projection adjusted for Japan's defensive quality vs Tunisia"
+  ],
+  "predicted_scorers": [
+    "Gy\u00f6keres",
+    "Isak"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T11:15:05.569080+00:00"
+}

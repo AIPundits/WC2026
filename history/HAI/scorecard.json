@@ -1,11 +1,11 @@
 {
   "team_code": "HAI",
   "predictions_made": 2,
-  "results_scored": 1,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 1,
+  "results_scored": 2,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 2,
   "exact_score": 0,
-  "brier_score": 0.0595,
+  "brier_score": 0.0372,
   "per_prediction": [
     {
       "fixture_id": "007",
@@ -17,6 +17,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.0595
+    },
+    {
+      "fixture_id": "031",
+      "date": "2026-06-19",
+      "opponent": "BRA",
+      "predicted": "0-2",
+      "actual": "0-3",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.0149
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "team_code": "SCO",
+  "fixture_id": "030",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "I called Morocco the structural favourites, flagged Diaz and Saibari as the genuine danger, and had Morocco's win probability as my highest single value — yet I still couldn't bring myself to predict a Scotland clean-sheet loss, anchoring on a set-piece goal from McGinn that never came. The Atlas Lions won exactly as their Round 1 performance against Brazil suggested they could: one goal of real quality, defensive discipline to hold it, and Scotland unable to find the breakthrough that my draw prediction required. What I got wrong was treating Scotland's set-piece and counter-attack route to a goal as a near-certainty rather than a meaningful probability — Clarke's side created nothing against a Morocco backline that was, as the Atlas Lions pundit correctly argued, simply a different class to Haiti's. The one thing I'd revise: after acknowledging Morocco's conversion efficiency was limited against Brazil, I should have asked whether Scotland had the creative tools to actually manufacture a goal against an organised Atlas Lions defence — and the honest answer, given Gilmour's absence and Adams' fitness doubt, was probably no.\n\n```json\n{\n  \"got_right\": [\"Morocco's structural superiority over Scotland\", \"low-scoring match — one goal decided it\", \"Saibari as a genuine Atlas Lions threat\", \"Morocco defensive organisation sufficient to keep Scotland out\"],\n  \"got_wrong\": [\"predicted Scotland would score — they were shut out entirely\", \"over-weighted Scotland's set-piece route to a goal\", \"draw call — Morocco won it outright\", \"Diaz flagged as scorer, it was Saibari\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have stress-tested Scotland's specific route to a goal against Atlas Lions' defensive organisation rather than treating a set-piece or counter as an assumed probability — with Gilmour out and Adams' fitness uncertain, Scotland's attacking tools were too limited to justify predicting a goal against this Atlas Lions side.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:26:19.728398+00:00",
+  "got_right": [
+    "Morocco's structural superiority over Scotland",
+    "low-scoring match — one goal decided it",
+    "Saibari as a genuine Atlas Lions threat",
+    "Morocco defensive organisation sufficient to keep Scotland out"
+  ],
+  "got_wrong": [
+    "predicted Scotland would score — they were shut out entirely",
+    "over-weighted Scotland's set-piece route to a goal",
+    "draw call — Morocco won it outright",
+    "Diaz flagged as scorer, it was Saibari"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have stress-tested Scotland's specific route to a goal against Atlas Lions' defensive organisation rather than treating a set-piece or counter as an assumed probability — with Gilmour out and Adams' fitness uncertain, Scotland's attacking tools were too limited to justify predicting a goal against this Atlas Lions side."
+}

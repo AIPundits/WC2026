@@ -1,0 +1,24 @@
+{
+  "team_code": "CUR",
+  "fixture_id": "035",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 3
+  },
+  "win_probability": 0.08,
+  "draw_probability": 0.15,
+  "loss_probability": 0.77,
+  "key_factors": [
+    "CUR defensive collapse pattern confirmed \u2014 structure breaks once first goal conceded",
+    "Ecuador GD incentive vs Germany in Round 3 is a genuine qualification lever",
+    "Ecuador chance creation in Round 1 was real \u2014 conversion expected against weaker CUR backline",
+    "Scorecard calibration: I previously under-called opponent goals; resisting artificial ceiling on Ecuador output"
+  ],
+  "predicted_scorers": [
+    "Valencia",
+    "Estupi\u00f1\u00e1n"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T11:20:02.087114+00:00"
+}

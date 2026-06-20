@@ -1,0 +1,23 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "034",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.2,
+  "draw_probability": 0.25,
+  "loss_probability": 0.55,
+  "key_factors": [
+    "yellow card accumulation forces passive CIV midfield vs Germany press",
+    "Germany Round 1 xG is tournament-level attacking evidence",
+    "Amad Diallo individual quality as CIV's primary threat"
+  ],
+  "predicted_scorers": [
+    "Diallo",
+    "Wirtz"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T11:17:35.075353+00:00"
+}

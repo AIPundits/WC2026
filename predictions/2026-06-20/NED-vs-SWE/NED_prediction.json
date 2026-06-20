@@ -1,0 +1,24 @@
+{
+  "team_code": "NED",
+  "fixture_id": "033",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.65,
+  "draw_probability": 0.22,
+  "loss_probability": 0.13,
+  "key_factors": [
+    "Tunisia's 5-goal concession vs Sweden \u2014 strongest in-tournament defensive evidence available",
+    "Netherlands' midfield and forward quality vs Tunisia's limited structure",
+    "Calibration adjustment: draw nudged up from Japan over-confidence pattern",
+    "Round 2 results unconfirmed \u2014 squad status and suspension risk partially unknown"
+  ],
+  "predicted_scorers": [
+    "Gakpo",
+    "Malen"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T11:15:05.567852+00:00"
+}
