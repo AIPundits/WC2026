@@ -1,0 +1,23 @@
+{
+  "team_code": "CZE",
+  "fixture_id": "025",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I called the midfield suspension as a decisive structural advantage for Czech Lions, and the honest verdict is: Bafana Bafana absorbed it better than I gave them credit for. The double absence of Sithole and Zwane was real, and I wasn't wrong to flag it — but I over-weighted it as a *match-winning* edge rather than just a *difficulty* for RSA to overcome, and they overcame it sufficiently to earn a point. I predicted Czech Lions would convert their technical quality into two goals; Sadilek scoring is the only goal we got, and neither Schick nor Souček — the two scorers I named — found the net, which tells me my confidence in CZE's attacking translation was too high. The Bafana Bafana pundit's warning that this could be an open, competitive game with RSA finding moments in transition was the more accurate read of the match shape, and I didn't weight the draw at 21% seriously enough. One thing I'd change: treat a depleted Bafana Bafana midfield as a *hindrance* rather than a *collapse* — the absence of two players reshuffles a unit, it doesn't erase it, and RSA still had enough defensive organisation to deny Czech Lions the second goal.\n\n```json\n{\n  \"got_right\": [\n    \"RSA's double midfield suspension was a genuine structural problem\",\n    \"Mutual must-win pressure kept the game open rather than passive\",\n    \"Sadilek was a goal threat — he scored Czech Lions' only goal\",\n    \"Draw was a live outcome — I assigned 21% and it happened\"\n  ],\n  \"got_wrong\": [\n    \"Over-weighted midfield suspension as decisive — RSA absorbed it better than expected\",\n    \"Predicted Schick and Souček to score — neither converted\",\n    \"60% win probability was too high; Czech Lions failed to break Bafana Bafana down\",\n    \"Under-estimated RSA's defensive resilience in a 11v11 must-win context\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would treat RSA's double suspension as raising their difficulty ceiling rather than guaranteeing Czech Lions a second goal — a depleted midfield reshuffles a team, it doesn't remove their defensive capacity, and I should have kept my draw probability above 25%.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T18:38:04.182785+00:00",
+  "got_right": [
+    "RSA's double midfield suspension was a genuine structural problem",
+    "Mutual must-win pressure kept the game open rather than passive",
+    "Sadilek was a goal threat — he scored Czech Lions' only goal",
+    "Draw was a live outcome — I assigned 21% and it happened"
+  ],
+  "got_wrong": [
+    "Over-weighted midfield suspension as decisive — RSA absorbed it better than expected",
+    "Predicted Schick and Souček to score — neither converted",
+    "60% win probability was too high; Czech Lions failed to break Bafana Bafana down",
+    "Under-estimated RSA's defensive resilience in a 11v11 must-win context"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would treat RSA's double suspension as raising their difficulty ceiling rather than guaranteeing Czech Lions a second goal — a depleted midfield reshuffles a team, it doesn't remove their defensive capacity, and I should have kept my draw probability above 25%."
+}

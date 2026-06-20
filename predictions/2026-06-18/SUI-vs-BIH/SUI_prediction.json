@@ -1,15 +1,25 @@
 {
-  "fixture_id": "026",
   "team_code": "SUI",
+  "fixture_id": "026",
   "predicted_score": {
-    "home": 2,
-    "away": 1
+    "self": 2,
+    "opponent": 1
   },
-  "outcome": "home_win",
-  "confidence": "medium",
-  "key_factor": "Switzerland's superior experience and BIH fitness doubts (Kolasinac, Džeko) tip the balance; The Nati need to be more clinical than vs Qatar",
+  "win_probability": 0.43,
+  "draw_probability": 0.33,
+  "loss_probability": 0.24,
+  "key_factors": [
+    "Switzerland marginal favourites but R1 overconfidence corrected downward",
+    "Bosnia counter-attack threat real even vs patient Swiss possession",
+    "must-win dynamic opens game \u2014 reduces draw frequency",
+    "fitness doubts unconfirmed but remain key swing variable"
+  ],
   "predicted_scorers": [
     "Embolo",
-    "Vargas"
-  ]
+    "Vargas",
+    "Demirovic"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:56:15.974885+00:00"
 }

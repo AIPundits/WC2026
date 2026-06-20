@@ -1,0 +1,24 @@
+{
+  "team_code": "HAI",
+  "fixture_id": "031",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.06,
+  "draw_probability": 0.11,
+  "loss_probability": 0.83,
+  "key_factors": [
+    "Haiti failed to score vs Scotland \u2014 Round 1 tournament evidence outweighs pre-tournament optimism",
+    "Brazil's attacking width (Vin\u00edcius, Raphinha) decisive against a Haiti defensive block",
+    "Scorecard shows I over-predicted opponent goal count in Round 1 \u2014 trimming Brazil from 3 to 2",
+    "Bellegarde yellow card restricts Haiti's best creator in their most important match"
+  ],
+  "predicted_scorers": [
+    "Vin\u00edcius",
+    "Raphinha"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:45:05.084906+00:00"
+}

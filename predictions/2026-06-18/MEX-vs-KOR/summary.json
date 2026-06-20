@@ -1,1 +1,11 @@
-"Pundits split: MEX Pundit predicts 2-1 Mexico win citing home altitude advantage at Guadalajara, H2H dominance (4W 1D 1L recent, 2 WC wins), and Jiménez-Quiñones attacking quality. KOR Pundit predicts 1-1 draw, arguing Kim Min-jae neutralises Mexico's attack, Son Heung-min/Hwang In-beom steal a point, and Edson Álvarez's positional shift to CB creates a central midfield void Korea will exploit. Both pundits treat this as a genuinely 50/50 fixture — the most contested debate of the matchday."
+{
+  "fixture_id": "028",
+  "fixture_date": "2026-06-18",
+  "home_code": "MEX",
+  "away_code": "KOR",
+  "turns": 10,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.1388981,
+  "model": "claude-sonnet-4-6"
+}

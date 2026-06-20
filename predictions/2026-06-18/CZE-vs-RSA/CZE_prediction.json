@@ -1,15 +1,25 @@
 {
-  "fixture_id": "025",
   "team_code": "CZE",
+  "fixture_id": "025",
   "predicted_score": {
-    "home": 2,
-    "away": 0
+    "self": 2,
+    "opponent": 1
   },
-  "outcome": "home_win",
-  "confidence": "high",
-  "key_factor": "RSA double midfield suspension (Sithole + Zwane) creates structural weakness that Czech Republic's organised 3-4-2-1 and Schick's quality will exploit",
+  "win_probability": 0.57,
+  "draw_probability": 0.21,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "South Africa double midfield suspension \u2014 structural void against Sou\u010dek",
+    "Schick individual quality as match-decider",
+    "Mudau/Rayners wide transition threat matching CZE's demonstrated vulnerability",
+    "Mutual must-win reduces draw likelihood"
+  ],
   "predicted_scorers": [
     "Schick",
-    "Hlozek"
-  ]
+    "Sou\u010dek",
+    "Rayners"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:51:20.090631+00:00"
 }

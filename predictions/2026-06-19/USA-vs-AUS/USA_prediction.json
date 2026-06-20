@@ -1,0 +1,24 @@
+{
+  "team_code": "USA",
+  "fixture_id": "029",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.34,
+  "draw_probability": 0.4,
+  "loss_probability": 0.26,
+  "key_factors": [
+    "Pulisic fitness unresolved \u2014 binary swing variable",
+    "Australia compact block proven vs high-volume attack (Turkey)",
+    "Balogun in-tournament form the most credible USA goal route",
+    "Irankunda counter-attack threat against committed high-press"
+  ],
+  "predicted_scorers": [
+    "Balogun",
+    "Irankunda"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:35:09.206598+00:00"
+}

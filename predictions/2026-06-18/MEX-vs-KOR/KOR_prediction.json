@@ -1,15 +1,24 @@
 {
-  "fixture_id": "028",
   "team_code": "KOR",
+  "fixture_id": "028",
   "predicted_score": {
-    "home": 1,
-    "away": 1
+    "self": 1,
+    "opponent": 2
   },
-  "outcome": "draw",
-  "confidence": "medium",
-  "key_factor": "Kim Min-jae's defensive authority neutralises Jiménez; Hwang In-beom or Son Heung-min snatch an equaliser; Korea's tactical discipline prevents a Mexico victory despite home advantage",
+  "win_probability": 0.32,
+  "draw_probability": 0.3,
+  "loss_probability": 0.38,
+  "key_factors": [
+    "H2H record and both prior WC meetings consistently favour Mexico",
+    "\u00c1lvarez CB shift introduces midfield void \u2014 partially mitigated by Lira",
+    "Hwang In-beom WC tournament form genuine but one-match sample",
+    "Qui\u00f1ones width (if fit) pins Korea's wing-backs and reduces transition threat"
+  ],
   "predicted_scorers": [
-    "Jiménez (MEX)",
-    "Son Heung-min (KOR)"
-  ]
+    "Hwang In-beom",
+    "Jim\u00e9nez"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T15:03:48.738728+00:00"
 }

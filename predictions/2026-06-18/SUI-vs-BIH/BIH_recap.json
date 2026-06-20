@@ -1,0 +1,22 @@
+{
+  "team_code": "BIH",
+  "fixture_id": "026",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-4 (loss)",
+  "narrative": "A 1-4 scoreline against Nati is not a result you explain away with a late set-piece deflection — Switzerland were simply better, more clinical, and more dangerous than I gave them credit for throughout this debate. I correctly identified that BIH would score (Mahmic's goal held up) and that Vargas was a genuine Swiss attacking threat, but those two minor hits are buried under the fact that I predicted Nati would score once and they scored four, which means my fundamental read on Switzerland's attacking quality was wrong by a factor that no calibration footnote can rescue. The Nati pundit consistently argued Embolo's physicality and Swiss experience would be decisive, and I kept routing that back to \"but the counter-attack exists\" — what I failed to adequately weight was that a compromised BIH backline (Kolasinac's fitness doubt was real, not hypothetical) would not just face a threat, it would be systematically dismantled by a Swiss side that proved far more clinical against us than they had been against Qatar. The one correction I'd make: I treated BIH's R1 defensive organisation as predictive of this match without adequately stress-testing what that defensive structure looked like if Kolasinac was unavailable against a Nati side with Manzambi — who I never once flagged as a threat — scoring twice.\n\n```json\n{\n  \"got_right\": [\"BIH would score at least once\", \"Vargas identified as a Swiss attacking threat\", \"Nati fitness concerns in R1 were real but didn't define this match\"],\n  \"got_wrong\": [\"massively underestimated Nati's clinical finishing — 4 goals vs predicted 1\", \"Kolasinac fitness doubt treated as manageable uncertainty rather than structural risk\", \"Manzambi not identified as a threat despite becoming the match's decisive scorer\", \"over-weighted BIH R1 defensive organisation as stable across both fixtures\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested what BIH's defensive structure actually looked like without Kolasinac — rather than leaving it as an abstract 'swing variable', I should have modelled the specific backline reshuffling required and weighted Switzerland's attacking threat against that weakened unit accordingly.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T20:59:01.933097+00:00",
+  "got_right": [
+    "BIH would score at least once",
+    "Vargas identified as a Swiss attacking threat",
+    "Nati fitness concerns in R1 were real but didn't define this match"
+  ],
+  "got_wrong": [
+    "massively underestimated Nati's clinical finishing — 4 goals vs predicted 1",
+    "Kolasinac fitness doubt treated as manageable uncertainty rather than structural risk",
+    "Manzambi not identified as a threat despite becoming the match's decisive scorer",
+    "over-weighted BIH R1 defensive organisation as stable across both fixtures"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested what BIH's defensive structure actually looked like without Kolasinac — rather than leaving it as an abstract 'swing variable', I should have modelled the specific backline reshuffling required and weighted Switzerland's attacking threat against that weakened unit accordingly."
+}

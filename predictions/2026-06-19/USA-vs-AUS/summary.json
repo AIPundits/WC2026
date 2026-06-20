@@ -1,0 +1,11 @@
+{
+  "fixture_id": "029",
+  "fixture_date": "2026-06-19",
+  "home_code": "USA",
+  "away_code": "AUS",
+  "turns": 12,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.5863069999999997,
+  "model": "claude-sonnet-4-6"
+}

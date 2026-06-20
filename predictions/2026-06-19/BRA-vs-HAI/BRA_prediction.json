@@ -1,0 +1,25 @@
+{
+  "team_code": "BRA",
+  "fixture_id": "031",
+  "predicted_score": {
+    "self": 3,
+    "opponent": 0
+  },
+  "win_probability": 0.8,
+  "draw_probability": 0.11,
+  "loss_probability": 0.09,
+  "key_factors": [
+    "Haiti failed to score vs Scotland \u2014 Round 1 evidence weighs against them converting chances",
+    "Brazil's attacking width (Vin\u00edcius, Raphinha) and depth (Endrick) overwhelming for Haiti",
+    "Scorecard shows I over-predicted Brazil previously \u2014 calibrating away from gifting Haiti a goal on abstract defensive leakiness",
+    "H2H \u2014 Brazil have never lost to Haiti and outscored them 10+ across four meetings"
+  ],
+  "predicted_scorers": [
+    "Vin\u00edcius",
+    "Raphinha",
+    "Endrick"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:45:05.084185+00:00"
+}

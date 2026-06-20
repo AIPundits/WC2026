@@ -1,0 +1,23 @@
+{
+  "team_code": "CAN",
+  "fixture_id": "027",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "6-0 (win)",
+  "narrative": "I got the winner right and correctly identified that The Maroons' open-play attacking output was severely limited — their 6-0 capitulation confirms they had no route back once Canada took control, exactly as the quality gap suggested. But I badly underestimated the *scale* of that gap: I predicted 2-1 and worried about clean sheets based on my scorecard calibration, when in reality The Maroons' defence was not just beatable but historically leaky — conceding six, including a Jonathan David hat-trick and an own goal, is a total structural collapse, not a one-goal set-piece concession. My calibration adjustment (respecting Qatar's set-piece and Afif counter-attack threats more) was technically reasonable given the evidence available, but it overcorrected — The Maroons' defensive fragility against a direct, physical Canada attack was far worse than anything their Switzerland draw suggested. The scorecard lesson here is the opposite of Round 1: against significantly weaker opposition, I need to be less afraid of the clean-sheet prediction and more willing to back the quality gap to produce a margin, not just a narrow win.\n\n```json\n{\n  \"got_right\": [\"Canada win\", \"Larin and David as primary goal threats\", \"The Maroons' limited open-play attacking output\", \"quality gap was decisive\"],\n  \"got_wrong\": [\"massively underestimated the scoring margin\", \"overweighted The Maroons' set-piece and defensive resilience based on Switzerland draw\", \"Afif counter-attack threat was never materialised\", \"scorecard over-correction led to excessive caution on scoreline\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would discard The Maroons' 1-1 draw with Switzerland as evidence of defensive solidity and instead weight the underlying quality gap more heavily — a deflected-header equaliser in stoppage time is not a sign of a backline capable of handling a David-Larin partnership for 90 minutes.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T00:02:54.813285+00:00",
+  "got_right": [
+    "Canada win",
+    "Larin and David as primary goal threats",
+    "The Maroons' limited open-play attacking output",
+    "quality gap was decisive"
+  ],
+  "got_wrong": [
+    "massively underestimated the scoring margin",
+    "overweighted The Maroons' set-piece and defensive resilience based on Switzerland draw",
+    "Afif counter-attack threat was never materialised",
+    "scorecard over-correction led to excessive caution on scoreline"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would discard The Maroons' 1-1 draw with Switzerland as evidence of defensive solidity and instead weight the underlying quality gap more heavily — a deflected-header equaliser in stoppage time is not a sign of a backline capable of handling a David-Larin partnership for 90 minutes."
+}

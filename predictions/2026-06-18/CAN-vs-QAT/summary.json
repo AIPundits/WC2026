@@ -1,1 +1,11 @@
-"Both pundits predict Canada win. CAN Pundit confident at 2-0; QAT Pundit concedes Canada quality advantage but backs Akram Afif to earn a consolation — predicting 2-1 Canada. Key factors: BC Place home atmosphere, David-Larin strike partnership vs Qatar's low-block model; Qatar's counter-attacking threat through Afif acknowledged by both sides but seen as insufficient to prevent defeat. QAT Pundit notes Canada's 2022 World Cup vulnerability (0W, 12 GA) but accepts the 2026 squad is stronger and playing at home."
+{
+  "fixture_id": "027",
+  "fixture_date": "2026-06-18",
+  "home_code": "CAN",
+  "away_code": "QAT",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.5404039500000001,
+  "model": "claude-sonnet-4-6"
+}

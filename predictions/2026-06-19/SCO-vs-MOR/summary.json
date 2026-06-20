@@ -1,0 +1,11 @@
+{
+  "fixture_id": "030",
+  "fixture_date": "2026-06-19",
+  "home_code": "SCO",
+  "away_code": "MOR",
+  "turns": 12,
+  "consensus_reached": true,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 1.7044720500000001,
+  "model": "claude-sonnet-4-6"
+}

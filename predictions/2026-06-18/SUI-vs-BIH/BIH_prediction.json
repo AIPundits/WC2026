@@ -1,15 +1,24 @@
 {
-  "fixture_id": "026",
   "team_code": "BIH",
+  "fixture_id": "026",
   "predicted_score": {
-    "home": 1,
-    "away": 1
+    "self": 1,
+    "opponent": 1
   },
-  "outcome": "draw",
-  "confidence": "low",
-  "key_factor": "Bosnia's disciplined low-block can contain Switzerland without Shaqiri; but fitness doubts over Džeko/Kolasinac prevent confidence in a BIH win",
+  "win_probability": 0.26,
+  "draw_probability": 0.36,
+  "loss_probability": 0.38,
+  "key_factors": [
+    "own R1 calibration supports draw prediction \u2014 exact score correct vs Canada",
+    "Nati pundit R1 over-confidence corrected but Swiss still marginal win favourites",
+    "BIH counter-attack model genuine threat even vs patient Swiss possession",
+    "fitness doubts unconfirmed \u2014 Kolasinac/D\u017eeko remain key swing variable"
+  ],
   "predicted_scorers": [
-    "Lukic (BIH)",
-    "Embolo (SUI)"
-  ]
+    "Demirovic",
+    "Embolo"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:56:15.975417+00:00"
 }

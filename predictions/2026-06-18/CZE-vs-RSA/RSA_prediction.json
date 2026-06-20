@@ -1,15 +1,24 @@
 {
-  "fixture_id": "025",
   "team_code": "RSA",
+  "fixture_id": "025",
   "predicted_score": {
-    "home": 2,
-    "away": 1
+    "self": 1,
+    "opponent": 2
   },
-  "outcome": "home_win",
-  "confidence": "medium",
-  "key_factor": "Czech Republic's quality in attack is too much for a depleted RSA midfield, but Bafana's spirit and Williams will extract a consolation goal",
+  "win_probability": 0.24,
+  "draw_probability": 0.22,
+  "loss_probability": 0.54,
+  "key_factors": [
+    "Double midfield suspension (Sithole, Zwane) \u2014 structural void, especially Zwane's creativity",
+    "Schick individual quality as primary match-decider",
+    "Calibration adjustment: over-predicted RSA goals in Round 1 \u2014 nudging CZE win probability up",
+    "CZE transition vulnerability (conceded vs Korea) keeps Rayners/Mudau as live threats"
+  ],
   "predicted_scorers": [
-    "Schick (CZE)",
-    "Rayners (RSA)"
-  ]
+    "Schick",
+    "Rayners"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:51:20.091169+00:00"
 }

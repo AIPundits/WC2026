@@ -1,0 +1,23 @@
+{
+  "team_code": "QAT",
+  "fixture_id": "027",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-6 (loss)",
+  "narrative": "I correctly identified that Les Rouges would win and that the Larin-David partnership was the central attacking threat — David's hat-trick and Larin's goal vindicated both those calls entirely. What I got catastrophically wrong was the margin: I predicted Les Rouges would score twice, they scored six, and that gap isn't noise — it reflects a fundamental failure to model how completely Canada's attacking unit could dismantle Qatar's low-block once it was breached. I flagged Les Rouges' quality edge but framed it as a \"2-1 type of game,\" which in hindsight was anchored too heavily on Qatar's disciplined display against Switzerland rather than asking how badly that same structure could unravel under sustained, higher-quality pressure. The own goal from Manai is also a reminder that Les Rouges' set-piece and crossing delivery was a threat I acknowledged in reverse — for Qatar going forward — but failed to weight seriously enough in the direction Canada were actually delivering it.\n\n```json\n{\n  \"got_right\": [\"Les Rouges winning the match\", \"Larin-David partnership as the primary attacking mechanism\", \"Jonathan David as a goal threat\", \"Canada's overall quality superiority over Qatar\"],\n  \"got_wrong\": [\"completely underestimated Les Rouges' winning margin\", \"failed to model how badly Qatar's low-block would collapse under sustained Canada pressure\", \"Les Rouges' ability to score 6 not remotely considered\", \"Canada's set-piece and crossing threat in attack underweighted\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would stress-test the catastrophic loss scenario more explicitly — asking not just whether Les Rouges would win, but how badly Qatar's defensive structure could disintegrate against a David-Larin partnership with full home support, rather than anchoring on a tight scoreline based on Qatar's single disciplined display against a different opponent.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T00:02:54.813999+00:00",
+  "got_right": [
+    "Les Rouges winning the match",
+    "Larin-David partnership as the primary attacking mechanism",
+    "Jonathan David as a goal threat",
+    "Canada's overall quality superiority over Qatar"
+  ],
+  "got_wrong": [
+    "completely underestimated Les Rouges' winning margin",
+    "failed to model how badly Qatar's low-block would collapse under sustained Canada pressure",
+    "Les Rouges' ability to score 6 not remotely considered",
+    "Canada's set-piece and crossing threat in attack underweighted"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would stress-test the catastrophic loss scenario more explicitly — asking not just whether Les Rouges would win, but how badly Qatar's defensive structure could disintegrate against a David-Larin partnership with full home support, rather than anchoring on a tight scoreline based on Qatar's single disciplined display against a different opponent."
+}

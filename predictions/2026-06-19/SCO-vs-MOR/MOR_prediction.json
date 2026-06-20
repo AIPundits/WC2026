@@ -1,0 +1,24 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "030",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.35,
+  "draw_probability": 0.42,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Own scorecard shows over-predicted Morocco win vs Brazil \u2014 calibrating to draw",
+    "Both teams scored once in Round 1 \u2014 low-scoring match pattern consistent",
+    "Scotland's containment-and-counter shape designed to frustrate technically superior sides",
+    "Sofiane Diaz threat real but Morocco conversion limit confirmed by tournament evidence"
+  ],
+  "predicted_scorers": [
+    "Diaz",
+    "McGinn"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:41:11.936131+00:00"
+}

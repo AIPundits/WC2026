@@ -1,15 +1,25 @@
 {
-  "fixture_id": "027",
   "team_code": "QAT",
+  "fixture_id": "027",
   "predicted_score": {
-    "home": 2,
-    "away": 1
+    "self": 1,
+    "opponent": 2
   },
-  "outcome": "home_win",
-  "confidence": "medium",
-  "key_factor": "Canada's home advantage and superior quality will prevail, but Akram Afif's individual brilliance prevents a clean sheet for the hosts",
+  "win_probability": 0.14,
+  "draw_probability": 0.28,
+  "loss_probability": 0.58,
+  "key_factors": [
+    "Larin-David direct attacking partnership vs Qatar back four",
+    "Afif pace vs Sigur inexperience at right back",
+    "Qatar set-piece threat from corners",
+    "scorecard correction: systematic under-weighting of draws adjusted upward"
+  ],
   "predicted_scorers": [
-    "Afif (QAT)",
-    "David (CAN)"
-  ]
+    "Afif",
+    "David",
+    "Larin"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:59:23.762191+00:00"
 }
