@@ -2,32 +2,34 @@
 
 **Fixture:** 034 — 2026-06-20 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $0.5957
+**Turns:** 6 • **Consensus:** True • **Cost:** $0.8669
 
 ## Turn 1 — Die Mannschaft AI Pundit (GER) — `opening_statement`
 
-Die Mannschaft arrive at this fixture on the back of a statement Round 1 performance — seven goals, 3.91 xG, and a ruthless creative axis that functioned exactly as Nagelsmann drew it up. But Nagelsmann himself was first to say "tougher assignments lie ahead," and Ivory Coast are exactly that: they topped their CONCACAF qualifier and have already beaten Ecuador in Round 1, with Sébastien Haller and an organised midfield built around Kessié. That said, the Ivory Coast camp is carrying real turbulence — three key players already on yellows (Kessié, Fofana, Guela Doué) and the Elye Wahi spot-fixing saga hanging over their preparation, which is not nothing when you're trying to set up against Germany's press.
+The Round 3 briefing isn't generated yet — today is matchday for Round 2 (GER vs Ivory Coast, June 20). My briefing covers that fixture, so I'll open on that basis.
 
-The one concern I'm tracking closely on our side is Musiala, subbed off at 64' against Curaçao "as a precaution" — a player returning from a broken leg who is being managed raises legitimate questions about whether he starts, and how long he goes. Wirtz alone can carry a lot, but the half-space overload that unlocks compact defences really depends on both men being present and explosive. Ivory Coast have the quality to punish a Germany side that isn't fully switched on — they beat France 2-1 in a pre-tournament friendly, and that is actual evidence, not a friendly-shaped asterisk.
+---
 
-I'm going **Die Mannschaft 2 – Ivory Coast 1** — a win, but not a cricket score. Ivory Coast will create at least one clear chance, probably from a transition or a set piece, and Germany will need a second-half goal to put it to bed.
+Die Mannschaft arrive at this fixture top of Group E, having posted 7 goals and a remarkable 3.91 xG against Curaçao in Round 1 — that is tournament evidence, not a friendly, and it confirms the Musiala–Wirtz–Havertz creative spine is functioning. The one genuine uncertainty is Musiala himself, subbed off at 64' as a precaution by Nagelsmann: a player managed through a broken leg recovery who may see restricted minutes again, which slightly blunts the half-space threat that makes Germany so hard to hold. Against that, Ivory Coast carry serious structural problems into this fixture — three key midfielders (Kessié, Seko Fofana, Guela Doué) already on yellows after Round 1, which forces Faé into a more cautious setup than the one that ground out a 90th-minute win over Ecuador, and the Elye Wahi off-field situation adds genuine preparation noise at a critical moment. Ivory Coast's pre-tournament 2-1 win over France shows they have the ceiling to hurt elite European sides, so this isn't a mismatch — but the accumulated edge in quality, fitness clarity, and squad harmony sits firmly with Die Mannschaft.
+
+My call is **Die Mannschaft 2 – Ivory Coast 1**.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.60,
+  "win_probability": 0.61,
   "draw_probability": 0.22,
-  "loss_probability": 0.18,
-  "key_factors": ["Musiala fitness management limits Germany's creative ceiling", "Ivory Coast squad disruption (Wahi situation, yellow card accumulation)", "Ivory Coast proven capable of beating elite European sides"],
+  "loss_probability": 0.17,
+  "key_factors": ["yellow card accumulation constrains CIV midfield aggression", "Germany Round 1 xG is tournament-level proof of attacking depth", "Musiala managed minutes a minor ceiling constraint", "Wahi off-field disruption adds preparation noise to CIV"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 2 — Les Éléphants AI Pundit (CIV) — `opening_statement`
 
-Les Éléphants arrive at this fixture with three points and real momentum — a 90th-minute Amad Diallo winner against Ecuador showed this squad can grind — but the Round 1 data flashes a serious warning I can't talk around: Kessié, Seko Fofana, and Guela Doué all carry yellow cards going into a match against a side that generated 3.91 xG in Round 1. Faé cannot let his midfielders play the same reckless, high-foul game that overcame Ecuador; against Germany's press and transition speed, a neutered midfield is an exposed backline. Germany have never lost to Côte d'Ivoire in a competitive fixture, and while the France friendly is actual evidence of ceiling, it is pre-tournament context — our Round 1 showed we needed a late individual moment to beat a side Ecuador had handled before. The Wahi off-field situation adds genuine preparation noise that belongs in the calculation, not dismissed.
+I have the briefing from earlier in this session — no need to re-fetch it. The picture is clear and my reasoning is consistent with what I've already established in the full debate above.
 
-Amad Diallo is the one player who can unlock this regardless of systemic constraints, and Germany's Musiala fitness doubt is a real factor that limits their half-space overloads — but I'm being honest: **Les Éléphants 1 – Germany 2**. We score through Amad Diallo's individual quality from wide, but Germany's attack finds the gaps a yellowed-out, cautious midfield will inevitably leave.
+Les Éléphants sit level on points with Germany at the top of Group E after a gritty 90th-minute Amad Diallo winner against Ecuador — three points earned, but not earned easily, and the discipline record in Round 1 is the defining constraint going into this fixture: Kessié, Seko Fofana, and Guela Doué all carry yellow cards, which means Faé cannot set up the physical, aggressive midfield that made Ecuador uncomfortable. Against Germany's pressing system and the Wirtz-Musiala half-space threat, a passive midfield is an invitation — and the Wahi off-field situation adds preparation disruption that belongs in the model. Germany's 3.91 xG in Round 1 is tournament-level evidence of attacking quality, even accounting for Curaçao's limitations, and CIV have never beaten Germany in competitive football. Amad Diallo's individual brilliance is real and he remains the one player who can change this regardless of system — but I'm not going to talk ourselves into a win prediction the evidence doesn't support. **My opening call is Les Éléphants 1 – Germany 2.**
 
 ```json
 {
@@ -35,50 +37,16 @@ Amad Diallo is the one player who can unlock this regardless of systemic constra
   "win_probability": 0.20,
   "draw_probability": 0.25,
   "loss_probability": 0.55,
-  "key_factors": ["yellow card accumulation constrains CIV midfield aggression", "Germany's attacking depth and Round 1 xG evidence", "Amad Diallo individual quality as CIV's primary threat", "Musiala fitness doubt limits Germany's creative ceiling slightly"],
+  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Amad Diallo individual quality as CIV's primary threat", "CIV no competitive win vs Germany in history"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 3 — Die Mannschaft AI Pundit (GER) — `rebuttal`
 
-We're aligned on the scoreline and largely on the reasoning — the yellow card constraint on Ivory Coast's midfield, Musiala's managed minutes, and Amad Diallo as their primary threat are all shared ground. The one piece of their argument that actually lands with me: Ivory Coast needed a 90th-minute individual moment to beat Ecuador, which is genuine Round 1 tournament evidence that they're not a side running over opponents — they're a side that can grind and create, but only just. That's marginally more reassuring for Die Mannschaft than I weighted in my opening. I'd gently push back on their framing of the France friendly as merely "pre-tournament context" — a 2-1 win over France is not qualifying-match noise, it shows Ivory Coast can execute against elite European backlines, which is worth keeping in the model, just weighted below the Ecuador match.
+We're essentially arguing from the same evidence base toward the same conclusion — the yellow card constraint on Ivory Coast's midfield, Germany's tournament-level xG, Amad Diallo as the isolated individual threat, and the Wahi distraction are all shared ground, and neither of us is pretending this is a comfortable walkover for Die Mannschaft. The one point worth adding to what Les Éléphants' pundit raised: CIV's H2H record against Germany in competitive football is a real signal, not just historical noise — it tells us something about how these sides match up tactically when the stakes are genuine, and it consistently favours Germany. Nothing in their rebuttal has moved me off my call.
 
-**Die Mannschaft 2 – Ivory Coast 1** remains my call, with a nudge upward on confidence given the convergence of evidence.
-
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.63,
-  "draw_probability": 0.21,
-  "loss_probability": 0.16,
-  "key_factors": ["Ivory Coast Round 1 required 90th-minute winner vs Ecuador — not a dominant side", "yellow card accumulation neutralises CIV's midfield aggression", "Amad Diallo individual threat remains real", "Musiala fitness management a minor ceiling constraint"],
-  "confidence": "medium"
-}
-```
-
-## Turn 4 — Les Éléphants AI Pundit (CIV) — `rebuttal`
-
-The France friendly pushback is fair — I'll concede it. A 2-1 competitive win over France in June 2026, with Amad Diallo scoring the winner, is legitimate evidence that CIV can execute against elite European defensive lines, and I was too quick to bracket it as "just a friendly." It belongs in the model at reduced weight, not discarded. That said, we're largely arguing toward the same conclusion from the same evidence base, and the yellow card constraint remains the structural factor I keep returning to: Faé effectively cannot set up against Germany the way he set up against Ecuador, which removes the tactical identity that ground out that result. The one area I'd push back on slightly is the degree of reassurance the 90th-minute Ecuador win provides Germany — a side that can win ugly in the 90th minute is a side with composure under pressure, and that cuts both ways.
-
-Holding **Les Éléphants 1 – Germany 2**. Nothing in the rebuttal has materially shifted the picture.
-
-```json
-{
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.20,
-  "draw_probability": 0.25,
-  "loss_probability": 0.55,
-  "key_factors": ["yellow card accumulation forces passive midfield approach vs Germany's press", "Germany's Round 1 xG evidence is tournament-level proof of attacking quality", "Amad Diallo individual threat real but isolated without aggressive midfield support", "France friendly win confirms CIV ceiling against elite sides — not discarded, just contextualised"],
-  "confidence": "medium"
-}
-```
-
-## Turn 5 — Die Mannschaft AI Pundit (GER) — `final_prediction`
-
-My one scored prediction showed systematic underconfidence on Germany's attacking output — I called 4-0 against Curaçao and got 7-1, which is a clear pattern of capping the goal ceiling too conservatively. However, the correct calibration adjustment here is *not* to simply inflate Germany's score: Ivory Coast are a legitimate opponent, not a debutant side with structural defensive fragility, and their Round 1 tournament evidence shows composure and the ability to win under pressure. The yellow card constraint on Kessié, Fofana, and Guela Doué remains the structural factor that limits how effectively Ivory Coast can disrupt Germany's build-up, but it doesn't make them a passive side — Amad Diallo's individual quality is real and Faé will find a way to threaten on the break. The draw probability deserves respect here: roughly one in four group stage matches ends level, both sides have quality, and a cagey 1-1 is a live scenario if Germany ease off after an early goal — but the accumulated evidence (Germany's xG, the Wahi disruption, the yellow card constraint) tips the balance. My final call is **Die Mannschaft 2 – Ivory Coast 1**.
-
-Predicted scorers: Havertz, Wirtz.
+**Die Mannschaft 2 – Ivory Coast 1** holds.
 
 ```json
 {
@@ -86,17 +54,16 @@ Predicted scorers: Havertz, Wirtz.
   "win_probability": 0.62,
   "draw_probability": 0.22,
   "loss_probability": 0.16,
-  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Wahi off-field distraction adds preparation noise to CIV camp"],
-  "confidence": "medium",
-  "predicted_scorers": ["Havertz", "Wirtz"]
+  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Amad Diallo individual threat real but isolated", "competitive H2H record consistently favours Germany"],
+  "confidence": "medium"
 }
 ```
 
-## Turn 6 — Les Éléphants AI Pundit (CIV) — `final_prediction`
+## Turn 4 — Les Éléphants AI Pundit (CIV) — `rebuttal`
 
-One prediction on the board: I called Les Éléphants 2–1 Ecuador, got the result right but overshot the goals in both directions — actual was 1-0, meaning I overestimated CIV's attacking output *and* gave Ecuador a goal they never earned. That single data point nudges me toward caution on total goals here, and I'm noting it explicitly rather than ignoring it. Against Germany's press, with a constrained midfield, a lower-scoring match is more likely than a freer one — and the yellow card picture makes CIV defensively passive by necessity, not choice. The draw probability at 25% sits roughly at the group-stage base rate, and I'm comfortable leaving it there: a cagey 1-1 is live if Germany ease off an early lead, but the accumulated evidence — Germany's Round 1 attacking quality, CIV's structural midfield constraint, the Wahi disruption — still tips this decisively. **My final call is Les Éléphants 1 – Germany 2.**
+The H2H point is noted and I won't dismiss it — my briefing confirms CIV have no competitive win against Germany, and that is a genuine pattern, not anecdote. Where I'd gently push back: H2H records at World Cups are a thin sample across very different squad generations, and the France friendly (a 2026 win, not a 2014 ghost) shows this specific CIV crop can execute against elite European sides when the conditions are right. The conditions on June 20 are not quite right — the yellow card constraint, the Wahi distraction, the midfield limitation — so the H2H adds marginal weight to a conclusion the Round 1 evidence already pointed to. No new information in this rebuttal moves me; we're arguing from the same dataset toward the same destination.
 
-Predicted scorers: Amad Diallo (CIV), Wirtz (GER).
+**Les Éléphants 1 – Germany 2** holds.
 
 ```json
 {
@@ -104,7 +71,42 @@ Predicted scorers: Amad Diallo (CIV), Wirtz (GER).
   "win_probability": 0.20,
   "draw_probability": 0.25,
   "loss_probability": 0.55,
-  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Amad Diallo individual quality remains CIV's primary threat"],
+  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Amad Diallo individual quality as CIV's primary threat", "competitive H2H record consistently favours Germany"],
+  "confidence": "medium"
+}
+```
+
+## Turn 5 — Die Mannschaft AI Pundit (GER) — `final_prediction`
+
+My one scored prediction confirmed the direction I already flagged: I capped Germany's goal ceiling too conservatively against Curaçao (4-0 predicted, 7-1 actual), suggesting I systematically underestimate Germany's attacking output. The correct calibration here, though, is not to simply add goals — Ivory Coast are a genuinely different class of opponent to Curaçao, and a 5-0 projection would be wildly unmoored from what the evidence supports. What the scorecard does tell me is to resist capping the goal total too tightly: a 3-1 is arguably as live as a 2-1, particularly if Musiala starts and Germany find the game opening up after an early goal. I'll hold the shape of my prediction but acknowledge that 2 goals may be a slight underestimate of Germany's ceiling in a game where Ivory Coast's midfield constraint forces them to chase. My final call is **Die Mannschaft 2 – Ivory Coast 1**.
+
+Predicted scorers: Havertz, Wirtz, Diallo.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Amad Diallo individual threat as CIV's primary outlet", "scorecard calibration: Germany goal ceiling may be slightly underestimated"],
+  "confidence": "medium",
+  "predicted_scorers": ["Havertz", "Wirtz", "Diallo"]
+}
+```
+
+## Turn 6 — Les Éléphants AI Pundit (CIV) — `final_prediction`
+
+My one scored prediction overestimated goals in both directions — I called Les Éléphants 2–1 Ecuador and got 1-0, so the calibration signal is clear: I'm running hot on total goals. That pushes me toward restraint here, but Germany's Round 1 attacking output is genuinely a different proposition from Ecuador's, so I'm not scaling back to a 0-1 scoreline — the evidence doesn't support that level of caution on Germany's end. The structural case is unchanged and consistent across this entire dialogue: CIV's yellowed midfielders cannot replicate the Ecuador approach, Amad Diallo remains the one genuine individual threat, and Germany's creative axis is tournament-proven. My draw probability sits at the base rate of roughly one in four, which feels right — a cagey 1-1 is live, but the accumulated weight of evidence tips decisively toward a German win. **My final call is Les Éléphants 1 – Germany 2.**
+
+Predicted scorers: Diallo, Wirtz.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.20,
+  "draw_probability": 0.25,
+  "loss_probability": 0.55,
+  "key_factors": ["yellow card accumulation forces passive CIV midfield vs Germany press", "Germany Round 1 xG is tournament-level attacking evidence", "Amad Diallo individual quality as CIV's primary threat"],
   "confidence": "medium",
   "predicted_scorers": ["Diallo", "Wirtz"]
 }
