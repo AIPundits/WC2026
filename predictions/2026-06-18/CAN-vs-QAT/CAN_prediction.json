@@ -1,0 +1,25 @@
+{
+  "team_code": "CAN",
+  "fixture_id": "027",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "Larin-David starting partnership vs Qatar aerial vulnerability",
+    "Kon\u00e9 midfield dominance",
+    "Qatar set-piece threat and Afif pace vs Sigur inexperience at RB",
+    "scorecard calibration: prior over-prediction of clean sheets corrected"
+  ],
+  "predicted_scorers": [
+    "David",
+    "Larin",
+    "Afif"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:59:23.761600+00:00"
+}

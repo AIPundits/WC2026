@@ -1,0 +1,20 @@
+{
+  "team_code": "PAN",
+  "fixture_id": "023",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "The scoreline tells a clean story: I overestimated Los Canaleros' attacking threat against Black Stars and underestimated how disciplined Ghana's defensive shape would be in a low-block. Caleb Yirenkyi's goal — a single clinical moment — was exactly the kind of transition-based counter that Black Stars are capable of, and I didn't weight that threat highly enough in my probability model. I predicted a Panama attacking output of two goals, which turned out to be entirely unfounded; Black Stars simply didn't give us the space to construct those chances. The one thing I did flag correctly was that Ghana could hurt us on the break, but I buried it under an optimistic win prediction rather than letting it drive a more cautious scoreline.\n\n```json\n{\n  \"got_right\": [\n    \"Black Stars' counter-attack threat was real\",\n    \"Ghana's defensive organisation would make scoring difficult\"\n  ],\n  \"got_wrong\": [\n    \"Overestimated Panama's ability to break down Black Stars' low block\",\n    \"Predicted two goals for Los Canaleros with no solid statistical basis\",\n    \"Underweighted Black Stars' ability to win a tight, low-scoring contest\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have anchored my scoreline prediction to Black Stars' defensive record and their capacity to steal games on a single set piece or transition rather than projecting a comfortable Panama attacking performance.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T09:44:13.193612+00:00",
+  "got_right": [
+    "Black Stars' counter-attack threat was real",
+    "Ghana's defensive organisation would make scoring difficult"
+  ],
+  "got_wrong": [
+    "Overestimated Panama's ability to break down Black Stars' low block",
+    "Predicted two goals for Los Canaleros with no solid statistical basis",
+    "Underweighted Black Stars' ability to win a tight, low-scoring contest"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have anchored my scoreline prediction to Black Stars' defensive record and their capacity to steal games on a single set piece or transition rather than projecting a comfortable Panama attacking performance."
+}

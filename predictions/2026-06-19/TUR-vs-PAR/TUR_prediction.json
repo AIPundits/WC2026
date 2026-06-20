@@ -1,0 +1,24 @@
+{
+  "team_code": "TUR",
+  "fixture_id": "032",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.47,
+  "draw_probability": 0.28,
+  "loss_probability": 0.25,
+  "key_factors": [
+    "Paraguay conceded 4 goals in Round 1 \u2014 defensive fragility is the clearest in-tournament data point",
+    "Y\u0131ld\u0131z starting from minute one is a material upgrade on Round 1 setup",
+    "Turkey's conversion crisis (0 goals from 30 attempts) is real tournament evidence \u2014 trimming win probability accordingly",
+    "Almir\u00f3n yellow card constrains Paraguay's most disruptive presence in the decisive midfield battle"
+  ],
+  "predicted_scorers": [
+    "Y\u0131ld\u0131z",
+    "G\u00fcler"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:48:40.009834+00:00"
+}

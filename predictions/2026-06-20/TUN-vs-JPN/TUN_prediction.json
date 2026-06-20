@@ -1,0 +1,24 @@
+{
+  "team_code": "TUN",
+  "fixture_id": "036",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.19,
+  "draw_probability": 0.21,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "Japan's Round 1 tactical discipline confirmed vs Netherlands",
+    "Tunisia's defensive ceiling over-estimated in prior prediction \u2014 calibrating downward",
+    "Japan unbeaten in last 4 H2H meetings",
+    "Tunisia must-win position opens transition space Japan's 3-4-3 exploits"
+  ],
+  "predicted_scorers": [
+    "Rekik",
+    "Mejbri"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T11:22:35.361693+00:00"
+}

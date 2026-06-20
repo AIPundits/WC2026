@@ -1,0 +1,25 @@
+{
+  "team_code": "JPN",
+  "fixture_id": "036",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.63,
+  "draw_probability": 0.19,
+  "loss_probability": 0.18,
+  "key_factors": [
+    "Japan's Round 1 tactical discipline confirmed vs Netherlands",
+    "Tunisia's defensive ceiling over-optimism corrected by Round 1 evidence",
+    "Japan unbeaten in last 4 H2H meetings vs Tunisia",
+    "Tunisia must-win position opens transition space for Japan's 3-4-3"
+  ],
+  "predicted_scorers": [
+    "Kamada",
+    "Ueda",
+    "Rekik"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T11:22:35.362280+00:00"
+}

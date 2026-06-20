@@ -1,11 +1,11 @@
 {
   "team_code": "BIH",
-  "predictions_made": 1,
-  "results_scored": 1,
+  "predictions_made": 2,
+  "results_scored": 2,
   "correct_winner": 1,
   "correct_scoreline_pattern": 1,
   "exact_score": 1,
-  "brier_score": 0.2222,
+  "brier_score": 0.208,
   "per_prediction": [
     {
       "fixture_id": "003",
@@ -17,6 +17,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.2222
+    },
+    {
+      "fixture_id": "026",
+      "date": "2026-06-18",
+      "opponent": "SUI",
+      "predicted": "1-1",
+      "actual": "1-4",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.1939
     }
   ]
 }

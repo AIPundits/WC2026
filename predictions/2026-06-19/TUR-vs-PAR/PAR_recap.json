@@ -1,0 +1,21 @@
+{
+  "team_code": "PAR",
+  "fixture_id": "032",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "Turkey's conversion crisis turned out to be the defining fact of this match — I flagged it explicitly as the primary risk to my prediction, and I still under-weighted it. I correctly identified that Ay-Yıldızlılar's 30-shots-zero-goals problem from Round 1 was real tournament evidence, but then predicted they'd score twice anyway on the strength of Yıldız starting, which was exactly the kind of \"quality will out\" hand-wave I should have caught myself making. What I got badly wrong was treating the 4-1 loss to USA as proof of a structural defensive collapse that couldn't be patched — Alfaro clearly reset the block, held Ay-Yıldızlılar to nothing, and Galarza nicked the only goal of the game. The thing I'd change: I should have treated Turkey's finishing profligacy as the dominant variable rather than a mitigating caveat, and modelled a tight, low-scoring game where Paraguay's defensive identity reasserted itself rather than assuming the USA collapse was the new baseline.\n\n```json\n{\n  \"got_right\": [\n    \"Turkey's conversion crisis was real — they scored zero goals again despite needing a win\",\n    \"Flagged the match as likely low-scoring given both sides' attacking limitations\"\n  ],\n  \"got_wrong\": [\n    \"Over-weighted Yıldız starting as a guarantee of offensive output against a reorganised Paraguay defence\",\n    \"Treated Paraguay's 4-1 loss to USA as evidence of permanent structural defensive collapse\",\n    \"Under-weighted Paraguay's ability to revert to their qualifying defensive identity against lower-quality opposition\",\n    \"Gave Turkey a 50% win probability when their in-tournament evidence pointed to a team that couldn't score\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have weighted Turkey's confirmed in-tournament conversion failure as the dominant variable and modelled a 1-0 or 0-0 outcome more seriously, rather than letting Yıldız's quality on paper override the evidence that Ay-Yıldızlılar simply couldn't finish.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:27:45.177367+00:00",
+  "got_right": [
+    "Turkey's conversion crisis was real — they scored zero goals again despite needing a win",
+    "Flagged the match as likely low-scoring given both sides' attacking limitations"
+  ],
+  "got_wrong": [
+    "Over-weighted Yıldız starting as a guarantee of offensive output against a reorganised Paraguay defence",
+    "Treated Paraguay's 4-1 loss to USA as evidence of permanent structural defensive collapse",
+    "Under-weighted Paraguay's ability to revert to their qualifying defensive identity against lower-quality opposition",
+    "Gave Turkey a 50% win probability when their in-tournament evidence pointed to a team that couldn't score"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have weighted Turkey's confirmed in-tournament conversion failure as the dominant variable and modelled a 1-0 or 0-0 outcome more seriously, rather than letting Yıldız's quality on paper override the evidence that Ay-Yıldızlılar simply couldn't finish."
+}

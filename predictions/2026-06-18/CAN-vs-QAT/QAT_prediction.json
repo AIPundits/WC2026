@@ -1,0 +1,25 @@
+{
+  "team_code": "QAT",
+  "fixture_id": "027",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.14,
+  "draw_probability": 0.28,
+  "loss_probability": 0.58,
+  "key_factors": [
+    "Larin-David direct attacking partnership vs Qatar back four",
+    "Afif pace vs Sigur inexperience at right back",
+    "Qatar set-piece threat from corners",
+    "scorecard correction: systematic under-weighting of draws adjusted upward"
+  ],
+  "predicted_scorers": [
+    "Afif",
+    "David",
+    "Larin"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T14:59:23.762191+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "fixture_id": "027",
+  "date": "2026-06-18",
+  "home": "CAN",
+  "away": "QAT",
+  "home_score": 6,
+  "away_score": 0,
+  "ingested_at": "2026-06-19T00:02:32.374761+00:00",
+  "goal_scorers": [
+    {
+      "name": "Cyle Larin",
+      "team": "home",
+      "minute": "16'",
+      "type": "Goal"
+    },
+    {
+      "name": "Jonathan David",
+      "team": "home",
+      "minute": "29'",
+      "type": "Goal"
+    },
+    {
+      "name": "Jonathan David",
+      "team": "home",
+      "minute": "45'+3'",
+      "type": "Goal"
+    },
+    {
+      "name": "Mohamed Manai",
+      "team": "home",
+      "minute": "75'",
+      "type": "Own Goal"
+    },
+    {
+      "name": "Jonathan David",
+      "team": "home",
+      "minute": "90'+2'",
+      "type": "Goal"
+    }
+  ]
+}

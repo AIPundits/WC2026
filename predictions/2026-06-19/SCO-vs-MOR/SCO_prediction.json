@@ -1,0 +1,24 @@
+{
+  "team_code": "SCO",
+  "fixture_id": "030",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.19,
+  "draw_probability": 0.37,
+  "loss_probability": 0.44,
+  "key_factors": [
+    "Both teams scored once in Round 1 \u2014 low-scoring match pattern consistent across the evidence",
+    "Morocco quality advantage real but conversion limit confirmed by 1-1 vs Brazil",
+    "Scotland over-estimated goal output vs Haiti \u2014 calibrating down on SCO goals",
+    "Draw market pricing \u226525% consistent with Morocco's draw tendency and Clarke's containment shape"
+  ],
+  "predicted_scorers": [
+    "McGinn",
+    "Diaz"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:41:11.934807+00:00"
+}

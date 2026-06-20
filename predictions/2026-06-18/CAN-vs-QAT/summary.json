@@ -1,0 +1,11 @@
+{
+  "fixture_id": "027",
+  "fixture_date": "2026-06-18",
+  "home_code": "CAN",
+  "away_code": "QAT",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.5404039500000001,
+  "model": "claude-sonnet-4-6"
+}

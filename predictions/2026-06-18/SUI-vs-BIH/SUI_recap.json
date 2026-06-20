@@ -1,0 +1,23 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "026",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "4-1 (win)",
+  "narrative": "I got the winner right but badly underestimated the margin — Nati put four past Zmajevi when I called two, which means I significantly over-rated Bosnia's ability to stay compact and limit Switzerland's attacking output. What I got right: Zmajevi did score (Mahmic, as anticipated given their R1 evidence against Canada), and Vargas delivered as a goal threat exactly as I flagged. What I got wrong was treating Zmajevi's counter-attacking discipline as a persistent structural feature — once the game opened up, Bosnia's defensive organisation collapsed under sustained Swiss pressure in a way I didn't adequately price, and Manzambi, whom I never mentioned once, turned out to be the decisive attacking weapon. The Zmajevi pundit's case for Bosnia's compact defensive model was well-argued but the match exposed it as fragile once breached.\n\n```json\n{\n  \"got_right\": [\"Nati win correctly called\", \"Zmajevi scoring — Mahmic delivered as anticipated\", \"Vargas flagged as goal threat and scored\", \"Bosnia's defensive vulnerability under sustained pressure\"],\n  \"got_wrong\": [\"massively underestimated Switzerland's winning margin against Zmajevi\", \"Manzambi not identified as a threat despite scoring twice\", \"over-rated Zmajevi's ability to stay organised once the game opened\", \"Zmajevi counter-attack model overstated as a sustained structural asset\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"Stress-test Zmajevi's defensive resilience more rigorously — their R1 performance against Canada was against one goal, but I should have considered how their structure might collapse once a quality side broke through early.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T20:59:01.932364+00:00",
+  "got_right": [
+    "Nati win correctly called",
+    "Zmajevi scoring — Mahmic delivered as anticipated",
+    "Vargas flagged as goal threat and scored",
+    "Bosnia's defensive vulnerability under sustained pressure"
+  ],
+  "got_wrong": [
+    "massively underestimated Switzerland's winning margin against Zmajevi",
+    "Manzambi not identified as a threat despite scoring twice",
+    "over-rated Zmajevi's ability to stay organised once the game opened",
+    "Zmajevi counter-attack model overstated as a sustained structural asset"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "Stress-test Zmajevi's defensive resilience more rigorously — their R1 performance against Canada was against one goal, but I should have considered how their structure might collapse once a quality side broke through early."
+}

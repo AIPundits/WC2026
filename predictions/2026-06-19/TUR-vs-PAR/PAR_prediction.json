@@ -1,0 +1,25 @@
+{
+  "team_code": "PAR",
+  "fixture_id": "032",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.24,
+  "draw_probability": 0.26,
+  "loss_probability": 0.5,
+  "key_factors": [
+    "Paraguay conceded 3 goals before HT vs USA \u2014 defensive fragility is confirmed tournament evidence",
+    "Turkey's conversion crisis is real but Y\u0131ld\u0131z starting from minute one is a material tactical upgrade",
+    "Both teams must win \u2014 open, decisive game more likely than cagey draw",
+    "Almir\u00f3n yellow card constrains Paraguay's most dangerous creative presence"
+  ],
+  "predicted_scorers": [
+    "Almir\u00f3n",
+    "Y\u0131ld\u0131z",
+    "G\u00fcler"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-19T14:48:40.010566+00:00"
+}

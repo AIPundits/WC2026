@@ -1,0 +1,11 @@
+{
+  "fixture_id": "028",
+  "fixture_date": "2026-06-18",
+  "home_code": "MEX",
+  "away_code": "KOR",
+  "turns": 10,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.1388981,
+  "model": "claude-sonnet-4-6"
+}

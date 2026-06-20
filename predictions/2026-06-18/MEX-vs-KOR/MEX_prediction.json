@@ -1,0 +1,24 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "028",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.52,
+  "draw_probability": 0.25,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "H2H record and both prior WC meetings consistently favour Mexico",
+    "\u00c1lvarez CB shift introduces midfield void \u2014 partially mitigated by Lira",
+    "Hwang In-beom WC form is real tournament evidence but one-match sample",
+    "Qui\u00f1ones width (if fit) pins Korea's wing-backs and opens central channels"
+  ],
+  "predicted_scorers": [
+    "Jim\u00e9nez",
+    "Qui\u00f1ones"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-18T15:03:48.738166+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "030",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "I was right about Morocco's quality advantage over The Scots and right that Scotland's attack was too limited to be a consistent goal threat — Clarke's containment shape, as I argued throughout, also capped The Scots' own output, and they couldn't find the set-piece moment I'd flagged as their most likely route. What I got wrong was the clean sheet: I kept conceding Scotland one goal throughout the debate, pricing in McGinn's aerial threat, but The Scots never found a way through Morocco's defensive shape — the very organisation I'd praised for surviving Brazil held firm against weaker opposition too. The irony is that my opening prediction of **Atlas Lions 2 – The Scots 1** was closer to the spirit of the result than my final call of 1-1; I let the Brazil scorecard calibration signal pull me off a prediction that the evidence — Morocco's structural superiority, The Scots' limited attack — actually supported. Saibari, who I'd flagged in my briefing as a scoring threat, delivered the winner, which makes the late capitulation to the draw call sting more.\n\n```json\n{\n  \"got_right\": [\n    \"Morocco's quality advantage over The Scots was the decisive factor\",\n    \"Scotland's attacking output was too limited to score — containment shape also caps their own threat\",\n    \"Saibari identified as a genuine scoring threat — he was the match-winner\"\n  ],\n  \"got_wrong\": [\n    \"Over-priced Scotland's set-piece route to a goal — McGinn never delivered\",\n    \"Late calibration flip to draw was driven by Brazil match scorecard, not Scotland-specific evidence\",\n    \"Under-weighted Morocco's ability to keep a clean sheet against The Scots' limited attack\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would not have let the Brazil match scorecard signal override the Scotland-specific evidence — the draw vs Brazil came against world-class opposition, and that calibration did not apply to a match against a team whose attacking ceiling was far lower.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T08:26:19.729204+00:00",
+  "got_right": [
+    "Morocco's quality advantage over The Scots was the decisive factor",
+    "Scotland's attacking output was too limited to score — containment shape also caps their own threat",
+    "Saibari identified as a genuine scoring threat — he was the match-winner"
+  ],
+  "got_wrong": [
+    "Over-priced Scotland's set-piece route to a goal — McGinn never delivered",
+    "Late calibration flip to draw was driven by Brazil match scorecard, not Scotland-specific evidence",
+    "Under-weighted Morocco's ability to keep a clean sheet against The Scots' limited attack"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would not have let the Brazil match scorecard signal override the Scotland-specific evidence — the draw vs Brazil came against world-class opposition, and that calibration did not apply to a match against a team whose attacking ceiling was far lower."
+}

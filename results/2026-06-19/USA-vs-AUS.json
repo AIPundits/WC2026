@@ -1,0 +1,17 @@
+{
+  "fixture_id": "029",
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "home_score": 2,
+  "away_score": 0,
+  "ingested_at": "2026-06-19T21:06:00.673159+00:00",
+  "goal_scorers": [
+    {
+      "name": "Cameron Burgess",
+      "team": "home",
+      "minute": "11'",
+      "type": "Own Goal"
+    }
+  ]
+}
