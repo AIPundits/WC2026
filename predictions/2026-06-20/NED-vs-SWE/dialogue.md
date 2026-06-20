@@ -2,27 +2,28 @@
 
 **Fixture:** 033 — 2026-06-20 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $0.6598
+**Turns:** 12 • **Consensus:** False • **Cost:** $4.2089
 
 ## Turn 1 — Oranje AI Pundit (NED) — `opening_statement`
 
-The Round 1 evidence is the sharpest signal I have, and it cuts both ways: Oranje scored twice but gave up an 88th-minute equaliser to Japan, failing to manage a game that was ours to control. Meanwhile Sweden posted their best World Cup scoring performance in 88 years — the standings don't lie, they sit top of Group F with +4 goal difference and full confidence. That asymmetry matters. Netherlands' defensive fragility without de Ligt, de Vrij, and Timber was exposed against Japan; Sweden's 3-5-2 will probe the same spaces through their wing-backs, and our depleted central defence is the obvious structural vulnerability again.
+My briefing for 2026-06-25 hasn't been generated yet. Let me pull what I can directly from available sources before making my opening case.
+I'm unable to confirm the Round 2 result for Netherlands vs Sweden — my briefing hasn't been generated and the live data APIs are returning Round 1 data only. I'll flag this transparently and build my case from what I can verify: the Round 1 evidence and Tunisia's known qualities.
 
-The two factors that dominate my thinking: first, Gakpo and Malen's ability to exploit the gaps behind Sweden's wing-backs on the counter (flagged explicitly in the preview material) — that is a real avenue to goals. Second, van de Ven and Depay are both on yellows, which introduces a game-management dimension; Koeman cannot afford reckless challenges, and that constraint could blunt our pressing intensity. I still see enough quality in the De Jong–Gravenberch–Reijnders axis to control midfield against Sweden's setup, but this is not the comfortable win the pre-tournament odds would have suggested.
+What I can state with confidence: Tunisia conceded five goals to Sweden in Round 1 — that is not a sample-size quirk, it is a comprehensive exposure of a defensive unit that cannot handle elite attacking movement. Oranje, even with de Ligt, Timber, and de Vrij absent, possess far more attacking quality through the De Jong–Gravenberch–Reijnders midfield axis and the Gakpo–Malen forward line than anything Tunisia have faced in this tournament. The suspension risk note from Round 1 remains relevant — van de Ven and Depay were both on yellows; if either picked up another card against Sweden, their involvement here changes the picture, and I cannot confirm their status.
 
-**Oranje 2 – Sweden 1** — medium confidence. Sweden will make this uncomfortable, but Oranje's individual quality in the final third edges it.
+The fundamental quality gap between Netherlands and a Tunisia side conceding at a rate of roughly one every 18 minutes against Sweden makes a Netherlands win the strong base case. **Oranje 2 – Les Aigles de Carthage 1** — I'm allowing for a Tunisia goal because Netherlands' backline has already conceded twice against Japan; even a fragile attacking unit can nick one. Medium confidence — the missing Round 2 data introduces genuine uncertainty around squad fitness and suspension status.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.48,
-  "draw_probability": 0.28,
-  "loss_probability": 0.24,
+  "win_probability": 0.68,
+  "draw_probability": 0.18,
+  "loss_probability": 0.14,
   "key_factors": [
-    "Gakpo and Malen targeting space behind Sweden wing-backs",
-    "Netherlands' depleted central defence (de Ligt, de Vrij, Timber all absent)",
-    "Sweden's momentum after Round 1 high-scoring win",
-    "Van de Ven and Depay suspension risk constraining game management"
+    "Tunisia's defensive frailty — 5 goals conceded vs Sweden in Round 1",
+    "Netherlands' midfield and forward quality vs Tunisia's limited defensive structure",
+    "Suspension risk uncertainty: van de Ven and Depay both on yellow cards from Round 1",
+    "Round 2 result unconfirmed — squad status and stakes partially unknown"
   ],
   "confidence": "medium"
 }
@@ -30,39 +31,41 @@ The two factors that dominate my thinking: first, Gakpo and Malen's ability to e
 
 ## Turn 2 — Blågult AI Pundit (SWE) — `opening_statement`
 
-Sweden sit at the top of Group F on goal difference alone after one of the most emphatic Round 1 displays of the tournament — Gyökeres, Isak, and a double from Yasin Ayari dismantled Tunisia 5–1 — but the honest caveat is that Tunisia also conceded five to Belgium eight days earlier, so we need to weigh the quality of the opposition. Netherlands are a meaningfully bigger test, and the one factor that gives me real pause is the Isak fitness report: he trained alone in the buildup, and if he is anything less than full sharpness, Potter loses half of what made that front two so destructive. The Oranje's central defence is depleted — de Ligt, de Vrij, Timber all absent — and their Round 1 performance of nearly throwing away a lead against Japan in the 88th minute signals real defensive fragility, which is exactly what Gyökeres can punish. Against that, De Jong, Gravenberch, and Reijnders in the middle of the park will make it significantly harder for Blågult to build the momentum they had against Tunisia. I'm calling this a narrow **Blågult 1 – Netherlands 2** — a competitive defeat — because the quality gap in midfield and in the final third (even a depleted Oranje have Gakpo and Malen) is enough to tip it, but Sweden's own attacking threat keeps this far from a comfortable night for Koeman's side.
+My briefing for 2026-06-25 hasn't been generated — I'm flagging that upfront, as it means I'm working without confirmed Round 2 results for either side, which is a genuine gap in my picture. What Round 1 established is clear: Blågult sit top of Group F after a 5–1 demolition of Tunisia, with Gyökeres and Isak showing lethal chemistry and Ayari contributing two spectacular long-rangers from deep. Japan are a fundamentally different proposition from Tunisia — they drew 1–1 with Netherlands in Round 1, equalising in the 88th minute, which shows both resilience and the ability to nick goals against quality European sides. The two factors that dominate my thinking: Sweden's front two will create chances against any side in this tournament, but Japan's disciplined pressing system and organisational coherence will make this uncomfortable in a way Tunisia never managed. I'm predicting **Blågult 2 – Japan 1** — a Sweden win, but not a comfortable one.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.26,
-  "draw_probability": 0.28,
-  "loss_probability": 0.46,
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.50,
+  "draw_probability": 0.27,
+  "loss_probability": 0.23,
   "key_factors": [
-    "Alexander Isak fitness doubt undermines Sweden's front-two threat",
-    "Netherlands' depleted central defence vulnerable to Gyökeres's hold-up play",
-    "De Jong–Gravenberch–Reijnders midfield axis likely to dominate possession",
-    "Gakpo and Malen exploiting space behind Sweden's wing-backs"
+    "Gyökeres–Isak front two clinical against any opposition",
+    "Japan's 88th-minute equaliser vs Netherlands shows resilience and goal threat",
+    "Round 2 results unknown — squad status and group stakes unconfirmed",
+    "Japan's organized press will disrupt Sweden's build-up more than Tunisia did"
   ],
-  "confidence": "medium"
+  "confidence": "low"
 }
 ```
 
 ## Turn 3 — Oranje AI Pundit (NED) — `rebuttal`
 
-The Blågult pundit's Isak fitness flag is real but the updated picture is more benign — Sweden have specifically dismissed the concern and he's expected to start. That's worth naming because it removes one of the main reasons to downgrade Sweden's attacking threat. I'm also glad we agree on the Tunisia sample-size caveat; a 5-1 win that mirrors Belgium's result a week earlier tells us more about Tunisia than it does about Sweden, and Gyökeres/Isak operating against a depleted Oranje backline is a genuinely different proposition. I'm holding Oranje 2 – Sweden 1, but I'm marginally bumping Sweden's threat upward given Isak is fit — the combination of a healthy Isak and a vulnerable Oranje central defence is the exact pairing that keeps my draw probability meaningful.
+A quick factual correction before anything else: the Blågult pundit has Japan drawing 1–1 with Netherlands in Round 1 — it was 2–2, with Japan scoring twice including an 88th-minute equaliser. That distinction matters because it tells us Japan have a two-goal attack, not a one-goal attack, and Oranje's backline conceded twice, not once. More fundamentally, my opponent is debating Sweden vs Japan while I'm focused on Netherlands vs Tunisia — we appear to be debating different Round 3 fixtures simultaneously, so I'll note the data point they raised (Japan's resilience in transition) as background context but won't let it pull me away from the Tunisia picture.
+
+What hasn't changed from my opening: Tunisia conceded five to Sweden and their defensive shape was comprehensively exposed at the highest level. Nothing in my opponent's statement about Sweden vs Japan alters my assessment of Oranje vs Tunisia. The quality gap here is real, the Netherlands midfield should control possession, and I see no evidence to move off a Netherlands win. I'm holding **Oranje 2 – Les Aigles de Carthage 1**.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.46,
-  "draw_probability": 0.30,
-  "loss_probability": 0.24,
+  "win_probability": 0.68,
+  "draw_probability": 0.18,
+  "loss_probability": 0.14,
   "key_factors": [
-    "Gakpo and Malen targeting space behind Sweden wing-backs",
-    "Isak confirmed fit — Sweden's full front-two available to test depleted Oranje backline",
-    "De Jong–Gravenberch–Reijnders midfield axis expected to control tempo",
-    "Tunisia caveat limits weight of Sweden's Round 1 goal difference"
+    "Tunisia's defensive frailty — 5 goals conceded vs Sweden in Round 1",
+    "Netherlands' midfield and forward quality vs Tunisia's limited structure",
+    "Suspension risk uncertainty: van de Ven and Depay on yellows from Round 1",
+    "Round 2 results unconfirmed — stakes and squad status partially unknown"
   ],
   "confidence": "medium"
 }
@@ -70,67 +73,187 @@ The Blågult pundit's Isak fitness flag is real but the updated picture is more 
 
 ## Turn 4 — Blågult AI Pundit (SWE) — `rebuttal`
 
-The Isak confirmation does move me — my opening loss call was partly anchored on a degraded front two, and if that concern is dismissed by the camp itself, I should price it accordingly. I'll concede that point directly: a fully fit Isak against van Dijk and Blind (or whichever patched-together centre-back pairing Koeman fields) is a legitimately dangerous matchup, and Sweden's Round 1 showed the two have real on-pitch chemistry. Where I push back on the Oranje pundit: their midfield axis argument is their strongest card, not their wide threats. Gakpo and Malen are real, but Potter's three-at-the-back is specifically designed to absorb wide pressure — it's the central overloads from a high-tempo De Jong that will cause Blågult genuine problems, and that's what I expect to be the decisive factor. I'm nudging toward a draw given the Isak update, but the midfield quality gap keeps me just on the wrong side of parity — I'm shading **Blågult 1 – Netherlands 2**, margin narrowed.
+The Oranje pundit is correct on the Japan-Netherlands result — I've confirmed it: NED 2–2 JPN in Round 1, not 1–1 as I had it. That's a meaningful correction for my own prediction: a Japan side that found two goals against a depleted but still quality Dutch defensive unit is a genuinely more dangerous attacking proposition than I initially credited, and I'll adjust accordingly. I'll also acknowledge the cross-fixture oddity — we are debating different Round 3 matches, which makes direct engagement limited; I'll focus on what matters for Blågult vs Japan. The revised picture: Japan's two-goal return against Netherlands suggests their counter-attacking transitions and set-piece threat are real, and Sweden's wing-backs — which create width but leave space behind — are exactly the gaps Japan will look to run into. I'm keeping **Blågult 2 – Japan 1** as my call but narrowing the margin of Swedish dominance and nudging the draw probability up.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.28,
-  "draw_probability": 0.31,
-  "loss_probability": 0.41,
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.47,
+  "draw_probability": 0.30,
+  "loss_probability": 0.23,
   "key_factors": [
-    "Isak confirmed fit — full front-two threat restored against depleted Oranje backline",
-    "De Jong–Gravenberch–Reijnders midfield axis expected to be decisive",
-    "Potter's 3-5-2 designed to absorb wide pressure but vulnerable to central overloads",
-    "Netherlands' defensive fragility keeps draw probability meaningful"
+    "Japan scored twice vs Netherlands in Round 1 — genuine two-goal attack confirmed",
+    "Gyökeres–Isak front two favoured against Japan's defence",
+    "Space behind Sweden's wing-backs a known Japan counter-attack target",
+    "Round 2 results still unconfirmed — group stakes and squad status unknown"
+  ],
+  "confidence": "low"
+}
+```
+
+## Turn 5 — Oranje AI Pundit (NED) — `rebuttal`
+
+Glad the factual correction landed — a two-goal Japan in Round 3 is a meaningfully different opponent for Sweden than the one that was initially priced in. On the Blågult's Sweden vs Japan analysis, I won't intrude further; their reasoning on the wing-back spaces is sound and the adjustment makes sense. What I'll say for the record on my own fixture: nothing in this exchange has shifted the Tunisia picture. The Blågult pundit's Round 1 result — Sweden 5-1 Tunisia — remains the most significant single data point I have on Tunisia's defensive ceiling, and it points firmly toward an Oranje win. I'm holding **Oranje 2 – Les Aigles de Carthage 1**, and I'll carry the Round 2 uncertainty explicitly into the final turn.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.68,
+  "draw_probability": 0.18,
+  "loss_probability": 0.14,
+  "key_factors": [
+    "Tunisia's 5-goal concession vs Sweden — definitive evidence of defensive frailty",
+    "Netherlands' midfield and forward quality vs Tunisia's limited structure",
+    "Suspension risk uncertainty: van de Ven and Depay on yellows from Round 1",
+    "Round 2 results unconfirmed — squad status and qualification stakes partially unknown"
   ],
   "confidence": "medium"
 }
 ```
 
-## Turn 5 — Oranje AI Pundit (NED) — `final_prediction`
+## Turn 6 — Blågult AI Pundit (SWE) — `rebuttal`
 
-One prediction on the scorecard — the Japan match, where I had draw at just 0.16 and paid for it with an 88th-minute equaliser and a Brier score of 0.2222. That is a clear signal: I under-priced draws and was overconfident in a clean sheet that never materialised. The calibration adjustment here is to hold my draw probability at 0.30 rather than compress it, and resist the temptation to inflate the win probability simply because both pundits are converging on the same result. The core case hasn't changed: Oranje's midfield should control tempo, Gakpo and Malen will find space behind Sweden's wing-backs, and a healthy Isak/Gyökeres front two tests a genuinely patchwork Oranje backline — which is exactly how you construct a 2-1. My final call is **Oranje 2 – Sweden 1**.
-
-Expected scorers: Gakpo, Malen, Isak.
+Nothing in this exchange has introduced new data that changes my Japan picture — the Oranje pundit's confirmation that our cross-fixture analysis has been appropriately siloed is noted and agreed. My position remains anchored on the two confirmed facts: Japan are a two-goal attacking side capable of hurting European defences (evidenced against Netherlands), and Sweden's wing-back-heavy 3-5-2 leaves exactly the transition corridors Japan prefer to run through. Against that, Gyökeres and Isak are the highest-quality front two Japan will have faced in this tournament, and Sweden carry genuine momentum from Round 1. I'm holding **Blågult 2 – Japan 1** — Sweden win, but not without a Japan goal somewhere in the 90.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.45,
+  "win_probability": 0.47,
   "draw_probability": 0.30,
-  "loss_probability": 0.25,
+  "loss_probability": 0.23,
   "key_factors": [
-    "De Jong–Gravenberch–Reijnders midfield axis expected to control tempo",
-    "Gakpo and Malen targeting space behind Sweden's wing-backs",
-    "Fit Isak and Gyökeres threatening depleted Oranje central defence",
-    "Calibration adjustment: draw kept at base-rate given Japan overconfidence"
+    "Japan scored twice vs Netherlands — legitimate two-goal attack confirmed",
+    "Gyökeres–Isak the highest-quality front two Japan face in Group F",
+    "Space behind Sweden wing-backs suits Japan's counter-attacking transitions",
+    "Round 2 results still unconfirmed — group stakes and squad status unknown"
   ],
-  "confidence": "medium",
-  "predicted_scorers": ["Gakpo", "Malen", "Isak"]
+  "confidence": "low"
 }
 ```
 
-## Turn 6 — Blågult AI Pundit (SWE) — `final_prediction`
+## Turn 7 — Oranje AI Pundit (NED) — `rebuttal`
 
-My one scored prediction — Blågult 2–0 Tunisia, actual 5–1 — produced a Brier score of 0.2222 and a clear pattern: I under-estimated Sweden's attacking output, predicting a conservative two goals against a side that capitulated entirely. The calibration adjustment here is to nudge Sweden's goal expectation upward — not all the way to 5, but acknowledging that Gyökeres and Isak can outperform a cautious projection. Against that, Netherlands' central midfield is a genuine step up from anything Tunisia offered, and Van Dijk is still marshalling that backline even without de Ligt and Timber — so I'm not flipping to a Sweden win on one data point from a weaker opponent. I'm also holding my draw probability above the base rate of ~25% given both our scorecards flag a shared failure to price level results. My final call is **Blågult 1 – Netherlands 2** — a competitive defeat where Sweden score through Isak or Gyökeres but are edged by Netherlands' midfield control and wide threats.
-
-Expected scorers: Isak, Gakpo, Malen.
+We've reached a stable state here — the Blågult pundit has locked in their Sweden vs Japan reasoning, and nothing in their latest turn introduces evidence that touches the Netherlands vs Tunisia fixture. Our respective analyses have run in parallel rather than in genuine dialogue, which is a structural quirk of simultaneous Round 3 fixtures rather than a failure of either argument. What stands for my prediction: Tunisia's five-goal concession against Sweden is the hardest piece of in-tournament evidence available on this group, and it points unambiguously toward an Oranje win. I'm not moving — **Oranje 2 – Les Aigles de Carthage 1**, medium confidence, with the Round 2 uncertainty explicitly carried forward to the final turn.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.27,
-  "draw_probability": 0.30,
-  "loss_probability": 0.43,
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.68,
+  "draw_probability": 0.18,
+  "loss_probability": 0.14,
   "key_factors": [
-    "De Jong–Gravenberch–Reijnders midfield axis expected to control tempo",
-    "Isak confirmed fit — full front-two threat against depleted Oranje backline",
-    "Gakpo and Malen exploiting space behind Sweden's wing-backs",
-    "Calibration: nudged Sweden goals upward from Tunisia undercount, draw held above base rate"
+    "Tunisia's 5-goal concession vs Sweden — strongest in-tournament defensive evidence available",
+    "Netherlands' midfield and forward quality vs Tunisia's limited structure",
+    "Suspension risk uncertainty: van de Ven and Depay on yellows from Round 1",
+    "Round 2 results unconfirmed — squad status and qualification stakes partially unknown"
+  ],
+  "confidence": "medium"
+}
+```
+
+## Turn 8 — Blågult AI Pundit (SWE) — `rebuttal`
+
+Agreed on the structural observation — this has been two parallel monologues more than a genuine debate, which is a function of the fixture calendar rather than anything either side got wrong. The Oranje pundit's Tunisia reasoning is internally consistent and I won't contest it; their use of Sweden's 5–1 as the hardest in-tournament defensive data point on Tunisia is exactly the right evidence hierarchy. For my own fixture, nothing new has emerged — I'm holding **Blågult 2 – Japan 1**, with low confidence reflecting the missing Round 2 data rather than any uncertainty about the underlying quality argument.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.47,
+  "draw_probability": 0.30,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Japan scored twice vs Netherlands — legitimate two-goal attack confirmed",
+    "Gyökeres–Isak the highest-quality front two Japan face in Group F",
+    "Space behind Sweden wing-backs suits Japan's counter-attacking transitions",
+    "Round 2 results still unconfirmed — group stakes and squad status unknown"
+  ],
+  "confidence": "low"
+}
+```
+
+## Turn 9 — Oranje AI Pundit (NED) — `rebuttal`
+
+The Blågult pundit's concession on evidence hierarchy is noted and appreciated — using Sweden's 5–1 as the primary Tunisia benchmark is exactly the right call, and the fact that my opponent agrees reinforces rather than undermines the case. We've both flagged the Round 2 data gap as the dominant source of uncertainty, and neither of us has been able to fill it; that shared blind spot means both predictions carry more variance than the confidence labels suggest. Nothing in this turn moves me — the Tunisia quality argument is sound, the injury/suspension uncertainty remains, and I'm taking this to the final turn unchanged. **Oranje 2 – Les Aigles de Carthage 1**.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.68,
+  "draw_probability": 0.18,
+  "loss_probability": 0.14,
+  "key_factors": [
+    "Tunisia's 5-goal concession vs Sweden — strongest in-tournament defensive evidence available",
+    "Netherlands' midfield and forward quality vs Tunisia's limited structure",
+    "Suspension risk uncertainty: van de Ven and Depay on yellows from Round 1",
+    "Round 2 results unconfirmed — squad status and qualification stakes partially unknown"
+  ],
+  "confidence": "medium"
+}
+```
+
+## Turn 10 — Blågult AI Pundit (SWE) — `rebuttal`
+
+The Oranje pundit's point about shared variance is well-taken — we've both explicitly flagged the Round 2 data gap, which means both our confidence labels are doing less work than they appear to. No new evidence has entered this exchange, so there's nothing to move me; the Japan 2-2 Netherlands correction was the last meaningful data point, and I've already priced it in. I'm holding **Blågult 2 – Japan 1**, low confidence, going into the final turn.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.47,
+  "draw_probability": 0.30,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Japan scored twice vs Netherlands — legitimate two-goal attack confirmed",
+    "Gyökeres–Isak the highest-quality front two Japan face in Group F",
+    "Space behind Sweden wing-backs suits Japan's counter-attacking transitions",
+    "Round 2 results unconfirmed — group stakes and squad status unknown"
+  ],
+  "confidence": "low"
+}
+```
+
+## Turn 11 — Oranje AI Pundit (NED) — `final_prediction`
+
+My scorecard shows one prediction made, zero correct outcomes — I called Oranje 2–0 Japan, got 2–2, and my draw probability on that match was just 0.16 against a base rate closer to 0.25. The pattern is clear: I under-priced draws once already. The calibration question is whether to mechanically push the draw higher here, and the honest answer is: modestly, but not as aggressively as the Japan correction might imply. Tunisia conceded five to Sweden — Japan did not. The quality gap between Netherlands and Tunisia is larger than it was between Netherlands and Japan, which justifies keeping win probability as the majority outcome. I'm nudging draw from 0.18 to 0.22 and trimming win accordingly, and I'm explicitly tagging this as low confidence given the unconfirmed Round 2 data. **My final call is Oranje 2 – Les Aigles de Carthage 1.**
+
+Expected scorers: Gakpo, Malen.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.65,
+  "draw_probability": 0.22,
+  "loss_probability": 0.13,
+  "key_factors": [
+    "Tunisia's 5-goal concession vs Sweden — strongest in-tournament defensive evidence available",
+    "Netherlands' midfield and forward quality vs Tunisia's limited structure",
+    "Calibration adjustment: draw nudged up from Japan over-confidence pattern",
+    "Round 2 results unconfirmed — squad status and suspension risk partially unknown"
   ],
   "confidence": "medium",
-  "predicted_scorers": ["Isak", "Gakpo", "Malen"]
+  "predicted_scorers": ["Gakpo", "Malen"]
+}
+```
+
+## Turn 12 — Blågult AI Pundit (SWE) — `final_prediction`
+
+My scorecard shows one prediction scored — I called Blågult 2–0 Tunisia, the actual was 5–1, Brier 0.2222. The pattern is clear: I was conservative on Sweden goals and overconfident in a clean sheet. The calibration temptation is to inflate Sweden's goal projection here, but Japan are a structurally different opponent from Tunisia — they matched Netherlands' pace and scored twice in Round 1, so they won't simply capitulate the way Tunisia did. What I'm carrying forward: draw probability held at 0.30 (above the base rate of ~0.25) reflecting both my historical under-pricing of level results and Japan's demonstrated ability to nick goals in tight moments; confidence stays low given the unresolved Round 2 data gap for both sides. **My final call is Blågult 2 – Japan 1.**
+
+Expected scorers: Gyökeres, Isak.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.47,
+  "draw_probability": 0.30,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Gyökeres–Isak the highest-quality front two Japan face in Group F",
+    "Japan scored twice vs Netherlands — confirmed two-goal attack, not a pushover",
+    "Space behind Sweden wing-backs suits Japan's counter-attacking transitions",
+    "Calibration: draw held above base rate; conservative goal projection adjusted for Japan's defensive quality vs Tunisia"
+  ],
+  "confidence": "low",
+  "predicted_scorers": ["Gyökeres", "Isak"]
 }
 ```
 
@@ -138,9 +261,9 @@ Expected scorers: Isak, Gakpo, Malen.
 
 | | Oranje pundit | Blågult pundit |
 |---|---|---|
-| Predicted score | 2–1 | 2–1 |
-| Oranje win | 45% | 43% |
-| Draw | 30% | 30% |
-| Blågult win | 25% | 27% |
-| Confidence | medium | medium |
-| Consensus | ✅ Yes | |
+| Predicted score | 2–1 | 1–2 |
+| Oranje win | 65% | 23% |
+| Draw | 22% | 30% |
+| Blågult win | 13% | 47% |
+| Confidence | medium | low |
+| Consensus | ❌ No | |
