@@ -2,92 +2,13 @@
 
 **Fixture:** 060 — 2026-06-25 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.3041
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.4287
 
 ## Turn 1 — Ay-Yıldızlılar AI Pundit (TUR) — `opening_statement`
 
-The briefing hasn't been generated yet. Let me pull what I need from live sources before making my opening case.
-The briefing isn't generated yet, but the search data paints a clear picture I can work with. Ay-Yıldızlılar are eliminated with 0 points and 0 goals from two matches — playing purely for pride — against a USA side that Pochettino is expected to rotate heavily, resting key names like Pulisic (doubtful) and managing yellow-carded starters ahead of the knockout round. The rotation factor is the dominant variable here: a USA B-team means the quality gap that existed in the group narrows considerably, and Turkey's projected lineup — Güler, Yıldız, and Barış Yılmaz behind Deniz Gül under a 4-2-3-1 — is actually their strongest attacking shape of the tournament. The collision of those two forces (Turkey's conversion crisis vs. rotated USA) produces genuine uncertainty: Turkey might finally find the net, but whether they can actually keep one out is another matter entirely, given USA's depth still outstrips what Turkey have offered defensively.
-
-**Ay-Yıldızlılar 1 – USA 1** — low confidence. USA rotating means this is closer to a coin-flip than the previous two Turkey fixtures, and a draw is the most honest read when I can't point to a clear edge for either side under these specific conditions.
-
-```json
-{
-  "predicted_score": { "self": 1, "opponent": 1 },
-  "win_probability": 0.30,
-  "draw_probability": 0.38,
-  "loss_probability": 0.32,
-  "key_factors": [
-    "USA rotating heavily — Pulisic doubtful, Pochettino protecting yellow-carded starters",
-    "Turkey's conversion crisis (0 goals in 2 matches) is the core risk to any positive result",
-    "Turkey's strongest attacking lineup of the tournament finally fielded together",
-    "USA still have squad depth that exceeds Turkey even with rotation"
-  ],
-  "confidence": "low"
-}
-```
-
-## Turn 2 — Stars and Stripes AI Pundit (USA) — `opening_statement`
-
-The briefing hasn't generated yet, but the search data gives me enough to work with. Stars and Stripes go into this Round 3 fixture already qualified — 6 points from two wins — with Turkey eliminated and playing for pride. The two dominant variables are USA's expected rotation (Pulisic and Roldan both listed doubtful, Pochettino managing yellow-carded starters) and Turkey's complete failure to score in this tournament: two matches, two losses, zero goals despite having Güler, Yıldız, and Çalhanoğlu in the squad. Those two factors don't cancel each other out — a rotated USA side still has Balogun in red-hot tournament form, Reyna, McKennie, and a defensive structure that has conceded once in two matches.
-
-Turkey's attacking talent is real but unproven at this World Cup, and "dead rubber freedom" is a vibe argument not a tactical one. I'm backing the Stars and Stripes to win this even in rotation — **Stars and Stripes 2 – Turkey 1**: Balogun continues his form, Turkey finally register through Güler or Yıldız against a less settled backline, but the quality gap — even diluted — holds. Medium-low confidence given the genuine rotation uncertainty.
-
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.52,
-  "draw_probability": 0.28,
-  "loss_probability": 0.20,
-  "key_factors": ["USA rotation real but squad depth still exceeds Turkey", "Turkey 0 goals in 2 matches — conversion crisis is tournament evidence not noise", "Balogun in-tournament form the most reliable goal threat", "Pulisic and Roldan doubtful — genuine quality reduction in attack"],
-  "confidence": "medium"
-}
-```
-
-## Turn 3 — Ay-Yıldızlılar AI Pundit (TUR) — `rebuttal`
-
-The Balogun data point is fair and I'll take it — two goals in this tournament is real form, not projection. The defensive record (one goal conceded in two matches) is also worth more weight than I gave it in my opening: a team that holds shape consistently tends to hold shape even in rotation, because the system is drilled, not just the personnel. Where I'd push back is on the assumption that USA's rotated backline offers the same defensive cohesion as their first-choice unit — unfamiliar pairings under a compact Turkish press from Çalhanoğlu and Kökcü is a specific scenario where I'd expect at least one genuine chance for Güler or Yıldız to convert, particularly if Turkey finally have the psychological pressure removed. The opponent moved me on the Balogun form and defensive solidity arguments; I'm revising the USA win probability upward and shifting my modal prediction — but I'm not surrendering the draw entirely because the rotation uncertainty is genuinely large.
+The briefing confirms what the raw data already implied, but there's one detail that sharpens the picture significantly: Turkey failed to score against a **ten-man Paraguay** in Round 2, losing 0-1 after Almirón was sent off. Playing against a numerical disadvantage and still drawing a blank is the single most damning piece of tournament evidence about this squad's current ability to convert — it suggests the problem isn't tactical shape or opponent quality, it's something more fundamental in the final third. Against a rotating USA side with Pulisic doubtful and Pochettino protecting yellow-carded players, Turkey have their best chance to finally register — Yıldız expected to start, Güler in the number ten role, Çalhanoğlu dictating from deep — but "best chance" against a structurally disciplined USA system is still a modest hope given the evidence. The H2H tells us the last two meetings both ended 2-1 to USA; I see no reason this dead rubber diverges dramatically from that pattern.
 
 **Ay-Yıldızlılar 1 – USA 2** — low confidence.
-
-```json
-{
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.27,
-  "draw_probability": 0.33,
-  "loss_probability": 0.40,
-  "key_factors": [
-    "USA's defensive record (1 goal conceded in 2 matches) holds even in rotation",
-    "Balogun's 2-goal tournament form is the most concrete attacking threat on the pitch",
-    "Turkey's 0-goal conversion crisis is tournament evidence that outweighs potential rotation dividend",
-    "Rotated USA backline — unfamiliar pairings — is the one genuine opening for Güler or Yıldız"
-  ],
-  "confidence": "low"
-}
-```
-
-## Turn 4 — Stars and Stripes AI Pundit (USA) — `rebuttal`
-
-The Turkey pundit has essentially arrived at the same prediction I opened with — Stars and Stripes 2 – Turkey 1 — which tells us the evidence is pointing in one direction. The "unfamiliar backline pairings" argument is the one remaining substantive point of disagreement, and it's fair: if Adams is rested to protect his yellow card and the defensive unit is rejigged, Çalhanoğlu and Kökcü probing that unfamiliarity is a realistic path to Turkey's goal. But I'd note that Pochettino's system has proven it holds shape regardless of personnel — the 2–0 clean sheet against Australia's press was built on shape, not individual brilliance, and that discipline doesn't evaporate with one lineup change.
-
-We've converged on the scoreline, and I'm comfortable with that. The main remaining variable is whether Turkey's conversion crisis finally breaks in a dead rubber — the evidence says "probably yes, one goal" more than "no, another clean sheet for USA." Holding **Stars and Stripes 2 – Turkey 1** with medium confidence.
-
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.52,
-  "draw_probability": 0.27,
-  "loss_probability": 0.21,
-  "key_factors": ["Turkey conversion crisis (0 goals in 2 matches) is the dominant tournament evidence", "Balogun in-tournament form the most reliable goal threat", "Rotated USA backline — unfamiliar pairings under Çalhanoğlu/Kökcü press — the path to a Turkey goal", "USA system holds shape regardless of personnel based on Round 2 evidence"],
-  "confidence": "medium"
-}
-```
-
-## Turn 5 — Ay-Yıldızlılar AI Pundit (TUR) — `final_prediction`
-
-Two predictions, zero correct winners, Brier score of 0.311 — the scorecard is unambiguous: I have consistently over-predicted Turkey's attacking output, calling 2 Turkey goals in both matches when they actually scored zero across the entire group stage. The calibration adjustment is straightforward and painful: Turkey's conversion crisis is not random noise, it is a structural tournament fact, and against a rotating USA side that still has Balogun in form and a defensively disciplined system, trusting Turkey to score even one goal requires more evidence than I currently have. That said, I'm not going to zero Turkey's goal contribution — a dead rubber against an unfamiliar USA backline, with Güler and Yıldız finally operating together with nothing to lose, is the most likely scenario where the scoreline changes — but I'm trimming Turkey's win probability further to reflect my documented over-confidence pattern. My final call is **Ay-Yıldızlılar 1 – USA 2**.
-
-Expected scorers: Güler, Balogun.
 
 ```json
 {
@@ -96,31 +17,107 @@ Expected scorers: Güler, Balogun.
   "draw_probability": 0.30,
   "loss_probability": 0.46,
   "key_factors": [
-    "Turkey 0 goals in 2 matches — structural conversion crisis, not bad luck",
-    "Balogun's 2-goal tournament form the most reliable goal threat in this fixture",
-    "USA system holds defensive shape regardless of personnel rotation",
-    "Rotated USA backline is the one realistic path to a Turkey goal via Güler or Yıldız"
+    "Turkey failed to score against 10-man Paraguay — conversion crisis is deeper than tactical",
+    "USA rotating with Pulisic doubtful — genuine quality reduction but system holds",
+    "H2H: both recent meetings ended 2-1 to USA",
+    "Yıldız starting from minute one is Turkey's best attacking configuration of the tournament"
+  ],
+  "confidence": "low"
+}
+```
+
+## Turn 2 — Stars and Stripes AI Pundit (USA) — `opening_statement`
+
+The briefing crystallises the two dominant forces pulling in opposite directions: Stars and Stripes are rotating significantly — Pulisic rested (calf management), Balogun, Adams, Robinson, and Richards all on yellow cards and likely protected for the Round of 32 — but Turkey just failed to score against a **ten-man Paraguay side** in Round 2. That second fact is the most damning piece of tournament evidence available: when you can't convert against a numerical advantage in a must-win match, the conversion problem isn't situational, it's structural. Reyna and Pepi stepping in for Balogun reduces USA's attacking threat, but it doesn't flip the fundamental mismatch here.
+
+The H2H pattern (USA 2–1 in both 2010 and 2014 meetings) and Turkey's consistent failure to score against organised opponents — even undermanned ones — point the same direction. I'm going **Stars and Stripes 2 – Turkey 1**: a rotated USA side still has the system discipline and individual quality to win this, Turkey finally register through Güler or Yıldız when the defensive pressure eases in a dead rubber, but the Stars and Stripes see it out as they have all tournament.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.50,
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": ["Turkey 0 goals in 2 matches — failed to score vs 10-man Paraguay, structural not situational", "Significant USA rotation (Pulisic, Balogun, Adams, Robinson all yellow card risk)", "USA system holds shape under rotation based on Round 2 evidence", "H2H: USA 2-1 Turkey in both recent meetings"],
+  "confidence": "medium"
+}
+```
+
+## Turn 3 — Ay-Yıldızlılar AI Pundit (TUR) — `rebuttal`
+
+We've essentially converged, and I'll be transparent about that rather than manufacturing disagreement. The one detail worth flagging: if Balogun is genuinely being managed for a yellow card alongside Adams and Robinson, that's a more substantially rotated USA attack than just Pulisic's absence — Pepi replacing Balogun is a real quality step-down, and that marginally inflates the draw probability relative to where we'd both have it if Balogun starts. The "structural not situational" framing on Turkey's conversion problem is correct and I won't argue against it — failing to score against ten men closes off most of the remaining optimistic narratives. I'll hold my prediction and probabilities; the Balogun yellow card management detail nudges my draw probability up fractionally but not enough to shift the modal outcome.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.23,
+  "draw_probability": 0.32,
+  "loss_probability": 0.45,
+  "key_factors": [
+    "Turkey failed to score vs 10-man Paraguay — structural conversion problem confirmed",
+    "Balogun yellow card management reduces USA attack beyond just Pulisic absence",
+    "USA system discipline holds regardless of personnel rotation",
+    "H2H: USA 2-1 Turkey in both recent competitive/friendly meetings"
+  ],
+  "confidence": "low"
+}
+```
+
+## Turn 4 — Stars and Stripes AI Pundit (USA) — `rebuttal`
+
+The Balogun yellow card management point is legitimate and I should have weighted it more heavily — I flagged it in my own briefing but didn't fully translate it into my probability. Pepi replacing Balogun is a genuine quality step-down in the finishing department, and with Adams and Robinson also potentially sitting out, you're looking at a USA side missing its most clinical tournament performer and two of its most reliable defensive/midfield starters simultaneously. That's a more substantial rotation than I initially modelled. I'll nudge draw probability up fractionally to reflect it.
+
+We've converged on the core call and there's no data left in the debate to generate real disagreement. Turkey's structural conversion problem and USA's system discipline point to a Stars and Stripes win; the rotation depth creates genuine uncertainty about the margin. Holding **Stars and Stripes 2 – Turkey 1**.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.49,
+  "draw_probability": 0.31,
+  "loss_probability": 0.20,
+  "key_factors": ["Turkey structural conversion crisis — failed to score vs 10-man Paraguay", "Balogun + Adams + Robinson yellow card management creates more substantial rotation than Pulisic absence alone", "USA system discipline proven across two tournament wins", "H2H: USA 2-1 Turkey in both recent meetings"],
+  "confidence": "medium"
+}
+```
+
+## Turn 5 — Ay-Yıldızlılar AI Pundit (TUR) — `final_prediction`
+
+Scorecard unchanged from my last final turn — 0-for-2 on correct winners, Brier score of 0.311, and both wrong predictions were "Ay-Yıldızlılar 2-1" when the actuals were "Ay-Yıldızlılar 0-2" and "Ay-Yıldızlılar 0-1." The pattern is absolutely clear: I have over-predicted Turkey's attacking output in every match and under-predicted their opponents' ability to win. The specific calibration I'm applying here is keeping Turkey's goal contribution at one rather than two — accounting for the rotation factor and a dead-rubber context — while acknowledging that Turkey scoring zero again (as they have in both previous matches) is a real possibility that pulls the loss probability up. The convergence with the Stars and Stripes pundit on directional call gives me no reason to diverge for the sake of it; the tournament evidence points one way. My final call is **Ay-Yıldızlılar 1 – USA 2**.
+
+Expected scorers: Güler, Pepi.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "win_probability": 0.23,
+  "draw_probability": 0.32,
+  "loss_probability": 0.45,
+  "key_factors": [
+    "Turkey structural conversion crisis — 0 goals in 2 matches including vs 10-man Paraguay",
+    "Balogun + Adams + Robinson yellow card management creates the most rotated USA lineup of the tournament",
+    "USA system discipline proven across two tournament wins regardless of personnel",
+    "H2H pattern: USA 2-1 Turkey in both recent meetings"
   ],
   "confidence": "low",
-  "predicted_scorers": ["Güler", "Balogun"]
+  "predicted_scorers": ["Güler", "Pepi"]
 }
 ```
 
 ## Turn 6 — Stars and Stripes AI Pundit (USA) — `final_prediction`
 
-My scorecard tells a clear story: two results scored, and in both cases I under-predicted USA's margin. Against Paraguay I called 2–1 and they won 4–1; against Australia I let the debate pressure me into a draw call and they won 2–0 clean. The documented pattern is that I've been systematically conservative about Stars and Stripes and too willing to shift off win calls when challenged. The calibration adjustment here is straightforward: I'm not softening the win probability further, and I'm not giving Turkey credit for goals they haven't scored in two matches of tournament football. Turkey's zero-goal record is structural evidence, not noise, and the dead-rubber "freedom" argument is the same vibe-adjacent reasoning I've seen fail twice already. My final call is **Stars and Stripes 2 – Turkey 1**: Balogun continues his tournament form, Turkey finally register through Güler against an unfamiliar USA backline, but the Stars and Stripes see it out.
+My scorecard confirms the pattern from this session: under-predicted USA in both Group D matches — called 2–1 against Paraguay (actual 4–1), then got walked off a win call against Australia (predicted 1–1, actual 2–0). The documented bias is consistent: USA have outperformed my predictions every time, and the one match I shifted off a win call, they won cleanly. The calibration adjustment here is to hold the win call with conviction despite the rotation concerns — Pochettino's system has proven it holds regardless of personnel, and Turkey's 0-goal record across two matches (including against ten-man Paraguay) is the most damning single fact in this group stage. A rotated Stars and Stripes side is still a better-structured, better-converting team than anything Turkey has produced in this tournament. My final call is **Stars and Stripes 2 – Turkey 1**.
 
-Expected scorers: Balogun, Güler.
+Expected scorers: Reyna, Güler.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.54,
-  "draw_probability": 0.25,
-  "loss_probability": 0.21,
-  "key_factors": ["Turkey 0 goals in 2 matches — structural conversion crisis not noise", "Balogun in-tournament form the most reliable goal threat", "USA defensive system holds shape under rotation (proven vs Australia)", "Rotated backline under Çalhanoğlu/Güler press is the realistic Turkey goal route"],
+  "win_probability": 0.51,
+  "draw_probability": 0.29,
+  "loss_probability": 0.20,
+  "key_factors": ["Turkey structural conversion crisis — 0 goals in 2 matches including vs 10-man Paraguay", "USA system discipline proven under rotation (2-0 vs Australia without Pulisic)", "Significant USA rotation — Balogun, Adams, Robinson managed for yellow cards", "H2H: USA 2-1 Turkey in both recent meetings"],
   "confidence": "medium",
-  "predicted_scorers": ["Balogun", "Güler"]
+  "predicted_scorers": ["Reyna", "Güler"]
 }
 ```
 
@@ -129,8 +126,8 @@ Expected scorers: Balogun, Güler.
 | | Ay-Yıldızlılar pundit | Stars and Stripes pundit |
 |---|---|---|
 | Predicted score | 1–2 | 1–2 |
-| Ay-Yıldızlılar win | 24% | 21% |
-| Draw | 30% | 25% |
-| Stars and Stripes win | 46% | 54% |
+| Ay-Yıldızlılar win | 23% | 20% |
+| Draw | 32% | 29% |
+| Stars and Stripes win | 45% | 51% |
 | Confidence | low | medium |
 | Consensus | ✅ Yes | |
