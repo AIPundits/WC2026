@@ -1,0 +1,21 @@
+{
+  "team_code": "TUN",
+  "fixture_id": "058",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 3
+  },
+  "win_probability": 0.04,
+  "draw_probability": 0.09,
+  "loss_probability": 0.87,
+  "key_factors": [
+    "Tunisia zero open-play threat confirmed \u2014 0.05 xG vs Japan",
+    "Netherlands top-spot incentive limits rotation",
+    "historical pattern: consistently under-estimated goals conceded \u2014 3 is likely the floor not ceiling",
+    "squad morale at rock bottom after Skhiri public apology"
+  ],
+  "predicted_scorers": [],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:44:23.977231+00:00"
+}

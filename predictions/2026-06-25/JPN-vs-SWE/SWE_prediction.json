@@ -1,0 +1,24 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "057",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.27,
+  "draw_probability": 0.4,
+  "loss_probability": 0.33,
+  "key_factors": [
+    "Sweden needs only a draw to advance \u2014 compact 4-2-3-1 designed to hold a point",
+    "Japan managing yellow card accumulation before knockouts reduces attacking aggression",
+    "40% H2H draw rate across 5 senior meetings \u2014 strongest structural draw case in tournament",
+    "Calibration: first draw prediction correcting systematic under-pricing of level results"
+  ],
+  "predicted_scorers": [
+    "Gy\u00f6keres",
+    "Isak"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:41:43.876937+00:00"
+}

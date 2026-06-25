@@ -1,0 +1,11 @@
+{
+  "fixture_id": "060",
+  "fixture_date": "2026-06-25",
+  "home_code": "TUR",
+  "away_code": "USA",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.4286573000000002,
+  "model": "claude-sonnet-4-6"
+}

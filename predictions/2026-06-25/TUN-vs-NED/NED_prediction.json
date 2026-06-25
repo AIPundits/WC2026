@@ -1,0 +1,24 @@
+{
+  "team_code": "NED",
+  "fixture_id": "058",
+  "predicted_score": {
+    "self": 3,
+    "opponent": 0
+  },
+  "win_probability": 0.82,
+  "draw_probability": 0.11,
+  "loss_probability": 0.07,
+  "key_factors": [
+    "Netherlands 5-1 Sweden in Round 2 \u2014 elite in-tournament form confirmed",
+    "Tunisia 0 goals and 0.05 xG vs Japan \u2014 zero open-play attacking threat",
+    "Calibration: consistent under-prediction of NED goals \u2014 3 is the floor not the ceiling",
+    "Top spot incentive limits rotation; partial line-up change won't drop quality below Tunisia's level"
+  ],
+  "predicted_scorers": [
+    "Gakpo",
+    "Malen"
+  ],
+  "confidence": "high",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:44:23.978353+00:00"
+}

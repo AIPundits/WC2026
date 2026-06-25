@@ -1,0 +1,24 @@
+{
+  "team_code": "USA",
+  "fixture_id": "060",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.51,
+  "draw_probability": 0.29,
+  "loss_probability": 0.2,
+  "key_factors": [
+    "Turkey structural conversion crisis \u2014 0 goals in 2 matches including vs 10-man Paraguay",
+    "USA system discipline proven under rotation (2-0 vs Australia without Pulisic)",
+    "Significant USA rotation \u2014 Balogun, Adams, Robinson managed for yellow cards",
+    "H2H: USA 2-1 Turkey in both recent meetings"
+  ],
+  "predicted_scorers": [
+    "Reyna",
+    "G\u00fcler"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:52:20.213347+00:00"
+}

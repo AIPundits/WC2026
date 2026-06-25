@@ -1,0 +1,24 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "055",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.65,
+  "draw_probability": 0.23,
+  "loss_probability": 0.12,
+  "key_factors": [
+    "quality gap vs CUR substantial \u2014 Diallo and Adingra one-on-one threat exceeds Ecuador's volume attack",
+    "simultaneous kickoff removes passive draw strategy for Fa\u00e9",
+    "ECU calibration lesson noted \u2014 1-0 is live alternate but quality gap supports two",
+    "Room's 5-4-1 a genuine challenge but CIV's individual wide creators are a different problem"
+  ],
+  "predicted_scorers": [
+    "Diallo",
+    "Adingra"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:33:11.158362+00:00"
+}

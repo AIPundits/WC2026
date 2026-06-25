@@ -1,0 +1,23 @@
+{
+  "team_code": "CUR",
+  "fixture_id": "055",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 1
+  },
+  "win_probability": 0.12,
+  "draw_probability": 0.28,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "scorecard calibration: consistent over-prediction of opponent goals corrected to single-goal margin",
+    "simultaneous kickoff removes passive draw incentive \u2014 CIV will attack with intent",
+    "Diallo and Adingra one-on-one quality is a genuine step up from Ecuador's attack",
+    "Room's 5-4-1 proven at WC level; draw remains meaningful minority given CIV's modest tournament scoring"
+  ],
+  "predicted_scorers": [
+    "Diallo"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:33:11.156538+00:00"
+}

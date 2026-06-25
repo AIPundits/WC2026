@@ -1,0 +1,11 @@
+{
+  "fixture_id": "055",
+  "fixture_date": "2026-06-25",
+  "home_code": "CUR",
+  "away_code": "CIV",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.6067307,
+  "model": "claude-sonnet-4-6"
+}

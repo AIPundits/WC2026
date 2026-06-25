@@ -1,0 +1,11 @@
+{
+  "fixture_id": "056",
+  "fixture_date": "2026-06-25",
+  "home_code": "ECU",
+  "away_code": "GER",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.5214265999999999,
+  "model": "claude-sonnet-4-6"
+}

@@ -1,0 +1,23 @@
+{
+  "team_code": "PAR",
+  "fixture_id": "059",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 1
+  },
+  "win_probability": 0.22,
+  "draw_probability": 0.32,
+  "loss_probability": 0.46,
+  "key_factors": [
+    "Almir\u00f3n suspended \u2014 squad top scorer and creative engine absent",
+    "Australia need only a draw \u2014 defend deep, counter on transition",
+    "Irankunda counter-attack threat functions without wide support (scored solo vs Turkey)",
+    "Paraguay must push forward to win, creating the space that decides this game"
+  ],
+  "predicted_scorers": [
+    "Irankunda"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:48:18.363703+00:00"
+}

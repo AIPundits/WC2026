@@ -1,0 +1,23 @@
+{
+  "team_code": "AUS",
+  "fixture_id": "059",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "win_probability": 0.47,
+  "draw_probability": 0.35,
+  "loss_probability": 0.18,
+  "key_factors": [
+    "Almiron suspended \u2014 Paraguay's creative engine fully absent",
+    "Australia need only a draw \u2014 strategic incentive to defend deep and counter",
+    "Paraguay forced to commit forward without their best creator, opening transition space",
+    "Historical pattern: actual results more decisive than my hedged predictions \u2014 backing the structural case"
+  ],
+  "predicted_scorers": [
+    "Irankunda"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:48:18.364686+00:00"
+}

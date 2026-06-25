@@ -1,0 +1,24 @@
+{
+  "team_code": "TUR",
+  "fixture_id": "060",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.23,
+  "draw_probability": 0.32,
+  "loss_probability": 0.45,
+  "key_factors": [
+    "Turkey structural conversion crisis \u2014 0 goals in 2 matches including vs 10-man Paraguay",
+    "Balogun + Adams + Robinson yellow card management creates the most rotated USA lineup of the tournament",
+    "USA system discipline proven across two tournament wins regardless of personnel",
+    "H2H pattern: USA 2-1 Turkey in both recent meetings"
+  ],
+  "predicted_scorers": [
+    "G\u00fcler",
+    "Pepi"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:52:20.212347+00:00"
+}

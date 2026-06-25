@@ -1,0 +1,24 @@
+{
+  "team_code": "GER",
+  "fixture_id": "056",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.61,
+  "draw_probability": 0.26,
+  "loss_probability": 0.13,
+  "key_factors": [
+    "Ecuador 0 goals in 2 matches including 15 shots on target \u2014 finishing failure is structural",
+    "P\u00e1ez availability uncertain but Valencia's form remains the core problem regardless",
+    "Germany attacking quality unaffected by rotation (Havertz 3 WC goals, Undav brace vs CIV)",
+    "Schlotterbeck/Brown defensive absences noted but Ecuador must convert to exploit them"
+  ],
+  "predicted_scorers": [
+    "Havertz",
+    "Undav"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:37:00.214832+00:00"
+}

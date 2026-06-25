@@ -1,0 +1,24 @@
+{
+  "team_code": "JPN",
+  "fixture_id": "057",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.36,
+  "draw_probability": 0.37,
+  "loss_probability": 0.27,
+  "key_factors": [
+    "Sweden defending for a point with reformed 4-2-3-1 \u2014 structurally different from exposed 3-5-2",
+    "Japan managing yellow card accumulation before knockouts reduces attacking aggression",
+    "40% H2H draw rate and converging incentive structures support draw",
+    "Scorecard calibration: I previously under-weighted draw vs Netherlands and paid for it"
+  ],
+  "predicted_scorers": [
+    "Ueda",
+    "Gy\u00f6keres"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T11:41:43.876358+00:00"
+}
