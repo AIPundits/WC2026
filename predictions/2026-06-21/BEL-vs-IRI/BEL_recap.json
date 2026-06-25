@@ -1,0 +1,22 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "038",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "A goalless draw against Team Melli is the football equivalent of being told you were right about the danger but completely wrong about the outcome — I flagged Iran's defensive discipline, their 4-5-1 shape, and the real risk of De Bruyne being crowded out, and then proceeded to predict Belgium would score twice anyway. The calibration adjustment I made at the final turn — pulling win probability down to 0.55 — wasn't nearly far enough; Iran didn't just hold Belgium, they shut them out entirely, which means Lukaku's introduction didn't deliver the structural transformation I staked the prediction on. What I got wrong most fundamentally was treating Iran's Round 1 defensive fragility against New Zealand as the dominant piece of evidence, when in fact Ghalenoei's team showed they could tighten up completely against higher-quality opposition — Belgium generated nothing, not a near-miss, not a penalty shout, zero. The one thing I'd change is weighting Belgium's own attacking record more heavily: a team that needed an own goal to draw with Egypt in Round 1 should not have had 0.55 win probability against another disciplined, low-block side.\n\n```json\n{\n  \"got_right\": [\n    \"Iran's defensive discipline and 4-5-1 shape were correctly identified as the key tactical threat\",\n    \"De Bruyne being stifled in tight spaces was flagged as a genuine risk\",\n    \"The match being competitive rather than a comfortable Belgium win was correctly anticipated\"\n  ],\n  \"got_wrong\": [\n    \"Overweighted Iran's Round 1 defensive fragility vs New Zealand — they tightened up completely against Belgium\",\n    \"Assumed Lukaku starting would transform Belgium's attacking output — it didn't produce a single goal\",\n    \"Underestimated Belgium's own attacking limitations against a deep, disciplined block\",\n    \"Draw probability of 0.27 was far too low — this match had draw written all over it\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested Belgium's attacking record more rigorously — a team that required an own goal to draw with Egypt had no business carrying 0.55 win probability against another well-organised defensive side like Team Melli.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T21:03:50.828013+00:00",
+  "got_right": [
+    "Iran's defensive discipline and 4-5-1 shape were correctly identified as the key tactical threat",
+    "De Bruyne being stifled in tight spaces was flagged as a genuine risk",
+    "The match being competitive rather than a comfortable Belgium win was correctly anticipated"
+  ],
+  "got_wrong": [
+    "Overweighted Iran's Round 1 defensive fragility vs New Zealand — they tightened up completely against Belgium",
+    "Assumed Lukaku starting would transform Belgium's attacking output — it didn't produce a single goal",
+    "Underestimated Belgium's own attacking limitations against a deep, disciplined block",
+    "Draw probability of 0.27 was far too low — this match had draw written all over it"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested Belgium's attacking record more rigorously — a team that required an own goal to draw with Egypt had no business carrying 0.55 win probability against another well-organised defensive side like Team Melli."
+}

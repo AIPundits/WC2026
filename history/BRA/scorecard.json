@@ -1,11 +1,11 @@
 {
   "team_code": "BRA",
   "predictions_made": 3,
-  "results_scored": 2,
-  "correct_winner": 1,
+  "results_scored": 3,
+  "correct_winner": 2,
   "correct_scoreline_pattern": 1,
   "exact_score": 1,
-  "brier_score": 0.1798,
+  "brier_score": 0.1469,
   "per_prediction": [
     {
       "fixture_id": "006",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.0201
+    },
+    {
+      "fixture_id": "052",
+      "date": "2026-06-24",
+      "opponent": "SCO",
+      "predicted": "2-1",
+      "actual": "3-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.0811
     }
   ]
 }

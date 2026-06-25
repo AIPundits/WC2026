@@ -1,0 +1,25 @@
+{
+  "team_code": "POR",
+  "fixture_id": "045",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.62,
+  "draw_probability": 0.23,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Uzbekistan R1 defensive frailty \u2014 conceded 3 to Colombia in same wide channels Portugal attack",
+    "Portugal must-win context; Ramos likely introduced earlier given R1 stagnation with Ronaldo",
+    "Shomurodov counter-attack threat backed by R1 evidence \u2014 Portugal will concede if space left",
+    "Calibration adjustment: R1 overconfidence corrected \u2014 reduced margin and raised draw probability"
+  ],
+  "predicted_scorers": [
+    "Fernandes",
+    "Ramos",
+    "Shomurodov"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:07:34.040956+00:00"
+}

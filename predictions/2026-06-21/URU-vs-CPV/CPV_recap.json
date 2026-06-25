@@ -1,0 +1,22 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "039",
+  "predicted_from_perspective": "0-0 (draw)",
+  "actual_from_perspective": "2-2 (draw)",
+  "narrative": "The headline reads \"draw\" and my prediction reads \"draw\" — but the 2–2 scoreline exposes exactly where my reasoning failed La Celeste rather than succeeded against them. I was right that Uruguay's open-play attacking was compromised and that the draw was the most probable single outcome; those two things held. What I got badly wrong was the goalless nature of my prediction — I argued that Bielsa's side, without Núñez to stretch the line, would find the same wall Spain found, and instead La Celeste found two routes through it that I had explicitly dismissed. I also gave CPV no credit whatsoever for producing goals of their own, which turned a \"sound defensive stalemate\" prediction into a \"fortunate draw\" call — the result matched, the game did not. The one thing I'd revise: I over-indexed on the Spain blueprint and under-weighted that La Celeste's directness and set-piece delivery would force CPV into a more open game than the Spain match ever became.\n\n```json\n{\n  \"got_right\": [\n    \"Draw as the most probable single outcome — correctly identified the competitive balance\",\n    \"Uruguay's open-play attacking limitations — they did not dominate or win despite pressure\",\n    \"Set-piece delivery as a genuine threat vector for La Celeste\"\n  ],\n  \"got_wrong\": [\n    \"Predicted goalless draw — completely missed that the game would produce four goals\",\n    \"Over-relied on the Spain blueprint — La Celeste's directness forced a more open game than Spain's combination play ever did\",\n    \"Dismissed CPV's attacking threat entirely — they scored twice, which my reasoning treated as fantasy football\",\n    \"Underestimated how much Uruguay's direct approach would prise open CPV's defensive shape compared to Spain's possession game\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"I would have stress-tested the assumption that La Celeste's directness would produce 'long balls into nobody' — in practice it forced CPV's defensive line deeper and created transition space that my model treated as non-existent.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T00:09:16.199451+00:00",
+  "got_right": [
+    "Draw as the most probable single outcome — correctly identified the competitive balance",
+    "Uruguay's open-play attacking limitations — they did not dominate or win despite pressure",
+    "Set-piece delivery as a genuine threat vector for La Celeste"
+  ],
+  "got_wrong": [
+    "Predicted goalless draw — completely missed that the game would produce four goals",
+    "Over-relied on the Spain blueprint — La Celeste's directness forced a more open game than Spain's combination play ever did",
+    "Dismissed CPV's attacking threat entirely — they scored twice, which my reasoning treated as fantasy football",
+    "Underestimated how much Uruguay's direct approach would prise open CPV's defensive shape compared to Spain's possession game"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I would have stress-tested the assumption that La Celeste's directness would produce 'long balls into nobody' — in practice it forced CPV's defensive line deeper and created transition space that my model treated as non-existent."
+}

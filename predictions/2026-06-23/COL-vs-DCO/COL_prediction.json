@@ -1,0 +1,25 @@
+{
+  "team_code": "COL",
+  "fixture_id": "048",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "D\u00edaz in-tournament form vs DCO compact block",
+    "Lerma/R\u00edos double pivot limiting Wissa transition",
+    "Mbemba yellow card restricting DCO defensive aggression",
+    "Colombia R1 precedent \u2014 concede even in wins"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz",
+    "James",
+    "Wissa"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:16:45.931354+00:00"
+}

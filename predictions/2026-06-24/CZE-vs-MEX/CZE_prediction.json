@@ -1,0 +1,23 @@
+{
+  "team_code": "CZE",
+  "fixture_id": "053",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.28,
+  "draw_probability": 0.27,
+  "loss_probability": 0.45,
+  "key_factors": [
+    "Mexico squad depth sufficient even with rotation",
+    "CZE pattern of surrendering leads \u2014 scored first in both WC games, points dropped late",
+    "Jur\u00e1sek absence weakens left flank vs Mexico wide attack",
+    "CZE scored in every 2026 international \u2014 Sadilek in form to continue that run"
+  ],
+  "predicted_scorers": [
+    "Sadilek"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:52:14.358162+00:00"
+}

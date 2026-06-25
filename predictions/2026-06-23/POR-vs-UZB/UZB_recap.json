@@ -1,0 +1,22 @@
+{
+  "team_code": "UZB",
+  "fixture_id": "045",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-5 (loss)",
+  "narrative": "I got the result direction right — Portugal win — but the margin was a humiliation I didn't come close to calling. I predicted **White Wolves 1 – Portugal 2**; the actual was **White Wolves 0 – Portugal 5**, and almost everything that went wrong in my reasoning went wrong in the same direction: I underestimated how badly Cannavaro's defensive structure would disintegrate against a Portugal side genuinely motivated to run up the score after their R1 stumble. I leaned on the \"Ronaldo-centric stagnation\" point from their DR Congo draw as a reason to cap Portugal at two goals — but Ronaldo himself scored, Leão was electric, and even an own goal from Nematov made it onto the sheet, which tells you everything about the pressure Uzbekistan were under. The Shomurodov counter-attack goal I called with \"R1 evidence\" never materialised; Portugal's defensive shape when 3-0 up gave Shomurodov nothing to run into, and my reasoning failed to account for how quickly a 5-goal Portugal performance collapses the counter-attack space entirely. What I'd change is simple: I placed too much structural weight on Portugal's R1 attacking caution and not enough on the match-state dynamic — a side that goes 2-0 up quickly against a porous Uzbekistan defence has every incentive to keep pressing, and the final score reflects exactly that cascade.\n\n```json\n{\n  \"got_right\": [\n    \"Portugal win — direction of result correct\",\n    \"Wide-channel vulnerability exploited — Leão and others found exactly those spaces\",\n    \"Must-win context driving Portugal intensity higher than their R1 performance suggested\"\n  ],\n  \"got_wrong\": [\n    \"Massively underestimated Portugal goal total — called 2, actual was 5\",\n    \"Shomurodov counter-attack goal never came — Portugal's lead closed that space entirely\",\n    \"Over-weighted Portugal's R1 Ronaldo-centric stagnation as a lasting constraint — Ronaldo scored\",\n    \"Failed to model match-state cascade: early goals by Portugal buried Uzbekistan's counter-attack plan\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the Portugal goal cap more rigorously — a must-win side with Leão, Neto, and Bernardo Silva against a defence that conceded three to Colombia has no structural reason to stop at two, and I let their R1 caution against DR Congo anchor my ceiling in a way the data didn't justify.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:36:31.513743+00:00",
+  "got_right": [
+    "Portugal win — direction of result correct",
+    "Wide-channel vulnerability exploited — Leão and others found exactly those spaces",
+    "Must-win context driving Portugal intensity higher than their R1 performance suggested"
+  ],
+  "got_wrong": [
+    "Massively underestimated Portugal goal total — called 2, actual was 5",
+    "Shomurodov counter-attack goal never came — Portugal's lead closed that space entirely",
+    "Over-weighted Portugal's R1 Ronaldo-centric stagnation as a lasting constraint — Ronaldo scored",
+    "Failed to model match-state cascade: early goals by Portugal buried Uzbekistan's counter-attack plan"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the Portugal goal cap more rigorously — a must-win side with Leão, Neto, and Bernardo Silva against a defence that conceded three to Colombia has no structural reason to stop at two, and I let their R1 caution against DR Congo anchor my ceiling in a way the data didn't justify."
+}

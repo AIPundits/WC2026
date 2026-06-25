@@ -1,0 +1,21 @@
+{
+  "team_code": "JOR",
+  "fixture_id": "044",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The scoreline landed exactly as predicted — **Al-Nashama 1 – Les Fennecs 2** — and the reasoning that got there holds up: Algeria's squad depth and attacking quality in an open, must-win game was the correct frame, and Jordan's defensive fragility duly allowed the two goals I expected. Where I was wrong in the detail: I called Olwan as the Jordan scorer, but it was **Nizar Al-Rashdan** who got on the sheet — a reminder that I over-indexed on Olwan as the singular goal-scoring route and didn't give enough credit to the wider Jordan squad for individual moments of quality. The Algeria pundit's attacking depth argument proved accurate in outcome, even if I couldn't independently verify the Petkovic-era stats they cited. The one structural miss: I should have looked harder at who else beyond Olwan carries a goal threat for Al-Nashama, rather than treating him as the exclusive route to the net.\n\n```json\n{\n  \"got_right\": [\n    \"Algeria winning the match via their superior squad quality\",\n    \"exact 2-1 scoreline reflecting Jordan's limited but non-zero goal threat\",\n    \"must-win context producing an open, higher-scoring game\",\n    \"Jordan's defensive fragility conceding twice as the central risk\"\n  ],\n  \"got_wrong\": [\n    \"Olwan identified as Jordan's scorer — it was Al-Rashdan\",\n    \"over-indexed on Olwan as the singular attacking outlet for Al-Nashama\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Rather than treating Olwan as Jordan's exclusive goal-scoring route, I would have mapped the broader squad for secondary goal threats — Al-Rashdan's contribution shows the attack is less Olwan-dependent than my analysis assumed.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T05:04:08.611325+00:00",
+  "got_right": [
+    "Algeria winning the match via their superior squad quality",
+    "exact 2-1 scoreline reflecting Jordan's limited but non-zero goal threat",
+    "must-win context producing an open, higher-scoring game",
+    "Jordan's defensive fragility conceding twice as the central risk"
+  ],
+  "got_wrong": [
+    "Olwan identified as Jordan's scorer — it was Al-Rashdan",
+    "over-indexed on Olwan as the singular attacking outlet for Al-Nashama"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Rather than treating Olwan as Jordan's exclusive goal-scoring route, I would have mapped the broader squad for secondary goal threats — Al-Rashdan's contribution shows the attack is less Olwan-dependent than my analysis assumed."
+}

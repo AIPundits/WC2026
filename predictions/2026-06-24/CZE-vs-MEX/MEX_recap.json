@@ -1,0 +1,21 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "053",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-0 (win)",
+  "narrative": "El Tri won 3–0 against Czech Lions — a clean sheet and three goals from a rotated squad — which means I was right about Mexico having enough depth to win but significantly underestimated how comprehensively Czech Lions would be shut out. I flagged Czech Republic's scoring record across all 2026 internationals as a near-certainty they'd find the net, and they didn't — that pattern didn't survive a Mexican defensive setup that proved far more organised than a rotation narrative would suggest. I got the direction right (Mexico win) but my 48% win probability and predicted 2–1 scoreline both understated how dominant El Tri were, and I should own that the \"rotation reduces quality gap significantly\" framing was too generous to Czech Lions' attacking threat. The one thing I'd revise: I over-weighted Czech Lions' tournament scoring pattern as a reliable predictor of finding the net against a well-drilled Mexico backline, when in fact the structural quality gap — even in rotation — proved decisive enough to suppress them entirely.\n\n```json\n{\n  \"got_right\": [\n    \"Mexico win as the correct outcome despite rotation concerns\",\n    \"Czech Lions' pattern of surrendering leads — they conceded three without reply\",\n    \"Quiñones as a scorer — he converted in the match\"\n  ],\n  \"got_wrong\": [\n    \"Czech Lions scoring — predicted one goal, they scored none\",\n    \"Underestimated how well Mexico's rotated backline would suppress Czech Lions' attack\",\n    \"Over-weighted Czech Republic's 2026 scoring record as applicable against Mexico's defensive structure\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would weight Mexico's in-tournament defensive organisation more heavily than Czech Lions' pre-match scoring streaks — tournament-level evidence consistently beat the historical pattern in this case.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T03:01:53.210044+00:00",
+  "got_right": [
+    "Mexico win as the correct outcome despite rotation concerns",
+    "Czech Lions' pattern of surrendering leads — they conceded three without reply",
+    "Quiñones as a scorer — he converted in the match"
+  ],
+  "got_wrong": [
+    "Czech Lions scoring — predicted one goal, they scored none",
+    "Underestimated how well Mexico's rotated backline would suppress Czech Lions' attack",
+    "Over-weighted Czech Republic's 2026 scoring record as applicable against Mexico's defensive structure"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would weight Mexico's in-tournament defensive organisation more heavily than Czech Lions' pre-match scoring streaks — tournament-level evidence consistently beat the historical pattern in this case."
+}

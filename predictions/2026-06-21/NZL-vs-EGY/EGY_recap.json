@@ -1,0 +1,10 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "040",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "API Error: Unable to connect to API (UNKNOWN_CERTIFICATE_VERIFICATION_ERROR)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T03:07:01.148075+00:00",
+  "parse_error": "No ```json block found in recap text"
+}

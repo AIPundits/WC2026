@@ -1,0 +1,24 @@
+{
+  "team_code": "KSA",
+  "fixture_id": "037",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.1,
+  "draw_probability": 0.3,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "Scorecard lesson: Saudi defensive block outperformed expectation vs Uruguay \u2014 draw probability adjusted upward",
+    "Spain with Yamal and Williams is material attacking upgrade; H2H 3W-0D-0L for La Roja",
+    "Al-Owais back-to-back heroics is a hope not a plan \u2014 but Saudi structure limits Spain's angles",
+    "Spain's xG creation (2.29 vs Cape Verde) will convert at higher rate with full attack available"
+  ],
+  "predicted_scorers": [
+    "Williams",
+    "Yamal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:33:27.704690+00:00"
+}

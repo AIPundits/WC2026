@@ -1,0 +1,29 @@
+{
+  "fixture_id": "053",
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_score": 0,
+  "away_score": 3,
+  "ingested_at": "2026-06-25T03:01:14.837509+00:00",
+  "goal_scorers": [
+    {
+      "name": "Mateo Chávez",
+      "team": "away",
+      "minute": "55'",
+      "type": "Goal"
+    },
+    {
+      "name": "Julián Quiñones",
+      "team": "away",
+      "minute": "61'",
+      "type": "Goal"
+    },
+    {
+      "name": "Álvaro Fidalgo",
+      "team": "away",
+      "minute": "90'+4'",
+      "type": "Goal"
+    }
+  ]
+}

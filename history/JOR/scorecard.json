@@ -1,11 +1,11 @@
 {
   "team_code": "JOR",
   "predictions_made": 1,
-  "results_scored": 1,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 1,
-  "exact_score": 0,
-  "brier_score": 0.2222,
+  "results_scored": 2,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 2,
+  "exact_score": 1,
+  "brier_score": 0.1737,
   "per_prediction": [
     {
       "fixture_id": "020",
@@ -17,6 +17,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.2222
+    },
+    {
+      "fixture_id": "044",
+      "date": "2026-06-22",
+      "opponent": "DZA",
+      "predicted": "1-2",
+      "actual": "1-2",
+      "exact_score": true,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1253
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "team_code": "BRA",
+  "fixture_id": "052",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-0 (win)",
+  "narrative": "I got the winner right and correctly identified Vinícius and Cunha as the scorers, but I held onto a Scotland goal that never came — their desperate attacking posture, which I cited as the mechanism for their consolation, instead just created more transition space for Brazil to exploit a third time rather than generating any genuine threat on goal. The Scots' actual WC tournament record was the clearest signal available — one goal in 180 minutes against Haiti — and I chose to override it with a tactical narrative about \"forced attacking mode,\" which turned out to be exactly what the Scotland pundit's scorecard-driven calibration warned against. My predicted scoreline of 2-1 understated Brazil's clean-sheet performance against The Scots and overstated Scotland's ability to convert the spaces their attacking commitment created into actual goals. The core lesson: Scotland's one-goal tournament output wasn't an anomaly to explain away — it was a structural fact about their attacking limitations that held against Brazil too.\n\n```json\n{\n  \"got_right\": [\n    \"Brazil win — correct direction and winner\",\n    \"Vinícius as a scorer — flagged and delivered\",\n    \"Cunha as a scorer — flagged and delivered\",\n    \"Scotland's forced attacking posture creating transition space for Brazil\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Scotland would score — they kept a clean sheet against The Scots\",\n    \"Over-weighted tactical 'desperation attack' narrative vs Scotland's actual conversion record\",\n    \"Scotland's WC goal output (1 in 180 mins) was a stronger predictor than their attacking intent\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would weight Scotland's actual WC goal output (1 goal in 180 minutes) as the primary signal for their scoring probability, rather than overriding it with a tactical argument about their attacking imperative in a must-win match.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T00:06:37.830551+00:00",
+  "got_right": [
+    "Brazil win — correct direction and winner",
+    "Vinícius as a scorer — flagged and delivered",
+    "Cunha as a scorer — flagged and delivered",
+    "Scotland's forced attacking posture creating transition space for Brazil"
+  ],
+  "got_wrong": [
+    "Predicted Scotland would score — they kept a clean sheet against The Scots",
+    "Over-weighted tactical 'desperation attack' narrative vs Scotland's actual conversion record",
+    "Scotland's WC goal output (1 in 180 mins) was a stronger predictor than their attacking intent"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would weight Scotland's actual WC goal output (1 goal in 180 minutes) as the primary signal for their scoring probability, rather than overriding it with a tactical argument about their attacking imperative in a must-win match."
+}

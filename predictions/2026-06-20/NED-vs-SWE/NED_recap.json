@@ -1,0 +1,22 @@
+{
+  "team_code": "NED",
+  "fixture_id": "033",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "5-1 (win)",
+  "narrative": "Getting the result right is the easy part to acknowledge; the scoreline is the embarrassing part. I predicted Blågult would make this competitive — a 2–1 Netherlands win, one goal conceded from a transition — and instead Oranje ran five past them while Blågult's single goal came only after the game was already settled. My read on Swedish defensive frailty was directionally correct — I noted their vulnerability in this group, and Brobbey and Gakpo between them punished it mercilessly — but I capped Netherlands' attacking upside far too conservatively, essentially treating two goals as the ceiling rather than the floor. I under-weighted how completely a high-quality Netherlands forward line could dismantle a Blågult backline under pressure, and I over-weighted the likelihood that Sweden would threaten meaningfully in transition. The one honest thing I got right: Gakpo scoring — he got two — but Brobbey, who bagged a brace and was arguably the man of the match, didn't feature in my reasoning at all.\n\n```json\n{\n  \"got_right\": [\n    \"Netherlands win — result direction was correct\",\n    \"Gakpo as a goal threat — he scored twice\",\n    \"Sweden's defensive unit being exposed by Netherlands' forward quality\"\n  ],\n  \"got_wrong\": [\n    \"Severely underestimated Netherlands' attacking output — called 2 goals, conceded 5\",\n    \"Brobbey's impact entirely absent from pre-match reasoning\",\n    \"Overestimated Sweden's ability to threaten in transition — their single goal came with the result already decided\",\n    \"Capped the scoreline too conservatively given known Swedish defensive fragility\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have pushed Netherlands' goal expectation higher — if I genuinely believed Sweden's backline was defensively fragile, a 3+ goal ceiling was the logical consequence, not a ceiling of two.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T19:01:25.672795+00:00",
+  "got_right": [
+    "Netherlands win — result direction was correct",
+    "Gakpo as a goal threat — he scored twice",
+    "Sweden's defensive unit being exposed by Netherlands' forward quality"
+  ],
+  "got_wrong": [
+    "Severely underestimated Netherlands' attacking output — called 2 goals, conceded 5",
+    "Brobbey's impact entirely absent from pre-match reasoning",
+    "Overestimated Sweden's ability to threaten in transition — their single goal came with the result already decided",
+    "Capped the scoreline too conservatively given known Swedish defensive fragility"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have pushed Netherlands' goal expectation higher — if I genuinely believed Sweden's backline was defensively fragile, a 3+ goal ceiling was the logical consequence, not a ceiling of two."
+}

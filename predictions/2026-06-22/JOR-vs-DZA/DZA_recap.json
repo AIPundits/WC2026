@@ -1,0 +1,21 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "044",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "The scoreline landed exactly — **Les Fennecs 2 – Al-Nashama 1** — and the architecture of the reasoning holds: Jordan's defensive fragility across six consecutive games wasn't a fluke, and Algeria's forward depth did create enough to win without necessarily dominating. What I got wrong is narrow but worth naming: I flagged Olwan as Al-Nashama's primary threat and called him as the likely scorer, but it was Nizar Al-Rashdan who found the net for Jordan — which suggests I over-indexed on one player and under-read Al-Nashama's capacity to generate from elsewhere in the squad. The must-win context read correctly; both sides came to play and the game stayed open throughout, which is what made the result follow the quality gap in the end.\n\n```json\n{\n  \"got_right\": [\n    \"Jordan defensive fragility pattern held — conceded twice again\",\n    \"must-win open game narrative — neither side parked the bus\",\n    \"Algeria's attacking depth was the decisive quality differential\",\n    \"Jordan would score — result was not a clean sheet\"\n  ],\n  \"got_wrong\": [\n    \"Over-indexed on Olwan as Jordan's sole threat — Al-Rashdan scored instead\",\n    \"Predicted Amoura and Mahrez as scorers — actual Algeria scorers unconfirmed against this\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would spread Jordan's attacking threat more broadly rather than pinning their goal on Olwan alone — Al-Nashama showed they can generate from multiple sources even when the headline name is well-managed.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T05:04:08.614359+00:00",
+  "got_right": [
+    "Jordan defensive fragility pattern held — conceded twice again",
+    "must-win open game narrative — neither side parked the bus",
+    "Algeria's attacking depth was the decisive quality differential",
+    "Jordan would score — result was not a clean sheet"
+  ],
+  "got_wrong": [
+    "Over-indexed on Olwan as Jordan's sole threat — Al-Rashdan scored instead",
+    "Predicted Amoura and Mahrez as scorers — actual Algeria scorers unconfirmed against this"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would spread Jordan's attacking threat more broadly rather than pinning their goal on Olwan alone — Al-Nashama showed they can generate from multiple sources even when the headline name is well-managed."
+}

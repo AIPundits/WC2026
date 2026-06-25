@@ -1,0 +1,17 @@
+{
+  "fixture_id": "039",
+  "date": "2026-06-21",
+  "home": "URU",
+  "away": "CPV",
+  "home_score": 2,
+  "away_score": 2,
+  "ingested_at": "2026-06-22T00:08:35.935663+00:00",
+  "goal_scorers": [
+    {
+      "name": "Agustín Cano",
+      "team": "home",
+      "minute": "45'+6'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "team_code": "UZB",
+  "fixture_id": "045",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.12,
+  "draw_probability": 0.19,
+  "loss_probability": 0.69,
+  "key_factors": [
+    "R1 calibration: underestimated goals at both ends vs Colombia \u2014 adjusted upward for both sides",
+    "UZB wide-channel vulnerability exploited by Colombia; Portugal's Neto and Bernardo Silva target same spaces",
+    "Portugal must-win after R1 draw \u2014 earlier Ramos deployment likely to add attacking impetus",
+    "Shomurodov R1 evidence confirms counter-attack goal threat is real"
+  ],
+  "predicted_scorers": [
+    "Shomurodov",
+    "Fernandes",
+    "Ramos"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:07:34.041697+00:00"
+}

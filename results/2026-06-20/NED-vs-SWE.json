@@ -1,0 +1,47 @@
+{
+  "fixture_id": "033",
+  "date": "2026-06-20",
+  "home": "NED",
+  "away": "SWE",
+  "home_score": 5,
+  "away_score": 1,
+  "ingested_at": "2026-06-20T19:00:20.894129+00:00",
+  "goal_scorers": [
+    {
+      "name": "Brian Brobbey",
+      "team": "home",
+      "minute": "5'",
+      "type": "Goal"
+    },
+    {
+      "name": "Brian Brobbey",
+      "team": "home",
+      "minute": "17'",
+      "type": "Goal"
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": "home",
+      "minute": "47'",
+      "type": "Goal"
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": "home",
+      "minute": "54'",
+      "type": "Goal"
+    },
+    {
+      "name": "Anthony Elanga",
+      "team": "away",
+      "minute": "59'",
+      "type": "Goal"
+    },
+    {
+      "name": "Crysencio Summerville",
+      "team": "home",
+      "minute": "89'",
+      "type": "Goal"
+    }
+  ]
+}

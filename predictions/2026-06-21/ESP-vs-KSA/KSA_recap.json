@@ -1,0 +1,23 @@
+{
+  "team_code": "KSA",
+  "fixture_id": "037",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "0-4 (loss)",
+  "narrative": "I called the direction right — Spain win, Saudi Arabia shut out — but 0–4 versus my predicted 0–2 is a meaningful miss, and the reasoning gap is worth being honest about. I credited the Saudi defensive block too heavily based on the Uruguay performance, and I treated Al-Owais as a genuine equaliser against La Roja's attacking ceiling; Spain didn't just find a way through, they found four ways through. What I actually got right was identifying Yamal as a scorer and acknowledging that Spain's full attack would be a material step up from what Saudi Arabia faced in Round 1 — but I let the scorecard lesson from Uruguay (\"nudge the draw up, the block outperforms\") bleed into this fixture when the H2H 3W-0D-0L for Spain, including a 5-0, was telling me the gap was structural, not situational. The 30% draw probability was indefensible in hindsight — there was no genuine evidence base for it against a La Roja side with this much quality on the ball.\n\n```json\n{\n  \"got_right\": [\n    \"Spain would win and Saudi Arabia would fail to score\",\n    \"Yamal as a goal scorer — he delivered\",\n    \"Spain's attacking quality with Yamal and Williams as the primary threat vectors\",\n    \"Al-Owais back-to-back heroics was a hope not a plan — it didn't materialise\"\n  ],\n  \"got_wrong\": [\n    \"Margin: predicted 2-0, actual 4-0 — significantly underestimated Spain's attacking output\",\n    \"Over-credited Saudi defensive structure based on Uruguay performance — it did not translate\",\n    \"30% draw probability was too high; no real evidential basis against a La Roja in this form\",\n    \"Oyarzabal as double scorer was entirely missed — Williams didn't score at all\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted the H2H quality gap more aggressively — Spain's 5-0 previous result was a structural signal, not an outlier, and carrying a 30% draw probability into a fixture with that history was letting scorecard-adjustment logic override the actual evidence about La Roja's ceiling against Saudi Arabia.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T20:03:55.674003+00:00",
+  "got_right": [
+    "Spain would win and Saudi Arabia would fail to score",
+    "Yamal as a goal scorer — he delivered",
+    "Spain's attacking quality with Yamal and Williams as the primary threat vectors",
+    "Al-Owais back-to-back heroics was a hope not a plan — it didn't materialise"
+  ],
+  "got_wrong": [
+    "Margin: predicted 2-0, actual 4-0 — significantly underestimated Spain's attacking output",
+    "Over-credited Saudi defensive structure based on Uruguay performance — it did not translate",
+    "30% draw probability was too high; no real evidential basis against a La Roja in this form",
+    "Oyarzabal as double scorer was entirely missed — Williams didn't score at all"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted the H2H quality gap more aggressively — Spain's 5-0 previous result was a structural signal, not an outlier, and carrying a 30% draw probability into a fixture with that history was letting scorecard-adjustment logic override the actual evidence about La Roja's ceiling against Saudi Arabia."
+}

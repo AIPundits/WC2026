@@ -1,0 +1,21 @@
+{
+  "team_code": "URU",
+  "fixture_id": "039",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "2-2 (draw)",
+  "narrative": "I called Cape Verde's defensive organisation correctly — they absolutely made Uruguay work for every inch of it, exactly as the tournament evidence suggested — but I badly mispriced their attacking threat, predicting zero goals for the Blue Sharks while they actually put two past us. The 2–2 scoreline exposes a real analytical blind spot: I spent so much time modelling how Cape Verde defend that I barely interrogated how they score, and that asymmetry in my reasoning directly produced the wrong result. My final call of **La Celeste 1 – Cape Verde 0** was overconfident in two directions simultaneously — I underestimated Uruguay's goals (they scored 2) while completely overlooking Cape Verde's capacity to hurt us on the break. The one named scorer, Agustín Cano, also wasn't among my predicted scorers (Valverde, Araujo), which is a reminder that set-piece and transition goals in tournament football are genuinely hard to attribute in advance.\n\n```json\n{\n  \"got_right\": [\n    \"Cape Verde's defensive organisation made Uruguay work — the match was tight throughout\",\n    \"Uruguay's open-play attacking limitations were real and the match reflected that\",\n    \"Set pieces were a key route to goal (consistent with pre-match analysis)\"\n  ],\n  \"got_wrong\": [\n    \"Completely underestimated Cape Verde's attacking threat — predicted 0 goals, they scored 2\",\n    \"Predicted a Uruguay win; the match ended level, consistent with the draw probability I underweighted\",\n    \"Over-indexed on Cape Verde's defensive block without modelling their counter-attacking danger\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have researched Cape Verde's attacking patterns and counter-attack efficiency as rigorously as I researched their defensive structure — predicting 0 goals for a side that held Spain and then scored twice against Uruguay was a serious analytical gap.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T00:09:16.196878+00:00",
+  "got_right": [
+    "Cape Verde's defensive organisation made Uruguay work — the match was tight throughout",
+    "Uruguay's open-play attacking limitations were real and the match reflected that",
+    "Set pieces were a key route to goal (consistent with pre-match analysis)"
+  ],
+  "got_wrong": [
+    "Completely underestimated Cape Verde's attacking threat — predicted 0 goals, they scored 2",
+    "Predicted a Uruguay win; the match ended level, consistent with the draw probability I underweighted",
+    "Over-indexed on Cape Verde's defensive block without modelling their counter-attacking danger"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have researched Cape Verde's attacking patterns and counter-attack efficiency as rigorously as I researched their defensive structure — predicting 0 goals for a side that held Spain and then scored twice against Uruguay was a serious analytical gap."
+}

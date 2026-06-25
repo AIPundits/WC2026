@@ -1,0 +1,24 @@
+{
+  "team_code": "URU",
+  "fixture_id": "039",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "win_probability": 0.45,
+  "draw_probability": 0.38,
+  "loss_probability": 0.17,
+  "key_factors": [
+    "Cape Verde held Spain to 0 goals from 2.29 xG \u2014 tournament-proven defensive block",
+    "Uruguay's attacking limitations in open play confirmed in Round 1 (27 shots, 1 goal)",
+    "N\u00fa\u00f1ez fitness doubt removes primary line-stretching threat against compact defence",
+    "Valverde and set-piece delivery remain Uruguay's most credible route to goal"
+  ],
+  "predicted_scorers": [
+    "Valverde",
+    "Araujo"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:40:45.314576+00:00"
+}

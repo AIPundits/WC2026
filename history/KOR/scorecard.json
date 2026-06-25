@@ -1,11 +1,11 @@
 {
   "team_code": "KOR",
   "predictions_made": 2,
-  "results_scored": 2,
+  "results_scored": 3,
   "correct_winner": 2,
   "correct_scoreline_pattern": 2,
   "exact_score": 1,
-  "brier_score": 0.2072,
+  "brier_score": 0.2422,
   "per_prediction": [
     {
       "fixture_id": "002",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1923
+    },
+    {
+      "fixture_id": "054",
+      "date": "2026-06-24",
+      "opponent": "RSA",
+      "predicted": "2-1",
+      "actual": "0-1",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.3123
     }
   ]
 }

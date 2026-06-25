@@ -1,0 +1,25 @@
+{
+  "team_code": "AUT",
+  "fixture_id": "041",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.18,
+  "draw_probability": 0.21,
+  "loss_probability": 0.61,
+  "key_factors": [
+    "Messi in peak tournament form exploiting Laimer's improvised right-back position",
+    "Sabitzer yellow card forces Rangnick to manage midfield aggression",
+    "Austria's pressing system still capable of one genuine chance",
+    "Romero fitness doubt the one Argentine defensive uncertainty"
+  ],
+  "predicted_scorers": [
+    "Arnautovic",
+    "Messi",
+    "\u00c1lvarez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:08:11.006916+00:00"
+}

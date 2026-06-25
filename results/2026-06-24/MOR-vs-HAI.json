@@ -1,0 +1,47 @@
+{
+  "fixture_id": "051",
+  "date": "2026-06-24",
+  "home": "MOR",
+  "away": "HAI",
+  "home_score": 4,
+  "away_score": 2,
+  "ingested_at": "2026-06-25T00:05:56.719712+00:00",
+  "goal_scorers": [
+    {
+      "name": "Yassine Bounou",
+      "team": "away",
+      "minute": "10'",
+      "type": "Own Goal"
+    },
+    {
+      "name": "Achraf Hakimi",
+      "team": "home",
+      "minute": "39'",
+      "type": "Goal"
+    },
+    {
+      "name": "Wilson Isidor",
+      "team": "away",
+      "minute": "43'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ismael Saibari",
+      "team": "home",
+      "minute": "45'+1'",
+      "type": "Goal"
+    },
+    {
+      "name": "Soufiane Rahimi",
+      "team": "home",
+      "minute": "78'",
+      "type": "Goal"
+    },
+    {
+      "name": "Gessime Yassine",
+      "team": "home",
+      "minute": "89'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "039",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 0
+  },
+  "win_probability": 0.2,
+  "draw_probability": 0.42,
+  "loss_probability": 0.38,
+  "key_factors": [
+    "CPV's Round 1 defensive masterclass \u2014 Spain 2.29 xG, 27 shots, 0 goals",
+    "Uruguay's open-play attacking limitations confirmed in Round 1 (27 shots, 1 goal)",
+    "Darwin N\u00fa\u00f1ez fitness doubt removes primary line-stretching threat against compact block",
+    "Own scorecard calibration \u2014 previously underestimated CPV defensive resilience vs Spain"
+  ],
+  "predicted_scorers": [],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:40:45.315328+00:00"
+}

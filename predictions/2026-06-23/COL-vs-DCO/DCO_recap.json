@@ -1,0 +1,21 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "048",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "I called the result correctly — loss to Los Cafeteros — and the core reasoning held: the Lerma/Ríos double pivot did exactly what I flagged it would, neutralising the transition space Wissa needed and leaving DCO without a route to goal all match. What I got wrong was the attacking output on both sides: Muñoz, not Díaz or James, turned out to be Colombia's decisive contributor, and DCO were shut out entirely rather than nicking the counter-punch I predicted from Wissa. The 0–1 scoreline is actually a *tighter* defensive display from Léopards than my prediction implied — holding Colombia to one goal in a match where DCO offered so little offensively suggests the compact block held up, even if the attacking end was a complete blank.\n\n```json\n{\n  \"got_right\": [\n    \"Los Cafeteros winning the match\",\n    \"Lerma/Ríos double pivot strangling DCO's counter-attack space\",\n    \"Colombia's superior tournament quality translating into a result\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Wissa would score — DCO were shut out entirely\",\n    \"Overestimated Colombia's goal tally (predicted 2, they scored 1)\",\n    \"Díaz/James as decisive contributors — Muñoz was the match-winner\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd have weighted DCO's attacking output lower from the start — the Lerma/Ríos pivot argument I accepted in the rebuttal was stronger than my final scoreline reflected, and a 0–1 or 0–2 was always more likely than a 1–2 given how that midfield screen would compress DCO's counter-attack lanes.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:37:24.802247+00:00",
+  "got_right": [
+    "Los Cafeteros winning the match",
+    "Lerma/Ríos double pivot strangling DCO's counter-attack space",
+    "Colombia's superior tournament quality translating into a result"
+  ],
+  "got_wrong": [
+    "Predicted Wissa would score — DCO were shut out entirely",
+    "Overestimated Colombia's goal tally (predicted 2, they scored 1)",
+    "Díaz/James as decisive contributors — Muñoz was the match-winner"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd have weighted DCO's attacking output lower from the start — the Lerma/Ríos pivot argument I accepted in the rebuttal was stronger than my final scoreline reflected, and a 0–1 or 0–2 was always more likely than a 1–2 given how that midfield screen would compress DCO's counter-attack lanes."
+}

@@ -1,0 +1,25 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "040",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.5,
+  "draw_probability": 0.3,
+  "loss_probability": 0.2,
+  "key_factors": [
+    "Egypt's Round 1 vs Belgium is stronger tournament evidence than NZL's vs Iran",
+    "Salah is the decisive quality gap with no credible NZL answer identified",
+    "Scorecard calibration: overestimated Egypt goals vs Belgium \u2014 draw probability widened accordingly",
+    "H2H 33% draw rate and both teams drawing Round 1 elevate draw as genuine minority outcome"
+  ],
+  "predicted_scorers": [
+    "Salah",
+    "Ashour",
+    "Just"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:44:04.469515+00:00"
+}

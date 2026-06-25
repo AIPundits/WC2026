@@ -1,0 +1,24 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "047",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.62,
+  "draw_probability": 0.22,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "Panama failed to score vs inexperienced backup keeper \u2014 R1 attacking evidence decisive",
+    "Croatia individual quality gap in all positions",
+    "Croatia xG concern real but they still scored twice vs England",
+    "Calibration: R1 showed I over-hedged toward draw \u2014 quality gaps must be backed"
+  ],
+  "predicted_scorers": [
+    "Kramari\u0107",
+    "Pa\u0161ali\u0107"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:13:56.967528+00:00"
+}

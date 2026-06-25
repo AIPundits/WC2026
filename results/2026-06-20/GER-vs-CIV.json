@@ -1,0 +1,29 @@
+{
+  "fixture_id": "034",
+  "date": "2026-06-20",
+  "home": "GER",
+  "away": "CIV",
+  "home_score": 2,
+  "away_score": 1,
+  "ingested_at": "2026-06-20T22:00:43.402713+00:00",
+  "goal_scorers": [
+    {
+      "name": "Franck Kessié",
+      "team": "away",
+      "minute": "30'",
+      "type": "Goal"
+    },
+    {
+      "name": "Deniz Undav",
+      "team": "home",
+      "minute": "68'",
+      "type": "Goal"
+    },
+    {
+      "name": "Deniz Undav",
+      "team": "home",
+      "minute": "90'+4'",
+      "type": "Goal"
+    }
+  ]
+}

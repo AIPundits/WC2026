@@ -1,0 +1,11 @@
+{
+  "fixture_id": "047",
+  "fixture_date": "2026-06-23",
+  "home_code": "PAN",
+  "away_code": "CRO",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.59511735,
+  "model": "claude-sonnet-4-6"
+}

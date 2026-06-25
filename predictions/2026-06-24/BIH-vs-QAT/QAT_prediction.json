@@ -1,0 +1,24 @@
+{
+  "team_code": "QAT",
+  "fixture_id": "049",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.1,
+  "draw_probability": 0.2,
+  "loss_probability": 0.7,
+  "key_factors": [
+    "Madibo and Homam Ahmed suspended \u2014 double absence in midfield and defence",
+    "Qatar open-play scoring output effectively zero across two tournament matches",
+    "Bosnia superior motivation and attacking quality through Demirovic and D\u017eeko",
+    "scorecard calibration: Qatar concede more than predicted \u2014 adjusted loss probability upward"
+  ],
+  "predicted_scorers": [
+    "Demirovic",
+    "D\u017eeko"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:35:13.512487+00:00"
+}

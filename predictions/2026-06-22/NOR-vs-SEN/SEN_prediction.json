@@ -1,0 +1,23 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "043",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.28,
+  "draw_probability": 0.23,
+  "loss_probability": 0.49,
+  "key_factors": [
+    "Haaland 11-match international scoring streak vs exposed Senegal defence",
+    "Senegal must-win pressure forcing open play into Norway's counter",
+    "Calibration: prior over-prediction of Senegal defensive resilience corrected downward"
+  ],
+  "predicted_scorers": [
+    "Haaland",
+    "Sarr"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:14:22.862780+00:00"
+}

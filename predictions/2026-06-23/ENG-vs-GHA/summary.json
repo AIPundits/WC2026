@@ -1,0 +1,11 @@
+{
+  "fixture_id": "046",
+  "fixture_date": "2026-06-23",
+  "home_code": "ENG",
+  "away_code": "GHA",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.5827374,
+  "model": "claude-sonnet-4-6"
+}

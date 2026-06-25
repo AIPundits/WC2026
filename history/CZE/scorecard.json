@@ -1,11 +1,11 @@
 {
   "team_code": "CZE",
   "predictions_made": 2,
-  "results_scored": 2,
-  "correct_winner": 1,
+  "results_scored": 3,
+  "correct_winner": 2,
   "correct_scoreline_pattern": 1,
   "exact_score": 1,
-  "brier_score": 0.2773,
+  "brier_score": 0.2353,
   "per_prediction": [
     {
       "fixture_id": "002",
@@ -28,6 +28,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.3325
+    },
+    {
+      "fixture_id": "053",
+      "date": "2026-06-24",
+      "opponent": "MEX",
+      "predicted": "1-2",
+      "actual": "0-3",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.1513
     }
   ]
 }

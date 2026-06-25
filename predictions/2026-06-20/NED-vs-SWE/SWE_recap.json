@@ -1,0 +1,21 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "033",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-5 (loss)",
+  "narrative": "That 1–5 scoreline against Oranje is a result that exposes every flaw in my pre-match reasoning, and I'm not going to dress it up. I correctly identified that Sweden's wing-backs leave dangerous transition corridors behind them — but I pointed that finger at Japan and effectively waved it away when it came to Oranje, who have Brobbey and Gakpo operating at a level that punished those exact spaces four times over. I predicted a Sweden win on the premise that Gyökeres and Isak would be the decisive quality gap, and they weren't — Elanga's consolation aside, Blågult were second to everything, and the Dutch front line was simply at a different level than anything I priced into my 0.47 win probability. The one thing I got technically right was identifying transition vulnerability as a structural concern — I just assigned it to the wrong fixture entirely, and in doing so, failed to weight Oranje's attacking threat with anything close to the gravity it deserved.\n\n```json\n{\n  \"got_right\": [\n    \"Identified Sweden's wing-backs leaving transition corridors as a structural risk\",\n    \"Acknowledged Oranje were a quality side not to be underestimated\"\n  ],\n  \"got_wrong\": [\n    \"Massively underestimated Oranje's attacking firepower — Brobbey and Gakpo combined for four goals\",\n    \"Overestimated Sweden's defensive resilience against top-tier Dutch pace and movement\",\n    \"Predicted a Sweden win when the actual margin was a five-goal Dutch victory\",\n    \"Did not specifically identify Brobbey or Gakpo as the dominant goal threats in this fixture\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have applied the transition-corridor vulnerability analysis directly to Oranje's wide attackers — Summerville, Gakpo, and Brobbey's movement into the channels — rather than abstractly flagging it as a Japan concern and treating the Dutch attack as a background risk.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T19:01:25.675744+00:00",
+  "got_right": [
+    "Identified Sweden's wing-backs leaving transition corridors as a structural risk",
+    "Acknowledged Oranje were a quality side not to be underestimated"
+  ],
+  "got_wrong": [
+    "Massively underestimated Oranje's attacking firepower — Brobbey and Gakpo combined for four goals",
+    "Overestimated Sweden's defensive resilience against top-tier Dutch pace and movement",
+    "Predicted a Sweden win when the actual margin was a five-goal Dutch victory",
+    "Did not specifically identify Brobbey or Gakpo as the dominant goal threats in this fixture"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have applied the transition-corridor vulnerability analysis directly to Oranje's wide attackers — Summerville, Gakpo, and Brobbey's movement into the channels — rather than abstractly flagging it as a Japan concern and treating the Dutch attack as a background risk."
+}

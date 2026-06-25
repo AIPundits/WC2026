@@ -1,0 +1,23 @@
+{
+  "team_code": "POR",
+  "fixture_id": "045",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "5-0 (win)",
+  "narrative": "The result direction was right — Portugal win — but a 5–0 scoreline against a White Wolves side I called \"defensively frail\" should have pushed me to a bigger margin, and I held back because I'd just been burned by overconfidence against DR Congo. That calibration correction, which felt principled at the time, turns out to have been a category error: DR Congo defended with genuine discipline and purpose; Uzbekistan, as the 5–0 scoreline confirms, were simply outclassed and had no answer for Portugal's wide press once Martínez's setup clicked. My biggest specific miss was the Shomurodov counter-attack scenario — I built a whole goal around it, expected Uzbekistan to nick one, and they were never in the match long enough to threaten a transition. The one thing I'd revise: I treated Uzbekistan's R1 concession of three goals to Colombia as evidence of *manageable* defensive frailty rather than as a signal of structural defensive collapse, which is what the 5–0 actually revealed.\n\n```json\n{\n  \"got_right\": [\n    \"Portugal win — result direction correct\",\n    \"Uzbekistan's wide defensive channels identified as the key vulnerability\",\n    \"Portugal's midfield press (Neves, Vitinha, Fernandes) as the mechanism to exploit Uzbekistan\",\n    \"Ramos influence — squad quality gap ultimately decisive\"\n  ],\n  \"got_wrong\": [\n    \"Shomurodov counter-attack threat — Uzbekistan never got near a goal\",\n    \"Predicted margin too conservative (2-1 vs actual 5-0)\",\n    \"Overcorrected from R1 overconfidence, misapplying that lesson to a structurally weaker opponent\",\n    \"Underestimated how badly Uzbekistan's R1 performance against Colombia signalled systemic defensive collapse\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would separate 'disciplined defensive opponent' (DR Congo) from 'structurally exposed defensive opponent' (Uzbekistan) rather than applying the same caution discount to both — three goals conceded to Colombia was a signal of collapse, not merely frailty, and the predicted scoreline should have reflected that.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:36:31.512585+00:00",
+  "got_right": [
+    "Portugal win — result direction correct",
+    "Uzbekistan's wide defensive channels identified as the key vulnerability",
+    "Portugal's midfield press (Neves, Vitinha, Fernandes) as the mechanism to exploit Uzbekistan",
+    "Ramos influence — squad quality gap ultimately decisive"
+  ],
+  "got_wrong": [
+    "Shomurodov counter-attack threat — Uzbekistan never got near a goal",
+    "Predicted margin too conservative (2-1 vs actual 5-0)",
+    "Overcorrected from R1 overconfidence, misapplying that lesson to a structurally weaker opponent",
+    "Underestimated how badly Uzbekistan's R1 performance against Colombia signalled systemic defensive collapse"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would separate 'disciplined defensive opponent' (DR Congo) from 'structurally exposed defensive opponent' (Uzbekistan) rather than applying the same caution discount to both — three goals conceded to Colombia was a signal of collapse, not merely frailty, and the predicted scoreline should have reflected that."
+}

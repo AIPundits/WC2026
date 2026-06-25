@@ -1,0 +1,22 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "043",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-2 (win)",
+  "narrative": "Got the winner, got both predicted scorers, and the basic dynamic — Senegal's pace in transition earning them goals while Norway's quality edge held — played out exactly as reasoned. The part I missed was scale: predicting 2-1 in what turned into a 3-2 thriller means I was too conservative on both teams' attacking output against Senegal's leaky defence. I noted in my rebuttal that Senegal's defensive fragility under France was the key vulnerability, and Haaland duly exploited it *twice* — yet I still capped Norway at two and Senegal at one, which contradicts my own analysis. The one thing I'd revise: once I had identified that Senegal conceded three to France and that their back four had clear structural issues, I should have pushed the goal expectancy up to at least 3-4 total rather than anchoring on a tidy 2-1.\n\n```json\n{\n  \"got_right\": [\"Norway win\", \"Haaland as scorer (doubled up)\", \"Sarr as Senegal's attacking threat (scored twice)\", \"Senegal desperation opening transition space\"],\n  \"got_wrong\": [\"Underestimated total goals on both sides\", \"Capped Senegal at one goal despite identifying their genuine attacking quality\", \"Underestimated Norway's attacking output despite my own Round 1 evidence of profligacy\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Having identified Senegal's defensive structural fragility against France, I should have pushed total expected goals up to 4-5 rather than anchoring on a conservative 2-1 margin that contradicted my own analysis.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T02:03:59.737687+00:00",
+  "got_right": [
+    "Norway win",
+    "Haaland as scorer (doubled up)",
+    "Sarr as Senegal's attacking threat (scored twice)",
+    "Senegal desperation opening transition space"
+  ],
+  "got_wrong": [
+    "Underestimated total goals on both sides",
+    "Capped Senegal at one goal despite identifying their genuine attacking quality",
+    "Underestimated Norway's attacking output despite my own Round 1 evidence of profligacy"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Having identified Senegal's defensive structural fragility against France, I should have pushed total expected goals up to 4-5 rather than anchoring on a conservative 2-1 margin that contradicted my own analysis."
+}

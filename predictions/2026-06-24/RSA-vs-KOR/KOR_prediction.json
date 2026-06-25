@@ -1,0 +1,26 @@
+{
+  "team_code": "KOR",
+  "fixture_id": "054",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.5,
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Mokoena suspension strips South Africa of only structured creative outlet",
+    "Korea needs only a draw \u2014 conservative setup possible, elevates draw probability",
+    "Korea xG vs Mexico (0.69) shows underlying attacking quality intact",
+    "Kim Min-jae anchors defence vs RSA pace-reliant attack \u2014 structural mismatch",
+    "Both H2H sources agree RSA have zero wins in last five meetings"
+  ],
+  "predicted_scorers": [
+    "Son",
+    "Hwang Hee-chan",
+    "Appollis"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:56:33.823979+00:00"
+}

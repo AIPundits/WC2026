@@ -1,0 +1,24 @@
+{
+  "team_code": "PAN",
+  "fixture_id": "047",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.14,
+  "draw_probability": 0.21,
+  "loss_probability": 0.65,
+  "key_factors": [
+    "R1 calibration: Panama failed to score vs backup keeper \u2014 goal output over-predicted",
+    "Croatia individual quality gap is decisive",
+    "Croatia pressing game targets Panama second-half passing deterioration",
+    "Croatia R1 defensive vulnerability keeps Panama goal in range"
+  ],
+  "predicted_scorers": [
+    "Kramari\u0107",
+    "Murillo"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:13:56.966783+00:00"
+}

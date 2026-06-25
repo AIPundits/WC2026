@@ -1,0 +1,21 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "047",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "The single most honest thing I can say about this prediction: I called Panama's attacking nullity correctly — the clean sheet was the surest thing in this fixture, and Panama's R1 failure to score against a backup keeper was the right piece of evidence to anchor on. What failed was the goal count on Croatia's side. My xG concern (0.71 against England) was flagged in the analysis but didn't get enough weight in the final scoreline — I predicted two goals for the Vatreni, and Los Canaleros' defensive organisation held them to one. The result correct, the margin wrong: that's not sound reasoning, it's overconfident scoreline-picking on Croatia's behalf. The one thing I'd change is treating Croatia's R1 xG shortfall as a genuine floor constraint on the scoreline rather than a footnote hedged away by \"individual quality.\"\n\n```json\n{\n  \"got_right\": [\n    \"Panama's attacking limitations confirmed — failed to score, clean sheet held\",\n    \"Croatia individual quality gap sufficient for a win\",\n    \"Panama's defensive organisation was real but ultimately insufficient\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Croatia scoring twice — xG concern should have constrained the scoreline to 1\",\n    \"Underweighted Panama's defensive resilience suppressing Croatia to one goal\",\n    \"Revised Panama's goal out of the scoreline correctly but over-corrected Croatia's tally upward\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have capped Croatia's predicted goals at 1, treating the 0.71 R1 xG not as a caveat but as a hard signal that chance creation against a disciplined Los Canaleros block was unlikely to exceed that baseline.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:36:53.558004+00:00",
+  "got_right": [
+    "Panama's attacking limitations confirmed — failed to score, clean sheet held",
+    "Croatia individual quality gap sufficient for a win",
+    "Panama's defensive organisation was real but ultimately insufficient"
+  ],
+  "got_wrong": [
+    "Predicted Croatia scoring twice — xG concern should have constrained the scoreline to 1",
+    "Underweighted Panama's defensive resilience suppressing Croatia to one goal",
+    "Revised Panama's goal out of the scoreline correctly but over-corrected Croatia's tally upward"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have capped Croatia's predicted goals at 1, treating the 0.71 R1 xG not as a caveat but as a hard signal that chance creation against a disciplined Los Canaleros block was unlikely to exceed that baseline."
+}

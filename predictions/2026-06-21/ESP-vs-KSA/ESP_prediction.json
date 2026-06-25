@@ -1,0 +1,24 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "037",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.63,
+  "draw_probability": 0.25,
+  "loss_probability": 0.12,
+  "key_factors": [
+    "Yamal and Williams at fuller capacity \u2014 material attacking upgrade from Round 1 blank",
+    "Spain's 2.29 xG vs CPV shows creation is present; conversion the correctable variable",
+    "Al-Owais heroics require back-to-back excellence \u2014 a hope, not a plan",
+    "H2H: Spain 3W-0D-0L; calibrated draw probability up from Round 1 lesson"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal",
+    "Williams"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:33:27.703991+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "fixture_id": "037",
+  "date": "2026-06-21",
+  "home": "ESP",
+  "away": "KSA",
+  "home_score": 4,
+  "away_score": 0,
+  "ingested_at": "2026-06-21T20:03:11.097355+00:00",
+  "goal_scorers": [
+    {
+      "name": "Lamine Yamal",
+      "team": "home",
+      "minute": "10'",
+      "type": "Goal"
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "team": "home",
+      "minute": "21'",
+      "type": "Goal"
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "team": "home",
+      "minute": "24'",
+      "type": "Goal"
+    },
+    {
+      "name": "Hassan Al-Tambakti",
+      "team": "home",
+      "minute": "49'",
+      "type": "Own Goal"
+    }
+  ]
+}

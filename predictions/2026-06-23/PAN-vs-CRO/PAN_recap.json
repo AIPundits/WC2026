@@ -1,0 +1,21 @@
+{
+  "team_code": "PAN",
+  "fixture_id": "047",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "I called the result right — Vatreni win, Los Canaleros loss — but the scoreline exposes a failure of nerve in my own calibration. I explicitly warned myself at the final turn that Panama over-scoring was my R1 error, wrote \"I should be sceptical of any Panama goal prediction,\" and then predicted Panama 1 anyway. Vatreni kept a clean sheet, which my own reasoning had flagged as more probable, so I talked myself into the correct diagnosis and ignored it. On the other side of the ledger, Croatia's quality gap versus Panama's attack was the right call — Gvardiol and the defensive structure did exactly what I expected — but Croatia also didn't need to score twice, which suggests I slightly over-estimated their attacking output too. The one saving grace is that the result direction — Vatreni winning a tight, low-scoring match — was correctly identified, even if my specific goal totals were wrong on both ends.\n\n```json\n{\n  \"got_right\": [\n    \"Croatia's quality gap being decisive — Vatreni defence kept a clean sheet as expected\",\n    \"Predicted a Croatia win / Panama loss correctly\",\n    \"Identified Panama's second-half passing deterioration as the pressing trigger Vatreni would exploit\"\n  ],\n  \"got_wrong\": [\n    \"Still predicted Panama would score 1 despite my own calibration warning about over-predicting their output\",\n    \"Over-estimated Croatia's attacking output — they only needed 1 goal, not 2\",\n    \"Murillo as predicted scorer — Panama never created the late box-arrival chance that scenario required\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"After explicitly flagging in my final prediction that Panama 0 goals was the more probable outcome, I should have followed through and predicted Los Canaleros 0–1 Vatreni rather than softening it to 1–2 out of misplaced optimism about a set-piece goal.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:36:53.556839+00:00",
+  "got_right": [
+    "Croatia's quality gap being decisive — Vatreni defence kept a clean sheet as expected",
+    "Predicted a Croatia win / Panama loss correctly",
+    "Identified Panama's second-half passing deterioration as the pressing trigger Vatreni would exploit"
+  ],
+  "got_wrong": [
+    "Still predicted Panama would score 1 despite my own calibration warning about over-predicting their output",
+    "Over-estimated Croatia's attacking output — they only needed 1 goal, not 2",
+    "Murillo as predicted scorer — Panama never created the late box-arrival chance that scenario required"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "After explicitly flagging in my final prediction that Panama 0 goals was the more probable outcome, I should have followed through and predicted Los Canaleros 0–1 Vatreni rather than softening it to 1–2 out of misplaced optimism about a set-piece goal."
+}

@@ -1,0 +1,10 @@
+{
+  "team_code": "CUR",
+  "fixture_id": "035",
+  "predicted_from_perspective": "0-3 (loss)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "API Error: Unable to connect to API (UNKNOWN_CERTIFICATE_VERIFICATION_ERROR)",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T01:59:22.341211+00:00",
+  "parse_error": "No ```json block found in recap text"
+}

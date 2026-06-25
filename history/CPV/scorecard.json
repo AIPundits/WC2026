@@ -1,11 +1,11 @@
 {
   "team_code": "CPV",
   "predictions_made": 1,
-  "results_scored": 1,
-  "correct_winner": 0,
-  "correct_scoreline_pattern": 0,
+  "results_scored": 2,
+  "correct_winner": 1,
+  "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.2222,
+  "brier_score": 0.1979,
   "per_prediction": [
     {
       "fixture_id": "013",
@@ -17,6 +17,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2222
+    },
+    {
+      "fixture_id": "039",
+      "date": "2026-06-21",
+      "opponent": "URU",
+      "predicted": "0-0",
+      "actual": "2-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1736
     }
   ]
 }

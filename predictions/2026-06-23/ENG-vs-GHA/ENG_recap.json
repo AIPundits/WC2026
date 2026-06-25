@@ -1,0 +1,21 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "046",
+  "predicted_from_perspective": "3-1 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "The Queiroz factor was the most important thing said in this entire debate, and I acknowledged it, nodded at it, and then filed it under \"moderating factor\" rather than \"dominant variable\" — that was the analytical error. Black Stars defended with the exact compact discipline Queiroz is known for, and England's 2.8 xG from Round 1 against an expansive Croatian press simply did not transfer against a deep block that gave them no space in behind. The backup goalkeeper argument — my central structural case — proved irrelevant because England didn't generate the chances to test Asare in any meaningful way. I was right that Black Stars had the defensive organisation to be competitive, but I treated it as a ceiling on their result rather than the actual story of the match.\n\nThe one thing I'd change: weight the Queiroz low-block as the *primary* variable, not the goalkeeper injury — Black Stars under Queiroz have the tactical template to neutralise high-xG attacks, and the Round 1 xG against Croatia should have been flagged as context-dependent rather than a reliable forward projection.\n\n```json\n{\n  \"got_right\": [\n    \"Queiroz defensive organisation was a genuine counter to England's press\",\n    \"Black Stars had the discipline to keep the match competitive\"\n  ],\n  \"got_wrong\": [\n    \"Overestimated how England's Round 1 xG would transfer against a Queiroz low-block\",\n    \"Backup goalkeeper Asare framed as structural vulnerability — never tested at volume\",\n    \"England's clinical attack assumed to override tactical shape — it didn't\",\n    \"Predicted Ghana would score on the counter — Williams/Semenyo contained\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted the Queiroz compact-block as the primary variable in this fixture, not the Ghana goalkeeper injury — Queiroz's record of neutralising high-xG attacks in knockout-style setups made a low-scoring draw the base case, not a moderating footnote.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:37:09.714969+00:00",
+  "got_right": [
+    "Queiroz defensive organisation was a genuine counter to England's press",
+    "Black Stars had the discipline to keep the match competitive"
+  ],
+  "got_wrong": [
+    "Overestimated how England's Round 1 xG would transfer against a Queiroz low-block",
+    "Backup goalkeeper Asare framed as structural vulnerability — never tested at volume",
+    "England's clinical attack assumed to override tactical shape — it didn't",
+    "Predicted Ghana would score on the counter — Williams/Semenyo contained"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted the Queiroz compact-block as the primary variable in this fixture, not the Ghana goalkeeper injury — Queiroz's record of neutralising high-xG attacks in knockout-style setups made a low-scoring draw the base case, not a moderating footnote."
+}

@@ -1,0 +1,23 @@
+{
+  "fixture_id": "052",
+  "date": "2026-06-24",
+  "home": "SCO",
+  "away": "BRA",
+  "home_score": 0,
+  "away_score": 3,
+  "ingested_at": "2026-06-25T00:05:58.567373+00:00",
+  "goal_scorers": [
+    {
+      "name": "Vinícius Júnior",
+      "team": "away",
+      "minute": "7'",
+      "type": "Goal"
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": "away",
+      "minute": "60'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "038",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.55,
+  "draw_probability": 0.27,
+  "loss_probability": 0.18,
+  "key_factors": [
+    "Lukaku starting from kick-off is the key tactical upgrade from Round 1",
+    "Iran's Round 1 defensive fragility (2 conceded vs NZL) makes them more vulnerable than Egypt were",
+    "De Bruyne stifled by 4-5-1 in Round 1 \u2014 real risk of repeat if Belgium build-up is slow",
+    "Iran travel disruption and confirmed cramp/injury issues compound physical deficit"
+  ],
+  "predicted_scorers": [
+    "Lukaku",
+    "De Bruyne",
+    "Taremi"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:36:44.777898+00:00"
+}

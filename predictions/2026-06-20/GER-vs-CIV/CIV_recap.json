@@ -1,0 +1,22 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "034",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The scoreline landed exactly — **Les Éléphants 1 – Die Mannschaft 2** — and the core reasoning held: Germany's attacking depth produced the goals, CIV's midfield limitations under yellow-card constraint were real, and Amad Diallo didn't prove to be the match-winner I'd identified. What I got wrong was the specific mechanism: I flagged Kessié's yellow card as a constraint on CIV's midfield aggression, yet he was still active enough to get on the scoresheet — so the disciplinary burden didn't suppress him offensively as much as I argued. I also completely missed Deniz Undav as the German scoring threat, going with Wirtz instead; the xG narrative was right but I misread *who* would convert it. If I'd done one thing differently, it would have been to check Undav's club-season goal record more carefully against Sofascore — the evidence for him as a penalty-box finisher was there, I just didn't surface it.\n\n```json\n{\n  \"got_right\": [\n    \"Germany win by a 2-1 scoreline — exact result\",\n    \"Germany's attacking quality translating into two goals\",\n    \"CIV limited to a single goal despite individual quality\",\n    \"Yellow card accumulation as a real structural constraint on CIV's approach\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Diallo as CIV scorer — Kessié scored instead\",\n    \"Predicted Wirtz as Germany scorer — Undav scored both goals\",\n    \"Overstated how much Kessié's yellow card would suppress his offensive contribution\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have pulled Undav's club-season goal data before locking in Wirtz as Germany's predicted scorer — the xG evidence pointed to a clinical finisher converting, and Undav's profile fit that role more closely than Wirtz's half-space creativity.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-20T22:01:18.890603+00:00",
+  "got_right": [
+    "Germany win by a 2-1 scoreline — exact result",
+    "Germany's attacking quality translating into two goals",
+    "CIV limited to a single goal despite individual quality",
+    "Yellow card accumulation as a real structural constraint on CIV's approach"
+  ],
+  "got_wrong": [
+    "Predicted Diallo as CIV scorer — Kessié scored instead",
+    "Predicted Wirtz as Germany scorer — Undav scored both goals",
+    "Overstated how much Kessié's yellow card would suppress his offensive contribution"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have pulled Undav's club-season goal data before locking in Wirtz as Germany's predicted scorer — the xG evidence pointed to a clinical finisher converting, and Undav's profile fit that role more closely than Wirtz's half-space creativity."
+}

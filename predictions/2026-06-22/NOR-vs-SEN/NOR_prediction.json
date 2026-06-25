@@ -1,0 +1,23 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "043",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.5,
+  "draw_probability": 0.25,
+  "loss_probability": 0.25,
+  "key_factors": [
+    "Haaland 11-match international scoring streak",
+    "Senegal must-win pressure opening transition space",
+    "Norway's dominant Round 1 tournament evidence vs Senegal's 3-goal concession"
+  ],
+  "predicted_scorers": [
+    "Haaland",
+    "Sarr"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:14:22.862177+00:00"
+}

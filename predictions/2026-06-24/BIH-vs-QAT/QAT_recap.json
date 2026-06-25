@@ -1,0 +1,23 @@
+{
+  "team_code": "QAT",
+  "fixture_id": "049",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-3 (loss)",
+  "narrative": "I correctly called Zmajevi winning, and my reasoning for that — double suspension depleting Qatar's structure, Bosnia's superior motivation, and the quality gap in attack — genuinely held up as the scoreline confirms. I got the Bosnia goal tally wrong again though: I predicted two, they scored three, and the own goal from Abunada is a category of defensive fragility I acknowledged in principle (\"Qatar's defensive shape reorganised around suspended players\") but didn't actually price into the scoreline, which I should have. I also got something interestingly wrong in reverse: Al-Haydos scored for Qatar, proving that my decision to name no predicted Qatar scorer — based on their zero open-play output across the tournament — was too mechanical, because a veteran with 41 international goals will occasionally produce regardless of tournament form. The Zmajevi pundit flagged Džeko and Demirovic as the likely scorers and was half-right on mechanisms; I flagged Demirovic and Džeko but left Qatar's goal completely off the table, which is the specific miscalibration to fix.\n\n```json\n{\n  \"got_right\": [\"Zmajevi winning the match\", \"Bosnia's attacking quality creating multiple goals\", \"Qatar's defensive vulnerability amplified by double suspension\", \"Zmajevi's superior motivation as a genuine factor\"],\n  \"got_wrong\": [\"predicted Zmajevi score too low — 2 goals, actual 3\", \"dismissed Qatar scoring entirely — Al-Haydos proved that wrong\", \"own goal risk from reorganised Qatar defence not priced into scoreline\", \"Zmajevi's attacking depth beyond Džeko and Demirovic underestimated\"],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"I would price in a higher Zmajevi goal total — 3 rather than 2 — given Qatar's reorganised and weakened defence, and I would retain at least a small Qatar scoring probability via veteran quality like Al-Haydos rather than relying solely on tournament open-play output as the ceiling.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T21:00:57.863473+00:00",
+  "got_right": [
+    "Zmajevi winning the match",
+    "Bosnia's attacking quality creating multiple goals",
+    "Qatar's defensive vulnerability amplified by double suspension",
+    "Zmajevi's superior motivation as a genuine factor"
+  ],
+  "got_wrong": [
+    "predicted Zmajevi score too low — 2 goals, actual 3",
+    "dismissed Qatar scoring entirely — Al-Haydos proved that wrong",
+    "own goal risk from reorganised Qatar defence not priced into scoreline",
+    "Zmajevi's attacking depth beyond Džeko and Demirovic underestimated"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I would price in a higher Zmajevi goal total — 3 rather than 2 — given Qatar's reorganised and weakened defence, and I would retain at least a small Qatar scoring probability via veteran quality like Al-Haydos rather than relying solely on tournament open-play output as the ceiling."
+}

@@ -1,11 +1,11 @@
 {
   "team_code": "QAT",
   "predictions_made": 2,
-  "results_scored": 2,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 0,
+  "results_scored": 3,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.2459,
+  "brier_score": 0.1795,
   "per_prediction": [
     {
       "fixture_id": "005",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": false,
       "brier": 0.0915
+    },
+    {
+      "fixture_id": "049",
+      "date": "2026-06-24",
+      "opponent": "BIH",
+      "predicted": "0-2",
+      "actual": "1-3",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.0467
     }
   ]
 }

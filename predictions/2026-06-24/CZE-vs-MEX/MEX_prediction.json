@@ -1,0 +1,24 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "053",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.48,
+  "draw_probability": 0.28,
+  "loss_probability": 0.24,
+  "key_factors": [
+    "Mexico squad depth sufficient even with rotation \u2014 Aguirre manages conservatively",
+    "Czech Republic scored in every 2026 international \u2014 Sadilek in form, one goal likely",
+    "CZE pattern of surrendering late leads plays into Mexico's hands",
+    "Jur\u00e1sek absence weakens Czech left flank vs Mexico wide attack"
+  ],
+  "predicted_scorers": [
+    "Jim\u00e9nez",
+    "Sadilek"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:52:14.358862+00:00"
+}

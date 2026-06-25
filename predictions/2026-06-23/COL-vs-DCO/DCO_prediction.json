@@ -1,0 +1,25 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "048",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.17,
+  "draw_probability": 0.29,
+  "loss_probability": 0.54,
+  "key_factors": [
+    "DCO compact block proven vs elite opposition \u2014 not a paper defence",
+    "D\u00edaz MOTM form and movement in behind a genuine structural threat",
+    "Lerma/R\u00edos double pivot limits Wissa transition space vs Portugal template",
+    "Mbemba yellow card as second-half risk to DCO defensive shape"
+  ],
+  "predicted_scorers": [
+    "Wissa",
+    "D\u00edaz",
+    "James"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:16:45.932119+00:00"
+}

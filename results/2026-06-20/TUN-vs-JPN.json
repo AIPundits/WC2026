@@ -1,0 +1,29 @@
+{
+  "fixture_id": "036",
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "home_score": 0,
+  "away_score": 4,
+  "ingested_at": "2026-06-21T06:01:17.244072+00:00",
+  "goal_scorers": [
+    {
+      "name": "Daichi Kamada",
+      "team": "away",
+      "minute": "4'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ayase Ueda",
+      "team": "away",
+      "minute": "31'",
+      "type": "Goal"
+    },
+    {
+      "name": "Junya Ito",
+      "team": "away",
+      "minute": "69'",
+      "type": "Goal"
+    }
+  ]
+}

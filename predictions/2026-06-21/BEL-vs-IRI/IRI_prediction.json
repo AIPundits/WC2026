@@ -1,0 +1,25 @@
+{
+  "team_code": "IRI",
+  "fixture_id": "038",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.15,
+  "draw_probability": 0.25,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "Belgium's Round 1 De Bruyne stifling by 4-5-1 \u2014 Iran likely to deploy same shape",
+    "Lukaku starting is the key upgrade from Round 1, changes aerial and hold-up threat",
+    "Iran's Round 1 defensive fragility (2 conceded vs NZL) and travel disruption compound the deficit",
+    "Taremi on the counter-attack is a credible goal threat if Iran can hold shape"
+  ],
+  "predicted_scorers": [
+    "Taremi",
+    "Lukaku",
+    "Mohebi"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:36:44.778593+00:00"
+}

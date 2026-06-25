@@ -1,0 +1,11 @@
+{
+  "fixture_id": "043",
+  "fixture_date": "2026-06-22",
+  "home_code": "NOR",
+  "away_code": "SEN",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.6280646999999999,
+  "model": "claude-sonnet-4-6"
+}

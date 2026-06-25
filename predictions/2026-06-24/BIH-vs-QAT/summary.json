@@ -1,0 +1,11 @@
+{
+  "fixture_id": "049",
+  "fixture_date": "2026-06-24",
+  "home_code": "BIH",
+  "away_code": "QAT",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.1806998000000002,
+  "model": "claude-sonnet-4-6"
+}

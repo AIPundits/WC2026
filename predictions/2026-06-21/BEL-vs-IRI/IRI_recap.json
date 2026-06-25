@@ -1,0 +1,22 @@
+{
+  "team_code": "IRI",
+  "fixture_id": "038",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "The 0–0 scoreline is a clean repudiation of my central premise: I was right that Ghalenoei would deploy a defensive block against Belgium, and I was right that De Bruyne had struggled against that exact shape in Round 1 — but I didn't have the conviction to follow that logic all the way to \"Belgium may not score at all.\" I weighted Lukaku's threat too heavily, assuming his introduction would break the deadlock that eluded Belgium against Egypt, and I underestimated Iran's defensive resilience despite the travel disruption I'd flagged myself. The one result I should have taken more seriously from my own analysis: if Belgium couldn't carve open Egypt's 4-5-1 without an own goal, there was a plausible world where they couldn't carve open Iran's either — and I assigned it only 25% probability rather than the larger share it deserved.\n\n```json\n{\n  \"got_right\": [\n    \"Belgium's Round 1 struggles against a compact 4-5-1 shape were a genuine warning — De Bruyne was stifled again\",\n    \"Iran's defensive block holding for long stretches was a credible tactical outcome\",\n    \"The draw probability I identified as a mitigating factor turned out to be the correct result\"\n  ],\n  \"got_wrong\": [\n    \"Lukaku starting was not the game-breaking upgrade I assumed — Belgium still couldn't convert\",\n    \"Iran's defensive resilience held despite the travel/recovery disruption I flagged as a disadvantage\",\n    \"Predicted Taremi would score on the counter — Iran produced no goal at all, not just from Taremi\",\n    \"Overweighted Belgium's quality advantage translating into goals, underweighted Iran's organisational discipline\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I identified Belgium's Round 1 vulnerability to a 4-5-1 as a key factor but then failed to let it suppress my Belgian goal-scoring expectation enough — if I had applied that logic consistently, I'd have pushed draw probability to 35%+ rather than 25%.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T21:03:50.829331+00:00",
+  "got_right": [
+    "Belgium's Round 1 struggles against a compact 4-5-1 shape were a genuine warning — De Bruyne was stifled again",
+    "Iran's defensive block holding for long stretches was a credible tactical outcome",
+    "The draw probability I identified as a mitigating factor turned out to be the correct result"
+  ],
+  "got_wrong": [
+    "Lukaku starting was not the game-breaking upgrade I assumed — Belgium still couldn't convert",
+    "Iran's defensive resilience held despite the travel/recovery disruption I flagged as a disadvantage",
+    "Predicted Taremi would score on the counter — Iran produced no goal at all, not just from Taremi",
+    "Overweighted Belgium's quality advantage translating into goals, underweighted Iran's organisational discipline"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I identified Belgium's Round 1 vulnerability to a 4-5-1 as a key factor but then failed to let it suppress my Belgian goal-scoring expectation enough — if I had applied that logic consistently, I'd have pushed draw probability to 35%+ rather than 25%."
+}

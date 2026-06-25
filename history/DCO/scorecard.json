@@ -1,11 +1,11 @@
 {
   "team_code": "DCO",
   "predictions_made": 1,
-  "results_scored": 1,
-  "correct_winner": 0,
-  "correct_scoreline_pattern": 0,
+  "results_scored": 2,
+  "correct_winner": 1,
+  "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.2222,
+  "brier_score": 0.1652,
   "per_prediction": [
     {
       "fixture_id": "021",
@@ -17,6 +17,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2222
+    },
+    {
+      "fixture_id": "048",
+      "date": "2026-06-23",
+      "opponent": "COL",
+      "predicted": "1-2",
+      "actual": "0-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1082
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "051",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.78,
+  "draw_probability": 0.14,
+  "loss_probability": 0.08,
+  "key_factors": [
+    "Haiti 0 goals in 2 tournament games \u2014 no scoring evidence",
+    "Morocco already qualified, rotation expected but depth remains superior",
+    "Rotation caps ceiling at 2 rather than 3 \u2014 conceded from debate",
+    "No H2H history but quality gap is unambiguous"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz",
+    "El Khannouss"
+  ],
+  "confidence": "high",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:44:42.666496+00:00"
+}

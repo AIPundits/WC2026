@@ -1,0 +1,11 @@
+{
+  "fixture_id": "040",
+  "fixture_date": "2026-06-21",
+  "home_code": "NZL",
+  "away_code": "EGY",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.5680995,
+  "model": "claude-sonnet-4-6"
+}

@@ -1,0 +1,22 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "041",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "Got the result and Argentina's goal tally exactly right, but I gave too much credit to Austria's attacking threat — all three of my turns flagged the risk of Rangnick's press producing a goal, and it simply never materialised. The clean sheet tells a crisper story: without Posch and with Sabitzer operating under a yellow-card shadow, Rot-Weiß-Rot's press was too disjointed to manufacture the transition moment I kept forecasting as their most likely route to goal. I also predicted Álvarez as a scorer alongside Messi; instead Messi took both himself, which is a scorer-selection miss even if the aggregate tally was spot-on. The one thing I'd change: I spent too much analysis time on the Austrian press as an offensive weapon and not enough on the structural damage Posch's absence would do to their ability to sustain it for ninety minutes against a side of Argentina's quality.\n\n```json\n{\n  \"got_right\": [\n    \"Argentina win and final goal tally of 2\",\n    \"Messi as a scorer — he got both goals\",\n    \"Laimer at improvised RB as a structural weakness\",\n    \"Austria's Round 1 result flattering — underlying performance limited\"\n  ],\n  \"got_wrong\": [\n    \"Austria conceding 0 goals, not 1 — their attacking threat was overstated\",\n    \"Predicted Álvarez as second scorer; Messi took both\",\n    \"Romero fitness concern proved irrelevant — defensive shape was solid throughout\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would weight the Posch absence more heavily as a defensive and offensive structural loss for Rot-Weiß-Rot, rather than focusing almost entirely on how it created space for Messi's runs — it also gutted their ability to sustain the high press that was their only credible path to a goal.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T20:53:32.002672+00:00",
+  "got_right": [
+    "Argentina win and final goal tally of 2",
+    "Messi as a scorer — he got both goals",
+    "Laimer at improvised RB as a structural weakness",
+    "Austria's Round 1 result flattering — underlying performance limited"
+  ],
+  "got_wrong": [
+    "Austria conceding 0 goals, not 1 — their attacking threat was overstated",
+    "Predicted Álvarez as second scorer; Messi took both",
+    "Romero fitness concern proved irrelevant — defensive shape was solid throughout"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would weight the Posch absence more heavily as a defensive and offensive structural loss for Rot-Weiß-Rot, rather than focusing almost entirely on how it created space for Messi's runs — it also gutted their ability to sustain the high press that was their only credible path to a goal."
+}

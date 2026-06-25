@@ -1,0 +1,21 @@
+{
+  "team_code": "GHA",
+  "fixture_id": "046",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "Queiroz's compact block did exactly what I said it would — England couldn't find a way through — but I still had them scoring twice on quality alone, and that was flat wrong. The reasoning that \"England's clinical finishing against a backup keeper will tell\" failed because the keeper situation turned out not to be the exposure point: it was England's inability to create meaningful chances against a disciplined mid-block that defined the game, not Benjamin Asare's inexperience. I correctly flagged that Three Lions working through a defensive shape is a different proposition to the Croatia game, but I then contradicted my own logic by predicting two England goals anyway — I should have followed that thread further. The one thing I'd change: I over-weighted England's xG from an open-game blowout against Croatia as a predictor of output against a completely different defensive setup.\n\n```json\n{\n  \"got_right\": [\"Queiroz compact block makes England's task much harder than vs Croatia\", \"England defensive organisation not immune — but their attack also found limits\", \"Two England goals from a 2.8 xG Croatia performance was not transportable to this fixture\"],\n  \"got_wrong\": [\"England's clinical quality would produce two goals against Asare\", \"Ghana would score once on the counter via Williams\", \"Underestimated how completely Queiroz could neutralise England's build-up play\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I should have followed my own logic — 'England breaking a Queiroz low-block is a different proposition' — to its conclusion and predicted fewer England goals, likely a 0-0 or 1-0, rather than defaulting back to their Croatia output as a baseline.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:37:09.715985+00:00",
+  "got_right": [
+    "Queiroz compact block makes England's task much harder than vs Croatia",
+    "England defensive organisation not immune — but their attack also found limits",
+    "Two England goals from a 2.8 xG Croatia performance was not transportable to this fixture"
+  ],
+  "got_wrong": [
+    "England's clinical quality would produce two goals against Asare",
+    "Ghana would score once on the counter via Williams",
+    "Underestimated how completely Queiroz could neutralise England's build-up play"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I should have followed my own logic — 'England breaking a Queiroz low-block is a different proposition' — to its conclusion and predicted fewer England goals, likely a 0-0 or 1-0, rather than defaulting back to their Croatia output as a baseline."
+}

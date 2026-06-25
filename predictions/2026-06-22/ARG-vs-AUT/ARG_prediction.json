@@ -1,0 +1,24 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "041",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.65,
+  "draw_probability": 0.2,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Messi in peak tournament form, Laimer at improvised RB is structural exposure",
+    "Sabitzer yellow card constrains Austrian midfield intensity",
+    "Austria's pressing system still capable of creating one genuine chance",
+    "Romero fitness doubt the one Argentine defensive uncertainty"
+  ],
+  "predicted_scorers": [
+    "Messi",
+    "\u00c1lvarez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:08:11.006288+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "team_code": "AUT",
+  "fixture_id": "041",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "The result direction was correct — Argentina won 2-1 in my prediction, 2-0 in reality — so I was directionally sound, but I over-credited Austria's attacking threat and it cost me on scoreline accuracy. My reasoning for Austria getting one goal leaned on Schmid's movement in tight spaces and an Arnautovic cameo exploiting a defensive lapse; La Albiceleste's backline gave nothing away, and a depleted Austrian midfield never manufactured the sustained pressure needed to turn a half-chance into a goal. Where my reasoning on Argentina genuinely held up: Messi's form was real evidence, not hype, and the structural exposure at right-back with Laimer improvised there was exactly the kind of weakness Messi targets by drifting left — both goals were a direct product of that matchup problem. The one thing I misjudged is that I treated Austria scoring as close to certain once given the corner and penalty route in Round 1; against La Albiceleste's defensive organisation, a single transitional chance was never going to be enough, and I should have rated a clean sheet for Argentina as a meaningful probability rather than a footnote.\n\n```json\n{\n  \"got_right\": [\n    \"Argentina winning by two goals\",\n    \"Messi as the decisive attacking force — he scored both\",\n    \"Laimer's improvised right-back role as a structural vulnerability Argentina would exploit\",\n    \"Sabitzer's card management constraining Austrian midfield intensity\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Austria would score one goal — they scored zero\",\n    \"Credited Arnautovic/Schmid with a realistic chance of punishing an Argentine defensive lapse\",\n    \"Predicted Álvarez as a scorer — both goals came from Messi alone\",\n    \"Under-weighted Argentina's defensive organisation allowing a clean sheet\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would explicitly model a clean-sheet probability for La Albiceleste rather than treating Austria scoring as near-certain: against Argentina's defensive structure, Austria's one-transitional-chance scenario was always more likely to end scoreless than I assigned.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T20:53:32.004302+00:00",
+  "got_right": [
+    "Argentina winning by two goals",
+    "Messi as the decisive attacking force — he scored both",
+    "Laimer's improvised right-back role as a structural vulnerability Argentina would exploit",
+    "Sabitzer's card management constraining Austrian midfield intensity"
+  ],
+  "got_wrong": [
+    "Predicted Austria would score one goal — they scored zero",
+    "Credited Arnautovic/Schmid with a realistic chance of punishing an Argentine defensive lapse",
+    "Predicted Álvarez as a scorer — both goals came from Messi alone",
+    "Under-weighted Argentina's defensive organisation allowing a clean sheet"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would explicitly model a clean-sheet probability for La Albiceleste rather than treating Austria scoring as near-certain: against Argentina's defensive structure, Austria's one-transitional-chance scenario was always more likely to end scoreless than I assigned."
+}

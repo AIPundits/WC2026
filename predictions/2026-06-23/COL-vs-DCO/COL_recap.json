@@ -1,0 +1,21 @@
+{
+  "team_code": "COL",
+  "fixture_id": "048",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "Got the direction right — Colombia beat the Léopards — but both of my specific goal predictions misfired in opposite ways. I said Lerma and Ríos would *limit* Wissa's counter-attack threat, and that turned out to be exactly right: DR Congo were shut out completely, which actually vindicates the double-pivot reasoning more strongly than I credited it. The miss is on the other side of the ledger: I was so confident Colombia would score twice (Díaz MOTM form, James through-balls) that I understated how good DR Congo's block would be at restricting the final product — it was Daniel Muñoz, not Díaz or James, who made the difference, and the Léopards made Colombia work far harder for that single goal than my 2–1 called for. The \"Colombia concede even in comfortable wins\" calibration I borrowed from Round 1 was simply wrong here — the Léopards never genuinely threatened to score, and I should have weighted their attacking output against quality opposition more carefully rather than extrapolating from Uzbekistan's goal.\n\n```json\n{\n  \"got_right\": [\"Colombia win — quality gap was real\", \"DR Congo defensive block made it a tight game\", \"Lerma/Ríos double pivot successfully contained Wissa counter-attack threat\"],\n  \"got_wrong\": [\"predicted Wissa would score — DR Congo failed to register a goal at all\", \"overestimated Colombia's goal output — expected 2, got 1\", \"assumed Colombia would concede based on R1 pattern — wrong to extrapolate from Uzbekistan to a structurally better Léopards defence\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd weight DR Congo's defensive output against Portugal more carefully — holding a quality side to one goal for 84 minutes was a genuine signal they'd keep the scoreline tight, and I should have moved my Colombia goal estimate down to 1 rather than anchoring on the R1 three-goal performance.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:37:24.800533+00:00",
+  "got_right": [
+    "Colombia win — quality gap was real",
+    "DR Congo defensive block made it a tight game",
+    "Lerma/Ríos double pivot successfully contained Wissa counter-attack threat"
+  ],
+  "got_wrong": [
+    "predicted Wissa would score — DR Congo failed to register a goal at all",
+    "overestimated Colombia's goal output — expected 2, got 1",
+    "assumed Colombia would concede based on R1 pattern — wrong to extrapolate from Uzbekistan to a structurally better Léopards defence"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd weight DR Congo's defensive output against Portugal more carefully — holding a quality side to one goal for 84 minutes was a genuine signal they'd keep the scoreline tight, and I should have moved my Colombia goal estimate down to 1 rather than anchoring on the R1 three-goal performance."
+}

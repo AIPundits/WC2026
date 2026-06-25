@@ -1,0 +1,22 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "050",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "I got the scoreline exactly right — 2-1 — and the reasoning that got me there holds up under scrutiny, not just as a lucky number. Switzerland's motivation edge proved decisive: Les Rouges' strategic draw incentive was real, but when Canada set up conservatively to protect their GD advantage, Nati's collective quality found gaps that a Koné-absent midfield couldn't close, exactly as the Koné absence argument predicted. Manzambi delivered again as I flagged from his Round 2 form, which confirms in-tournament momentum was a genuine leading indicator rather than recency bias. What I got wrong about Les Rouges was specifically in the scorer department — I predicted David as Canada's goal contributor, which was the reasonable call on individual quality, but the actual Canadian scorer and the pattern of how Les Rouges created their goal would tell me whether I over-relied on David's reputation rather than their in-tournament attacking structure.\n\n```json\n{\n  \"got_right\": [\"Switzerland win correctly called — motivation edge over Canada's draw-content setup\", \"Manzambi flagged as scorer and delivered\", \"Koné absence weakening Les Rouges' midfield structure — held up in result\", \"Les Rouges conceding twice despite defensive intent\"],\n  \"got_wrong\": [\"Embolo predicted as scorer — Vargas delivered instead\", \"David predicted as Canada's goal threat — actual scorer not confirmed from available data\", \"Canada's defensive block proved breakable earlier than the 'late structural compromise' scenario suggested\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Weight Vargas more explicitly as a scoring threat given his established in-tournament form rather than defaulting to Embolo as the striker-led focal point.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T21:01:22.577657+00:00",
+  "got_right": [
+    "Switzerland win correctly called — motivation edge over Canada's draw-content setup",
+    "Manzambi flagged as scorer and delivered",
+    "Koné absence weakening Les Rouges' midfield structure — held up in result",
+    "Les Rouges conceding twice despite defensive intent"
+  ],
+  "got_wrong": [
+    "Embolo predicted as scorer — Vargas delivered instead",
+    "David predicted as Canada's goal threat — actual scorer not confirmed from available data",
+    "Canada's defensive block proved breakable earlier than the 'late structural compromise' scenario suggested"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Weight Vargas more explicitly as a scoring threat given his established in-tournament form rather than defaulting to Embolo as the striker-led focal point."
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "IRA",
+  "fixture_id": "042",
+  "predicted_from_perspective": "0-3 (loss)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "The prediction landed exactly — **Lions of Mesopotamia 0 – Les Bleus 3** — and the reasoning that underpinned it holds up: Iraq's Round 1 defensive exposure was a genuine structural signal, not noise, and France's quality gap was large enough that compressing the margin would have been the error. Calling Mbappé as the likely scorer also proved correct; he ended up with a brace, which confirms the targeting of his threat was sound rather than a reflex pick. The one thing I didn't get quite right was framing Dembélé as peripheral — he delivered the third goal and I barely mentioned him in the key factors, focusing almost entirely on Mbappé. The travel disruption and Tahseen factors were real but ultimately academic given how comprehensively France controlled the game; they didn't change the outcome, they just coloured the margin narrative.\n\n```json\n{\n  \"got_right\": [\n    \"France's defensive quality (Saliba) neutralised Iraq's counter-attack threat entirely\",\n    \"Mbappé identified as the primary goal threat — brace confirmed\",\n    \"Iraq's Round 1 defensive collapse was a reliable signal of structural vulnerability against elite opposition\",\n    \"Scoreline predicted exactly: Lions of Mesopotamia 0 – Les Bleus 3\"\n  ],\n  \"got_wrong\": [\n    \"Dembélé's attacking contribution was underweighted — he scored the third and was largely absent from my key factors\",\n    \"Travel disruption framed as a major compounding factor; the margin suggests France's quality alone was sufficient without needing that explanation\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have given Dembélé explicit weight as a second focal attacking threat alongside Mbappé, rather than treating France's attack as a one-man show — the actual scorers showed their depth was the real danger.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T00:53:52.013368+00:00",
+  "got_right": [
+    "France's defensive quality (Saliba) neutralised Iraq's counter-attack threat entirely",
+    "Mbappé identified as the primary goal threat — brace confirmed",
+    "Iraq's Round 1 defensive collapse was a reliable signal of structural vulnerability against elite opposition",
+    "Scoreline predicted exactly: Lions of Mesopotamia 0 – Les Bleus 3"
+  ],
+  "got_wrong": [
+    "Dembélé's attacking contribution was underweighted — he scored the third and was largely absent from my key factors",
+    "Travel disruption framed as a major compounding factor; the margin suggests France's quality alone was sufficient without needing that explanation"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have given Dembélé explicit weight as a second focal attacking threat alongside Mbappé, rather than treating France's attack as a one-man show — the actual scorers showed their depth was the real danger."
+}

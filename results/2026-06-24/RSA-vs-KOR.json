@@ -1,0 +1,17 @@
+{
+  "fixture_id": "054",
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_score": 1,
+  "away_score": 0,
+  "ingested_at": "2026-06-25T03:01:16.010527+00:00",
+  "goal_scorers": [
+    {
+      "name": "Thapelo Maseko",
+      "team": "home",
+      "minute": "63'",
+      "type": "Goal"
+    }
+  ]
+}

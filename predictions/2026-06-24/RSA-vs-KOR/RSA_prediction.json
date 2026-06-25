@@ -1,0 +1,24 @@
+{
+  "team_code": "RSA",
+  "fixture_id": "054",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
+  "loss_probability": 0.47,
+  "key_factors": [
+    "Mokoena suspension \u2014 decisive creative absence in must-win match",
+    "Korea needs only a draw \u2014 conservative setup likely, but quality tells on transition",
+    "Calibration adjustment: draw probability raised from instinct after CZE underestimation",
+    "Kim Min-jae vs RSA pace-reliant attack \u2014 structural mismatch in Korea's favour"
+  ],
+  "predicted_scorers": [
+    "Son",
+    "Appollis"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:56:33.823206+00:00"
+}

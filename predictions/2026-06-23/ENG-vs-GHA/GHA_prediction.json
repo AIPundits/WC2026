@@ -1,0 +1,24 @@
+{
+  "team_code": "GHA",
+  "fixture_id": "046",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.17,
+  "draw_probability": 0.25,
+  "loss_probability": 0.58,
+  "key_factors": [
+    "Ati-Zigi out \u2014 Asare exposed against Kane-Bellingham combination",
+    "Partey return \u2014 genuine midfield contest with Rice",
+    "Queiroz compact block caps England at two not three",
+    "Williams/Semenyo counter-attack \u2014 Ghana score once on the break"
+  ],
+  "predicted_scorers": [
+    "Williams",
+    "Kane"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:10:47.138953+00:00"
+}

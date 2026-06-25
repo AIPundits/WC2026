@@ -1,0 +1,22 @@
+{
+  "team_code": "SCO",
+  "fixture_id": "052",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "I called this one about as well as I could on direction — Brazil win, Scotland clean sheet, Vinícius and Cunha both on the scoresheet — but I stopped one goal short on Brazil's total output, predicting 2 when Seleção actually delivered 3. The reasoning behind the Vinícius and Cunha threat held precisely because both are in-form finishers who thrive in exactly the kind of open, transitional game Scotland's desperation attack created; that argument was sound and I'll take it. What I got wrong was setting Brazil's ceiling at two goals — Scotland's forced attacking posture against a Seleção side with this much counter-attacking quality should have pointed me toward 3 as a plausible output, not a tail risk. One thing I'd change: rather than anchoring on Brazil's R1 one-goal output against Morocco as a conversion cap, I should have weighted more heavily that Brazil were facing a structurally vulnerable, outright open Scotland side — a very different defensive proposition from a disciplined Morocco backline.\n\n```json\n{\n  \"got_right\": [\"Vinícius as a goal threat — scored\", \"Cunha as a goal threat — scored\", \"Scotland clean sheet — confirmed\", \"Brazil's quality differential being fully decisive\"],\n  \"got_wrong\": [\"Set Brazil's goal ceiling at 2 — they scored 3\", \"Under-estimated impact of Scotland's open attacking shape on Brazil's total output\", \"Morocco R1 result inappropriately used as a cap on Brazil's scoring potential\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have explicitly modelled the open-game multiplier — Scotland needing to attack meant Brazil faced a structurally weaker defence than in R1 vs Morocco, and I should have raised Brazil's expected goals accordingly rather than anchoring on their previous single-goal output.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T00:06:37.827243+00:00",
+  "got_right": [
+    "Vinícius as a goal threat — scored",
+    "Cunha as a goal threat — scored",
+    "Scotland clean sheet — confirmed",
+    "Brazil's quality differential being fully decisive"
+  ],
+  "got_wrong": [
+    "Set Brazil's goal ceiling at 2 — they scored 3",
+    "Under-estimated impact of Scotland's open attacking shape on Brazil's total output",
+    "Morocco R1 result inappropriately used as a cap on Brazil's scoring potential"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have explicitly modelled the open-game multiplier — Scotland needing to attack meant Brazil faced a structurally weaker defence than in R1 vs Morocco, and I should have raised Brazil's expected goals accordingly rather than anchoring on their previous single-goal output."
+}

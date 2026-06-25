@@ -1,0 +1,41 @@
+{
+  "fixture_id": "043",
+  "date": "2026-06-22",
+  "home": "NOR",
+  "away": "SEN",
+  "home_score": 3,
+  "away_score": 2,
+  "ingested_at": "2026-06-23T02:03:26.387726+00:00",
+  "goal_scorers": [
+    {
+      "name": "Marcus Holmgren Pedersen",
+      "team": "home",
+      "minute": "43'",
+      "type": "Goal"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "home",
+      "minute": "48'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "team": "away",
+      "minute": "53'",
+      "type": "Goal"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "home",
+      "minute": "58'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "team": "away",
+      "minute": "90'+3'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "fixture_id": "039",
+  "fixture_date": "2026-06-21",
+  "home_code": "URU",
+  "away_code": "CPV",
+  "turns": 6,
+  "consensus_reached": false,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.6605404500000001,
+  "model": "claude-sonnet-4-6"
+}

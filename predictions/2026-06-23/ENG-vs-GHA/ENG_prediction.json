@@ -1,0 +1,25 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "046",
+  "predicted_score": {
+    "self": 3,
+    "opponent": 1
+  },
+  "win_probability": 0.67,
+  "draw_probability": 0.21,
+  "loss_probability": 0.12,
+  "key_factors": [
+    "Ghana backup GK Asare vs England's clinical attack \u2014 structural mismatch",
+    "Queiroz compact block limits but doesn't prevent England goals",
+    "Williams/Semenyo counter-attack threat \u2014 Ghana score on the break",
+    "Scorecard calibration: under-predicted England goals vs Croatia"
+  ],
+  "predicted_scorers": [
+    "Kane",
+    "Bellingham",
+    "Williams"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T08:10:47.138014+00:00"
+}

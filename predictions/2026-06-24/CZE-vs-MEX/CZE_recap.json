@@ -1,0 +1,21 @@
+{
+  "team_code": "CZE",
+  "fixture_id": "053",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "I got the direction right — El Tri win was correctly called — but the scoreline tells a harder truth: I predicted Czech Lions would score against El Tri because they'd scored in every 2026 international, and El Tri shut that run down completely with a clean sheet. The rotation concern was real but I over-applied it; even a rotated El Tri side was sufficiently organised defensively to nullify Czech Lions entirely, and Quiñones — flagged in the dialogue as a wide threat — delivered on that assessment with a goal. The three-goal margin for El Tri is the sharpest rebuke to my reasoning: I had Czech Lions conceding two at most, but El Tri's depth proved so superior that a third goal came without any Czech response. The one thing I'd revise is my anchoring on Czech Lions' scoring streak against El Tri's clean sheet record — eight clean sheets in ten 2026 games is a stronger signal than a scoring streak built partly against weaker opposition, and El Tri's defensive discipline in tournament conditions warranted more weight.\n\n```json\n{\n  \"got_right\": [\n    \"El Tri win correctly predicted — correct outcome\",\n    \"Quiñones flagged as wide threat — he scored\",\n    \"El Tri squad depth sufficient even in rotation\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Czech Lions would score — El Tri kept a clean sheet\",\n    \"Under-estimated El Tri's scoring margin (2 goals predicted, 3 conceded)\",\n    \"Over-weighted CZE scoring streak vs El Tri's dominant clean sheet record in 2026\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would weight El Tri's eight clean sheets in ten 2026 games more heavily than CZE's scoring streak — tournament defensive organisation against quality opposition is a stronger predictor than a scoring run built against mixed company.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T03:01:53.208605+00:00",
+  "got_right": [
+    "El Tri win correctly predicted — correct outcome",
+    "Quiñones flagged as wide threat — he scored",
+    "El Tri squad depth sufficient even in rotation"
+  ],
+  "got_wrong": [
+    "Predicted Czech Lions would score — El Tri kept a clean sheet",
+    "Under-estimated El Tri's scoring margin (2 goals predicted, 3 conceded)",
+    "Over-weighted CZE scoring streak vs El Tri's dominant clean sheet record in 2026"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would weight El Tri's eight clean sheets in ten 2026 games more heavily than CZE's scoring streak — tournament defensive organisation against quality opposition is a stronger predictor than a scoring run built against mixed company."
+}

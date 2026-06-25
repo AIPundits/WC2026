@@ -1,11 +1,11 @@
 {
   "team_code": "ECU",
   "predictions_made": 1,
-  "results_scored": 1,
+  "results_scored": 2,
   "correct_winner": 0,
   "correct_scoreline_pattern": 0,
   "exact_score": 0,
-  "brier_score": 0.2222,
+  "brier_score": 0.326,
   "per_prediction": [
     {
       "fixture_id": "011",
@@ -17,6 +17,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2222
+    },
+    {
+      "fixture_id": "035",
+      "date": "2026-06-20",
+      "opponent": "CUR",
+      "predicted": "3-0",
+      "actual": "0-0",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.4298
     }
   ]
 }

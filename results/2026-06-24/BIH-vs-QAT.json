@@ -1,0 +1,35 @@
+{
+  "fixture_id": "049",
+  "date": "2026-06-24",
+  "home": "BIH",
+  "away": "QAT",
+  "home_score": 3,
+  "away_score": 1,
+  "ingested_at": "2026-06-24T21:00:26.987340+00:00",
+  "goal_scorers": [
+    {
+      "name": "Kerim Alajbegovic",
+      "team": "home",
+      "minute": "29'",
+      "type": "Goal"
+    },
+    {
+      "name": "Mahmoud Abunada",
+      "team": "home",
+      "minute": "34'",
+      "type": "Own Goal"
+    },
+    {
+      "name": "Hassan Al-Haydos",
+      "team": "away",
+      "minute": "42'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ermin Mahmic",
+      "team": "home",
+      "minute": "80'",
+      "type": "Goal"
+    }
+  ]
+}

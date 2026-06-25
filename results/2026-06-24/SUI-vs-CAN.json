@@ -1,0 +1,23 @@
+{
+  "fixture_id": "050",
+  "date": "2026-06-24",
+  "home": "SUI",
+  "away": "CAN",
+  "home_score": 2,
+  "away_score": 1,
+  "ingested_at": "2026-06-24T21:00:29.096637+00:00",
+  "goal_scorers": [
+    {
+      "name": "Rubén Vargas",
+      "team": "home",
+      "minute": "46'",
+      "type": "Goal"
+    },
+    {
+      "name": "Johan Manzambi",
+      "team": "home",
+      "minute": "57'",
+      "type": "Goal"
+    }
+  ]
+}

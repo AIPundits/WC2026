@@ -1,0 +1,23 @@
+{
+  "team_code": "IRA",
+  "fixture_id": "042",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 3
+  },
+  "win_probability": 0.05,
+  "draw_probability": 0.08,
+  "loss_probability": 0.87,
+  "key_factors": [
+    "Round 1 lesson: quality gap produces larger margins than initial instinct suggests",
+    "Iraq conceded 4 to Norway \u2014 defensive structure comprehensively exposed",
+    "Tahseen suspension and travel disruption compound Iraq's preparation deficit",
+    "France's elite defensive line (Saliba) neutralises Iraq's sole counter-attack threat"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9"
+  ],
+  "confidence": "high",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:10:49.139244+00:00"
+}

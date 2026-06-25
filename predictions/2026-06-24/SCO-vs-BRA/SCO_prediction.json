@@ -1,0 +1,24 @@
+{
+  "team_code": "SCO",
+  "fixture_id": "052",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.11,
+  "draw_probability": 0.2,
+  "loss_probability": 0.69,
+  "key_factors": [
+    "Scorecard pattern: over-predicted Scotland goals in both previous matches \u2014 calibrating to zero",
+    "Scotland 1 goal in 180 WC minutes against inferior opposition \u2014 Brazil are a step above",
+    "Hickey/McKenna fitness doubts expose left channel to Vin\u00edcius/Arana combination",
+    "Scotland's forced attacking posture creates transition corridors Brazil are best equipped to punish"
+  ],
+  "predicted_scorers": [
+    "Vin\u00edcius",
+    "Cunha"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:48:27.937234+00:00"
+}

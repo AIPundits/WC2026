@@ -1,0 +1,24 @@
+{
+  "team_code": "JOR",
+  "fixture_id": "044",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.23,
+  "draw_probability": 0.27,
+  "loss_probability": 0.5,
+  "key_factors": [
+    "Algeria attacking depth vs Jordan defensive fragility",
+    "Jordan Round 1 showed genuine goal-scoring quality \u2014 not a zero-threat side",
+    "must-win context creates open game favouring deeper squad",
+    "Olwan as Jordan's primary attacking outlet \u2014 Algeria will target him"
+  ],
+  "predicted_scorers": [
+    "Olwan",
+    "Amoura"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:17:27.615544+00:00"
+}

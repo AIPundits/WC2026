@@ -1,0 +1,24 @@
+{
+  "team_code": "BRA",
+  "fixture_id": "052",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.6,
+  "draw_probability": 0.24,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "Scotland forced to attack to qualify \u2014 creates transition space for Vin\u00edcius and Cunha",
+    "Scotland 1 goal in 180 WC minutes but tonight's attacking imperative is categorically different",
+    "Hickey/McKenna fitness doubts expose left channel to Vin\u00edcius/Arana",
+    "Scorecard lesson: maintain draw probability at 0.24 \u2014 don't over-predict Brazil decisiveness"
+  ],
+  "predicted_scorers": [
+    "Vin\u00edcius",
+    "Cunha"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:48:27.938280+00:00"
+}

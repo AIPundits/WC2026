@@ -1,0 +1,25 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "044",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.52,
+  "draw_probability": 0.25,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Jordan 6-game defensive fragility pattern",
+    "Algeria forward depth (Mahrez, Amoura, Gouiri) vs Olwan-dependent attack",
+    "must-win open game favours deeper squad",
+    "calibration: trust quality differentials more decisively after Argentina lesson"
+  ],
+  "predicted_scorers": [
+    "Amoura",
+    "Mahrez",
+    "Olwan"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:17:27.616308+00:00"
+}

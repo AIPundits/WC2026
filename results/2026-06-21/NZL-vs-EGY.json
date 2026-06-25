@@ -1,0 +1,17 @@
+{
+  "fixture_id": "040",
+  "date": "2026-06-21",
+  "home": "NZL",
+  "away": "EGY",
+  "home_score": 1,
+  "away_score": 3,
+  "ingested_at": "2026-06-22T03:03:46.804474+00:00",
+  "goal_scorers": [
+    {
+      "name": "Mohamed Salah",
+      "team": "away",
+      "minute": "67'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "team_code": "BIH",
+  "fixture_id": "049",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "I called the winner and the Qatar goal tally exactly right — the double suspension of Madibo and Homam Ahmed did precisely what I argued it would, destabilising The Maroons' defensive structure enough to allow BIH to score three times rather than the two I predicted. My reasoning on The Maroons' vulnerability held up: the confirmed 0-6 morale damage and personnel deficit were the defining factors, and Al-Haydos (not Afif, whom I'd specifically flagged as the danger man) provided Qatar's consolation, which tells me I had the threat vector slightly wrong even if the outcome was right. Where I undershot was on BIH's goal output against The Maroons — the own goal from Abunada shows the defensive disorganisation in The Maroons' reshuffled backline was even greater than I priced in, and I was too conservative in calibrating how much damage a motivated BIH could do to a depleted, demoralised Maroons side. The verdict is sound on direction but underconfident on margin.\n\n```json\n{\n  \"got_right\": [\"BIH win as the clear outcome against The Maroons\", \"Qatar scoring exactly one consolation goal\", \"double suspension creating structural weakness in The Maroons' defence\", \"Qatar morale damage from 0-6 a genuine depressing factor on their performance\"],\n  \"got_wrong\": [\"underestimated BIH goal output — predicted 2, actual was 3\", \"flagged Afif as the Maroons' threat but Al-Haydos scored the actual goal\", \"own goal route not considered — Maroons' defensive disorganisation was deeper than priced\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have weighted The Maroons' defensive disorganisation more aggressively — the double suspension didn't just weaken their shape, it created the kind of confusion under pressure that produces own goals, and I should have pushed BIH's goal prediction to 3 rather than anchoring conservatively at 2.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T21:00:57.861909+00:00",
+  "got_right": [
+    "BIH win as the clear outcome against The Maroons",
+    "Qatar scoring exactly one consolation goal",
+    "double suspension creating structural weakness in The Maroons' defence",
+    "Qatar morale damage from 0-6 a genuine depressing factor on their performance"
+  ],
+  "got_wrong": [
+    "underestimated BIH goal output — predicted 2, actual was 3",
+    "flagged Afif as the Maroons' threat but Al-Haydos scored the actual goal",
+    "own goal route not considered — Maroons' defensive disorganisation was deeper than priced"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have weighted The Maroons' defensive disorganisation more aggressively — the double suspension didn't just weaken their shape, it created the kind of confusion under pressure that produces own goals, and I should have pushed BIH's goal prediction to 3 rather than anchoring conservatively at 2."
+}

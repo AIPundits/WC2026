@@ -1,0 +1,21 @@
+{
+  "team_code": "HAI",
+  "fixture_id": "051",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "2-4 (loss)",
+  "narrative": "I called the Atlas Lions winning comfortably and the quality gap being decisive — that part holds, and a 4-2 scoreline is a comfortable win. But my central argument for capping Morocco at 2 goals was that rotation would blunt their attacking output, and the actual scorers — Hakimi, Saibari, Rahimi — tell a different story: Regragui did not significantly rotate, and the players I assumed might be rested put the match away emphatically. I predicted Díaz and El Khannouss as the rotation-tier scorers, and neither got on the sheet; the Atlas Lions' first-choice calibre players drove the damage instead. The result verdict is correct but the rotation-capping logic was wrong, which means I got to the right outcome via reasoning that the match itself disproved.\n\n```json\n{\n  \"got_right\": [\n    \"Atlas Lions would win comfortably — correct outcome, correct direction\",\n    \"Morocco's individual quality too great for Haiti across the whole squad\",\n    \"Atlas Lions would score multiple goals against Haiti's defence\"\n  ],\n  \"got_wrong\": [\n    \"Rotation argument was wrong — Hakimi and Saibari both started and scored\",\n    \"Under-predicted Morocco's goal output significantly (predicted 2, conceded 4)\",\n    \"Named Díaz and El Khannouss as scorers — neither featured on the scoresheet\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"I would not assume a team already qualified automatically rotates key players — Regragui kept Hakimi and Saibari in from the start, and I should have weighted the possibility that Atlas Lions would use this match to build momentum rather than protect legs.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T00:06:53.627968+00:00",
+  "got_right": [
+    "Atlas Lions would win comfortably — correct outcome, correct direction",
+    "Morocco's individual quality too great for Haiti across the whole squad",
+    "Atlas Lions would score multiple goals against Haiti's defence"
+  ],
+  "got_wrong": [
+    "Rotation argument was wrong — Hakimi and Saibari both started and scored",
+    "Under-predicted Morocco's goal output significantly (predicted 2, conceded 4)",
+    "Named Díaz and El Khannouss as scorers — neither featured on the scoresheet"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I would not assume a team already qualified automatically rotates key players — Regragui kept Hakimi and Saibari in from the start, and I should have weighted the possibility that Atlas Lions would use this match to build momentum rather than protect legs."
+}

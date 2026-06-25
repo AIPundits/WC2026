@@ -1,0 +1,25 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "042",
+  "predicted_score": {
+    "self": 3,
+    "opponent": 0
+  },
+  "win_probability": 0.9,
+  "draw_probability": 0.07,
+  "loss_probability": 0.03,
+  "key_factors": [
+    "Iraq conceded 4 to Norway \u2014 defensive structure comprehensively exposed in Round 1",
+    "Mbapp\u00e9 in record-breaking form, full fitness, zero suspension risk",
+    "Tahseen suspension and travel disruption compound Iraq's preparation deficit",
+    "Prior round underestimation of France's goals corrected upward"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9",
+    "Olise",
+    "Demb\u00e9l\u00e9"
+  ],
+  "confidence": "high",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-22T06:10:49.138022+00:00"
+}

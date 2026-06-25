@@ -1,0 +1,21 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "042",
+  "predicted_from_perspective": "3-0 (win)",
+  "actual_from_perspective": "3-0 (win)",
+  "narrative": "Exact scoreline, two of three scorers correct, and every structural argument held: Iraq's defensive frailty against Norway was a genuine signal, not noise, and Les Bleus exploited it with the clinical efficiency I expected once the first goal arrived. The Tahseen suspension and travel disruption arguments proved relevant — Iraq never found the midfield shape to disrupt France's build-up, and the clean sheet was never seriously in doubt. Where I fell short was in the scorer distribution: I listed Olise alongside Mbappé and Dembélé, but Mbappé's dominance against this level of opposition meant he took the brace rather than sharing the load — I spread the predicted goals too evenly across the attack when I should have weighted him more heavily as a multi-goal threat. The one thing I'd revise is treating \"three goals, three scorers\" as the default distribution when Mbappé faces a side this exposed; against Iraq's backline, doubling down on him as the primary and secondary goal-getter was the smarter call.\n\n```json\n{\n  \"got_right\": [\n    \"Iraq's defensive structure was genuinely fragile — Norway's four goals proved predictive\",\n    \"Mbappé in peak form and scored (brace confirmed elite level against this opposition)\",\n    \"Dembélé as a scorer — third goal on target\",\n    \"Clean sheet — Iraq never created a credible threat\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Olise as a scorer; Mbappé took a brace instead\",\n    \"Spread expected goals too evenly across three attackers rather than concentrating on Mbappé\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Against an opponent as defensively compromised as Iraq, I should have modelled Mbappé as the most likely multi-goal scorer rather than defaulting to a three-scorer spread across the forward line.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T00:53:52.011548+00:00",
+  "got_right": [
+    "Iraq's defensive structure was genuinely fragile — Norway's four goals proved predictive",
+    "Mbappé in peak form and scored (brace confirmed elite level against this opposition)",
+    "Dembélé as a scorer — third goal on target",
+    "Clean sheet — Iraq never created a credible threat"
+  ],
+  "got_wrong": [
+    "Predicted Olise as a scorer; Mbappé took a brace instead",
+    "Spread expected goals too evenly across three attackers rather than concentrating on Mbappé"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Against an opponent as defensively compromised as Iraq, I should have modelled Mbappé as the most likely multi-goal scorer rather than defaulting to a three-scorer spread across the forward line."
+}

@@ -1,0 +1,24 @@
+{
+  "team_code": "HAI",
+  "fixture_id": "051",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.06,
+  "draw_probability": 0.12,
+  "loss_probability": 0.82,
+  "key_factors": [
+    "Haiti 0 goals in 2 tournament matches \u2014 firmest data point in this fixture",
+    "Morocco rotating key players \u2014 caps goal ceiling at 2 rather than 3",
+    "Both pundits independently converged on 2-0 \u2014 rare agreement signals calibrated call",
+    "Scorecard shows no directional bias in opponent goal predictions \u2014 holding 2"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz",
+    "El Khannouss"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:44:42.667583+00:00"
+}

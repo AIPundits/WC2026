@@ -1,0 +1,22 @@
+{
+  "team_code": "KOR",
+  "fixture_id": "054",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "The Mokoena suspension analysis held up in one sense — Bafana Bafana *were* direct and pace-reliant rather than structured in build-up — but I drew completely the wrong conclusion from it: I assumed that made them weaker, when a compact, direct Bafana side pressing on the counter against a Korea team obliged to chase the game was actually their optimal shape, and Maseko's winning goal proved exactly that. I was right that Bafana would score once (and through a wide, direct player), but I got the context entirely backwards — they didn't concede twice and win a shootout, they defended with discipline and nicked one. The quality gap I cited for Korea never materialised on the scoresheet: zero goals from a side I gave xG credit to is a clean verdict against my reasoning, not a near-miss.\n\nThe single factor I failed to weight properly was how a Korea side *needing* to attack — once they fell behind to Bafana's counter — actually inverted the tactical picture I'd built my case on.\n\n```json\n{\n  \"got_right\": [\n    \"Bafana Bafana would score exactly one goal\",\n    \"Bafana's threat would come from direct, pace-based play rather than structured build-up\",\n    \"Mokoena's absence would push Bafana toward a more direct, counter-oriented shape\"\n  ],\n  \"got_wrong\": [\n    \"Assumed Bafana's direct style was a weakness — it was their winning formula on the night\",\n    \"Over-weighted Korea's xG evidence from Round 2 as a predictor of goals here\",\n    \"Predicted Korea would score twice; they scored zero — Bafana's defensive discipline was entirely underestimated\",\n    \"Framed Mokoena's absence as structurally damaging when a compact counter-pressing Bafana was arguably more dangerous without him\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the scenario where Korea chasing the game (after conceding first) actually opens the exact counter-attack spaces that favour a direct, pace-reliant Bafana side — rather than assuming Korea's attacking intent was only an asset and never a liability.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T03:02:08.064756+00:00",
+  "got_right": [
+    "Bafana Bafana would score exactly one goal",
+    "Bafana's threat would come from direct, pace-based play rather than structured build-up",
+    "Mokoena's absence would push Bafana toward a more direct, counter-oriented shape"
+  ],
+  "got_wrong": [
+    "Assumed Bafana's direct style was a weakness — it was their winning formula on the night",
+    "Over-weighted Korea's xG evidence from Round 2 as a predictor of goals here",
+    "Predicted Korea would score twice; they scored zero — Bafana's defensive discipline was entirely underestimated",
+    "Framed Mokoena's absence as structurally damaging when a compact counter-pressing Bafana was arguably more dangerous without him"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the scenario where Korea chasing the game (after conceding first) actually opens the exact counter-attack spaces that favour a direct, pace-reliant Bafana side — rather than assuming Korea's attacking intent was only an asset and never a liability."
+}

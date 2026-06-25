@@ -1,0 +1,25 @@
+{
+  "team_code": "NZL",
+  "fixture_id": "040",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.19,
+  "draw_probability": 0.3,
+  "loss_probability": 0.51,
+  "key_factors": [
+    "Egypt's Round 1 vs Belgium is stronger tournament evidence than NZL's vs Iran",
+    "Salah is the decisive individual quality gap with no credible NZL answer",
+    "Both teams drew Round 1 \u2014 draw probability elevated vs baseline",
+    "Scorecard calibration: demonstrated pattern of underestimating NZL scoring and draw outcomes"
+  ],
+  "predicted_scorers": [
+    "Just",
+    "Salah",
+    "Wood"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-21T09:44:04.468869+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "fixture_id": "050",
+  "fixture_date": "2026-06-24",
+  "home_code": "SUI",
+  "away_code": "CAN",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 2.6808801000000004,
+  "model": "claude-sonnet-4-6"
+}

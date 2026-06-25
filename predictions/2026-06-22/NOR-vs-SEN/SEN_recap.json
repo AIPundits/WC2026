@@ -1,0 +1,22 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "043",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "2-3 (loss)",
+  "narrative": "The result direction was correct and the core reasoning held — Haaland scored (twice, not once), Sarr scored (twice, not once, which I'd flagged as Senegal's attacking threat), and the must-win pressure on the Lions of Teranga did exactly what I said it would: forced them open, created space, and gave Norway's counter-attack a highway. What I underestimated was the *volume* — 2-3 rather than 1-2 — and that's a calibration miss, not a structural one; I knew both sides could score, I just didn't push the goal expectation high enough given Norway's 4-0 Round 1 demolition and the tactical inevitability of an open, end-to-end game. Pedersen's goal was the detail I missed entirely — I was so focused on Haaland as the decisive outlet that I discounted Norway's other attacking contributors in a match where Senegal were committed forward. One specific change: I should have weighted Norway's total goal threat more systematically — not just through Haaland but through the width and secondary runners — and bumped the over-2.5-goals probability significantly given the match conditions I'd already correctly identified.\n\n```json\n{\n  \"got_right\": [\"Norway winning the match\", \"Haaland scoring\", \"Sarr scoring\", \"Senegal must-win pressure forcing open play that benefited Norway's counter-attack\"],\n  \"got_wrong\": [\"Underestimated total goal volume (predicted 1-2, actual 2-3)\", \"Missed Pedersen as a goal threat — over-indexed on Haaland as sole Norway outlet\", \"Underestimated Sarr's ability to contribute twice despite the losing context\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have pushed the expected goal total higher — my structural analysis correctly identified an open, end-to-end game, but I didn't follow that logic through to a 5-goal scoreline, which was the natural consequence of the conditions I'd already correctly described.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-23T02:03:59.739944+00:00",
+  "got_right": [
+    "Norway winning the match",
+    "Haaland scoring",
+    "Sarr scoring",
+    "Senegal must-win pressure forcing open play that benefited Norway's counter-attack"
+  ],
+  "got_wrong": [
+    "Underestimated total goal volume (predicted 1-2, actual 2-3)",
+    "Missed Pedersen as a goal threat — over-indexed on Haaland as sole Norway outlet",
+    "Underestimated Sarr's ability to contribute twice despite the losing context"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have pushed the expected goal total higher — my structural analysis correctly identified an open, end-to-end game, but I didn't follow that logic through to a 5-goal scoreline, which was the natural consequence of the conditions I'd already correctly described."
+}

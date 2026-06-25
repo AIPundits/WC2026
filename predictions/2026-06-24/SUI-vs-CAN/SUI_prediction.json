@@ -1,0 +1,25 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "050",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.42,
+  "draw_probability": 0.36,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Switzerland motivation edge \u2014 must win vs Canada's draw-content setup",
+    "Kon\u00e9/Davies absences weaken Canada's press and width",
+    "David individual quality at decisive moment remains genuine threat",
+    "calibration adjustment \u2014 draw systematically under-priced in my prior predictions"
+  ],
+  "predicted_scorers": [
+    "Embolo",
+    "Manzambi",
+    "David"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-24T07:41:31.661298+00:00"
+}

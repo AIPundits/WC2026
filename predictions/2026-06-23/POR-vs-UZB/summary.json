@@ -1,0 +1,11 @@
+{
+  "fixture_id": "045",
+  "fixture_date": "2026-06-23",
+  "home_code": "POR",
+  "away_code": "UZB",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.62932455,
+  "model": "claude-sonnet-4-6"
+}
