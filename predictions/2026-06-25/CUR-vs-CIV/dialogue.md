@@ -2,98 +2,30 @@
 
 **Fixture:** 055 — 2026-06-25 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.6178
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.6067
 
 ## Turn 1 — The Blue Eagles AI Pundit (CUR) — `opening_statement`
 
-The briefing hasn't been generated yet — let me pull what I can from live sources before making my case.
-The briefing isn't generated yet, but I've pulled enough from live sources to make the case. The headline from Round 2 is that Eloy Room made **15 saves** to earn a historic 0-0 draw with Ecuador — CUR's first-ever World Cup point. That's not just a feel-good story; it's tournament evidence that our goalkeeper is in extraordinary form and our low block, properly organised, can hold against CONCACAF-level pressure. The complicating factor for this match is structural: Ivory Coast need only a point to guarantee second place, which may nudge Fae toward caution — but "caution" for a side that beat Ecuador 1-0 in Round 1 still means a quality attack. CIV are missing Singo at right-back with a hamstring injury, and N'Dicka is returning from a thigh problem — these are genuine squad concerns, not speculation.
+The briefing confirms the full picture heading into Round 3: CUR have 1 point and a -6 goal difference, progression is near-impossible, but what they DO have is tournament-proven defensive DNA — Eloy Room's 15 saves against Ecuador was an actual World Cup record, and the 5-4-1 block Advocaat built held a side that had 15 shots on target without scoring. Ivory Coast enter knowing a draw guarantees second place, which is precisely the kind of tactical context that moderates their attacking ambition — Faé may not commit men forward against a side that can punish transitions, even if CIV's wide threats through Adingra and Diallo are the sharpest attacking profile we've faced in tournament play. The absence of Singo at right-back is a genuine structural adjustment for CIV, not just squad rotation noise.
 
-The honest read is that CIV are the better side and will likely find a way through. Room cannot repeat 15 saves in consecutive matches, and CIV's attacking pace — even without Singo — is sharper than what Ecuador produced. The "only need a draw" factor does push me toward acknowledging draw as a real possibility; a manager who knows a 0-0 secures second place might not overcommit men forward. But I won't call a draw when the quality gap is real. My opening call is **The Blue Eagles 0 – Les Éléphants 2**, with the draw kept as a meaningful minority scenario rather than wishful thinking.
+Applying my scorecard calibration — I've consistently over-predicted opponent goals (called 0-3 vs Ecuador, actual was 0-0) and under-weighted draws — I'm not piling on two or three goals for CIV here. Their tournament output is two goals in two games, and Room in a 5-4-1 is a solved defensive problem only if you can break the shape. My opening call is **The Blue Eagles 0 – Les Éléphants 1**, with draw kept as a genuinely meaningful probability rather than a footnote.
 
 ```json
 {
-  "predicted_score": { "self": 0, "opponent": 2 },
-  "win_probability": 0.12,
-  "draw_probability": 0.26,
-  "loss_probability": 0.62,
-  "key_factors": ["Eloy Room's 15-save performance vs Ecuador shows GK form but cannot be relied on to repeat", "CIV need only a point — may set up conservatively, inflating draw probability", "Singo absent (hamstring) weakens CIV's right-back — minor tactical adjustment", "CIV's attacking quality superior to Ecuador's; CUR's low block has limits"],
+  "predicted_score": { "self": 0, "opponent": 1 },
+  "win_probability": 0.13,
+  "draw_probability": 0.31,
+  "loss_probability": 0.56,
+  "key_factors": ["CIV need only a draw — tactical incentive limits attacking urgency", "Eloy Room and 5-4-1 proven at WC level (0-0 vs ECU, 15 saves)", "CIV modest tournament scoring output (2 goals in 2 games)", "Adingra and Diallo wide threat is the primary danger but Singo absence weakens CIV's right-flank balance"],
   "confidence": "low"
 }
 ```
 
 ## Turn 2 — Les Éléphants AI Pundit (CIV) — `opening_statement`
 
-The briefing isn't generated yet, but I've gathered enough from live sources to make the case. CIV head into Round 3 with 3 points after the Germany loss — Kessié gave us a 30th-minute lead before Deniz Undav broke Ivorian hearts with a brace, including a 90+4' killer — so the context is a side still in a strong position but stinging from a painful late defeat. The quality gap against Curaçao is the dominant factor: CUR's Eloy Room was extraordinary against Ecuador (15 saves to earn a 0-0), but 15 saves only happens when the opposition has real attacking quality, and CIV's pace, width, and individual threat from Amad Diallo and Yan Diomandé represent a sharper, more varied attacking profile than Ecuador's. The one genuine complication is motivation-management: if Faé calculates that a draw is enough depending on Germany-Ecuador's result, we risk setting up passively and letting Room's heroics steal another point — but CIV need to control their own destiny, and the players want to win after that Undav gut-punch. Singo's hamstring absence is a minor adjustment, not a structural problem.
+The briefing adds important texture to what I already knew. The key strategic fact the opponent's opening underweights: CIV and Ecuador kick off simultaneously — Faé has no live scoreline to manage against, which removes the tactical incentive to sit on a draw. If CIV don't know whether Germany are beating Ecuador, setting up to hold 0-0 is a gamble on results they cannot see; the rational play is to go and win the match. Singo's hamstring limits him but he's reportedly not seriously injured, and N'Dicka covering the right is a quality replacement — this isn't a structural collapse. The quality gap between these sides is substantial: CIV's attack (Amad Diallo, Adingra) represents a sharper, more varied threat than anything Ecuador produced in those 15 Room saves. Yan Diomandé being "largely ineffectual" vs Germany and potentially losing his place is the one genuine concern — it narrows the attacking options slightly.
 
-**My opening call is Les Éléphants 2 – Curaçao 0.** Room will make saves, but not 15 of them.
-
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 0 },
-  "win_probability": 0.70,
-  "draw_probability": 0.20,
-  "loss_probability": 0.10,
-  "key_factors": ["substantial quality gap in attack vs Curaçao's defensive low block", "Amad Diallo and Diomandé pose variety Room cannot replicate 15-save performance against", "CIV motivation to win cleanly after Undav's late sucker punch vs Germany", "Singo absence minor — squad depth absorbs it"],
-  "confidence": "medium"
-}
-```
-
-## Turn 3 — The Blue Eagles AI Pundit (CUR) — `rebuttal`
-
-The Les Éléphants pundit's point on attacking variety lands — Amad Diallo in space is a genuinely different threat to anything Ecuador produced, and I'll acknowledge that the "15 saves implies 15 chances" logic cuts both ways: it confirms Room's quality, but it also confirms CIV will create. Where I'll push back is on the motivation narrative: "stinging from a late defeat" can equally mean a side that overcommits and leaves transitions open for a counter, which is exactly the kind of moment CUR's structure is designed to exploit. More substantively, CIV's total tournament goals are two — one against an Ecuador side who hadn't scored in two games themselves, one against Germany in a losing cause — which is not the profile of a side that blows open defensive teams. I'm holding The Blue Eagles 0 – Les Éléphants 2 as my base call, but the draw probability stays meaningful: Fae knows a point is enough and the low block with Room in form is a genuine tactical problem for any side.
-
-```json
-{
-  "predicted_score": { "self": 0, "opponent": 2 },
-  "win_probability": 0.11,
-  "draw_probability": 0.24,
-  "loss_probability": 0.65,
-  "key_factors": ["Amad Diallo and Diomandé provide attacking variety beyond Ecuador's profile", "CIV motivation post-Undav may increase urgency but also transition risk", "CIV scored just 2 goals in 2 games — not a dominant attacking output against defensive sides", "Eloy Room's form and CUR low block remain genuine defensive obstacles"],
-  "confidence": "low"
-}
-```
-
-## Turn 4 — Les Éléphants AI Pundit (CIV) — `rebuttal`
-
-The "2 goals in 2 games" point is the strongest thing in that rebuttal, and I'll engage with it properly rather than wave it away: CIV scored once against a similarly defensive Ecuador in a tight match decided by an individual moment, and once against Germany in a game where the tactical situation (leading, then defending, then chasing late) didn't exactly invite free-scoring football. Neither context maps neatly onto a side that simply can't break down a low block. Against Curaçao — a side Germany put seven past — the conditions are genuinely different. On the counter-attack risk from CIV overcommitting: that's plausible in the first 60 minutes, but Faé is smart enough to know that CUR's counter threat evaporates the moment we're 2-0 up, which is why getting the early goal matters. I'm not moving off the scoreline — the quality gap is real enough to back two goals even for an attack that hasn't been prolific.
-
-**Les Éléphants 2 – Curaçao 0** holds.
-
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 0 },
-  "win_probability": 0.70,
-  "draw_probability": 0.20,
-  "loss_probability": 0.10,
-  "key_factors": ["quality gap significant — Germany scored 7 vs same CUR side", "CIV tournament goal tally low but context of both matches limits the inference", "Amad Diallo and Diomandé provide attacking variety Room hasn't faced", "draw remains live if CIV manage cautiously but win more likely"],
-  "confidence": "medium"
-}
-```
-
-## Turn 5 — The Blue Eagles AI Pundit (CUR) — `final_prediction`
-
-The scorecard is a stark read: I've predicted 0-3 losses in both prior matches. Germany was an actual 1-7 loss (under-called their goals by four), and Ecuador ended 0-0 — meaning I called a comfortable CUR loss and they earned a historic draw. The pattern is systematic: I have been overestimating opponents' scoring output and underestimating CUR's defensive resilience, particularly with Room in this form. That ECU prediction — 0-3, actual 0-0 — is the critical calibration correction here. I've been too quick to hand opponents a multi-goal win, and draw probability has been running well below what my results justify. Applying that correction: I'm lowering the predicted CIV margin from two goals to one, and raising draw probability meaningfully — CIV need only a point, their own tournament scoring isn't prolific (2 goals in 2 games), and Room in a low block has already proven he can hold a side that created 15 chances. My final call is **The Blue Eagles 0 – Les Éléphants 1**.
-
-Predicted scorers: Diallo.
-
-```json
-{
-  "predicted_score": { "self": 0, "opponent": 1 },
-  "win_probability": 0.13,
-  "draw_probability": 0.32,
-  "loss_probability": 0.55,
-  "key_factors": ["scorecard calibration: consistent over-prediction of opponent goals corrected downward", "CIV tournament scoring output modest (2 in 2) — not a dominant attacking profile vs defensive sides", "CIV need only a point — tactical incentive to accept draw inflates probability", "Eloy Room and CUR low block proven capable of holding quality opposition (0-0 vs ECU)"],
-  "confidence": "low",
-  "predicted_scorers": ["Diallo"]
-}
-```
-
-## Turn 6 — Les Éléphants AI Pundit (CIV) — `final_prediction`
-
-My scorecard is actually encouraging: two predictions, two correct winners, one exact score (the Germany 1-2 was a bullseye), and a Brier score of 0.1619 trending well. The pattern from the ECU game — overestimating total goals — is the one calibration signal I need to respect here, and it nudges me toward accepting 1-0 as a live scenario rather than assuming we put two past a goalkeeper who just had the performance of his career. But the opponent's shift to 1-0 deserves scrutiny: Germany scored seven against this same Curaçao side, Room's 15 saves came against a less varied Ecuador attack, and CIV with Amad Diallo and Yan Diomandé are a different calibre of opponent — the quality gap is real enough to back two goals, even accounting for Faé potentially managing the situation cautiously. I'll respect the draw probability at roughly the base rate given the tactical incentives on both sides, but the weight of evidence — squad quality, Germany's 7-1 reference point, CIV's motivation after the Undav heartbreak — keeps me on two. **My final call is Les Éléphants 2 – Curaçao 0.**
-
-Predicted scorers: Diallo, Diomandé.
+**My opening call is Les Éléphants 2 – Curaçao 0.** Room will make saves, but CIV's wide quality is a different problem to Ecuador's attack, and the simultaneous kickoff structure means Faé has every reason to commit forward.
 
 ```json
 {
@@ -101,9 +33,76 @@ Predicted scorers: Diallo, Diomandé.
   "win_probability": 0.68,
   "draw_probability": 0.22,
   "loss_probability": 0.10,
-  "key_factors": ["substantial quality gap — Germany scored 7 vs this CUR side", "Amad Diallo and Diomandé provide attacking variety beyond ECU's profile", "CIV motivation to win after late Undav defeat; clean sheet bonus", "draw remains live if Faé manages for a point, but CIV's attacking quality sufficient for two"],
+  "key_factors": ["simultaneous kickoff removes tactical incentive for CIV to hold for a draw", "quality gap substantial — Diallo and Adingra sharper than Ecuador's attack that Room faced", "Singo injury limited but not structural — N'Dicka covers competently", "Diomandé ineffectual vs Germany may narrow attacking options slightly"],
+  "confidence": "medium"
+}
+```
+
+## Turn 3 — The Blue Eagles AI Pundit (CUR) — `rebuttal`
+
+The simultaneous kickoff point is the strongest thing in that opening, and I'll take it seriously: Faé can't manage the game based on a live Germany-Ecuador score, so the passive "sit on 0-0 and job done" strategy is genuinely off the table. That does shift my draw probability down — there's less reason for CIV to approach this conservatively from minute one. What I'd push back on is the leap from "CIV are going for the win" to "CIV score two" — Adingra and Diallo are sharp, but CIV have scored twice in two competitive outings at this tournament, and Ecuador's attack with 15 shots on target couldn't breach Room's 5-4-1. Faé committing forward doesn't automatically mean the goals flow; it may mean CUR get more transition moments of their own. I'm moving the draw down and the loss probability up in response to the kickoff structure argument, but I'm staying on a single CIV goal as the base case rather than two.
+
+```json
+{
+  "predicted_score": { "self": 0, "opponent": 1 },
+  "win_probability": 0.12,
+  "draw_probability": 0.25,
+  "loss_probability": 0.63,
+  "key_factors": ["simultaneous kickoff removes passive draw incentive for CIV — tactical aggression more likely", "CIV scored only 2 goals in 2 games — modest output against defensive setups", "Eloy Room and 5-4-1 proven vs high-volume attack (Ecuador 15 shots, 0 goals)", "Diallo and Adingra wide threat is real but CUR wing-backs in 5-4-1 specifically designed to manage it"],
+  "confidence": "low"
+}
+```
+
+## Turn 4 — Les Éléphants AI Pundit (CIV) — `rebuttal`
+
+The "Ecuador's 15 shots, 0 goals vs the same 5-4-1" stat is the strongest counter-argument on the table, and I won't dismiss it — but it needs context. Ecuador's attack is built around Caicedo's midfield engine and workmanlike wide play; what they produced in 15 shots was largely volume without the individual quality to unpick a compact shape. Amad Diallo breaking at pace from the right, and Adingra doing the same from the left, represent a different kind of problem — they create chances from one-on-one situations and short combination play rather than needing high shot volumes. My calibration from the ECU match (where I overestimated goals) is the one thing pulling me toward 1-0, and I won't pretend it doesn't — but the opponent being CUR rather than Germany, with the simultaneous kickoff forcing CIV to play with intent, keeps me on two.
+
+**Les Éléphants 2 – Curaçao 0** holds, but I'll acknowledge 1-0 is a genuine alternate scenario rather than a footnote.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 0 },
+  "win_probability": 0.65,
+  "draw_probability": 0.23,
+  "loss_probability": 0.12,
+  "key_factors": ["Diallo and Adingra create from one-on-one situations — different quality to Ecuador's volume attack", "simultaneous kickoff forces CIV attacking intent from the start", "CIV modest tournament scoring is real data but context of both prior matches limits the inference", "Room's 5-4-1 a genuine defensive challenge but CUR quality gap vs ECU is not neutral"],
+  "confidence": "medium"
+}
+```
+
+## Turn 5 — The Blue Eagles AI Pundit (CUR) — `final_prediction`
+
+The scorecard pattern is unambiguous: I've predicted 0-3 losses twice, collected a correct winner call once and a wrong one once, and badly missed the ECU draw where my draw probability was around 18% for a result that actually materialised. My Brier score of 0.3314 reflects systematic over-prediction of opponents' goal output across both prior matches. The Les Éléphants pundit's individual-quality argument for Diallo and Adingra is their strongest point — one-on-one creators are a different problem to Ecuador's volume approach — and the simultaneous kickoff correctly removes any passive draw strategy for Faé. But applying the calibration I've earned from two misfires: I will not hand CIV a two-goal margin without evidence they can consistently break compact defensive setups, because their tournament output (two goals in two games) doesn't support it and my own track record of inflating opponent scoring is precisely the bias I'm correcting here. My final call is **The Blue Eagles 0 – Les Éléphants 1**.
+
+Predicted scorers: Diallo.
+
+```json
+{
+  "predicted_score": { "self": 0, "opponent": 1 },
+  "win_probability": 0.12,
+  "draw_probability": 0.28,
+  "loss_probability": 0.60,
+  "key_factors": ["scorecard calibration: consistent over-prediction of opponent goals corrected to single-goal margin", "simultaneous kickoff removes passive draw incentive — CIV will attack with intent", "Diallo and Adingra one-on-one quality is a genuine step up from Ecuador's attack", "Room's 5-4-1 proven at WC level; draw remains meaningful minority given CIV's modest tournament scoring"],
+  "confidence": "low",
+  "predicted_scorers": ["Diallo"]
+}
+```
+
+## Turn 6 — Les Éléphants AI Pundit (CIV) — `final_prediction`
+
+My scorecard is in decent shape — two predictions scored, two correct winners, one exact score on the Germany call, and a Brier of 0.1619. The one calibration signal that matters here is the ECU match: I predicted 2-1 and got 1-0, meaning I overestimated CIV's attacking output by one goal and gifted Ecuador a goal they didn't score. That lesson pulls me toward 1-0 rather than 2-0, and the opponent's persistence on a single-goal margin has landed — CIV's tournament total of two goals in two games is actual data, not a sample-size mirage. But here's where I hold my ground: both prior CIV matches were against sides of genuine quality (Ecuador unbeaten in 19, Germany tournament favourites), and Room's 15 saves came against an Ecuador attack that creates through midfield volume, not individual wide quality. The simultaneous kickoff removes any passive strategy for Faé, and Amad Diallo breaking at pace is a categorically different problem to what Room faced. Splitting the difference from 2-0 to acknowledge the opponent's calibration point, but not all the way to 1-0 — I'm backing the quality gap to produce two. **My final call is Les Éléphants 2 – Curaçao 0.**
+
+Predicted scorers: Diallo, Adingra.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 0 },
+  "win_probability": 0.65,
+  "draw_probability": 0.23,
+  "loss_probability": 0.12,
+  "key_factors": ["quality gap vs CUR substantial — Diallo and Adingra one-on-one threat exceeds Ecuador's volume attack", "simultaneous kickoff removes passive draw strategy for Faé", "ECU calibration lesson noted — 1-0 is live alternate but quality gap supports two", "Room's 5-4-1 a genuine challenge but CIV's individual wide creators are a different problem"],
   "confidence": "medium",
-  "predicted_scorers": ["Diallo", "Diomandé"]
+  "predicted_scorers": ["Diallo", "Adingra"]
 }
 ```
 
@@ -112,8 +111,8 @@ Predicted scorers: Diallo, Diomandé.
 | | The Blue Eagles pundit | Les Éléphants pundit |
 |---|---|---|
 | Predicted score | 0–1 | 0–2 |
-| The Blue Eagles win | 13% | 10% |
-| Draw | 32% | 22% |
-| Les Éléphants win | 55% | 68% |
+| The Blue Eagles win | 12% | 12% |
+| Draw | 28% | 23% |
+| Les Éléphants win | 60% | 65% |
 | Confidence | low | medium |
 | Consensus | ✅ Yes | |
