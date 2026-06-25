@@ -2,45 +2,40 @@
 
 **Fixture:** 057 — 2026-06-25 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.5909
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.6179
 
 ## Turn 1 — Samurai Blue AI Pundit (JPN) — `opening_statement`
 
-The briefing hasn't been generated yet — I'll work from what I know and supplement with live data. Japan vs Sweden is a Round 3 fixture — let me pull form data and the result of Japan's Round 2 match to build my case properly.
-Japan won Round 2 against Tunisia 4-0 — I predicted 2-1, massively underestimating the attacking output. That's now two matches where I've been too conservative about Japan's goals. Let me get Sweden's recent data and head-to-head before opening.
-This is a much richer picture than I had a moment ago. Let me compile what matters most: Japan have 4 points after beating Tunisia 4-0 (confirming my pattern of under-predicting Japan's attacking output — I called 2-1); Sweden also have 3 points after their 5-1 win over Tunisia was followed by a 5-1 hammering from Netherlands. Kubo is confirmed out, injured during the Netherlands match. Let me check one more data point on the H2H before I write.
-Good — H2H is essentially balanced across sources, with slight variations depending on which competitions are counted. That's not a decisive factor either way. Here's my opening case:
+The briefing contains one piece of information that materially changes the tactical framing I developed earlier: Sweden, sitting third on 3 points with a goal difference of 0, appear to need only a draw to likely progress as one of the best third-placed sides — Sports Mole explicitly flags "a point in Texas extremely likely to be enough." That strips away the "Sweden must win" asymmetry I was relying on, and combined with a 40% draw rate across the Japan-Sweden H2H (2 draws in 5 meetings), this match is considerably more cagey than my previous session assumed. Japan are already qualified, in joint-first position, and want the win for top-spot security — but they'll also be managing yellow card accumulation after confirmed suspension warnings from The Athletic. The factor that keeps Japan as my marginal pick: Ueda is in exceptional form (two goals including an 83rd-minute header vs Tunisia), Japan's movement off the ball has been tactically decisive all tournament, and they've not lost to a European side in 90 minutes since 2019.
 
-Samurai Blue arrive at this Round 3 decider in genuine form: four points from two matches, a 4-0 demolition of Tunisia in Round 2 that confirmed Japan's attack is firing well beyond what I initially credited, and a defensive record of just two goals conceded in the tournament (both in the 2-2 draw with Netherlands). Sweden, meanwhile, are in a paradoxical position — five goals scored against Tunisia, five conceded against Netherlands — which tells you their attack is elite and their defence is structurally fragile at this level. The loss of Kubo (injured after the Netherlands match) is a real blow to Japan's creativity, but the system absorbed Endo and Mitoma's absence without breaking and produced a 4-0, so I'm not discounting Moriyasu's depth. Sweden must win here, which means they'll push men forward — and that is precisely the scenario Japan's press-and-transition 3-4-3 has been punishing all tournament.
-
-My scorecard tells me I've under-predicted Japan's attacking output twice running. Sweden's defensive record in this tournament (five conceded against Netherlands) suggests I shouldn't over-correct by being too conservative with Japan's goal tally. **Samurai Blue 2 – Sverige 1.** Medium confidence — Gyökeres and Isak are genuine elite threats, so Sweden will score, but Japan's form and Sweden's defensive fragility point to a Japan win.
+Acknowledging the genuine draw case here — both sides could settle for a point — but Japan's form edge and top-spot incentive tip me toward a narrow Japan win. **Samurai Blue 2 – Sverige 1**, low-to-medium confidence.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.44,
-  "draw_probability": 0.27,
-  "loss_probability": 0.29,
-  "key_factors": ["Japan's in-tournament form: 2-2 NED, 4-0 TUN — attack firing", "Sweden's defensive fragility exposed: 5 conceded vs Netherlands", "Sweden must-win position opens transition space for Japan counters", "Gyökeres and Isak as elite attacking threats for Sweden"],
-  "confidence": "medium"
+  "win_probability": 0.40,
+  "draw_probability": 0.33,
+  "loss_probability": 0.27,
+  "key_factors": ["Sweden likely needs only a draw — tactical caution expected, not desperation attacking", "40% H2H draw rate across 5 meetings flags genuine draw risk", "Ueda in exceptional form; Japan's off-ball movement decisive all tournament", "Japan want top spot; yellow card accumulation risk adds tactical constraint for both sides"],
+  "confidence": "low"
 }
 ```
 
 ## Turn 2 — Blågult AI Pundit (SWE) — `opening_statement`
 
-The Samurai Blue pundit has handed me a Round 2 result I didn't have — Sweden lost 1–5 to Netherlands, while Japan beat Tunisia 4–0 — and that changes this picture substantially. Sweden arrive at this match with 3 points and a goal difference of 0 (5 scored, 6 conceded across two games), in a must-win position; Japan have 4 points and a +4 goal difference and can qualify with a draw. That tactical asymmetry is the dominant factor in my analysis: Japan will sit, absorb, and counter; Sweden must push forward — which is precisely the scenario that got Netherlands 5 goals against Blågult's 3-5-2. The mitigating factor is Kubo's injury, which removes Japan's most creative outlet, but a side that just beat Tunisia 4–0 without obvious stars has shown system depth. I'm being honest about the data here: Japan are in better form, have a better defensive record, and can play for a draw. **Blågult 1 – Samurai Blue 2** — Japan win, with Sweden nicking one through Gyökeres but conceding twice to Japan's transition play.
+The briefing delivers the single most important fact for this fixture: **Sweden needs only a draw to advance**, which means Potter will set up defensively compact — probably a 4-2-3-1 or 3-4-2-1 rather than the 3-5-2 that was systematically dismantled by Netherlands — and Sweden's primary objective is not to score three goals, it's to not lose. Japan are already qualified and want the top spot, which gives them a win incentive, but The Athletic has noted yellow card accumulation risk that will make both sides cautious entering a knockout phase. The H2H sits at a 40% draw rate across 5 meetings, and the incentive structure of this match — Sweden protecting a point, Japan cautious about yellows while pushing for first — describes textbook group-stage stalemate conditions. I'm calling this a draw: **Blågult 1 – Samurai Blue 1**, with draw as my plurality outcome.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.33,
-  "draw_probability": 0.27,
-  "loss_probability": 0.40,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.27,
+  "draw_probability": 0.40,
+  "loss_probability": 0.33,
   "key_factors": [
-    "Sweden's Round 2: 1-5 loss to Netherlands exposes severe defensive fragility",
-    "Japan's Round 2: 4-0 vs Tunisia confirms sustained attacking form",
-    "Sweden must-win position opens counter-attack space for Japan's press-and-transition",
-    "Kubo injured — Japan's creativity reduced but system depth shown vs Tunisia"
+    "Sweden needs only a draw to advance — Potter will set up compact and cautious",
+    "40% H2H draw rate across 5 meetings — established historical tendency",
+    "Japan want top spot but managing yellow card risk before knockouts",
+    "Sweden's 1-5 loss to Netherlands prompts tactical adjustment, not desperation attack"
   ],
   "confidence": "medium"
 }
@@ -48,34 +43,36 @@ The Samurai Blue pundit has handed me a Round 2 result I didn't have — Sweden 
 
 ## Turn 3 — Samurai Blue AI Pundit (JPN) — `rebuttal`
 
-The convergence from the opposing pundit is meaningful — when a team's own AI concedes the opposition will win, the evidence is doing the talking rather than partisanship. The point about Sweden's GD of 0 is worth unpacking though: five of those goals scored came against a Tunisia side Japan beat 4-0, and the one goal scored against Netherlands came in a 1-5 defeat — so Gyökeres and Isak's output has been heavily Tunisia-weighted. Japan's defense conceded only twice in the tournament and both of those came from a Netherlands side that then hammered Sweden 5-1, which gives me some confidence Suzuki's backline can contain Sweden's attack better than that Tunisia benchmark suggests. The tactical asymmetry the Swedish pundit correctly identifies — Japan sits, absorbs, counters while Sweden must push — is the dominant dynamic, and it's precisely the scenario that inflated Japan's goal tally against Tunisia. No adjustment to my prediction; the data is pointing the same direction from both dugouts.
+The Swedish pundit's incentive-structure argument is the strongest case for a draw I've seen in this tournament, and I'm going to be honest: it's moved me. The combination of Sweden needing only a point (defensive setup locked in from the team sheet), Japan managing yellow card accumulation before knockouts, and a 40% H2H draw rate isn't vibes — it's three converging data signals pointing at the same outcome. Where I'd push back slightly: Japan want top spot genuinely, Ueda's confidence after two goals is a real attacking variable, and even a compact Sweden gave Netherlands five. But "compact Sweden" against "cautious Japan managing cards" is a different tactical matchup than what I originally modelled, and the Swedish pundit has the better of that argument. I'm updating to a draw.
+
+**Samurai Blue 1 – Sverige 1**, low confidence — the incentive structure is clearer here than in any match I've called this tournament.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.46,
-  "draw_probability": 0.27,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.36,
+  "draw_probability": 0.37,
   "loss_probability": 0.27,
-  "key_factors": ["Japan's 4-point standing allows draw-play; Sweden must win — tactical asymmetry favours Japan", "Sweden's attacking record inflated by Tunisia sample; Japan's defense conceded 0 vs Tunisia and only 2 vs Netherlands", "Japan's transition attack has scored 6 goals in 2 matches and is in top form", "Gyökeres and Isak remain genuine elite threats — Sweden will score once"],
-  "confidence": "medium"
+  "key_factors": ["Sweden defending for a point — compact setup likely, not desperation attack", "Japan managing yellow card accumulation before knockouts reduces attacking risk-taking", "40% H2H draw rate across 5 meetings — established historical tendency", "Ueda's form and top-spot incentive keep Japan win genuinely possible"],
+  "confidence": "low"
 }
 ```
 
 ## Turn 4 — Blågult AI Pundit (SWE) — `rebuttal`
 
-The Tunisia decomposition is the sharpest argument the Samurai Blue pundit has made, and I'll take it on directly: if you strip out the Tunisia sample, Sweden's attacking return reads 1 goal in 90 minutes against Netherlands — which is not an elite front-two performance, it's a consolation. Japan's defense held Netherlands to 2 goals, and Netherlands then scored 5 against Sweden — that chain of evidence genuinely suggests Japan's backline is capable of limiting Gyökeres and Isak more than the headline 5-1 Tunisia win implied. The one counter I'd offer: Gyökeres's quality is not purely Tunisia-derived — he's been producing at elite level for club and country across 18 months, and a must-win Swedish side with him and Isak will generate chances even against a sound defensive structure. But I'm not going to pretend the argument hasn't landed — I'm holding **Blågult 1 – Samurai Blue 2**, and the Japan pundit's decomposition of Sweden's goal record reinforces rather than weakens that call.
+The Samurai Blue pundit's update is noted, and the convergence is meaningful — when both sides arrive at the same outcome through independent reasoning, that's worth more than either argument alone. The one claim I'd gently correct: "compact Sweden gave Netherlands five" isn't quite right — the 3-5-2 that was exposed by Dutch pressing is the formation Potter is abandoning here, not the one he's deploying. A compact 4-2-3-1 designed specifically to protect a point is a structurally different proposition, and Japan's attacking movement is not Netherlands' high press. The Ueda form point is real — two goals in the tournament is a concrete threat — and Japan's top-spot incentive means this won't be a 0-0 non-event, but the evidence still reads more clearly as a draw than a Japan win. I'm holding **Blågult 1 – Samurai Blue 1**.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.32,
-  "draw_probability": 0.27,
-  "loss_probability": 0.41,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.27,
+  "draw_probability": 0.40,
+  "loss_probability": 0.33,
   "key_factors": [
-    "Sweden's non-Tunisia attacking return: 1 goal vs Netherlands in a 1-5 defeat",
-    "Japan's defense conceded only 2 goals in tournament — both vs Netherlands who beat Sweden 5-1",
-    "Sweden must-win pressure opens counter-attack space for Japan's transition play",
-    "Gyökeres's sustained club/international form keeps Sweden's goal threat real"
+    "Sweden needs only a draw — Potter switching to compact 4-2-3-1, not the exposed 3-5-2",
+    "Japan managing yellow card risk before knockouts reduces attacking aggression",
+    "40% H2H draw rate and converging incentive structures support draw",
+    "Ueda's two-goal form keeps Japan win possible but not dominant"
   ],
   "confidence": "medium"
 }
@@ -83,39 +80,39 @@ The Tunisia decomposition is the sharpest argument the Samurai Blue pundit has m
 
 ## Turn 5 — Samurai Blue AI Pundit (JPN) — `final_prediction`
 
-My scorecard is unambiguous on one pattern: I have under-predicted Japan's attacking output in both tournament matches — called 1-2 and got 2-2, called 2-1 and got 4-0. The correction I'm applying here is not to inflate the scoreline artificially, but to trust that Japan will score and to resist the instinct to cap their tally conservatively. The Swedish pundit's own concession that their non-Tunisia attacking return reads as one consolation goal rather than an elite output reinforces the defensive shape of my prediction — Japan's Suzuki-led backline, which held Netherlands to two and Tunisia to zero, should contain Gyökeres and Isak to a single goal even in a must-win match where Sweden commit forward. Both sides of this debate have converged on Japan winning, the evidence chain is internally consistent, and my calibration adjustment says trust Japan's attack more than I have previously. My final call is **Samurai Blue 2 – Sverige 1**.
+My scorecard confirms the key pattern: I missed the Japan-Netherlands draw in Round 1 by under-weighting it at 20%, and it happened. That is the most relevant data point for this fixture — my historical failure mode is suppressing draw probability when a win feels more comfortable, and this match has the strongest structural case for a draw I've seen in the tournament. The Swedish pundit's correction on the formation change is well-taken: an abandoning of the exposed 3-5-2 in favour of a compact 4-2-3-1 designed specifically to hold a point is a meaningfully different defensive proposition, and I shouldn't pretend Japan's off-ball movement threatens Sweden's defensive shape the way Netherlands' high press did. Ueda's form and Japan's top-spot incentive keep the win genuinely possible, but the convergence of incentive structure, H2H draw rate, yellow card constraint, and my own scorecard calibration all point the same direction. My final call is **Samurai Blue 1 – Sverige 1**.
 
-Expected scorers: Kamada, Ueda, Gyökeres.
+Expected scorers: Ueda, Gyökeres.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.47,
-  "draw_probability": 0.27,
-  "loss_probability": 0.26,
-  "key_factors": ["Japan's 4-point standing allows draw-play; Sweden must win — tactical asymmetry favours Japan", "Sweden's non-Tunisia attacking return: 1 goal vs Netherlands — less threatening than headline suggests", "Japan's defense conceded only 2 goals all tournament; Suzuki outstanding", "Scorecard pattern: I consistently under-predict Japan's goals — trusting attack more this time"],
-  "confidence": "medium",
-  "predicted_scorers": ["Kamada", "Ueda", "Gyökeres"]
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.36,
+  "draw_probability": 0.37,
+  "loss_probability": 0.27,
+  "key_factors": ["Sweden defending for a point with reformed 4-2-3-1 — structurally different from exposed 3-5-2", "Japan managing yellow card accumulation before knockouts reduces attacking aggression", "40% H2H draw rate and converging incentive structures support draw", "Scorecard calibration: I previously under-weighted draw vs Netherlands and paid for it"],
+  "confidence": "low",
+  "predicted_scorers": ["Ueda", "Gyökeres"]
 }
 ```
 
 ## Turn 6 — Blågult AI Pundit (SWE) — `final_prediction`
 
-My scorecard now shows two results: Tunisia under-predicted (called 2–0, got 5–1) and Netherlands under-predicted in margin (predicted a close Netherlands win, got a 1–5 hammering). The combined pattern is that I've been systematically too conservative — on Sweden's goals against weak opposition and on the margin of defeat against strong opposition. The calibration correction here is not to inflate Sweden's output artificially, but to trust the match data: Sweden scored only 1 goal against a proper European opponent, Japan's backline has conceded just 2 all tournament, and the tactical dynamic of a must-win Sweden vs. draw-sufficient Japan points firmly toward Japan. The draw probability at 0.27 sits above the group-stage base rate of ~0.25, which feels right given Japan may elect to sit and absorb — but the weight of evidence across this entire debate has been consistent and cross-confirmed by both pundits. **My final call is Blågult 1 – Samurai Blue 2.**
+My scorecard shows two scored results and zero draw predictions — I've never called a draw in this tournament against a base rate of ~25%, which is a clear systematic bias toward decisive outcomes. This match is where I correct that: three independent signals converge on a draw — Sweden's incentive structure (a point almost certainly sufficient to advance), Japan's yellow card management constraint before the knockouts, and a 40% H2H draw rate across five senior meetings. Potter's shift away from the exposed 3-5-2 to a compact shape designed specifically to hold a point means the Netherlands tactical mismatch is not a template for what Japan will face; Gyökeres remains a genuine counter-attack threat if Japan over-commit, but Sweden's primary mission is containment, not goals. My final call is **Blågult 1 – Samurai Blue 1**.
 
 Expected scorers: Gyökeres, Isak.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.32,
-  "draw_probability": 0.27,
-  "loss_probability": 0.41,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.27,
+  "draw_probability": 0.40,
+  "loss_probability": 0.33,
   "key_factors": [
-    "Sweden's non-Tunisia attacking return: 1 goal vs Netherlands in a 1-5 defeat",
-    "Japan's defense conceded only 2 goals all tournament — both vs Netherlands",
-    "Sweden must-win pressure opens counter-attack space for Japan's transition play",
-    "Japan's 4-point standing allows draw-play; tactical asymmetry favours Japan"
+    "Sweden needs only a draw to advance — compact 4-2-3-1 designed to hold a point",
+    "Japan managing yellow card accumulation before knockouts reduces attacking aggression",
+    "40% H2H draw rate across 5 senior meetings — strongest structural draw case in tournament",
+    "Calibration: first draw prediction correcting systematic under-pricing of level results"
   ],
   "confidence": "medium",
   "predicted_scorers": ["Gyökeres", "Isak"]
@@ -126,9 +123,9 @@ Expected scorers: Gyökeres, Isak.
 
 | | Samurai Blue pundit | Blågult pundit |
 |---|---|---|
-| Predicted score | 2–1 | 2–1 |
-| Samurai Blue win | 47% | 41% |
-| Draw | 27% | 27% |
-| Blågult win | 26% | 32% |
-| Confidence | medium | medium |
+| Predicted score | 1–1 | 1–1 |
+| Samurai Blue win | 36% | 33% |
+| Draw | 37% | 40% |
+| Blågult win | 27% | 27% |
+| Confidence | low | medium |
 | Consensus | ✅ Yes | |
