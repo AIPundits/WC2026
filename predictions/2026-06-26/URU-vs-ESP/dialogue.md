@@ -2,131 +2,131 @@
 
 **Fixture:** 064 — 2026-06-26 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.6342
+**Turns:** 6 • **Consensus:** True • **Cost:** $2.0513
 
 ## Turn 1 — La Celeste AI Pundit (URU) — `opening_statement`
 
-The picture has sharpened significantly since the preliminary debate: Spain's briefing shows their full first XI expected — Yamal (confirmed injury-free), Oyarzabal, Nico Williams, Pedri, Rodri — no rotation, no minutes-management. The argument that a depleted squad would compress the quality gap does not hold if Spain are fielding their best eleven. Uruguay meanwhile arrive having won zero matches in this tournament, conceded three goals in two games with their best centre-back (Araujo) and most creative midfielder (de Arrascaeta) both confirmed absent. The decisive factor here is the tactical contradiction Uruguay face: they *must* attack to survive — a draw eliminates them — but pushing forward against Yamal and Nico Williams at full pace, with a vulnerable back four and no Araujo, is exactly how Spain punish desperate sides on the counter. Uruguay will score because their desperation will produce moments, but Spain's quality, conservative posture (a draw gives them 1st), and clean defensive record through the tournament means they'll absorb pressure and hit back decisively. My opening call is **La Celeste 1 – Spain 2**.
+Both briefings are now in hand and there's a significant divergence from a simple "Spain full strength" narrative: Spain's briefing explicitly flags rotation as likely (already qualified, luxury of secured position), Yamal described as "not yet ready for a full match" and likely substituted, with Zubimendi and Baena potentially replacing Rodri and Williams in the lineup. That rotation picture changes the quality gap materially. Uruguay face their own complications — Araujo's fitness is still uncertain rather than confirmed available, and critically, Rodrigo Bentancur is on a yellow card, which introduces real selection risk for Bielsa against the one team Uruguay most need him sharp for. The two factors that most shape this result are: (1) how much Spain rotate and how conservative De la Fuente sets up, and (2) whether Uruguay's forced attacking posture — they cannot accept a draw — creates the open game that even a rotated Spain can exploit on the counter. The 50% H2H draw rate is the strongest single historical signal for this exact fixture, and with Spain's conservative posture (a draw confirms 1st place) meeting Uruguay's desperation in a game where La Celeste must come forward, the conditions for a 1-1 draw are genuinely present — but the counter-attack threat from even a rotated Spain side is real enough that a narrow Spain win is nearly as likely. **La Celeste 1 – Spain 1** is my opening call.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.18,
-  "draw_probability": 0.30,
-  "loss_probability": 0.52,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.20,
+  "draw_probability": 0.42,
+  "loss_probability": 0.38,
   "key_factors": [
-    "Spain full first XI expected — no rotation, Yamal injury-free and starting",
-    "Uruguay missing Araujo and de Arrascaeta — defensive and creative double blow confirmed",
-    "Uruguay must attack (draw eliminates them) — exposes depleted backline to Spain's counter",
-    "Spain 0 goals conceded in tournament; H2H 50% draw rate but 0 Uruguay wins in 10 meetings"
+    "Spain rotation confirmed likely — Yamal minutes-managed, Zubimendi/Baena expected, quality gap compressed",
+    "H2H: 50% draw rate across 10 meetings, both WC encounters ended level",
+    "Spain conservative posture (draw = 1st place) limits attacking ambition even with rotation",
+    "Bentancur yellow card — suspension risk may affect selection or on-pitch caution"
   ],
-  "confidence": "medium"
+  "confidence": "low"
 }
 ```
 
 ## Turn 2 — La Roja AI Pundit (ESP) — `opening_statement`
 
-The most important update for this opening is the confirmed lineup picture: Spain field their full first XI (Yamal injury-free and starting, Oyarzabal, Williams, Pedri, Rodri all available) with zero rotation, while Uruguay come in missing both Araujo and De Arrascaeta — that's their defensive anchor and creative engine simultaneously gone. The tactical dynamic is also crystal clear: Uruguay must win to have any chance of advancing, which means they cannot sit in a low block and play for a point — they must push men forward against a Spain side whose counter-attack with Yamal and Williams at full pace just dismantled Saudi Arabia 4-0. That forced attacking posture against an Araujo-less backline, facing the most dangerous transition attack in the tournament, is the exact scenario where Spain punish desperation — the H2H 50% draw rate retains historical relevance but loses much of its predictive weight in this specific game state where Uruguay structurally cannot accept a draw. My prediction is **La Roja 2 – Uruguay 1** — Spain control, Uruguay score from set-piece or Valverde drive but never hold a lead, and Spain's quality tells across 90 minutes.
+My briefing has a material update that changes my opening calculus: Spain's expected XI confirms rotation — Zubimendi in for Rodri, Baena likely in for Williams — and Reuters explicitly describes Yamal as "not yet ready for a full match," meaning limited minutes off the bench. That's not the full-strength picture from the 4-0 Saudi Arabia win; that was Spain clicking with their best players. A rotated midfield (Zubimendi instead of Rodri is a genuine step down in positional dominance) combined with Spain being content with a draw that secures 1st place creates the exact conditions the H2H 50% draw rate predicts. Uruguay must win — which means they push men forward, creating counter opportunities — but against a structured Spanish back four that has conceded zero goals in this tournament, scoring two or more is its own ask. The tournament base rate says 1-1 is the second most common result at 13.3%, and this specific match has rotation, H2H, and motivation asymmetry all pointing toward a level scoreline. My opening call is **La Roja 1 – Uruguay 1**.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.57,
-  "draw_probability": 0.23,
-  "loss_probability": 0.20,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.37,
+  "draw_probability": 0.40,
+  "loss_probability": 0.23,
   "key_factors": [
-    "Spain full first XI confirmed — Yamal injury-free, no rotation",
-    "Uruguay must win to survive — forced attacking posture exposes Araujo-less backline",
-    "Spain's counter-attack with Yamal and Williams lethal against open defences (see 4-0 vs KSA)",
-    "H2H 50% draw rate loses predictive weight when Uruguay cannot structurally accept a draw"
+    "Spain rotation confirmed — Zubimendi for Rodri, Baena likely in; Yamal minutes-managed",
+    "H2H: 50% draw rate across 10 meetings, both WC encounters ended level",
+    "Spain conservative posture — draw secures 1st place, no need to chase a win",
+    "Uruguay must attack (draw = elimination risk) but Spain's clean defensive record limits the threat"
   ],
-  "confidence": "medium"
+  "confidence": "low"
 }
 ```
 
 ## Turn 3 — La Celeste AI Pundit (URU) — `rebuttal`
 
-The La Roja pundit's case is well-constructed and largely mirrors my own opening — we're in agreement on the structural picture. The one point I'll push back on gently: the H2H argument doesn't fully disappear even when Uruguay must attack. Spain's conservative posture (they need a draw to finish 1st) means they will not chase the match if it goes level — if Uruguay equalise, Spain are content to hold 1-1 and qualify anyway, which is precisely the game state that produces H2H draws. That said, the La Roja pundit's core insight about the tactical asymmetry is sound: Uruguay attacking into Yamal and Williams on the counter is how this match produces multiple Spain goals, not just one, and I accept that the draw probability is probably closer to the tournament base rate of 26.7% than the 50% H2H historical rate suggests for *this specific* game state. I'll nudge my draw probability down and Spain win up accordingly — the forced open game favours Spain's quality — but I'm staying on **La Celeste 1 – Spain 2** as my predicted scoreline.
+Both pundits have arrived at 1-1 from the opening turn, which is meaningful convergence — when the advocate for Spain is also calling a draw, the structural evidence is speaking clearly. The La Roja pundit's framing of the Zubimendi/Rodri step-down is accurate: Rodri's positional dominance is irreplaceable in the way he closes passing lanes and recycles possession; Zubimendi is a capable player but Spain's midfield control will be meaningfully reduced, which is exactly where Valverde can operate in the space between the lines and make things happen for La Celeste. The one small distinction I'd maintain: my Uruguay win probability is slightly lower than theirs, anchored firmly by the fact that Uruguay have zero wins from ten meetings against Spain — not one, across all formats — and the H2H ceiling on La Celeste breaking that run in a single match against even a rotated Spain is genuinely low. I'm holding **La Celeste 1 – Spain 1** with no change to my numbers.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.17,
-  "draw_probability": 0.27,
-  "loss_probability": 0.56,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.20,
+  "draw_probability": 0.42,
+  "loss_probability": 0.38,
   "key_factors": [
-    "Spain full first XI vs depleted Uruguay — quality gap is real and unmitigated by rotation",
-    "Uruguay must attack (draw = elimination) — opens space for Spain's Yamal/Williams counter",
-    "Spain conservative posture still suppresses draw probability toward tournament base rate (26.7%), not H2H 50%",
-    "Uruguay's set-piece/Valverde threat makes them dangerous for one goal but holding a lead is a different ask"
+    "Spain rotation confirmed — Zubimendi for Rodri reduces midfield control, opens space for Valverde",
+    "H2H: 50% draw rate across 10 meetings, both WC encounters ended level, 0 Uruguay wins ever",
+    "Spain conservative posture (draw = 1st) limits attacking ambition even with rotated XI",
+    "Bentancur yellow card suspension risk may affect Bielsa's midfield selection or approach"
   ],
-  "confidence": "medium"
+  "confidence": "low"
 }
 ```
 
 ## Turn 4 — La Roja AI Pundit (ESP) — `rebuttal`
 
-The La Celeste pundit's point about Spain being content to hold 1-1 if it goes level is genuinely valid — De la Fuente will not throw numbers forward to chase a winner when a draw already secures 1st place. But that argument is a second-order scenario that requires Uruguay to equalise *first*, and Spain's defensive record (zero conceded in this tournament, Rodri as the fulcrum of a settled defensive shape) makes that a harder ask than Uruguay's two draws against significantly weaker opposition suggests. The convergence here is notable: both of us are landing on La Roja 2-1, which is meaningful given the opponent advocate is predicting a Spain win — the structural evidence is pointing firmly in one direction. I'll hold my numbers and acknowledge the La Celeste pundit's draw calibration point is right: ~25% draw probability is where the evidence sits, not the H2H 50% rate.
+The Valverde-in-space argument is genuinely well-constructed and I'll acknowledge it: Rodri's specific skill isn't just ball recovery, it's denying the channels Valverde operates in, and Zubimendi won't replicate that in the same way. That tactical point strengthens the case for Uruguay having at least one moment of genuine threat, which is consistent with a 1-1 outcome rather than Spain keeping a clean sheet through rotation. On the probability asymmetry between our predictions — the La Celeste pundit's Uruguay win probability is lower than mine, anchored by the H2H ceiling — that's a legitimate distinction and I don't dispute the logic; I'm holding my slightly higher Uruguay win probability because a desperate side with genuine quality (Valverde, Núñez, Bentancur) against a rotated XI is the exact scenario where the first upset in 10 meetings is most possible, even if still unlikely. Still a 1-1 call.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.57,
-  "draw_probability": 0.24,
-  "loss_probability": 0.19,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.37,
+  "draw_probability": 0.40,
+  "loss_probability": 0.23,
   "key_factors": [
-    "Spain full first XI — Yamal, Williams, Oyarzabal, Rodri all starting",
-    "Uruguay must attack (draw = elimination) — exposes Araujo-less backline to Spain counter",
-    "Spain 0 conceded in tournament; defensive structure sound even if conservative",
-    "Draw probability calibrated to tournament base rate (~26.7%), not H2H 50%"
+    "Spain rotation confirmed — Zubimendi for Rodri opens midfield space for Valverde",
+    "H2H: 50% draw rate across 10 meetings, both WC encounters drew",
+    "Spain conservative posture (draw = 1st place) limits attacking ambition through rotation",
+    "Uruguay must attack — creates counter threat but also defensive exposure"
   ],
-  "confidence": "medium"
+  "confidence": "low"
 }
 ```
 
 ## Turn 5 — La Celeste AI Pundit (URU) — `final_prediction`
 
-My scorecard confirms a clean pattern: two predictions, two wrong, both times I over-predicted Uruguay wins when the actual results were draws. The important calibration here is that this match runs the opposite direction — I'm predicting a Spain win, not a Uruguay one, so the historical error doesn't push me toward changing my call. What it does reinforce is not to artificially inflate Uruguay's probabilities out of home bias; 0.17 win probability for La Celeste is already appropriately humble given zero wins in ten all-time meetings against Spain and a depleted squad. The La Roja pundit and I have genuinely converged: Spain full first XI, Uruguay structurally forced to attack, Yamal and Williams punishing the open space behind an Araujo-less backline — the evidence points firmly one way, and I'd rather log a well-reasoned Spain win prediction than flinch from it. My final call is **La Celeste 1 – Spain 2**.
+My scorecard is a clean two-match pattern: I predicted Uruguay wins in both prior fixtures and the actual result was a draw both times — 1-1 against Saudi Arabia, 2-2 against Cape Verde. The calibration lesson could not be clearer, and for once it directly validates rather than challenges my current prediction: I arrived at a draw this time before checking the scorecard, which gives me more confidence I'm reading the evidence correctly rather than correcting blindly. The La Roja pundit and I have converged without either of us shifting ground, which is itself a signal: Spain's confirmed rotation, the 50% H2H draw rate, Spain's conservative incentive structure (draw = 1st place), and Valverde's capacity to operate in the space Zubimendi won't close the way Rodri does — all of it points to one goal each, a result that sends Uruguay home and Spain through on top. My final call is **La Celeste 1 – Spain 1**.
 
-Predicted scorers: Oyarzabal, Yamal, Valverde
+Predicted scorers: Valverde, Oyarzabal
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.17,
-  "draw_probability": 0.27,
-  "loss_probability": 0.56,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.20,
+  "draw_probability": 0.42,
+  "loss_probability": 0.38,
   "key_factors": [
-    "Spain full first XI confirmed — no rotation, Yamal injury-free and starting",
-    "Uruguay must attack (draw = elimination) — forces open game against Spain's elite counter-attack",
-    "Araujo and de Arrascaeta both out — defensive and creative double blow unmitigated",
-    "Spain 0 goals conceded in tournament; Uruguay's scoring record came against weaker opposition"
+    "Scorecard confirms over-predicting Uruguay wins — both prior actuals were draws, validating this call",
+    "H2H: 50% draw rate across 10 meetings, both WC encounters ended level, 0 Uruguay wins ever",
+    "Spain rotation confirmed — Zubimendi for Rodri opens midfield space for Valverde",
+    "Spain conservative posture (draw = 1st place) limits attacking ambition through rotation"
   ],
-  "predicted_scorers": ["Oyarzabal", "Yamal", "Valverde"],
-  "confidence": "medium"
+  "predicted_scorers": ["Valverde", "Oyarzabal"],
+  "confidence": "low"
 }
 ```
 
 ## Turn 6 — La Roja AI Pundit (ESP) — `final_prediction`
 
-My scorecard shows two results: missed the CPV draw entirely (predicted 3-0, got 0-0 — the most costly error) and under-predicted Spain's goals against Saudi Arabia (predicted 2-0, got 4-0). Two clear patterns: I missed draws when Spain were happy to take a point, and I underestimated Spain's attacking output when Yamal and Williams were both operating at pace. This time both patterns point in the same direction — the draw scenario is less likely because Uruguay cannot accept one, and Spain's full first XI with Yamal injury-free suggests the 4-0 output vs Saudi Arabia wasn't a ceiling but a calibration point for what Spain do against sides forced to leave space. The tournament context confirms 1-0 is the most common result and 2-1 is over-predicted, but the forced open game here — Uruguay must push men forward or go home — moves this toward a higher-scoring outcome than a contained match would suggest. **My final call is La Roja 2 – Uruguay 1.**
+My scorecard reinforces the decision I've already reached: I missed the Cape Verde draw badly (predicted 3-0, got 0-0) when Spain were playing conservatively with Yamal limited, and now Spain are again confirmed to be rotating with Yamal managed for minutes. That's not an uncomfortable coincidence — it's the same structural situation, and my CPV prediction is the exact error I'm correcting here. Both pundits have converged independently on 1-1, the La Celeste pundit's scorecard confirms Uruguay draw rather than win, and my own briefing explicitly flags the H2H 50% draw rate as "strongly supporting a draw" with rotation making it "even more plausible than usual." I'm not shifting ground: confirmed rotation, Spain's conservative incentive structure (a draw = 1st place secured), and the H2H pattern are too consistent to override. **My final call is La Roja 1 – Uruguay 1.**
 
-Predicted scorers: Oyarzabal, Yamal, Núñez.
+Predicted scorers: Oyarzabal, Valverde.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.57,
-  "draw_probability": 0.24,
-  "loss_probability": 0.19,
+  "predicted_score": { "self": 1, "opponent": 1 },
+  "win_probability": 0.37,
+  "draw_probability": 0.40,
+  "loss_probability": 0.23,
   "key_factors": [
-    "Spain full first XI — Yamal injury-free, Oyarzabal and Williams starting",
-    "Uruguay must win (draw = elimination) — forced open game favours Spain's counter-attack",
-    "Araujo and De Arrascaeta both confirmed absent — defensive and creative double blow",
-    "Scorecard calibration: Spain under-predicted vs KSA (2-0 predicted, 4-0 actual) — upward goal adjustment applied"
+    "Spain rotation confirmed — Zubimendi for Rodri, Yamal limited minutes; quality gap materially compressed",
+    "H2H 50% draw rate across 10 meetings; both WC encounters ended level",
+    "Spain conservative posture — draw secures 1st place, no incentive for risk",
+    "Scorecard calibration: missed CPV draw (predicted 3-0) in identical motivation scenario — corrected here"
   ],
-  "confidence": "medium",
-  "predicted_scorers": ["Oyarzabal", "Yamal", "Núñez"]
+  "confidence": "low",
+  "predicted_scorers": ["Oyarzabal", "Valverde"]
 }
 ```
 
@@ -134,9 +134,9 @@ Predicted scorers: Oyarzabal, Yamal, Núñez.
 
 | | La Celeste pundit | La Roja pundit |
 |---|---|---|
-| Predicted score | 1–2 | 1–2 |
-| La Celeste win | 17% | 19% |
-| Draw | 27% | 24% |
-| La Roja win | 56% | 57% |
-| Confidence | medium | medium |
+| Predicted score | 1–1 | 1–1 |
+| La Celeste win | 20% | 23% |
+| Draw | 42% | 40% |
+| La Roja win | 38% | 37% |
+| Confidence | low | low |
 | Consensus | ✅ Yes | |
