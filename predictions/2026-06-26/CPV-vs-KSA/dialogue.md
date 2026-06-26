@@ -2,23 +2,23 @@
 
 **Fixture:** 063 — 2026-06-26 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.5058
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.7850
 
 ## Turn 1 — Blue Sharks AI Pundit (CPV) — `opening_statement`
 
-The Blue Sharks arrive at this fixture unbeaten and with the most impressive two-result run of any group stage debutant in recent World Cup memory — a 0-0 against European champions Spain, then a 2-2 comeback against Uruguay where Kevin Pina's direct free kick and Helio Varela's equaliser showed this side can genuinely score as well as defend. Saudi Arabia, by contrast, are in structural disarray: 4-0 destroyed by Spain in Round 2, one point, and a goal difference of -4. The key tension is that KSA must attack to have any hope of progression, which means they'll leave space — exactly what CPV's counter-attacking game exploits — but also means a more open match than CPV would prefer against a side with Salem Al-Dawsari still dangerous at 34. Tournament base rates point firmly toward 1-0 as the most likely single scoreline when one team is outplaying the other but not completely outclassing; CPV's proven defensive organisation against Spain's 2.29 xG tells me they'll keep this tight while nicking it through a set piece. **Blue Sharks 1 – Falcons 0** — CPV edge through on a Pina delivery, KSA create anxiety but never seriously threaten Vozinha's record.
+Both briefings are in hand. The picture is clear: three key absences/doubts cloud CPV's line-up — Sidny Lopes Cabral confirmed suspended (two yellows across R1 and R2), with Telmo Arcanjo (hamstring) and Jovane Cabral (knock) both doubtful — while Saudi Arabia come in clean but effectively eliminated, needing a win combined with results elsewhere just to have a theoretical path forward. The suspension is the single biggest match-specific risk for CPV: João Paulo steps in at left-back, and that flank is where Al-Dawsari will immediately probe. Against that, Saudi Arabia's tournament attacking record is one goal in two games — that goal a poke against Uruguay's defence, not an indication of creative quality — and the 0-4 demolition by Spain revealed a structurally limited side whose own coach admitted tactical inflexibility. Tournament base rates anchor the scoreline: 1-0 is the most common result in this tournament at 15%, the calibration note explicitly warns against 2-1, and CPV's defensive organisation (Vozinha, compact block, held Spain's 2.29 xG to zero) supports a tight win over a poor KSA attack. **Blue Sharks 1 – Falcons 0** — CPV edge through via Pina's set-piece delivery or a transition moment, Vozinha keeps KSA's limited attack quiet despite the left-back reshuffle.
 
 ```json
 {
   "predicted_score": { "self": 1, "opponent": 0 },
-  "win_probability": 0.48,
-  "draw_probability": 0.30,
+  "win_probability": 0.50,
+  "draw_probability": 0.28,
   "loss_probability": 0.22,
   "key_factors": [
-    "CPV unbeaten in tournament — held Spain 0-0 and recovered from 2-1 down to draw Uruguay",
-    "Saudi Arabia structurally exposed — 4-0 vs Spain, 5 goals conceded in 2 games",
-    "Pina's set-piece delivery is CPV's most reliable route to goal",
-    "KSA's need to attack opens counter-attack space but also risks a clean sheet conceded"
+    "Sidny Lopes Cabral suspended — left-back weakened, Al-Dawsari's most likely route to threaten",
+    "KSA: 1 goal in 2 tournament games, structurally limited, coach admitted tactical inflexibility",
+    "Tournament base rate: 1-0 most common (15%); 2-1 explicitly over-predicted",
+    "CPV defensive solidity proven — held Spain's 2.29 xG to 0, drew 2x World Cup winners"
   ],
   "confidence": "medium"
 }
@@ -26,19 +26,19 @@ The Blue Sharks arrive at this fixture unbeaten and with the most impressive two
 
 ## Turn 2 — Green Falcons AI Pundit (KSA) — `opening_statement`
 
-The most important update from both briefings: **both Salem Al-Dawsari and Mohamed Kanno are on yellow cards** heading into this match — meaning Saudi Arabia's captain and creative engine must be managed carefully even as Donis sends them forward chasing a win. Cape Verde, by contrast, carry no suspension risk whatsoever, and the CPV briefing confirms no injuries either — they arrive clean, organised, and confident. The tournament context is equally clarifying: 1-0 is the most common scoreline this World Cup (15% of matches), draw rate sits at 26.7%, and 2-1 is systematically over-predicted — meaning if CPV win, the 1-0 is the structurally correct call, not the 2-1 the Blue Sharks pundit favoured in Round 3's earlier debate. The core tension is real: Saudi Arabia must attack to have any hope of progression, which opens space for Pina's set-piece threat and CPV's quick transitions, but also means Al-Dawsari — still dangerous despite his age and yellow card — gets forward into positions where he can hurt Cape Verde. CPV's in-tournament form is clearly superior (0-0 vs Spain, 2-2 comeback vs Uruguay), Saudi Arabia's is the worst in the group (1 point, -4 GD, 4-0 humiliation), and I won't pretend otherwise. **Green Falcons 1 – Blue Sharks 2** — CPV's unbeaten poise, set-piece delivery, and counter-attack threat are too much for a Saudi side chasing the game with key players on yellow cards.
+Both briefings confirm the picture the Blue Sharks pundit outlined. The confirmed Sidny Lopes Cabral suspension is real — João Paulo steps in at left-back, and that is Al-Dawsari's most direct route to influencing this match — but I have to be honest about the weight of evidence against Saudi Arabia: one tournament goal in two games (a poke against Uruguay's defence), a 0-4 demolition that had the coach publicly admitting structural limitations, and an effective elimination that removes the sharpest edge of must-win intensity. Cape Verde have drawn their matches against Spain and Uruguay — two genuinely strong sides — which is tournament evidence, not reputation, and Vozinha's goalkeeping has been exceptional throughout. The tournament context anchors this clearly: 1-0 is the single most common result at 15%, draw rate is 26.7%, and CPV's defensive organisation against Spain's 2.29 xG shows they're equipped to keep a poor Saudi attack quiet even with their left-back reshuffled. I'll argue the Lopes Cabral suspension opens a real channel for Al-Dawsari to threaten, which keeps the draw probability meaningful — but the weight of in-tournament evidence points to a narrow CPV win. **Green Falcons 0 – Blue Sharks 1** — CPV edge through via a set-piece or transitional moment, Vozinha keeps Saudi Arabia's limited attacking options at bay.
 
 ```json
 {
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.27,
+  "predicted_score": { "self": 0, "opponent": 1 },
+  "win_probability": 0.25,
   "draw_probability": 0.28,
-  "loss_probability": 0.45,
+  "loss_probability": 0.47,
   "key_factors": [
-    "Al-Dawsari and Kanno both on yellows — tactical handcuff on Saudi Arabia's most dangerous players while chasing a win",
-    "CPV unbeaten in tournament vs Spain and Uruguay — Saudi Arabia's in-tournament form the worst in Group H",
-    "Saudi must-attack creates open game — Pina's set-piece and CPV counter-threat exploits the space",
-    "Tournament context: 1-0 most common result; CPV's defensive solidity (0-0 vs Spain) supports a narrow-margin win"
+    "CPV superior in-tournament form: 0-0 vs Spain, 2-2 vs Uruguay — Saudi Arabia have 1 goal in 2 games",
+    "Sidny Lopes Cabral suspension weakens CPV left flank — Al-Dawsari's primary route to threatening",
+    "Tournament base rate: 1-0 most common (15%); draw rate 26.7% — draw probability held at base rate",
+    "Saudi Arabia effectively eliminated — reduced competitive sharpness vs motivated CPV needing a win"
   ],
   "confidence": "low"
 }
@@ -46,19 +46,19 @@ The most important update from both briefings: **both Salem Al-Dawsari and Moham
 
 ## Turn 3 — Blue Sharks AI Pundit (CPV) — `rebuttal`
 
-The Green Falcons pundit and I agree on the winner — but I want to challenge the 2-1 scoreline reasoning directly, because it contains a logical tension. They cite Al-Dawsari's yellow card as evidence of Saudi Arabia's attacking exposure, but a player managing a yellow card while chasing a game is *less* likely to commit fully into dangerous positions, not more — the card is a handbrake on his aggression, not an accelerator. The tournament context also explicitly flags 2-1 as "historically over-predicted" while 1-0 is the most common result at 15%; predicting 2-1 while citing tournament base rates requires stronger match-specific justification than "it'll be open." KSA's attacking record backs the clean sheet: one goal in two games, against Uruguay's leaky defence in Round 1 — against a CPV side that conceded zero to Spain's full attacking weight, I'm not expecting Al-Dawsari to find a way through with a yellow card in his pocket. I'm holding **Blue Sharks 1 – Falcons 0**.
+Rare agreement between opposing pundits — and when the Green Falcons AI looks at the evidence for their own team and still calls it a CPV win, that's meaningful signal rather than coincidence. The point about Saudi Arabia's reduced competitive sharpness from elimination is worth naming explicitly: a side with nothing to play for doesn't just lose a motivational edge, they also lose the disciplined tactical cohesion that comes from genuine stakes — and against a CPV side that needs a result, that asymmetry in intensity matters. I'll hold the draw probability at the tournament base rate (0.28) — the Lopes Cabral suspension and Al-Dawsari's potential down that flank keeps it honest — but nothing in this exchange has moved me off the 1-0 call. **Blue Sharks 1 – Falcons 0**, medium confidence.
 
 ```json
 {
   "predicted_score": { "self": 1, "opponent": 0 },
-  "win_probability": 0.49,
-  "draw_probability": 0.29,
+  "win_probability": 0.50,
+  "draw_probability": 0.28,
   "loss_probability": 0.22,
   "key_factors": [
-    "Al-Dawsari's yellow card suppresses rather than liberates his attacking threat",
-    "KSA scored only 1 goal in 2 tournament matches — against Uruguay's defence, not CPV's",
-    "Tournament base rate: 1-0 most common (15%), 2-1 explicitly flagged as over-predicted",
-    "CPV's defensive solidity proven against Spain's 2.29 xG — clean sheet is the modal outcome"
+    "CPV superior in-tournament form vs structurally limited KSA (1 goal in 2 games)",
+    "Saudi Arabia's eliminated status suppresses competitive intensity vs motivated CPV",
+    "Sidny Lopes Cabral suspension keeps Al-Dawsari threat and draw probability at base rate",
+    "Tournament base rate: 1-0 most common result (15%)"
   ],
   "confidence": "medium"
 }
@@ -66,19 +66,19 @@ The Green Falcons pundit and I agree on the winner — but I want to challenge t
 
 ## Turn 4 — Green Falcons AI Pundit (KSA) — `rebuttal`
 
-The internal inconsistency the Blue Sharks pundit has identified is genuine and I'll own it: I cited tournament data explicitly flagging 2-1 as over-predicted, then predicted 2-1 — that's not a defensible position. The yellow card argument also lands; a player managing a caution while chasing a win is constrained, not liberated, and Al-Dawsari's best work comes from driving at defenders aggressively — exactly the behaviour a yellow card suppresses. The counter-argument I'd hold onto is that CPV conceded twice to Uruguay (not just once to Spain), so "clean sheet" isn't quite as locked-in as the 0-0 vs Spain alone implies — Uruguay is stronger than Saudi Arabia, but the 2-2 shows CPV's defensive shape has been broken before. That said, the scoreline evidence and the attacking record (Saudi Arabia: 1 goal in 2 games, against a leakier defence) pull firmly toward a 1-0 rather than a 2-1. Updating my scoreline accordingly.
+The intensity asymmetry point is real but I'd push back on the framing of "nothing to play for" — Saudi Arabia's 2022 Argentina upset came when they were massive underdogs with no obvious path to the knockout stage either, and professional pride plus individual career stakes (this may be Al-Dawsari's final World Cup) don't vanish with mathematical elimination. What actually concerns me more than motivation is the structural issue: Saudi Arabia have no proven creative route to goal against a compact block except Al-Dawsari down the right flank, and even with Lopes Cabral absent, João Paulo steps into a system that has held Spain and Uruguay — one personnel change doesn't dismantle a well-drilled defensive shape. We're aligned on the result and broadly aligned on the draw probability, so the only real disagreement is whether Saudi Arabia find a goal through the weakened left-back channel — I'm holding the clean sheet for CPV, but I'll flag this as genuinely the most uncertain element of the prediction.
 
 ```json
 {
   "predicted_score": { "self": 0, "opponent": 1 },
-  "win_probability": 0.26,
-  "draw_probability": 0.27,
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
   "loss_probability": 0.47,
   "key_factors": [
-    "Tournament base rate: 1-0 most common (15%), 2-1 explicitly over-predicted — scoreline updated",
-    "Al-Dawsari yellow card suppresses attacking aggression while chasing a win",
-    "Saudi Arabia: 1 goal in 2 games, that goal vs Uruguay's weaker defence",
-    "CPV defensive solidity proven vs Spain; conceded twice to stronger Uruguay but can still keep Saudi out"
+    "CPV superior in-tournament form and defensive organisation — Saudi Arabia's 1 goal in 2 games the decisive stat",
+    "Lopes Cabral suspension creates Al-Dawsari's best route to a goal — but CPV system absorbs one personnel change",
+    "Saudi Arabia's structural attacking limitations outweigh the motivation factor",
+    "Draw probability held at tournament base rate (26.7%)"
   ],
   "confidence": "low"
 }
@@ -86,7 +86,7 @@ The internal inconsistency the Blue Sharks pundit has identified is genuine and 
 
 ## Turn 5 — Blue Sharks AI Pundit (CPV) — `final_prediction`
 
-My scorecard shows two results scored: I underpredicted goals in both — a 0-3 prediction became 0-0 against Spain, and a 0-0 prediction became 2-2 against Uruguay. The consistent error is underestimating how many goals actually appear in CPV matches. For this fixture, that calibration lesson cuts against the clean sheet scenario and nudges me to take the draw slightly more seriously — but KSA's specific attacking record (one goal in two games, that goal coming against a visibly weaker defensive setup than CPV's) is strong enough evidence that I won't abandon the 1-0 call. The Green Falcons pundit and I have converged on the same scoreline for the right reasons: tournament base rates, Al-Dawsari's yellow-card constraint, and CPV's defensive solidity all pointing the same direction. The draw probability I'm holding at 0.29 sits right at the tournament base rate of 26.7%, which is the honest calibration. **My final call is Blue Sharks 1 – Falcons 0.**
+My scorecard shows the same pattern for a third time: both previous results had more goals than I predicted (0-3 miss became 0-0, 0-0 miss became 2-2). The calibration note is clear — I've been underpredicting goals in CPV matches. For this fixture, that pushes me to acknowledge a CPV second goal is more plausible than my 1-0 call implies, but KSA's specific attacking record (one goal in two games, against Uruguay's more porous defence) is a genuine constraint that doesn't exist in the same way as my previous two predictions. The Green Falcons pundit's Al-Dawsari point about individual career stakes is legitimate — I'll hold draw probability at the tournament base rate rather than collapse it — but two pundits have independently examined this evidence from opposing positions and arrived at the same winner, which is as close to consensus as this format produces. **My final call is Blue Sharks 1 – Falcons 0.**
 
 Predicted scorer: Pina.
 
@@ -97,10 +97,10 @@ Predicted scorer: Pina.
   "draw_probability": 0.28,
   "loss_probability": 0.22,
   "key_factors": [
-    "KSA: 1 goal in 2 tournament games — attacking record does not support breaking CPV's defensive block",
-    "Al-Dawsari yellow card constrains Saudi Arabia's most dangerous attacker while chasing a win",
-    "Tournament base rate: 1-0 most common scoreline (15%); 2-1 explicitly flagged as over-predicted",
-    "Scorecard calibration: goal underprediction history noted but KSA-specific evidence supports tight result"
+    "KSA: 1 goal in 2 tournament games — attacking record the binding constraint on their chances",
+    "CPV defensive solidity proven vs Spain (2.29 xG, 0 goals) — Sidny Cabral suspension noted but system holds",
+    "Tournament base rate: 1-0 most common (15%); draw held at 26.7% base rate",
+    "Scorecard calibration: underpredicted goals historically, but KSA-specific attacking limitations justify clean sheet call"
   ],
   "predicted_scorers": ["Pina"],
   "confidence": "medium"
@@ -109,21 +109,21 @@ Predicted scorer: Pina.
 
 ## Turn 6 — Green Falcons AI Pundit (KSA) — `final_prediction`
 
-My scorecard shows two predictions: I under-called Saudi Arabia's defensive resilience against Uruguay (predicted loss, got draw) and under-predicted Spain's goal margin (predicted 2, got 4). The draw pattern is the most directly relevant here — my 0.27 draw probability sits right at the tournament base rate of 26.7%, which is the honest calibration given I've already missed a draw once. Saudi Arabia's must-win desperation does create attacking intent, but the Blue Sharks pundit correctly moved me off the 2-1: Al-Dawsari constrained by a yellow card, Saudi Arabia's attacking record of one goal in two games, and tournament data all pointing toward 1-0 as the structurally sound call rather than a multi-goal Saudi contribution. I've converged with the Blue Sharks pundit on the right scoreline for the right reasons — CPV's defensive organisation is tournament-proven, their set-piece threat via Pina is the most credible route to the decisive goal, and Saudi Arabia's tactical inflexibility makes breaking down a parked block exactly the problem Donis admitted he couldn't solve. **My final call is Green Falcons 0 – Blue Sharks 1.**
+My scorecard shows two predictions: under-called Saudi resilience against Uruguay (predicted loss, got draw) and under-called Spain's goal margin (predicted 2, got 4). The draw under-call is the most relevant pattern here, and my 0.28 draw probability is already sitting right at the tournament base rate of 26.7% — so I'm not structurally under-pricing draws, which is the right calibration. The goal-margin pattern is worth noting: if CPV do win, a 2-0 is more plausible than my scorecard implies for "clean sheets that become blowouts," but Saudi Arabia's must-attack situation and Al-Dawsari's threat down the weakened left-back channel push me away from predicting a Saudi clean-sheet conceding margin. Both pundits have examined this evidence from opposing allegiances and arrived at the same winner — that convergence, the tournament base rate favouring 1-0, and Saudi Arabia's one-goal-in-two-games record are the three pillars of this call. **My final call is Green Falcons 0 – Blue Sharks 1.**
 
 Predicted scorer: Pina.
 
 ```json
 {
   "predicted_score": { "self": 0, "opponent": 1 },
-  "win_probability": 0.26,
-  "draw_probability": 0.27,
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
   "loss_probability": 0.47,
   "key_factors": [
-    "Tournament base rate: 1-0 most common (15%); 2-1 over-predicted — scoreline adjusted accordingly",
-    "Saudi Arabia: 1 goal in 2 tournament games; Al-Dawsari yellow card suppresses attacking aggression",
-    "CPV defensive solidity proven vs Spain (0-0, 2.29 xG); Pina set-piece is primary scoring route",
-    "Draw probability held at tournament base rate (26.7%) — scorecard lesson from URU under-call"
+    "CPV superior in-tournament form — Saudi Arabia: 1 goal in 2 games, structurally limited attack",
+    "Tournament base rate: 1-0 most common (15%); draw held at tournament base rate (26.7%)",
+    "Scorecard calibration: draw probability at base rate addresses under-call pattern vs Uruguay",
+    "Lopes Cabral suspension opens Al-Dawsari route but CPV defensive system absorbs one personnel change"
   ],
   "confidence": "low",
   "predicted_scorers": ["Pina"]
@@ -136,7 +136,7 @@ Predicted scorer: Pina.
 |---|---|---|
 | Predicted score | 1–0 | 1–0 |
 | Blue Sharks win | 50% | 47% |
-| Draw | 28% | 27% |
-| Green Falcons win | 22% | 26% |
+| Draw | 28% | 28% |
+| Green Falcons win | 22% | 25% |
 | Confidence | medium | low |
 | Consensus | ✅ Yes | |
