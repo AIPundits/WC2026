@@ -2,40 +2,38 @@
 
 **Fixture:** 062 — 2026-06-26 —  — stage `group`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $0.9032
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.3351
 
 ## Turn 1 — Lions of Teranga AI Pundit (SEN) — `opening_statement`
 
-This is a peculiar Group I closer — Senegal are heavy favourites against an Iraq side that has also lost both matches and cannot realistically advance, yet the Lions of Teranga's own tournament is on life support. Two losses, zero points, and a goal-difference hole to dig out of mean Senegal don't just need a win — they need a convincing one, which at least aligns incentives in our favour. Ismaila Sarr is the standout tournament evidence: two goals against Norway shows he can be decisive at this level, and against Iraq's defence he should get his opportunities. The one nagging concern is Koulibaly — his errors have been a recurring theme in both matches, and while Iraq's attack is considerably less threatening than France or Norway's, a loose backline is still a loose backline. I'm backing Senegal to be ruthless here: **Lions of Teranga 2 – Iraq 0**, with Sarr and Mané finally delivering against a side that has no answers at this level.
+Both teams arrive here eliminated — the updated briefing confirms Senegal cannot advance as a best third-placed team, so this is genuinely a dead rubber on both sides. Two facts dominate the team news: Édouard Mendy is out with a ligament injury, handing the gloves to Mory Diaw, and Iraq's Aymen Hussein (their only World Cup goal scorer) is doubtful after going off injured before the 30-minute mark in Round 1. Ismaila Sarr is the decisive weapon — two goals in this tournament against Norway — and with Iraq managing precisely zero shots on target against France, even a backup goalkeeper shouldn't face much scrutiny. The tournament base rate says 1-0 is the single most common result and blowouts happen when sides are structurally outclassed; Iraq's tournament record (1 goal, 7 conceded, 0 shots on target vs France) puts them firmly in that category, though the Mendy absence keeps one Iraqi counter-attack threat alive. **Lions of Teranga 2 – Iraq 1**: Senegal win, Sarr on the scoresheet again, but Diaw's lack of top-level tournament experience leaks one.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 0 },
-  "win_probability": 0.68,
-  "draw_probability": 0.20,
-  "loss_probability": 0.12,
-  "key_factors": ["Sarr in tournament form (2 goals vs Norway)", "Iraq eliminated and motivated only for pride", "Senegal must-win pressure aligns attacking intent with incentive", "Koulibaly error risk — minor concern vs Iraq's attack"],
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.60,
+  "draw_probability": 0.22,
+  "loss_probability": 0.18,
+  "key_factors": ["Sarr in form — 2 WC goals already", "Iraq 0 shots on target vs France — severely limited attack", "Mendy OUT — Diaw carries goalkeeper risk", "Hussein doubtful — Iraq's only WC goal scorer absent"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 2 — Lions of Mesopotamia AI Pundit (IRA) — `opening_statement`
 
-The arithmetic is brutal but clarifying: both Iraq and Senegal are eliminated, France and Norway have locked up the top two spots in Group I with 6 points each, and this fixture is a dead rubber for advancement purposes. That matters tactically — Arnold may rotate, Senegal have their own selection questions, and neither side has the pressure of a knockout berth to sharpen the defensive organisation. The key tournament evidence: Iraq have shown one genuine attacking weapon in Aymen Hussein (their only WC goal), and he's now a fitness doubt — if Hussein misses, Al-Hamadi and Iqbal carry the counter-attack load against a Senegal backline that has been error-prone per their own pundit's admission.
-
-What I'm not willing to do is pretend this is a coin-flip. Senegal have real tournament-level attackers in Sarr and Mané, and even a Koulibaly who errors is a more formidable centre-back than anything Iraq's attack has successfully beaten this tournament. Iraq's GD of –6 in two games tells the honest story. The dead-rubber context narrows the gap somewhat — neither side's defensive shape will be peak — but Senegal's squad depth advantage persists. **Lions of Mesopotamia 1 – Lions of Teranga 2**, medium confidence: Iraq get a consolation through Al-Hamadi or Iqbal, but Senegal's attacking quality on a relaxed occasion proves too much.
+Both briefings confirm this is a genuine dead rubber — Senegal's qualification path is closed too, so the motivation asymmetry from the previous debate evaporates entirely. The two headline team news items pulling in opposite directions: Mendy's ligament injury hands Diaw the gloves (a clear defensive step-down for Senegal), but Hussein's doubtful status removes Iraq's only proven WC goal-scorer and their sole source of counter-attack threat. Senegal's attacking quality through Sarr (2 WC goals), Mané, and Jackson is still meaningfully superior to Al-Hamadi leading an Iraq line that registered zero shots on target against France — that quality gap doesn't vanish in a dead rubber. Tournament base rates say draw probability deserves ~27% in group-stage football, and with both sides likely rotating and neither defending with conviction, I'm pricing that in; but Senegal's forward line is too potent against an Iraq backline conceding 3.5 goals per game for me to call this even. **Lions of Mesopotamia 1 – Lions of Teranga 2**: Sarr adds another, Al-Hamadi punishes one Diaw moment.
 
 ```json
 {
   "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.18,
-  "draw_probability": 0.25,
-  "loss_probability": 0.57,
+  "win_probability": 0.20,
+  "draw_probability": 0.27,
+  "loss_probability": 0.53,
   "key_factors": [
-    "Hussein fitness doubt removes Iraq's only proven WC attacking threat",
-    "Senegal's European squad depth superior despite two losses",
-    "Dead rubber context reduces defensive discipline for both sides",
-    "Iraq GD -6 in two games reflects genuine attacking deficit"
+    "Dead rubber for both sides — motivation asymmetry removed",
+    "Mendy OUT narrows Senegal's goalkeeper quality advantage",
+    "Sarr in tournament form (2 goals), Mané and Jackson add depth Iraq cannot match",
+    "Hussein doubtful removes Iraq's only proven WC attacking threat"
   ],
   "confidence": "medium"
 }
@@ -43,34 +41,34 @@ What I'm not willing to do is pretend this is a coin-flip. Senegal have real tou
 
 ## Turn 3 — Lions of Teranga AI Pundit (SEN) — `rebuttal`
 
-One factual correction worth making: the Iraq pundit called this a dead rubber for both sides, but my briefing says otherwise — Senegal can still advance as one of the eight best third-placed teams across all groups, provided they win and post a strong enough goal difference. That asymmetry in motivation is significant: Iraq are playing for pride, Senegal are playing for their tournament. The relaxed defensive shape argument applies to Iraq, not to a Lions of Teranga side under existential pressure to not just win but win big. On Hussein's fitness doubt — I don't have that confirmed in my briefing and won't bank on it, but if accurate it only reinforces what Iraq's -6 GD already tells us: they have struggled to generate genuine attacking threat at this level regardless of personnel. I'm staying with **Lions of Teranga 2 – Iraq 0** — Senegal's GD incentive sharpens their attacking intent in a way that actually makes a clean sheet more likely than the dead rubber framing suggests.
+The Iraq pundit and I have arrived at exactly the same scoreline from opposite sides of the table — that convergence is meaningful calibration confirmation rather than coincidence. The one point I'd gently push back on is framing Al-Hamadi's goal as a "Diaw moment" — Iraq managed zero shots on target against France regardless of goalkeeper quality, so their attacking ceiling is severely restricted even before we factor in Hussein's doubtful status; the goal, if it comes, is more likely a Koulibaly error than a goalkeeper howler. Still, I had that risk priced in from the opening, and nothing in the Iraq pundit's argument actually moves me off my position — the quality gap is real, Sarr is the decisive factor, and the Mendy injury is a legitimate but limited risk against Iraq's blunt attack. **Lions of Teranga 2 – Iraq 1** stands.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 0 },
-  "win_probability": 0.68,
-  "draw_probability": 0.20,
-  "loss_probability": 0.12,
-  "key_factors": ["Senegal still alive as best 3rd-place team — not a dead rubber for them", "Iraq GD -6 reflects genuine attacking deficit", "Sarr in form, Mané overdue a decisive contribution", "Koulibaly error risk minor against Iraq's limited attack"],
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "win_probability": 0.60,
+  "draw_probability": 0.22,
+  "loss_probability": 0.18,
+  "key_factors": ["Sarr in form — 2 WC goals, primary attacking threat", "Iraq 0 shots on target vs France — attack ceiling very low even without Hussein", "Mendy OUT — Diaw carries goalkeeper risk but Iraq's attack limits exposure", "Dead rubber removes motivation asymmetry for both sides"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 4 — Lions of Mesopotamia AI Pundit (IRA) — `rebuttal`
 
-That's a genuine correction and I'll take it on board — if Senegal can still advance as a best third-placed team, the motivation asymmetry is real and the "relaxed defensive shape" argument I applied to both sides applies only to Iraq. A Senegal side fighting for tournament survival will press higher and commit more bodies forward, which paradoxically both increases their attacking output and could leave channels for Iraq to exploit on the break. I'm moving my Senegal win probability upward in response, but I'm not going all the way to a clean sheet: Koulibaly's error risk is Senegal's own pundit's assessment, not mine, and Al-Hamadi at Championship/Premier League level has the quality to punish one lapse even without Hussein. **Lions of Mesopotamia 1 – Lions of Teranga 2** stands, but with Senegal's motivation edge now better weighted.
+The Koulibaly error point is a genuine tactical refinement I'll accept — framing Iraq's goal as coming from a defensive mistake rather than a Diaw howler is more honest given the 0 shots on target data. That's a better mechanism for Iraq's goal and it doesn't change the scoreline, just the route to it. Both sides have arrived at the same structural read from opposite ends, and when two pundits working off different briefings converge independently that's usually a signal to hold rather than manufacture a divergence for its own sake. **Lions of Mesopotamia 1 – Lions of Teranga 2** stands.
 
 ```json
 {
   "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.15,
-  "draw_probability": 0.22,
-  "loss_probability": 0.63,
+  "win_probability": 0.20,
+  "draw_probability": 0.27,
+  "loss_probability": 0.53,
   "key_factors": [
-    "Senegal's tournament survival incentive sharpens attacking intent",
-    "Iraq playing for pride only — motivation asymmetry real and significant",
-    "Koulibaly error risk opens one Iraq counter-attack opportunity",
-    "Hussein fitness doubt further limits Iraq's attacking ceiling"
+    "Dead rubber for both sides — no motivation edge",
+    "Sarr in form (2 WC goals) against an Iraq backline conceding 3.5/game",
+    "Iraq goal most likely from Koulibaly error, not Iraq attacking quality",
+    "Hussein doubtful limits Iraq's attacking ceiling further"
   ],
   "confidence": "medium"
 }
@@ -78,17 +76,17 @@ That's a genuine correction and I'll take it on board — if Senegal can still a
 
 ## Turn 5 — Lions of Teranga AI Pundit (SEN) — `final_prediction`
 
-My scorecard reveals a clear pattern: I've under-predicted total goals in both prior matches — France produced four, Norway five, against my forecasts of two and three respectively. Against Iraq that under-prediction risk cuts mainly one way since Iraq have scored only once across two WC matches, but it does reinforce that Koulibaly's error record is not just a vague concern — it's the mechanism that leaks goals even in matches Senegal control. The Iraq pundit's point about Al-Hamadi's club-level quality creating one counter-attack threat on a high defensive line is fair, and combined with my documented pattern of leaning too tidy on scorelines, I'm nudging off the clean sheet. The motivation asymmetry remains the decisive factor: Senegal are fighting for their tournament lives, Iraq are not, and that edge in urgency should be enough to secure the win. **My final call is Lions of Teranga 2 – Iraq 1.**
+My scorecard confirms the pattern I've carried into every debate: I've under-predicted total goals in both prior matches — predicted 2, got 4 against France; predicted 3, got 5 against Norway. Against Iraq that correction cuts mainly toward Senegal's tally rather than Iraq's, given Iraq registered zero shots on target against France, but I'll stay alert to it. My draw probability at 0.22 sits marginally below the tournament's 26.7% base rate — the quality differential here justifies that slight discount rather than forcing a draw into a situation where Senegal's attacking trio of Sarr, Mané, and Jackson facing a 3.5-goals-conceded-per-game Iraq defence is the dominant signal. The Iraq pundit's concession that Iraq's goal mechanism is a Koulibaly error rather than genuine attacking quality actually slightly reinforces the clean sheet argument, but my under-prediction pattern keeps one Iraqi goal in the frame. **My final call is Lions of Teranga 2 – Iraq 1.**
 
 Predicted scorers: Sarr, Mané.
 
 ```json
 {
   "predicted_score": { "self": 2, "opponent": 1 },
-  "win_probability": 0.65,
-  "draw_probability": 0.20,
-  "loss_probability": 0.15,
-  "key_factors": ["Senegal advancing as best 3rd-place team — genuine survival incentive", "Sarr in tournament form (2 goals vs Norway)", "Koulibaly error risk concedes one Iraqi counter-attack", "Iraq GD -6 and only 1 WC goal — limited ceiling offensively"],
+  "win_probability": 0.60,
+  "draw_probability": 0.22,
+  "loss_probability": 0.18,
+  "key_factors": ["Sarr in tournament form (2 WC goals) against porous Iraq defence", "Iraq 0 shots on target vs France — attacking ceiling very low", "Mendy OUT — Diaw carries goalkeeper risk, Koulibaly error could gift Iraq one", "Dead rubber removes motivation asymmetry — both sides relaxed"],
   "confidence": "medium",
   "predicted_scorers": ["Sarr", "Mané"]
 }
@@ -96,24 +94,24 @@ Predicted scorers: Sarr, Mané.
 
 ## Turn 6 — Lions of Mesopotamia AI Pundit (IRA) — `final_prediction`
 
-My scorecard shows two results: I compressed Norway's margin badly (predicted 1–2, actual 1–4) but nailed France exactly (0–3). The lesson is consistent — when I honestly confronted the quality gap rather than hedging, I got it right. Against Senegal the gap is narrower, which makes a tighter scoreline defensible, but I'm also carrying the Norway lesson: don't manufacture a wall where the data suggests a door. The Senegal survival incentive is real tournament evidence, and both sides have now converged on the same structural read — Senegal win by a single goal, Iraq score once through a counter-attack exploiting Koulibaly's error-prone positioning. No calibration adjustment needed on direction; the probabilities already reflect a genuine Senegal edge without overclaiming. **My final call is Lions of Mesopotamia 1 – Lions of Teranga 2.**
+My scorecard shows two results: I compressed Norway's margin badly but nailed France exactly — the lesson is that honest quality-gap assessment beats conservative hedging. For this fixture, my draw probability at 0.27 already sits at the tournament base rate of 26.7%, so no adjustment needed there. The key calibration check: is Senegal vs Iraq a Norway/France-level quality gap? No — both sides are eliminated, both defensively porous, Mendy is absent, and the gap is real but not stark enough to push toward a blowout or demand a clean sheet. The convergence with the Senegal pundit on the same scoreline from independent briefings is the strongest signal I have, and my scorecard doesn't show a pattern that demands I override it. **My final call is Lions of Mesopotamia 1 – Lions of Teranga 2.**
 
-Expected scorers: Al-Hamadi, Sarr.
+Expected scorers: Sarr, Al-Hamadi.
 
 ```json
 {
   "predicted_score": { "self": 1, "opponent": 2 },
-  "win_probability": 0.15,
-  "draw_probability": 0.22,
-  "loss_probability": 0.63,
+  "win_probability": 0.20,
+  "draw_probability": 0.27,
+  "loss_probability": 0.53,
   "key_factors": [
-    "Senegal's third-place survival incentive creates genuine motivation asymmetry",
-    "Sarr in tournament form — Iraq's defence has conceded 7 goals in two WC games",
-    "Koulibaly error risk opens one counter-attack opportunity for Al-Hamadi",
-    "Hussein fitness doubt limits Iraq's attacking ceiling further"
+    "Sarr in tournament form (2 WC goals) against Iraq's 3.5-goals-conceded-per-game defence",
+    "Dead rubber removes motivation asymmetry — both sides relaxed and rotating",
+    "Iraq goal most likely from Koulibaly defensive error, not attacking quality",
+    "Hussein doubtful caps Iraq's attacking ceiling; Al-Hamadi the fallback threat"
   ],
   "confidence": "medium",
-  "predicted_scorers": ["Al-Hamadi", "Sarr"]
+  "predicted_scorers": ["Sarr", "Al-Hamadi"]
 }
 ```
 
@@ -122,8 +120,8 @@ Expected scorers: Al-Hamadi, Sarr.
 | | Lions of Teranga pundit | Lions of Mesopotamia pundit |
 |---|---|---|
 | Predicted score | 2–1 | 2–1 |
-| Lions of Teranga win | 65% | 63% |
-| Draw | 20% | 22% |
-| Lions of Mesopotamia win | 15% | 15% |
+| Lions of Teranga win | 60% | 53% |
+| Draw | 22% | 27% |
+| Lions of Mesopotamia win | 18% | 20% |
 | Confidence | medium | medium |
 | Consensus | ✅ Yes | |
