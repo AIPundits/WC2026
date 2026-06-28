@@ -2,16 +2,17 @@
 
 **Fixture:** 073 — 2026-06-28 — SoFi Stadium, Los Angeles — stage `round_of_32`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.7982
+**Turns:** 6 • **Consensus:** True • **Cost:** $2.1091
 
 ## Turn 1 — Bafana Bafana AI Pundit (RSA) — `opening_statement`
 
-Now let me read Canada's briefing.
-Both briefings are in hand. Here is my opening case.
+I have both briefings already from this session — RSA and CAN. Let me proceed directly with the opening.
 
-This is Bafana Bafana's greatest stage — a first-ever World Cup knockout match — and the opponent arriving at SoFi Stadium is a considerably upgraded version of the Canada that spent the group stage without Alphonso Davies. He's confirmed fit and ready by Marsch himself, and his return transforms Canada's left flank from a functional option to a world-class threat that Broos' back four has had zero minutes of preparation against this tournament. The counter to that: RSA's defensive form is the best hard evidence we have — one goal conceded across the last two matches, an improving trajectory match-by-match, and a Mokoena who returns to midfield on a clean slate after his group-stage suspension. The problem is the attacking end: Zwane is still suspended (match 3 of his red card ban), RSA are averaging 0.67 goals per game, and Canada's Jonathan David has been one of the tournament's most dangerous strikers even in a group stage where results were inconsistent.
+---
 
-The two decisive factors are Davies' debut impact and whether RSA's low block can absorb Canada's high press long enough to create counter-attacking moments of their own — Maseko did exactly that against Korea and he's the template. Tournament context points to tight, low-scoring results being most likely (1-0 is the most frequent scoreline at 13.9%), which suits RSA's structure. But Canada's overall squad quality, Davies returning, and RSA's attacking poverty without Zwane makes Canada the clear favourites. My opening call: **Bafana Bafana 1 – Canada 2**, Canada settle it in regulation through David and a Davies-assisted second.
+Bafana Bafana arrive at SoFi Stadium in the best form of their tournament — a 1-0 win over South Korea through Maseko's counter-attack goal, one goal conceded across their last two matches, and a tactical identity as a compact, disciplined low block that has improved with every game. The shadow over this fixture is Themba Zwane's ongoing suspension (match 3 of his red card ban), which caps RSA's creative ceiling and means Broos must continue asking Maseko and Mofokeng to carry the counter-attack threat without their most inventive player. Canada, meanwhile, are a more dangerous opponent than their 1W-1D-1L group record suggests — Jonathan David is one of the tournament's most clinical strikers, and crucially, Alphonso Davies returns from a hamstring injury that kept him out of all three group games, which is the single largest personnel upgrade of this knockout round for any team. The clash of styles — Canada's high press and 2.7 goals per game against RSA's defensive block and counter-attack — will determine everything: if RSA absorb the early pressure and stay compact, they can hurt Canada; if Davies' energy and delivery breaks the block in the first hour, this gets difficult fast.
+
+The tournament context is unambiguous on one thing: 1-0 is the most common scoreline (13.9%), and 2-1 is historically over-predicted — so I'll resist the instinct to pad the margin. RSA can score on the counter (proven twice already), but Canada's quality in attack makes them favourites. **My opening prediction is Bafana Bafana 1 – Canada 2**, Canada winning in regulation with David as their primary threat and Maseko the most likely route to an RSA goal.
 
 ```json
 {
@@ -20,13 +21,13 @@ The two decisive factors are Davies' debut impact and whether RSA's low block ca
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.30,
-  "draw_probability": 0.25,
-  "loss_probability": 0.45,
+  "draw_probability": 0.27,
+  "loss_probability": 0.43,
   "key_factors": [
-    "Alphonso Davies returning from hamstring absence — transforms Canada's attacking threat",
-    "Zwane still suspended — RSA's creative outlet absent for third consecutive match",
-    "RSA defensive trajectory: 1 goal conceded in last 2 matches — genuine solidity",
-    "Canada goal variance (2.7/game) vs RSA attacking poverty (0.67/game)"
+    "Alphonso Davies returning from hamstring absence — transforms Canada's left flank, RSA had zero preparation against him",
+    "Zwane still suspended — RSA creative ceiling limited to counter-attack moments",
+    "RSA defensive form: 1 goal conceded in last 2 matches — genuine tournament-level solidity",
+    "Tournament base rate: 1-0 most common, 2-1 over-predicted — tight scoreline expected regardless of winner"
   ],
   "confidence": "medium"
 }
@@ -34,53 +35,11 @@ The two decisive factors are Davies' debut impact and whether RSA's low block ca
 
 ## Turn 2 — Les Rouges AI Pundit (CAN) — `opening_statement`
 
-Both briefings fully read. Here's my opening case.
+I already read both briefings earlier in this session — proceeding directly to my opening.
 
-The Davies return is not a footnote — it is the single most significant personnel change of this knockout stage for any team. He missed the entire group stage, RSA have had zero competitive minutes against him, and he transforms Canada's left flank from functional to elite in one swap. Against that, RSA arrive without Zwane (third match of his red card ban), their only genuine creative outlet, which caps their attacking ceiling at "one moment of Maseko pace" on the counter rather than a sustained threat. The tournament base rates are instructive here: 1-0 (13.9%) and 2-0 (8.3%) are both more likely outcomes than 2-1 (8.3%), and the calibration note explicitly flags 2-1 as historically over-predicted — so I'll resist that default. RSA's defensive discipline is real (one goal conceded in their last two matches), but without Zwane to threaten Canada defensively, Broos's low block will eventually be unlocked by David, Larin, or a Davies delivery from the left. **My opening call is Les Rouges 2 – Bafana Bafana 0**, Canada settled in regulation with a clean sheet backed by medium confidence.
+Canada arrive at this Round of 32 fixture as the clear tournament favourites, and the returning Alphonso Davies is the headline fact: missed the entire group stage with a hamstring injury, confirmed fit by Marsch, and RSA have had precisely zero competitive minutes preparing for the most dynamic left back in the world running at their right side. That asymmetry matters more than any paper quality gap — Broos' defensive block has been impressively organised, conceding only once in two matches, but it was built and drilled against opponents who weren't Davies. The counter-weight that keeps this honest: Maseko's counter-attack profile is real tournament evidence, RSA scored twice without Zwane across the group stage, and the base-rate calibration note is explicit that 1-0 is the most common scoreline and 2-1 is historically over-predicted — so I won't pad the margin without grounds. Canada's attacking rate (2.7 goals/game, including a 6-0 that included 9-man Qatar for 30 minutes) is noisier than it looks, and RSA's disciplined structure will make at least one goal difficult.
 
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 0 },
-  "goes_to_extra_time": false,
-  "predicted_score_aet": null,
-  "penalty_winner": null,
-  "win_probability": 0.60,
-  "draw_probability": 0.24,
-  "loss_probability": 0.16,
-  "key_factors": ["Alphonso Davies returning — RSA have no tournament prep against him", "Zwane suspended — RSA's creative ceiling severely limited", "Canada attacking rate 2.7/game vs RSA 0.67/game", "tournament base rate favours 1-0 or 2-0 over 2-1 as predicted scoreline"],
-  "predicted_scorers": ["David", "Larin"],
-  "confidence": "medium"
-}
-```
-
-## Turn 3 — Bafana Bafana AI Pundit (RSA) — `rebuttal`
-
-The base rate argument is sound but it cuts against the Canada clean sheet prediction too — a 2-0 result has occurred in only 8.3% of matches at this tournament, the same frequency as 2-1, and yet the Canada pundit is treating a clean sheet as the default outcome. RSA have scored in 2 of 3 group games, including a decisive counter-attack goal against Korea that perfectly maps to the profile Maseko carries against any team with a high defensive line — Canada conceded in 2 of 3 group games, including against Bosnia. The clean sheet prediction requires RSA to go a full knockout tie without a single counter-attack moment landing, and nothing in this tournament's evidence supports that as the more conservative assumption. I'll also flag what the Canada briefing notes but the opposing pundit didn't weight: Davies is returning from weeks of competitive inactivity after a hamstring injury — that's not the same as a fully match-sharp player, and Marsch's high-press system requires him to cover enormous distances; there's a non-trivial risk he fades or is managed through 60 minutes rather than being the decisive force across 90.
-
-The core disagreement is clean sheet vs RSA score at least once — I maintain the latter is more probable given the tournament evidence, so I'm staying at **Bafana Bafana 1 – Canada 2** with Canada winning in regulation.
-
-```json
-{
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "goes_to_extra_time": false,
-  "predicted_score_aet": null,
-  "penalty_winner": null,
-  "win_probability": 0.30,
-  "draw_probability": 0.25,
-  "loss_probability": 0.45,
-  "key_factors": [
-    "Alphonso Davies returning — transformative but match sharpness after hamstring absence is a genuine risk",
-    "Zwane suspended — RSA attacking ceiling limited but Maseko counter-attack profile is real tournament evidence",
-    "RSA scored in 2 of 3 group games — clean sheet prediction requires ignoring that track record",
-    "Canada conceded in 2 of 3 group games — their defensive line is pressable on transition"
-  ],
-  "confidence": "medium"
-}
-```
-
-## Turn 4 — Les Rouges AI Pundit (CAN) — `rebuttal`
-
-The clean sheet point lands — I'll take it. RSA scored without Zwane in both their subsequent group games, Maseko's counter-attack profile is exactly the kind of threat Canada's aggressive high line is vulnerable to, and treating 2-0 as the "conservative" outcome when Canada have conceded in two of three group matches is inconsistent. I'm moving off the clean sheet prediction: **Les Rouges 2 – Bafana Bafana 1**, Canada win in regulation but RSA land one counter-attack moment. On Davies' match sharpness — that's a fair flag, not a vibe. A hamstring return after competitive inactivity does carry a real minutes-management risk, and if Marsch is limiting him to 60-70 minutes, the transformative impact is front-loaded rather than decisive across 90. But partial Davies is still better than no Davies, and Canada's attacking depth (David, Larin, Buchanan) doesn't depend solely on him.
+**My opening call is Les Rouges 2 – Bafana Bafana 1**, Canada win in regulation, Davies unlocks the block, but Maseko lands one counter-attack moment.
 
 ```json
 {
@@ -91,15 +50,17 @@ The clean sheet point lands — I'll take it. RSA scored without Zwane in both t
   "win_probability": 0.57,
   "draw_probability": 0.25,
   "loss_probability": 0.18,
-  "key_factors": ["Davies returns — transformative but match sharpness caveat acknowledged", "Zwane suspended — RSA attacking ceiling limited but Maseko counter-attack threat real", "RSA scored in 2 of 3 games without Zwane — clean sheet too conservative", "Canada conceded 2 of 3 group games — high line pressable on transition"],
-  "predicted_scorers": ["David", "Larin"],
+  "key_factors": ["Davies returns — RSA had zero tournament prep against him", "Zwane suspended — RSA counter-attack ceiling limited to Maseko moments", "RSA scored in 2 of 3 group games without Zwane — clean sheet too conservative", "Canada 2.7 goals/game overstated by Qatar blowout — true level closer to 1.5-2.0"],
+  "predicted_scorers": ["David", "Davies", "Maseko"],
   "confidence": "medium"
 }
 ```
 
-## Turn 5 — Bafana Bafana AI Pundit (RSA) — `final_prediction`
+## Turn 3 — Bafana Bafana AI Pundit (RSA) — `rebuttal`
 
-My scorecard tells a stark story: three predictions, all RSA losses, actual results 1W-1D-1L. I have been systematically too pessimistic about Bafana Bafana in every single match this tournament. The calibration adjustment is clear and I have to make it explicitly — I'll reduce Canada's win probability from where my pure instinct places it, and raise both the draw and RSA win probabilities to reflect that RSA have consistently outperformed my predictions. The substantive argument hasn't shifted: Canada are the stronger side, Davies returning is genuinely transformative, and Zwane's absence caps RSA's attacking ceiling. But both sides finished the group stage 1W-1D-1L, RSA's defensive form over the last two matches is tournament-level evidence that deserves weight, and Canada's inconsistency outside the Qatar blowout (drew Bosnia, lost to Switzerland) means treating this as a comfortable Canada win would be repeating my previous error in a new disguise. If it goes to extra time I'd back Canada to advance — but 90 minutes is genuinely uncertain here. **My final call is Bafana Bafana 1 – Canada 2**, Canada win in regulation, but tighter than the paper quality gap suggests.
+The Canada pundit has done something useful here — self-corrected on the goals-per-game figure and acknowledged Canada's true attacking level is closer to 1.5-2.0 goals per game rather than 2.7. That matters: it brings the attacking gap between these sides into genuinely narrow territory, because RSA with a compact block against a side scoring at ~1.5 in real conditions is a winnable defensive assignment, especially given Ronwen Williams' form in goal across the group stage. The Davies asymmetry argument is the strongest point raised — RSA haven't faced him once this tournament and that's a real preparation deficit — but the Canada pundit hasn't addressed the match-sharpness counter: Davies is coming back from a hamstring injury after weeks of competitive inactivity, and if Marsch is managing him to 60-70 minutes rather than gambling 90, the transformative impact is front-loaded. My RSA win probability remains meaningfully higher than theirs, and given my scorecard shows I've systematically under-predicted RSA in every prior match this tournament, I'm not trimming it without a better reason than "Davies is good."
+
+Both sides have converged on the same scoreline from opposite ends, which is notable — the debate here is about the probability distribution, not the most likely outcome.
 
 ```json
 {
@@ -108,13 +69,55 @@ My scorecard tells a stark story: three predictions, all RSA losses, actual resu
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.30,
-  "draw_probability": 0.28,
-  "loss_probability": 0.42,
+  "draw_probability": 0.27,
+  "loss_probability": 0.43,
   "key_factors": [
-    "Calibration adjustment: systematic over-pessimism about RSA in all 3 prior predictions",
-    "Davies return transforms Canada's left flank but match sharpness after hamstring absence is a real caveat",
-    "Zwane still suspended — RSA attacking ceiling limited to counter-attack moments (Maseko profile)",
-    "Both teams 1W-1D-1L — RSA defensive solidity over last 2 games is genuine tournament evidence"
+    "Canada's true attacking level ~1.5-2.0 goals/game (Qatar blowout inflated) — narrows the gap with RSA's defensive block",
+    "Davies match-sharpness risk after hamstring absence — asymmetry argument is real but not unqualified",
+    "RSA defensive solidity (1 goal conceded in last 2 matches) remains the strongest tournament evidence",
+    "Calibration: systematic under-prediction of RSA in all 3 prior matches — defending elevated RSA win probability"
+  ],
+  "confidence": "medium"
+}
+```
+
+## Turn 4 — Les Rouges AI Pundit (CAN) — `rebuttal`
+
+We've converged on the scoreline, so the Bafana pundit is right that the live question is now purely probabilistic — and I'll engage that directly. The match-sharpness argument on Davies is valid and I've priced it in from the start, but there's a ceiling to how much that discount should apply: even a Davies operating at 70% capacity is a qualitatively different problem for Broos' right side than no Davies at all, because RSA have built their defensive block without ever having to respond to his specific combination of pace, delivery, and positional fluidity. The Ronwen Williams form point is new and fair — a goalkeeper in confident form does shift the expected goals against Canada, and I don't have enough tournament-level shot-stopping data to fully dismiss it. The Bafana pundit's calibration note about systematic RSA under-prediction is theirs to own; I haven't shown that same bias in my scorecard (I've been wrong in both directions), so it doesn't automatically flow through to my probabilities. Holding my current prediction.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.57,
+  "draw_probability": 0.25,
+  "loss_probability": 0.18,
+  "key_factors": ["Davies at partial sharpness still a qualitatively new problem for RSA's right side", "Williams in-tournament form noted — shifts expected goals against Canada slightly downward", "Both pundits converged on same scoreline — debate is probabilistic not directional", "Bafana calibration adjustment valid for RSA pundit but not automatically transferable to my scorecard"],
+  "predicted_scorers": ["David", "Davies", "Maseko"],
+  "confidence": "medium"
+}
+```
+
+## Turn 5 — Bafana Bafana AI Pundit (RSA) — `final_prediction`
+
+The scorecard confirms the pattern I've been flagging throughout this debate: three predictions, all RSA losses predicted, actual results 1W-1D-1L — I have been systematically too pessimistic about Bafana Bafana in every single match this tournament, including the Korea win where I gave RSA only 25% chance. The Canada pundit is right that their calibration accuracy doesn't automatically transfer to my numbers, but my calibration adjustment absolutely does — I will not shrink my RSA win probability to 18% when every prior prediction at that end of the dial has been proven wrong. Davies at partial sharpness remains the strongest argument for Canada, and I accept it; a right flank that has never had to deal with him is a genuine vulnerability. But Canada's true attacking rate (~1.5 goals/game outside the Qatar blowout), RSA's defensive solidity over the last two matches, and Ronwen Williams' confident form are all counterweights that keep this genuinely competitive rather than a comfortable Canada win. **My final call is Bafana Bafana 1 – Canada 2**, Canada edge it in regulation through David's clinical finishing, with Maseko's counter-attack threat landing once — and if this goes to extra time, I'd back Canada to advance.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.30,
+  "draw_probability": 0.27,
+  "loss_probability": 0.43,
+  "key_factors": [
+    "Calibration adjustment: all 3 prior predictions over-pessimistic about RSA — defending elevated RSA win probability",
+    "Davies returning at partial match sharpness — new problem for Broos' right side but not a 90-minute certainty",
+    "Canada true attacking rate ~1.5 goals/game outside Qatar anomaly — gap with RSA defence is narrow",
+    "Zwane still suspended — RSA counter-attack reliant on Maseko's individual moments"
   ],
   "confidence": "medium",
   "predicted_scorers": ["David", "Maseko"]
@@ -123,9 +126,9 @@ My scorecard tells a stark story: three predictions, all RSA losses, actual resu
 
 ## Turn 6 — Les Rouges AI Pundit (CAN) — `final_prediction`
 
-My scorecard shows three predictions, one correct winner, zero correct scorelines — and the pattern is instructive: I missed Canada's dominance vs Qatar (predicted 2-1, got 6-0), missed the draw vs Bosnia (predicted 1-0, got 1-1), and missed Switzerland winning (predicted 1-1, got 1-2). No systematic bias toward over-predicting Canada wins here — I've been wrong in both directions on scorelines. The Bafana pundit's calibration note about systematic RSA under-prediction is relevant context: if RSA have consistently outperformed expectations, my draw probability of 0.25 — right at the knockout base rate — feels appropriately positioned rather than needing a further nudge. The substantive case is stable: Davies' return shifts the quality gap meaningfully in Canada's favour, Zwane's absence caps RSA's counter-attack ceiling to isolated Maseko moments, and two goals for Canada is grounded in their 2.7/game tournament average against genuine opposition. **My final call is Les Rouges 2 – Bafana Bafana 1.**
+My scorecard shows one correct winner from three scored predictions — Bosnia (over-predicted Canada win, got draw), Qatar (correct winner, under-predicted margin massively), Switzerland (called draw, got Switzerland winning). The pattern is not systematic in one direction: I've been wrong both ways, which means I don't have the same recalibration case the Bafana pundit does. My draw probability of 0.25 sits right at the knockout base rate (~25%), which is appropriately calibrated rather than needing adjustment. The substantive case is unchanged: Davies' return — even at partial match sharpness — confronts Broos' right side with a problem they've never encountered in this tournament, Zwane's absence caps RSA's counter-attack to isolated Maseko moments, and Canada's David-Larin partnership is the highest-quality striker combination RSA will have faced. Both pundits have independently converged on the same outcome, and agreeing with your opponent isn't a reason to artificially diverge — it's occasionally just what the evidence shows. **My final call is Les Rouges 2 – Bafana Bafana 1.**
 
-Predicted scorers: **David, Larin, Maseko**
+Predicted scorers: **David, Davies, Maseko**
 
 ```json
 {
@@ -136,8 +139,8 @@ Predicted scorers: **David, Larin, Maseko**
   "win_probability": 0.57,
   "draw_probability": 0.25,
   "loss_probability": 0.18,
-  "key_factors": ["Davies return transforms left flank — RSA have no tournament exposure to him", "Zwane suspended — RSA attacking ceiling limited to Maseko counter-attack moments", "Canada 2.7 goals/game tournament average supports two-goal output", "RSA defensive solidity real but Bafana pundit's own calibration shows RSA systematically outperforms predictions"],
-  "predicted_scorers": ["David", "Larin", "Maseko"],
+  "key_factors": ["Davies return confronts RSA's right side with unprecedented tournament problem", "Zwane suspended — RSA counter-attack ceiling limited to Maseko individual moments", "David-Larin partnership is highest quality striker combination RSA have faced", "scorecard shows mixed errors, no systematic RSA under-prediction requiring adjustment"],
+  "predicted_scorers": ["David", "Davies", "Maseko"],
   "confidence": "medium"
 }
 ```
@@ -148,7 +151,7 @@ Predicted scorers: **David, Larin, Maseko**
 |---|---|---|
 | Predicted score | 1–2 | 1–2 |
 | Bafana Bafana win | 30% | 18% |
-| Draw | 28% | 25% |
-| Les Rouges win | 42% | 57% |
+| Draw | 27% | 25% |
+| Les Rouges win | 43% | 57% |
 | Confidence | medium | medium |
 | Consensus | ✅ Yes | |
