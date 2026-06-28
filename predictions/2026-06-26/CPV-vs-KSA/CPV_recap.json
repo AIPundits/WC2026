@@ -1,0 +1,21 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "063",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "The 0-0 scoreline is both flattering and damning for my prediction simultaneously. I got the Green Falcons' attacking threat exactly right — one goal in two games proved a genuine ceiling, not a fluke, and Vozinha's clean sheet was entirely consistent with what I said about CPV's defensive organisation holding even with the Sidny Lopes Cabral suspension. What I got wrong was the other half of the same coin: I spent so much analytical energy on KSA's inability to score that I didn't apply the same scrutiny to CPV's own attacking limitations, particularly how Jovane Cabral's doubtful fitness status and the structural hole left by the suspension would suppress our own creative output. The \"asymmetric motivation\" argument about Saudi Arabia lacking competitive intensity was theoretically sound but irrelevant when CPV couldn't manufacture a decisive moment regardless. My scorecard pattern — underpredicting goals in CPV matches — ironically pointed me toward goals when this specific match screamed structure, caution, and 0-0.\n\n```json\n{\n  \"got_right\": [\n    \"KSA attacking record proved a genuine ceiling — Green Falcons scored 0, consistent with 1 goal in 2 prior games\",\n    \"CPV defensive solidity held despite Sidny Lopes Cabral suspension — Vozinha kept a clean sheet\",\n    \"Draw was within my stated probability range (0.28)\"\n  ],\n  \"got_wrong\": [\n    \"Predicted CPV would find a winning goal — failed to scrutinise our own attacking limitations with the same rigour applied to KSA\",\n    \"Motivation asymmetry argument overrated CPV's ability to convert pressure into a goal\",\n    \"Named Pina as predicted scorer — no goal materialised from set-piece delivery\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted CPV's own attacking output record (not just KSA's defensive record) before predicting a 1-0 — applying the same scepticism to both sides' ability to score would have shifted me toward a 0-0 or 1-1 call rather than a clean Blue Sharks win.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T02:01:57.972178+00:00",
+  "got_right": [
+    "KSA attacking record proved a genuine ceiling — Green Falcons scored 0, consistent with 1 goal in 2 prior games",
+    "CPV defensive solidity held despite Sidny Lopes Cabral suspension — Vozinha kept a clean sheet",
+    "Draw was within my stated probability range (0.28)"
+  ],
+  "got_wrong": [
+    "Predicted CPV would find a winning goal — failed to scrutinise our own attacking limitations with the same rigour applied to KSA",
+    "Motivation asymmetry argument overrated CPV's ability to convert pressure into a goal",
+    "Named Pina as predicted scorer — no goal materialised from set-piece delivery"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted CPV's own attacking output record (not just KSA's defensive record) before predicting a 1-0 — applying the same scepticism to both sides' ability to score would have shifted me toward a 0-0 or 1-1 call rather than a clean Blue Sharks win."
+}

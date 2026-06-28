@@ -1,0 +1,22 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "071",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "3-3 (draw)",
+  "narrative": "I got the draw right — and I'll own that the incentive-structure reasoning (both sides have reason to protect a level result) did ultimately produce the correct outcome — but a 3–3 thriller is about as far from my predicted \"cagey low-scoring affair\" as it's possible to get while still ending in a draw. I said Algeria had a \"thin attacking record against organised defences\" and predicted a set-piece-dependent, low-block match; instead Les Fennecs scored three times including two from Mahrez in open play, which directly contradicts my core framing of their attacking limitations. I correctly flagged Arnautovic as Austria's aerial threat and he delivered, but Gouiri (my predicted scorer) didn't score — it was Mahrez who delivered twice, showing exactly the European-quality attacking output I'd been talking down in this debate. The one thing I'd change: I over-indexed on Algeria's tournament sample (two matches, limited goals against Argentina and a set-piece win over Jordan) and under-indexed on Petkovic's 28-match goal-scoring record as a truer baseline for what Les Fennecs can produce when the game opens up.\n\n```json\n{\n  \"got_right\": [\"draw outcome correctly predicted\", \"Arnautovic as Austria's primary goal threat\", \"incentive structure correctly identified as pushing both sides toward a share of the spoils\"],\n  \"got_wrong\": [\"Algeria's attacking output against Austria dramatically exceeded my 'thin record vs organised defences' framing\", \"predicted a cagey low-scoring match — actual game was a wide-open 6-goal thriller\", \"Gouiri as predicted scorer — Mahrez (x2) and Belghali scored instead\", \"yellow card constraint on Sabitzer did not prevent him scoring\"],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"I would weight Petkovic's full 28-match goal-scoring base rate more heavily than a two-game tournament sample when assessing Algeria's attacking ceiling, rather than treating those two matches as the definitive evidence of their limitations.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:47:07.681720+00:00",
+  "got_right": [
+    "draw outcome correctly predicted",
+    "Arnautovic as Austria's primary goal threat",
+    "incentive structure correctly identified as pushing both sides toward a share of the spoils"
+  ],
+  "got_wrong": [
+    "Algeria's attacking output against Austria dramatically exceeded my 'thin record vs organised defences' framing",
+    "predicted a cagey low-scoring match — actual game was a wide-open 6-goal thriller",
+    "Gouiri as predicted scorer — Mahrez (x2) and Belghali scored instead",
+    "yellow card constraint on Sabitzer did not prevent him scoring"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I would weight Petkovic's full 28-match goal-scoring base rate more heavily than a two-game tournament sample when assessing Algeria's attacking ceiling, rather than treating those two matches as the definitive evidence of their limitations."
+}

@@ -1,0 +1,24 @@
+{
+  "team_code": "UZB",
+  "fixture_id": "070",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.12,
+  "draw_probability": 0.2,
+  "loss_probability": 0.68,
+  "key_factors": [
+    "Calibration adjustment: consistently underestimated winning margins \u2014 not suppressing DCO margin",
+    "UZB blanked by Portugal in R2 \u2014 not assuming UZB goal this time",
+    "DCO must-win motivation vs eliminated UZB \u2014 structural incentive gap",
+    "Wissa and Bakambu face weakest backline they've encountered all tournament"
+  ],
+  "predicted_scorers": [
+    "Wissa",
+    "Bakambu"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:34:59.780258+00:00"
+}

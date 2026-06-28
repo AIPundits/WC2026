@@ -1,0 +1,11 @@
+{
+  "fixture_id": "065",
+  "fixture_date": "2026-06-26",
+  "home_code": "EGY",
+  "away_code": "IRI",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.8877629,
+  "model": "claude-sonnet-4-6"
+}

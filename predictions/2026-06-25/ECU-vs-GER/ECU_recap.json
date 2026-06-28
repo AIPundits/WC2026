@@ -1,0 +1,21 @@
+{
+  "team_code": "ECU",
+  "fixture_id": "056",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "I went into this predicting **La Tricolor 0 – Germany 2** and Ecuador delivered a **2 – 1 win** — the full reversal. The one thing I got structurally right is that Germany would score: Sané finding the net is consistent with the attacking quality I cited throughout the dialogue. But I massively over-weighted two matches of finishing failure as a permanent condition rather than a correctable one, and I critically under-weighted the genuine structural damage done to Germany's defence by the Schlotterbeck and Brown absences — I named that disruption as a \"real mitigant\" and then waved it away because Ecuador hadn't converted yet, which is circular reasoning dressed up as calibration. Angulo scoring and Ecuador turning 15 shots on target into a win tells you the finishing problem was situational, not structural, and my scorecard-driven overcorrection pushed me into exactly the failure mode I was trying to avoid: letting historical data override live game context.\n\n```json\n{\n  \"got_right\": [\n    \"Germany would score — Sané's goal consistent with identified attacking quality\",\n    \"Germany's defensive reshuffle was a live factor worth flagging\"\n  ],\n  \"got_wrong\": [\n    \"Treated Ecuador's 0-goal run as a structural permanent condition rather than correctable form\",\n    \"Over-indexed on scorecard calibration at the expense of live game context\",\n    \"Dismissed Germany's defensive disruption (Schlotterbeck + Brown absent) too quickly after naming it\",\n    \"Valencia/finishing form framing — Angulo scored, suggesting the problem was striker-specific not squad-wide\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the defensive reshuffle argument more rigorously — naming it as a mitigant and then immediately discounting it because Ecuador hadn't scored yet was circular reasoning, not calibration.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T22:01:21.454406+00:00",
+  "got_right": [
+    "Germany would score — Sané's goal consistent with identified attacking quality",
+    "Germany's defensive reshuffle was a live factor worth flagging"
+  ],
+  "got_wrong": [
+    "Treated Ecuador's 0-goal run as a structural permanent condition rather than correctable form",
+    "Over-indexed on scorecard calibration at the expense of live game context",
+    "Dismissed Germany's defensive disruption (Schlotterbeck + Brown absent) too quickly after naming it",
+    "Valencia/finishing form framing — Angulo scored, suggesting the problem was striker-specific not squad-wide"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have stress-tested the defensive reshuffle argument more rigorously — naming it as a mitigant and then immediately discounting it because Ecuador hadn't scored yet was circular reasoning, not calibration."
+}

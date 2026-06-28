@@ -1,0 +1,23 @@
+{
+  "team_code": "KSA",
+  "fixture_id": "063",
+  "predicted_from_perspective": "0-1 (loss)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "The 0–0 tells the story more clearly than my prediction did: I read the defensive balance correctly — Vozinha was excellent, Saudi Arabia's attacking output was as limited as advertised, and CPV's shape absorbed the Lopes Cabral absence without serious damage — but I was wrong to assume CPV's superior in-tournament form would translate into a goal. The Green Falcons' defensive unit, which I discounted in favour of their attacking deficiencies, held firm for a full 90 minutes, and Pina — my predicted scorer — was kept quiet throughout. I'd held the draw at tournament base rate (28%) partly as a calibration hedge, but it turned out to be the correct outcome rather than the minority scenario, which means my loss-probability of 47% was structurally too high for a match where CPV's attacking threat proved as blunt as Saudi Arabia's.\n\nThe one thing I'd revise: I anchored too hard on CPV's in-tournament results (0–0 vs Spain, 2–2 vs Uruguay) as evidence of *attacking* quality when those results were really evidence of *defensive* organisation — I should have taken their goal-threat more sceptically and given more weight to Saudi Arabia's ability to keep a clean sheet against limited opposition.\n\n```json\n{\n  \"got_right\": [\n    \"Saudi Arabia's attacking output stayed minimal — zero goals, no creative breakthrough\",\n    \"CPV's defensive organisation absorbed the Lopes Cabral absence without collapsing\",\n    \"Vozinha was not seriously troubled — confirmed the goalkeeping quality assessment\",\n    \"Draw probability kept at tournament base rate proved the right anchor\"\n  ],\n  \"got_wrong\": [\n    \"Predicted CPV would score — they didn't; I overrated their attacking threat from in-tournament results\",\n    \"Pina as predicted scorer — wrong; CPV's forward line was held completely\",\n    \"Loss probability of 47% was too high — Saudi Arabia's defensive resilience was underweighted\",\n    \"Framed the match primarily as 'can Saudi score?' when 'can CPV score?' was equally open\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have disaggregated CPV's in-tournament form into defensive and attacking components separately — their 0–0 vs Spain and 2–2 vs Uruguay spoke to defensive solidity, not goal-scoring potency, and pricing them as a likely scorer against a Saudi backline that has shown it can keep clean sheets was the core error.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T02:01:57.972952+00:00",
+  "got_right": [
+    "Saudi Arabia's attacking output stayed minimal — zero goals, no creative breakthrough",
+    "CPV's defensive organisation absorbed the Lopes Cabral absence without collapsing",
+    "Vozinha was not seriously troubled — confirmed the goalkeeping quality assessment",
+    "Draw probability kept at tournament base rate proved the right anchor"
+  ],
+  "got_wrong": [
+    "Predicted CPV would score — they didn't; I overrated their attacking threat from in-tournament results",
+    "Pina as predicted scorer — wrong; CPV's forward line was held completely",
+    "Loss probability of 47% was too high — Saudi Arabia's defensive resilience was underweighted",
+    "Framed the match primarily as 'can Saudi score?' when 'can CPV score?' was equally open"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have disaggregated CPV's in-tournament form into defensive and attacking components separately — their 0–0 vs Spain and 2–2 vs Uruguay spoke to defensive solidity, not goal-scoring potency, and pricing them as a likely scorer against a Saudi backline that has shown it can keep clean sheets was the core error."
+}

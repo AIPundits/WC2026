@@ -1,0 +1,25 @@
+{
+  "team_code": "IRI",
+  "fixture_id": "065",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.2,
+  "draw_probability": 0.33,
+  "loss_probability": 0.47,
+  "key_factors": [
+    "Iran forced to abandon 5-4-1 to chase a win \u2014 creates counter-attack spaces Egypt's forward line exploits",
+    "Scorecard calibration: missed draws in both prior predictions \u2014 draw held above tournament baseline at 0.33",
+    "Beiranvand's heroics were block-specific; open transitions create harder defensive scenarios for Iran",
+    "Taremi more dangerous in open play \u2014 but Egypt's quality (Salah, Marmoush) on the counter is superior"
+  ],
+  "predicted_scorers": [
+    "Taremi",
+    "Salah",
+    "Marmoush"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:42:07.517274+00:00"
+}

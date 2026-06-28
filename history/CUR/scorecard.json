@@ -1,11 +1,11 @@
 {
   "team_code": "CUR",
   "predictions_made": 1,
-  "results_scored": 2,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 0,
+  "results_scored": 3,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.3314,
+  "brier_score": 0.249,
   "per_prediction": [
     {
       "fixture_id": "009",
@@ -28,6 +28,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.4406
+    },
+    {
+      "fixture_id": "055",
+      "date": "2026-06-25",
+      "opponent": "CIV",
+      "predicted": "0-1",
+      "actual": "0-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.0843
     }
   ]
 }

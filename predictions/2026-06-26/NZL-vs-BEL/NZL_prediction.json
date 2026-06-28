@@ -1,0 +1,25 @@
+{
+  "team_code": "NZL",
+  "fixture_id": "066",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.11,
+  "draw_probability": 0.21,
+  "loss_probability": 0.68,
+  "key_factors": [
+    "Belgium quality gap decisive against NZL's porous defence (2.5 conceded/game)",
+    "Doku return and Beiranvand absence structurally improve Belgium's attacking prospects",
+    "NZL set-piece threat (Surman) targets Ngoy-absent backline \u2014 one goal is evidenced, not assumed",
+    "Scorecard calibration: slightly underestimate opponent goals but Belgium's confirmed fitness issues hold prediction at 2"
+  ],
+  "predicted_scorers": [
+    "Surman",
+    "Lukaku",
+    "Doku"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:45:26.445149+00:00"
+}

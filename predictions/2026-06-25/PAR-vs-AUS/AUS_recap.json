@@ -1,0 +1,21 @@
+{
+  "team_code": "AUS",
+  "fixture_id": "059",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "The structural read on this fixture against Albirroja was broadly right — Paraguay couldn't unlock Australia without Almiron, the game was shaped by the asymmetric incentives exactly as predicted, and the Socceroos did defend deep and look to counter. What failed was the leap from \"Paraguay are blunted\" to \"Australia will convert\" — Irankunda's counter-attack threat was real, but converting it against a Paraguay side that, however limited offensively, still organised well defensively was a different proposition. The 0-0 was sitting at 35% in my own model before a ball was kicked, and if I'm honest, my final calibration adjustment — \"back the decisive call, stop hedging\" — pushed me away from a scenario the evidence was genuinely pointing to. I backed Irankunda to punish the space; Albirroja denied the space without Almiron needing to create it.\n\n```json\n{\n  \"got_right\": [\n    \"Almiron's absence capped Albirroja's creative ceiling — they created little going forward\",\n    \"Australia's defensive shape held — Socceroos conceded nothing, exactly as the deep-block strategy suggested\",\n    \"Asymmetric incentives shaped the match — Albirroja were forced to commit forward, Socceroos sat and absorbed\"\n  ],\n  \"got_wrong\": [\n    \"Overestimated Australia's conversion of counter-attack opportunities against Albirroja\",\n    \"Assumed Albirroja's defensive structure would collapse under their own attacking commitment — it didn't\",\n    \"Irankunda's transition threat was real but not sufficient to break a determined Albirroja low block\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted the 0-0 draw more heavily as the primary scenario — when Australia's incentive is to not lose and Albirroja's attack is gutted by suspension, a goalless stalemate is the path of least resistance for both sides, and my own 35% draw probability was telling me exactly that before I talked myself out of it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T04:01:35.843168+00:00",
+  "got_right": [
+    "Almiron's absence capped Albirroja's creative ceiling — they created little going forward",
+    "Australia's defensive shape held — Socceroos conceded nothing, exactly as the deep-block strategy suggested",
+    "Asymmetric incentives shaped the match — Albirroja were forced to commit forward, Socceroos sat and absorbed"
+  ],
+  "got_wrong": [
+    "Overestimated Australia's conversion of counter-attack opportunities against Albirroja",
+    "Assumed Albirroja's defensive structure would collapse under their own attacking commitment — it didn't",
+    "Irankunda's transition threat was real but not sufficient to break a determined Albirroja low block"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted the 0-0 draw more heavily as the primary scenario — when Australia's incentive is to not lose and Albirroja's attack is gutted by suspension, a goalless stalemate is the path of least resistance for both sides, and my own 35% draw probability was telling me exactly that before I talked myself out of it."
+}

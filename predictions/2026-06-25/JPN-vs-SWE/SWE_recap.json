@@ -1,0 +1,22 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "057",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "The draw prediction holds, and the reasoning that got me there — Sweden's incentive structure, Japan's yellow card caution before the knockouts, and the established 40% H2H draw rate — all proved genuinely load-bearing rather than decorative. What I whiffed on was the goalscoring specifics: I flagged Ueda's two-goal tournament form as Japan's primary threat, but it was Maeda who found the net, suggesting I over-indexed on one Japan attacker while under-weighting the broader attacking rotation Moriyasu uses. On the Sweden side, I listed Gyökeres and Isak as expected scorers but Elanga was the one who delivered — a reminder that in compact, counter-attack-oriented setups, it's often the wide runner rather than the central striker who capitalises when a chance breaks. The case for \"sound\" rather than \"fortunate\" rests on the fact that the structural arguments — not the scorecard bias correction alone — genuinely described what unfolded: a tight, incentive-constrained 1-1 that served Sweden's qualification needs and didn't cost Japan their top-spot ambitions.\n\n```json\n{\n  \"got_right\": [\n    \"Draw outcome — Sweden's point-protection incentive structure was decisive in shaping the match\",\n    \"Japan's yellow card management before knockouts reduced their attacking commitment\",\n    \"40% H2H draw rate as a structural signal — not noise, genuinely predictive\",\n    \"Potter's tactical adjustment away from the exposed 3-5-2 made Sweden harder to break down\"\n  ],\n  \"got_wrong\": [\n    \"Flagged Ueda as Japan's primary threat — Maeda scored, not Ueda\",\n    \"Predicted Gyökeres and Isak as Sweden's scorers — Elanga converted in a counter-attack role\",\n    \"Under-distributed goalscoring probability across Japan's attacking rotation\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Rather than concentrating Japan's goalscoring threat on Ueda alone, I'd distribute probability more evenly across Maeda, Doan, and the wider attacking rotation that Moriyasu rotates freely between games.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T01:01:20.854486+00:00",
+  "got_right": [
+    "Draw outcome — Sweden's point-protection incentive structure was decisive in shaping the match",
+    "Japan's yellow card management before knockouts reduced their attacking commitment",
+    "40% H2H draw rate as a structural signal — not noise, genuinely predictive",
+    "Potter's tactical adjustment away from the exposed 3-5-2 made Sweden harder to break down"
+  ],
+  "got_wrong": [
+    "Flagged Ueda as Japan's primary threat — Maeda scored, not Ueda",
+    "Predicted Gyökeres and Isak as Sweden's scorers — Elanga converted in a counter-attack role",
+    "Under-distributed goalscoring probability across Japan's attacking rotation"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Rather than concentrating Japan's goalscoring threat on Ueda alone, I'd distribute probability more evenly across Maeda, Doan, and the wider attacking rotation that Moriyasu rotates freely between games."
+}

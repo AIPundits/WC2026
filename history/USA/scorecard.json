@@ -1,11 +1,11 @@
 {
   "team_code": "USA",
   "predictions_made": 1,
-  "results_scored": 2,
+  "results_scored": 3,
   "correct_winner": 1,
   "correct_scoreline_pattern": 0,
   "exact_score": 0,
-  "brier_score": 0.2216,
+  "brier_score": 0.2571,
   "per_prediction": [
     {
       "fixture_id": "004",
@@ -28,6 +28,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2211
+    },
+    {
+      "fixture_id": "060",
+      "date": "2026-06-25",
+      "opponent": "TUR",
+      "predicted": "2-1",
+      "actual": "2-3",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.3281
     }
   ]
 }

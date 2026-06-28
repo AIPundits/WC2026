@@ -1,0 +1,23 @@
+{
+  "fixture_id": "065",
+  "date": "2026-06-26",
+  "home": "EGY",
+  "away": "IRI",
+  "home_score": 1,
+  "away_score": 1,
+  "ingested_at": "2026-06-27T05:06:37.595146+00:00",
+  "goal_scorers": [
+    {
+      "name": "Mahmoud Saber",
+      "team": "home",
+      "minute": "5'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ramin Rezaeian",
+      "team": "away",
+      "minute": "14'",
+      "type": "Goal"
+    }
+  ]
+}

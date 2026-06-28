@@ -1,0 +1,11 @@
+{
+  "fixture_id": "067",
+  "fixture_date": "2026-06-27",
+  "home_code": "CRO",
+  "away_code": "GHA",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 3.04117425,
+  "model": "claude-sonnet-4-6"
+}

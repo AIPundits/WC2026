@@ -1,0 +1,35 @@
+{
+  "fixture_id": "061",
+  "date": "2026-06-26",
+  "home": "NOR",
+  "away": "FRA",
+  "home_score": 1,
+  "away_score": 4,
+  "ingested_at": "2026-06-26T21:00:45.852952+00:00",
+  "goal_scorers": [
+    {
+      "name": "Ousmane Dembélé",
+      "team": "away",
+      "minute": "7'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": "away",
+      "minute": "20'",
+      "type": "Goal"
+    },
+    {
+      "name": "Thelo Aasgaard",
+      "team": "home",
+      "minute": "21'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": "away",
+      "minute": "32'",
+      "type": "Goal"
+    }
+  ]
+}

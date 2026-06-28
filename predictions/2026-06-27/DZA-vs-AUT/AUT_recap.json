@@ -1,0 +1,22 @@
+{
+  "team_code": "AUT",
+  "fixture_id": "071",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "3-3 (draw)",
+  "narrative": "I called the draw and I named Arnautovic as a scorer — those two things landed. But the reasoning that got me to 1-1 was built on a defensive picture that completely fell apart: I argued Austria's low block would be difficult for Les Fennecs to breach, that Algeria's attacking record against organised sides was thin, and that both teams would play conservatively with the incentive to protect a level result. A 3-3 scoreline is the opposite of a careful, managed draw — Rot-Weiß-Rot conceded three times (including two from Mahrez, who I didn't flag at all), and my Gouiri scorer call was wrong too. The yellow-card constraint I cited as a reason for Austrian caution clearly didn't stop Sabitzer getting on the scoresheet in what turned out to be an open, attacking game. I got the outcome right but the match looked nothing like the game I predicted.\n\n```json\n{\n  \"got_right\": [\n    \"draw as the correct result\",\n    \"Arnautovic scoring for Rot-Weiß-Rot\",\n    \"both sides finding the net\"\n  ],\n  \"got_wrong\": [\n    \"massively underestimated goal volume (predicted 2 total, actual 6)\",\n    \"Algeria's attacking threat vs organised defences — Mahrez scored twice, not a thin threat at all\",\n    \"Austria's low-block defensive solidity — conceded 3, not 1\",\n    \"Gouiri as Algeria's scorer — Belghali and Mahrez scored instead\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"I should have weighted the tournament average of 2.97 goals per game more heavily against my low-scoring narrative — the evidence for a tight, cautious match was weaker than the base rate suggested, and I should have widened my scoreline distribution to include high-scoring draw scenarios like 2-2 or 3-3.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:47:07.683142+00:00",
+  "got_right": [
+    "draw as the correct result",
+    "Arnautovic scoring for Rot-Weiß-Rot",
+    "both sides finding the net"
+  ],
+  "got_wrong": [
+    "massively underestimated goal volume (predicted 2 total, actual 6)",
+    "Algeria's attacking threat vs organised defences — Mahrez scored twice, not a thin threat at all",
+    "Austria's low-block defensive solidity — conceded 3, not 1",
+    "Gouiri as Algeria's scorer — Belghali and Mahrez scored instead"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I should have weighted the tournament average of 2.97 goals per game more heavily against my low-scoring narrative — the evidence for a tight, cautious match was weaker than the base rate suggested, and I should have widened my scoreline distribution to include high-scoring draw scenarios like 2-2 or 3-3."
+}

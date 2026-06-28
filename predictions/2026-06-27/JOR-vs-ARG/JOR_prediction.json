@@ -1,0 +1,24 @@
+{
+  "team_code": "JOR",
+  "fixture_id": "072",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.08,
+  "draw_probability": 0.13,
+  "loss_probability": 0.79,
+  "key_factors": [
+    "Messi benched \u2014 all 5 Argentina tournament goals came from him",
+    "\u00c1lvarez first start after ankle injury, motivated to impress",
+    "Jordan scored in every WC match \u2014 Olwan in consistent form",
+    "Jordan conceded 5 in 2 games \u2014 Argentina's depth sufficient to win regardless of rotation"
+  ],
+  "predicted_scorers": [
+    "Olwan",
+    "\u00c1lvarez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:44:29.064999+00:00"
+}

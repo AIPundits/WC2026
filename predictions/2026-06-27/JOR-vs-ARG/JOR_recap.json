@@ -1,0 +1,22 @@
+{
+  "team_code": "JOR",
+  "fixture_id": "072",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-3 (loss)",
+  "narrative": "We got the result and Jordan's contribution right — Al-Nashama scored once (Olwan delivered again, as flagged) and Argentina won, direction confirmed. What we got wrong was the margin: Argentina scored three without Messi starting, not the two I predicted, and the \"Messi benched = reduced attacking threat\" narrative didn't account sufficiently for the depth of Argentina's squad — Álvarez and others were evidently sharp enough to extend the lead beyond what I modelled. The tournament base-rate data warned me that blowouts happen against structurally outclassed opponents, and I acknowledged it in my briefing read; I chose a conservative margin anyway when the evidence pointed toward a wider outcome. \n\nOne thing I'd change: I over-indexed on Messi's absence as a goal-reduction factor and under-indexed on Jordan's consistent defensive fragility (5 goals conceded in 2 games) — the smarter prior was Argentina 3, not Argentina 2.\n\n```json\n{\n  \"got_right\": [\n    \"Jordan would score exactly once — Olwan in consistent WC form\",\n    \"Argentina would win comfortably despite rotation\",\n    \"Jordan's eliminated status would not produce a shock result\",\n    \"Álvarez flagged as a scoring threat in his first start\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Argentina would score 2, they scored 3\",\n    \"Messi benched was over-weighted as a goal-suppression factor\",\n    \"Underestimated Argentina's attacking depth beyond Messi\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have weighted Jordan's consistent defensive fragility (conceding 2.5 per game) above the Messi-absence narrative, and moved my scoreline prediction to Argentina 3 rather than anchoring conservatively at 2.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:47:54.975545+00:00",
+  "got_right": [
+    "Jordan would score exactly once — Olwan in consistent WC form",
+    "Argentina would win comfortably despite rotation",
+    "Jordan's eliminated status would not produce a shock result",
+    "Álvarez flagged as a scoring threat in his first start"
+  ],
+  "got_wrong": [
+    "Predicted Argentina would score 2, they scored 3",
+    "Messi benched was over-weighted as a goal-suppression factor",
+    "Underestimated Argentina's attacking depth beyond Messi"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have weighted Jordan's consistent defensive fragility (conceding 2.5 per game) above the Messi-absence narrative, and moved my scoreline prediction to Argentina 3 rather than anchoring conservatively at 2."
+}

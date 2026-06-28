@@ -1,11 +1,11 @@
 {
   "team_code": "EGY",
   "predictions_made": 1,
-  "results_scored": 2,
+  "results_scored": 3,
   "correct_winner": 1,
   "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.1744,
+  "brier_score": 0.2063,
   "per_prediction": [
     {
       "fixture_id": "014",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1267
+    },
+    {
+      "fixture_id": "065",
+      "date": "2026-06-26",
+      "opponent": "IRI",
+      "predicted": "2-1",
+      "actual": "1-1",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2702
     }
   ]
 }

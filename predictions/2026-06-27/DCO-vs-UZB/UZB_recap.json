@@ -1,0 +1,22 @@
+{
+  "team_code": "UZB",
+  "fixture_id": "070",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-3 (loss)",
+  "narrative": "The direction was right — Léopards won, White Wolves lost — and the core reasoning held: DCO's motivation asymmetry proved decisive, their attacking quality through Wissa and Bakambu created enough to win comfortably, and Uzbekistan's defensive frailty was once again exposed. Where I erred was on the White Wolves goal — I retreated from predicting a UZB scorer based on my Portugal calibration lesson, yet Shomurodov or a teammate found the net anyway; the 1-3 scoreline rather than my 0-2 call shows I undercalled both total goals (three DCO goals, not two) and still got bitten by UZB scoring despite my adjustment. The margin I predicted (two DCO goals) was again too conservative — my own scorecard flagged a pattern of suppressing winning margins, I acknowledged it in my final reasoning, and then didn't move far enough. One thing I'd change: having explicitly identified that I consistently underestimate opponents' winning margins against White Wolves, I should have been bolder and called 0-3 rather than hedging at 0-2.\n\n```json\n{\n  \"got_right\": [\n    \"Léopards win — direction correct\",\n    \"DCO motivation asymmetry proved decisive in a comfortable victory\",\n    \"Wissa and Bakambu were DCO's primary attacking threats, as predicted\",\n    \"UZB defensive frailty was again exposed, conceding 3 goals\"\n  ],\n  \"got_wrong\": [\n    \"Predicted UZB would not score — they scored 1\",\n    \"Predicted DCO would score 2 — they scored 3, underestimating margin again\",\n    \"Retreated too far from UZB goal threat based on Portugal result — that was a category error in itself\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"Having explicitly flagged a pattern of underestimating winning margins in my scorecard review, I should have committed to a larger DCO margin (0-3) rather than stopping at 0-2 and calling it a calibration adjustment while barely moving the needle.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:46:15.496399+00:00",
+  "got_right": [
+    "Léopards win — direction correct",
+    "DCO motivation asymmetry proved decisive in a comfortable victory",
+    "Wissa and Bakambu were DCO's primary attacking threats, as predicted",
+    "UZB defensive frailty was again exposed, conceding 3 goals"
+  ],
+  "got_wrong": [
+    "Predicted UZB would not score — they scored 1",
+    "Predicted DCO would score 2 — they scored 3, underestimating margin again",
+    "Retreated too far from UZB goal threat based on Portugal result — that was a category error in itself"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "Having explicitly flagged a pattern of underestimating winning margins in my scorecard review, I should have committed to a larger DCO margin (0-3) rather than stopping at 0-2 and calling it a calibration adjustment while barely moving the needle."
+}

@@ -1,11 +1,11 @@
 {
   "team_code": "CPV",
   "predictions_made": 1,
-  "results_scored": 2,
+  "results_scored": 3,
   "correct_winner": 1,
   "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.1979,
+  "brier_score": 0.2227,
   "per_prediction": [
     {
       "fixture_id": "013",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1736
+    },
+    {
+      "fixture_id": "063",
+      "date": "2026-06-26",
+      "opponent": "KSA",
+      "predicted": "1-0",
+      "actual": "0-0",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2723
     }
   ]
 }

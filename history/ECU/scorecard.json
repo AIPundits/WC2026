@@ -1,11 +1,11 @@
 {
   "team_code": "ECU",
   "predictions_made": 1,
-  "results_scored": 2,
+  "results_scored": 3,
   "correct_winner": 0,
   "correct_scoreline_pattern": 0,
   "exact_score": 0,
-  "brier_score": 0.326,
+  "brier_score": 0.3278,
   "per_prediction": [
     {
       "fixture_id": "011",
@@ -28,6 +28,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.4298
+    },
+    {
+      "fixture_id": "056",
+      "date": "2026-06-25",
+      "opponent": "GER",
+      "predicted": "0-2",
+      "actual": "2-1",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.3313
     }
   ]
 }

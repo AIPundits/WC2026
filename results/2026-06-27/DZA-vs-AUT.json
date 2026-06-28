@@ -1,0 +1,41 @@
+{
+  "fixture_id": "071",
+  "date": "2026-06-27",
+  "home": "DZA",
+  "away": "AUT",
+  "home_score": 3,
+  "away_score": 3,
+  "ingested_at": "2026-06-28T08:22:37.265980+00:00",
+  "goal_scorers": [
+    {
+      "name": "Marko Arnautovic",
+      "team": "away",
+      "minute": "28'",
+      "type": "Goal"
+    },
+    {
+      "name": "Rafik Belghali",
+      "team": "home",
+      "minute": "45'",
+      "type": "Goal"
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "team": "away",
+      "minute": "55'",
+      "type": "Goal"
+    },
+    {
+      "name": "Riyad Mahrez",
+      "team": "home",
+      "minute": "60'",
+      "type": "Goal"
+    },
+    {
+      "name": "Riyad Mahrez",
+      "team": "home",
+      "minute": "90'+3'",
+      "type": "Goal"
+    }
+  ]
+}

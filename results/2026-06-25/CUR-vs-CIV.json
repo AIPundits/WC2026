@@ -1,0 +1,23 @@
+{
+  "fixture_id": "055",
+  "date": "2026-06-25",
+  "home": "CUR",
+  "away": "CIV",
+  "home_score": 0,
+  "away_score": 2,
+  "ingested_at": "2026-06-25T22:00:24.921503+00:00",
+  "goal_scorers": [
+    {
+      "name": "Nicolas Pépé",
+      "team": "away",
+      "minute": "7'",
+      "type": "Goal"
+    },
+    {
+      "name": "Nicolas Pépé",
+      "team": "away",
+      "minute": "64'",
+      "type": "Goal"
+    }
+  ]
+}

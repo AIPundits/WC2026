@@ -1,0 +1,24 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "071",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.35,
+  "draw_probability": 0.38,
+  "loss_probability": 0.27,
+  "key_factors": [
+    "Algeria's thin attacking record vs organised defences (set-piece dependent)",
+    "Austria's disciplined low-block is the intended approach not a constraint",
+    "both sides have incentive to protect draw \u2014 Austria guaranteed 2nd, Algeria likely 3rd-place qualifier",
+    "Baumgartner absence and yellow cards cap Austria's ceiling but don't eliminate their threat"
+  ],
+  "predicted_scorers": [
+    "Gouiri",
+    "Arnautovic"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:40:57.739073+00:00"
+}

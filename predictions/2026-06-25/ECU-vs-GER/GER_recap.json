@@ -1,0 +1,22 @@
+{
+  "team_code": "GER",
+  "fixture_id": "056",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The Ecuador finishing failure I called \"structural\" turned out to be situational — Angulo found the net (twice, it seems) against the same rotated German backline I acknowledged was a genuine disruption but then largely dismissed. That was the core reasoning error: I treated La Tricolor's conversion problem as a fixed trait and Germany's defensive reshuffle as a minor inconvenience, when in practice those two factors interacted badly — a reshuffled back four facing an Ecuador side with nothing to lose in the group standings is a different proposition than the numbers from their previous two matches suggested. I did flag Páez's availability as a live uncertainty and acknowledged Ecuador's shot-generation capability was real, but I let the headline \"0 goals in 2 matches\" number do too much work in the final call rather than asking why the conversion had failed and whether those conditions would persist. The one scorer listed — Sané — matches neither of my predicted scorers, which is a secondary detail but confirms the Germany I was modelling (Havertz-led, Undav in form) didn't show up either.\n\n```json\n{\n  \"got_right\": [\n    \"Ecuador's shot-generation capability was real — flagged 15 shots on target vs Curaçao as a live mitigant\",\n    \"Schlotterbeck/Brown defensive absences were a genuine disruption, not a non-issue\",\n    \"Páez availability was correctly identified as genuinely uncertain\"\n  ],\n  \"got_wrong\": [\n    \"Treated Ecuador's finishing failure as structural/permanent rather than situational\",\n    \"Underestimated Ecuador's threat level against a rotated, low-motivation Germany side with nothing to prove\",\n    \"Clean sheet prediction was overconfident given the acknowledged defensive reshuffle\",\n    \"Overweighted Germany's attacking depth as a reliable compensator for defensive disruption\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Ecuador's conversion failure as situational rather than structural — asking *why* they hadn't scored (Valencia form, opponents, game state) rather than treating the 0-goals stat as a fixed feature of the team.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T22:01:21.456149+00:00",
+  "got_right": [
+    "Ecuador's shot-generation capability was real — flagged 15 shots on target vs Curaçao as a live mitigant",
+    "Schlotterbeck/Brown defensive absences were a genuine disruption, not a non-issue",
+    "Páez availability was correctly identified as genuinely uncertain"
+  ],
+  "got_wrong": [
+    "Treated Ecuador's finishing failure as structural/permanent rather than situational",
+    "Underestimated Ecuador's threat level against a rotated, low-motivation Germany side with nothing to prove",
+    "Clean sheet prediction was overconfident given the acknowledged defensive reshuffle",
+    "Overweighted Germany's attacking depth as a reliable compensator for defensive disruption"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Ecuador's conversion failure as situational rather than structural — asking *why* they hadn't scored (Valencia form, opponents, game state) rather than treating the 0-goals stat as a fixed feature of the team."
+}

@@ -1,0 +1,24 @@
+{
+  "team_code": "URU",
+  "fixture_id": "064",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.2,
+  "draw_probability": 0.42,
+  "loss_probability": 0.38,
+  "key_factors": [
+    "Scorecard confirms over-predicting Uruguay wins \u2014 both prior actuals were draws, validating this call",
+    "H2H: 50% draw rate across 10 meetings, both WC encounters ended level, 0 Uruguay wins ever",
+    "Spain rotation confirmed \u2014 Zubimendi for Rodri opens midfield space for Valverde",
+    "Spain conservative posture (draw = 1st place) limits attacking ambition through rotation"
+  ],
+  "predicted_scorers": [
+    "Valverde",
+    "Oyarzabal"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:37:40.175640+00:00"
+}

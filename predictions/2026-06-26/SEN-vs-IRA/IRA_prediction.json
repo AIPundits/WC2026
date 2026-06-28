@@ -1,0 +1,24 @@
+{
+  "team_code": "IRA",
+  "fixture_id": "062",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "win_probability": 0.2,
+  "draw_probability": 0.27,
+  "loss_probability": 0.53,
+  "key_factors": [
+    "Sarr in tournament form (2 WC goals) against Iraq's 3.5-goals-conceded-per-game defence",
+    "Dead rubber removes motivation asymmetry \u2014 both sides relaxed and rotating",
+    "Iraq goal most likely from Koulibaly defensive error, not attacking quality",
+    "Hussein doubtful caps Iraq's attacking ceiling; Al-Hamadi the fallback threat"
+  ],
+  "predicted_scorers": [
+    "Sarr",
+    "Al-Hamadi"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T18:02:00.360389+00:00"
+}

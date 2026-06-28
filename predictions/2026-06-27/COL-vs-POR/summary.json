@@ -1,0 +1,11 @@
+{
+  "fixture_id": "069",
+  "fixture_date": "2026-06-27",
+  "home_code": "COL",
+  "away_code": "POR",
+  "turns": 8,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.4963985000000002,
+  "model": "claude-sonnet-4-6"
+}

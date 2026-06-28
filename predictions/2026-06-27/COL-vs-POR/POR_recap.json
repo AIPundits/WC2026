@@ -1,0 +1,22 @@
+{
+  "team_code": "POR",
+  "fixture_id": "069",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "I called the draw, and the structural reasoning that got me there — Colombia's incentive to defend to protect their group-top position, Portugal's must-win desperation creating open space, and the DR Congo template showing Seleção das Quinas struggle to break compact organised defences — all held up against the actual 0-0. What I got wrong was predicting both sides would score: I had Neves and Díaz on my scoresheet, but neither team found the net, suggesting I over-estimated the attacking output even within a draw scenario. The 0-0 is actually *more* consistent with the structural logic than the 1-1 I called — Colombia defending conservatively and Portugal failing to unlock them is exactly the DR Congo pattern repeating, just without the Congolese counter-attack goal this time. The reasoning was sound; the specific scoreline missed because I didn't fully commit to how defensively resolute Los Cafeteros would be, and how blunt Seleção das Quinas would be against a quality organised block.\n\n```json\n{\n  \"got_right\": [\n    \"Draw was the correct outcome — competing motivations produced a level result\",\n    \"Colombia's incentive to defend and protect group top spot proved decisive\",\n    \"DR Congo template held — Seleção das Quinas unable to break a compact, organised defensive block\",\n    \"Tournament draw rate of 27.3% actively supported by this fixture's incentive structure\"\n  ],\n  \"got_wrong\": [\n    \"Predicted both teams would score — neither did; I over-estimated attacking output within the draw\",\n    \"Neves set-piece threat did not materialise against Colombia's defensive discipline\",\n    \"Díaz counter-attack goal never came — Colombia's conservatism extended to not over-committing forward\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have pushed harder toward a 0-0 prediction rather than defaulting to 1-1, since the full logic of Colombia defending conservatively and Portugal's known inability to break compact blocks pointed to a goalless draw more clearly than I acknowledged.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:45:31.749468+00:00",
+  "got_right": [
+    "Draw was the correct outcome — competing motivations produced a level result",
+    "Colombia's incentive to defend and protect group top spot proved decisive",
+    "DR Congo template held — Seleção das Quinas unable to break a compact, organised defensive block",
+    "Tournament draw rate of 27.3% actively supported by this fixture's incentive structure"
+  ],
+  "got_wrong": [
+    "Predicted both teams would score — neither did; I over-estimated attacking output within the draw",
+    "Neves set-piece threat did not materialise against Colombia's defensive discipline",
+    "Díaz counter-attack goal never came — Colombia's conservatism extended to not over-committing forward"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have pushed harder toward a 0-0 prediction rather than defaulting to 1-1, since the full logic of Colombia defending conservatively and Portugal's known inability to break compact blocks pointed to a goalless draw more clearly than I acknowledged."
+}

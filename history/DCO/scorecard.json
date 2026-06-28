@@ -1,11 +1,11 @@
 {
   "team_code": "DCO",
   "predictions_made": 1,
-  "results_scored": 2,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 1,
+  "results_scored": 3,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 2,
   "exact_score": 0,
-  "brier_score": 0.1652,
+  "brier_score": 0.133,
   "per_prediction": [
     {
       "fixture_id": "021",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1082
+    },
+    {
+      "fixture_id": "070",
+      "date": "2026-06-27",
+      "opponent": "UZB",
+      "predicted": "2-0",
+      "actual": "3-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.0686
     }
   ]
 }

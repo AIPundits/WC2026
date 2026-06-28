@@ -1,0 +1,41 @@
+{
+  "fixture_id": "066",
+  "date": "2026-06-26",
+  "home": "NZL",
+  "away": "BEL",
+  "home_score": 1,
+  "away_score": 5,
+  "ingested_at": "2026-06-27T05:01:37.355005+00:00",
+  "goal_scorers": [
+    {
+      "name": "Leandro Trossard",
+      "team": "away",
+      "minute": "28'",
+      "type": "Goal"
+    },
+    {
+      "name": "Leandro Trossard",
+      "team": "away",
+      "minute": "50'",
+      "type": "Goal"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "team": "away",
+      "minute": "66'",
+      "type": "Goal"
+    },
+    {
+      "name": "Elijah Just",
+      "team": "home",
+      "minute": "84'",
+      "type": "Goal"
+    },
+    {
+      "name": "Alexis Saelemaekers",
+      "team": "away",
+      "minute": "90'+4'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "team_code": "PAN",
+  "fixture_id": "068",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "An exact scoreline correct — Los Canaleros 0 – Three Lions 2 — and the reasoning that got there was largely sound rather than fortunate: Panama's zero-goal tournament record was the primary signal, and it held; England's quality advantage through rotation was real and decisive; and the base-rate argument for 2-0 as the most likely one-sided scoreline proved correct. What I got wrong is harder to pin down given the exact result, but I had priced the draw at 20% partly out of caution about England's rotation disrupting their combinations — in reality, even a rotated Three Lions side had no trouble breaking through, which suggests I slightly over-weighted the deep-block risk Panama posed. The one thing I'd change: I should have reached the 0-2 call earlier and with higher confidence — the Panama goal-scoring evidence was already definitive after Round 2, and I spent too much of the debate hedging around whether they might nick one.\n\n```json\n{\n  \"got_right\": [\"Panama would score 0 goals — consistent with 0-goal tournament record\", \"England quality advantage persists through rotation\", \"2-0 as the correct profile for a one-sided contest — tournament base rates confirmed\", \"Reece James absence and rotation did not meaningfully reduce England's ceiling against this opposition\"],\n  \"got_wrong\": [\"Slightly over-priced the draw by treating England's Ghana 0-0 as a meaningful Panama precedent — Panama were less capable of replicating Ghana's disruptive block\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I should have reached higher confidence on the England win earlier — the Panama 0-goal evidence was already definitive after Round 2 and didn't need further hedging.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:44:42.096402+00:00",
+  "got_right": [
+    "Panama would score 0 goals — consistent with 0-goal tournament record",
+    "England quality advantage persists through rotation",
+    "2-0 as the correct profile for a one-sided contest — tournament base rates confirmed",
+    "Reece James absence and rotation did not meaningfully reduce England's ceiling against this opposition"
+  ],
+  "got_wrong": [
+    "Slightly over-priced the draw by treating England's Ghana 0-0 as a meaningful Panama precedent — Panama were less capable of replicating Ghana's disruptive block"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I should have reached higher confidence on the England win earlier — the Panama 0-goal evidence was already definitive after Round 2 and didn't need further hedging."
+}

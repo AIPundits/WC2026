@@ -1,0 +1,23 @@
+{
+  "team_code": "GHA",
+  "fixture_id": "067",
+  "predicted_from_perspective": "0-0 (draw)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The result stings, and the Vatreni pundit's best argument was the right one: Croatia's must-win urgency, combined with their set-piece and crossing route, was the mechanism that undid Ghana's defensive block. I correctly identified Williams as a counter-attacking threat — Ghana did score, vindicating that argument — and I was right that Partey's fitness concern was a genuine structural weakness. But I anchored too heavily on Ghana's clean-sheet record against England and didn't adequately account for the fact that a desperate Croatia side would sustain attacking pressure at a level and intensity England simply didn't need to reach. My 0-0 prediction under-estimated both teams' goals — Ghana scored the counter I half-predicted but abandoned in my final scoreline, and Croatia scored twice through exactly the crossing and set-piece routes I acknowledged but failed to price correctly.\n\nThe one thing I'd change: I should have stayed with **Black Stars 1 – Croatia 1** as my scoreline rather than retreating to 0-0. The Vatreni pundit's counter to my 1-1 scenario — that a deep-block team limits its own counter opportunities — was clever but ultimately wrong. Ghana scored on the break, just as the 1-1 framing predicted. I talked myself out of the correct mechanism.\n\n```json\n{\n  \"got_right\": [\n    \"Williams as a counter-attack threat — Ghana did score on the break\",\n    \"Partey fitness concern weakening Ghana's midfield structure\",\n    \"Croatia's crossing and set-piece route as a genuine threat mechanism\",\n    \"Motivation asymmetry creating sustained Croatia pressure across 90 minutes\"\n  ],\n  \"got_wrong\": [\n    \"Predicted 0-0 — both teams scored, result had 3 goals\",\n    \"Over-anchored on Ghana's clean-sheet record vs England as predictive of this match\",\n    \"Retreated from 1-1 scoreline based on a flawed 'deep block limits counter' argument\",\n    \"Under-estimated Croatia's ability to score twice against a compact Ghana defensive block\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should not have abandoned the Black Stars 1–Croatia 1 scoreline in response to the Vatreni pundit's deep-block counter argument — Ghana scoring on the break was always the most plausible Ghana goal mechanism, and I incorrectly talked myself out of it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:43:47.651167+00:00",
+  "got_right": [
+    "Williams as a counter-attack threat — Ghana did score on the break",
+    "Partey fitness concern weakening Ghana's midfield structure",
+    "Croatia's crossing and set-piece route as a genuine threat mechanism",
+    "Motivation asymmetry creating sustained Croatia pressure across 90 minutes"
+  ],
+  "got_wrong": [
+    "Predicted 0-0 — both teams scored, result had 3 goals",
+    "Over-anchored on Ghana's clean-sheet record vs England as predictive of this match",
+    "Retreated from 1-1 scoreline based on a flawed 'deep block limits counter' argument",
+    "Under-estimated Croatia's ability to score twice against a compact Ghana defensive block"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should not have abandoned the Black Stars 1–Croatia 1 scoreline in response to the Vatreni pundit's deep-block counter argument — Ghana scoring on the break was always the most plausible Ghana goal mechanism, and I incorrectly talked myself out of it."
+}

@@ -1,0 +1,22 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "061",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-4 (loss)",
+  "narrative": "I got the big structural call right — France winning comfortably against a rotated Norway side without Haaland, and Norway's attack failing to generate meaningful threat. What I got badly wrong was France's attacking ceiling: I argued both sides rotating would suppress France's output and capped them at 2, but Dembélé — not Mbappé, whom I named as the predicted scorer — had other ideas entirely, bagging a hat-trick in a 4-goal showing that made my \"blowout concern\" look like a polite understatement. Aasgaard getting one back for The Lions actually shows the rotated Norway side had a little more cutting edge than I credited, but against a four-goal France that barely registers.\n\n```json\n{\n  \"got_right\": [\n    \"France winning clearly — result direction correct\",\n    \"Norway's rotated attack without Haaland unable to sustain meaningful goal threat\",\n    \"France's attacking intent remained high despite group position security\"\n  ],\n  \"got_wrong\": [\n    \"Capped France at 2 goals — they scored 4, Dembélé hat-trick\",\n    \"Named Mbappé as predicted scorer — it was Dembélé who decided the game\",\n    \"Argued rotation would suppress France's output — it clearly did not\",\n    \"Predicted Norway 0 — Aasgaard scored, so rotated Lions had more edge than I credited\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have trusted the 'blowout possible' caveat more — France's attack-minded rotation (Dembélé starting in full flow) warranted a 1-4 or 0-3 prediction rather than a conservative 0-2 ceiling built on an assumption that France would manage minutes rather than go for it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T21:01:20.787002+00:00",
+  "got_right": [
+    "France winning clearly — result direction correct",
+    "Norway's rotated attack without Haaland unable to sustain meaningful goal threat",
+    "France's attacking intent remained high despite group position security"
+  ],
+  "got_wrong": [
+    "Capped France at 2 goals — they scored 4, Dembélé hat-trick",
+    "Named Mbappé as predicted scorer — it was Dembélé who decided the game",
+    "Argued rotation would suppress France's output — it clearly did not",
+    "Predicted Norway 0 — Aasgaard scored, so rotated Lions had more edge than I credited"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have trusted the 'blowout possible' caveat more — France's attack-minded rotation (Dembélé starting in full flow) warranted a 1-4 or 0-3 prediction rather than a conservative 0-2 ceiling built on an assumption that France would manage minutes rather than go for it."
+}

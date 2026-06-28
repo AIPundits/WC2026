@@ -1,0 +1,21 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "066",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "5-1 (win)",
+  "narrative": "I got the direction right — the quality gap was real, NZL conceded exactly as their defensive record suggested, and the one NZL goal I'd priced in duly arrived — but I badly capped the ceiling. I cited Lukaku and De Bruyne's fitness as a hard limit on Belgium's output, and De Bruyne went and scored anyway; the Red Devils put five past the All Whites while I was carefully hedging around two. The predicted scorers I named — Lukaku, Doku, Surman — didn't appear on the scoresheet at all, with Trossard's brace and Saelemaekers leading the charge instead, which tells me my attacking model was right in aggregate but wrong in its specific mechanism. Honest verdict: the structural reasoning about NZL's porousness was sound, but I let fitness-concern noise pull the goal tally down by three.\n\n```json\n{\n  \"got_right\": [\n    \"Belgium win — quality gap against a porous NZL side was decisive\",\n    \"NZL conceding multiple goals consistent with their 2.5 goals-per-game rate\",\n    \"NZL scoring once — Elijah Just's goal matched the set-piece vulnerability I flagged\"\n  ],\n  \"got_wrong\": [\n    \"Capped Belgium at 2 goals due to Lukaku and De Bruyne fitness concerns — De Bruyne scored and the team hit five\",\n    \"Predicted scorers (Lukaku, Doku, Surman) were all wrong — Trossard and Saelemaekers led the line\",\n    \"Significantly underestimated Belgium's attacking output once NZL's defensive block collapsed\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would not treat sub-fit squad reports as a hard ceiling on goal output — when the opponent is structurally unable to defend, depth of squad quality fills the gap and fitness noise becomes much less predictive of the final scoreline.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T05:02:19.098649+00:00",
+  "got_right": [
+    "Belgium win — quality gap against a porous NZL side was decisive",
+    "NZL conceding multiple goals consistent with their 2.5 goals-per-game rate",
+    "NZL scoring once — Elijah Just's goal matched the set-piece vulnerability I flagged"
+  ],
+  "got_wrong": [
+    "Capped Belgium at 2 goals due to Lukaku and De Bruyne fitness concerns — De Bruyne scored and the team hit five",
+    "Predicted scorers (Lukaku, Doku, Surman) were all wrong — Trossard and Saelemaekers led the line",
+    "Significantly underestimated Belgium's attacking output once NZL's defensive block collapsed"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would not treat sub-fit squad reports as a hard ceiling on goal output — when the opponent is structurally unable to defend, depth of squad quality fills the gap and fitness noise becomes much less predictive of the final scoreline."
+}

@@ -1,0 +1,23 @@
+{
+  "fixture_id": "058",
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_score": 1,
+  "away_score": 3,
+  "ingested_at": "2026-06-26T00:55:48.376203+00:00",
+  "goal_scorers": [
+    {
+      "name": "Ellyes Skhiri",
+      "team": "away",
+      "minute": "3'",
+      "type": "Own Goal"
+    },
+    {
+      "name": "Brian Brobbey",
+      "team": "away",
+      "minute": "7'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "fixture_id": "072",
+  "fixture_date": "2026-06-27",
+  "home_code": "JOR",
+  "away_code": "ARG",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.0088575499999999,
+  "model": "claude-sonnet-4-6"
+}

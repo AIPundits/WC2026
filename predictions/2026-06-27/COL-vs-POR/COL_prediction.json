@@ -1,0 +1,24 @@
+{
+  "team_code": "COL",
+  "fixture_id": "069",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.32,
+  "draw_probability": 0.38,
+  "loss_probability": 0.3,
+  "key_factors": [
+    "Colombia over-predicting goals pattern \u2014 calibration supports lower-scoring outcome",
+    "Competing motivations actively support draw \u2014 Colombia defend top spot, Portugal push but Dias punishes space",
+    "Neves set-piece threat established tournament evidence vs compact blocks",
+    "R\u00faben Dias limits Colombia second-goal opportunity on counter"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz",
+    "Neves"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:31:22.598991+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "072",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.72,
+  "draw_probability": 0.19,
+  "loss_probability": 0.09,
+  "key_factors": [
+    "Messi benched removes Argentina's only tournament scorer",
+    "\u00c1lvarez first start \u2014 motivated and dangerous in the channels",
+    "Jordan scored in every WC match, Olwan consistently clinical",
+    "Argentina structural quality gap sufficient to win despite rotation"
+  ],
+  "predicted_scorers": [
+    "\u00c1lvarez",
+    "Olwan"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:44:29.065683+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "team_code": "JPN",
+  "fixture_id": "057",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "Got the result, and the reasoning chain that got me there holds up — which matters more than the scoreline alone. I correctly identified that Blågult's incentive structure (a point likely enough to progress as a best third-placed side) meant their setup would be compact and defensive, not desperate and open, and that's exactly the Sweden who showed up at AT&T Stadium. The 40% H2H draw rate wasn't decoration — it reflected a genuine tendency for these sides to cancel each other out, and so it proved again. Where I was plainly wrong: I predicted Gyökeres as Sweden's scorer, but it was Elanga who found the net — a reminder that form-based scorer calls are much noisier than result calls, and I shouldn't attach too much confidence to individual scorer predictions when the structural story is already doing the heavy lifting. The one thing I'd revise: I should have arrived at the draw conclusion in my opening statement rather than needing two turns of Swedish pundit argument to get there — the incentive-structure logic was available to me from the briefing, and I initially suppressed it in favour of a more comfortable Japan-win narrative.\n\n```json\n{\n  \"got_right\": [\"Sweden defending for a point — compact shape, not open attacking\", \"Draw outcome correctly identified via incentive structure convergence\", \"40% H2H draw rate as a genuine structural signal, not noise\", \"Yellow card accumulation reducing Japan's attacking risk-taking\"],\n  \"got_wrong\": [\"Predicted Gyökeres as scorer; Elanga scored instead\", \"Initially under-weighted the draw in my opening statement before being corrected\", \"Over-relied on Ueda's form as a Japan win differentiator — he didn't score\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd commit to the draw in the opening statement rather than defaulting to a narrow Japan win, since the incentive-structure and H2H evidence for a draw against Blågult was already fully available in the briefing before the debate began.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T01:01:20.853777+00:00",
+  "got_right": [
+    "Sweden defending for a point — compact shape, not open attacking",
+    "Draw outcome correctly identified via incentive structure convergence",
+    "40% H2H draw rate as a genuine structural signal, not noise",
+    "Yellow card accumulation reducing Japan's attacking risk-taking"
+  ],
+  "got_wrong": [
+    "Predicted Gyökeres as scorer; Elanga scored instead",
+    "Initially under-weighted the draw in my opening statement before being corrected",
+    "Over-relied on Ueda's form as a Japan win differentiator — he didn't score"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd commit to the draw in the opening statement rather than defaulting to a narrow Japan win, since the incentive-structure and H2H evidence for a draw against Blågult was already fully available in the briefing before the debate began."
+}

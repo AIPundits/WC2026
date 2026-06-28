@@ -1,0 +1,21 @@
+{
+  "team_code": "PAR",
+  "fixture_id": "059",
+  "predicted_from_perspective": "0-1 (loss)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "The good news is I got half of this right: I accurately identified that Australia would set up to defend and that Paraguay's attack without Almirón would struggle to unlock them — the Socceroos registered the shutout that confirmed their defensive intent. What I got wrong is the other half: I predicted Irankunda would punish Paraguay on the counter, but the Socceroos' attack was as toothless as their opponents', with the Leckie and Italiano absences doing more damage to their goal threat than I ultimately gave credit for in my final call. I even flagged the 0-0 scenario explicitly in my rebuttal as having \"real legs,\" assigned it non-trivial probability, and then talked myself into the Australian counter-punch anyway — that's the one failure of reasoning discipline here. The 32% draw probability I held was defensible; the mistake was letting the structural Almirón argument override the equally structural evidence that Australia's attacking unit was patched up and misfiring.\n\n```json\n{\n  \"got_right\": [\n    \"Australia's defensive organization and intent to hold a clean sheet\",\n    \"Paraguay's creative limitations without Almirón — still couldn't break the Socceroos block\",\n    \"Low-scoring, tight match correctly anticipated\"\n  ],\n  \"got_wrong\": [\n    \"Overestimated Irankunda's ability to convert counter-attack opportunities into a goal\",\n    \"Underweighted the impact of Leckie and Italiano absences on Australia's attacking output\",\n    \"Talked myself out of the 0-0 scenario despite flagging it as a credible outcome in the rebuttal\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have held the 0-0 draw prediction rather than overriding it — the Socceroos' blunted attacking unit (Leckie, Italiano both out) was sufficient evidence that their counter-attack threat would not materialise into a goal, and I named that risk explicitly then ignored it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T04:01:35.842377+00:00",
+  "got_right": [
+    "Australia's defensive organization and intent to hold a clean sheet",
+    "Paraguay's creative limitations without Almirón — still couldn't break the Socceroos block",
+    "Low-scoring, tight match correctly anticipated"
+  ],
+  "got_wrong": [
+    "Overestimated Irankunda's ability to convert counter-attack opportunities into a goal",
+    "Underweighted the impact of Leckie and Italiano absences on Australia's attacking output",
+    "Talked myself out of the 0-0 scenario despite flagging it as a credible outcome in the rebuttal"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have held the 0-0 draw prediction rather than overriding it — the Socceroos' blunted attacking unit (Leckie, Italiano both out) was sufficient evidence that their counter-attack threat would not materialise into a goal, and I named that risk explicitly then ignored it."
+}

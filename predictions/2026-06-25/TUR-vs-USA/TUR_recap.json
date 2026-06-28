@@ -1,0 +1,22 @@
+{
+  "team_code": "TUR",
+  "fixture_id": "060",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "3-2 (win)",
+  "narrative": "I got the USA goal tally right — Stars and Stripes did score twice, exactly as I predicted — and Güler did find the net as I named him as an expected scorer. But the core of my pre-match case against Turkey was that their conversion crisis was *structural*, and Stars and Stripes at 3-2 down with a rotated back four proved that diagnosis was entirely context-dependent: Turkey didn't suddenly fix their technique, they faced a Stars and Stripes defensive unit that was visibly vulnerable in ways a full-strength USA side isn't. I weighted the rotation entirely on the attacking side (Pulisic, Balogun), and almost none of it on Stars and Stripes' exposed backline — Trusty's own opening goal was a symptom, not a footnote. The H2H pattern I leaned on (2-1 USA in both previous meetings) was real data, but it concerned a different Stars and Stripes lineup with different defensive cohesion, and I anchored to it too heavily.\n\n```json\n{\n  \"got_right\": [\n    \"USA scoring 2 goals — Stars and Stripes attack still functional despite rotation\",\n    \"Güler scoring — correctly identified him as Turkey's most likely contributor\",\n    \"Stars and Stripes rotation was genuine and significant, not cosmetic\"\n  ],\n  \"got_wrong\": [\n    \"Turkey's conversion crisis framed as structural — it was opponent-dependent, Stars and Stripes' rotated defense was exploitable\",\n    \"Rotation assessed only on USA attack — failed to weight Stars and Stripes' defensive vulnerability equally\",\n    \"H2H pattern over-anchored — previous 2-1 USA results involved a different Stars and Stripes defensive configuration\",\n    \"Assigned only 23% win probability to Turkey when the evidence for Stars and Stripes' defensive fragility was available\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have audited Stars and Stripes' defensive rotation as carefully as their attacking rotation — the same yellow-card and rest logic that reduced their attack also thinned their back line, and that asymmetry was the single biggest thing I missed.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T04:06:36.174713+00:00",
+  "got_right": [
+    "USA scoring 2 goals — Stars and Stripes attack still functional despite rotation",
+    "Güler scoring — correctly identified him as Turkey's most likely contributor",
+    "Stars and Stripes rotation was genuine and significant, not cosmetic"
+  ],
+  "got_wrong": [
+    "Turkey's conversion crisis framed as structural — it was opponent-dependent, Stars and Stripes' rotated defense was exploitable",
+    "Rotation assessed only on USA attack — failed to weight Stars and Stripes' defensive vulnerability equally",
+    "H2H pattern over-anchored — previous 2-1 USA results involved a different Stars and Stripes defensive configuration",
+    "Assigned only 23% win probability to Turkey when the evidence for Stars and Stripes' defensive fragility was available"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have audited Stars and Stripes' defensive rotation as carefully as their attacking rotation — the same yellow-card and rest logic that reduced their attack also thinned their back line, and that asymmetry was the single biggest thing I missed."
+}

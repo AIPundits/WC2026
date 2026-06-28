@@ -1,0 +1,22 @@
+{
+  "team_code": "USA",
+  "fixture_id": "060",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-3 (loss)",
+  "narrative": "The most embarrassing part of this isn't getting the result wrong — it's that I flagged Turkey's 0-goal record as \"the most damning single fact in this group stage\" and used it to anchor my entire case against Ay-Yıldızlılar, when in reality that record reflected *opportunity* (poor tactical setups against them) rather than a structural finishing ceiling. Turkey scored three — including a winner from Kaan Ayhan — and the Paraguay dead-rubber evidence I leaned on so heavily turned out to be the worst possible sample to generalise from. I got Güler on the scoresheet, and I correctly called that a rotated Stars and Stripes side would be vulnerable, but I didn't follow that logic all the way through: a USA missing Balogun, Adams, and Robinson in the same match handed Ay-Yıldızlılar the defensive gaps they needed, and Turkey's attack — Güler, Yıldız, Baris Alper — proved capable of exploiting them when the system wasn't functioning at full strength. I called the score right (2 goals each way, near enough) but completely misjudged which side would be on top at the final whistle.\n\n```json\n{\n  \"got_right\": [\n    \"Güler scoring — identified him as Turkey's most likely threat\",\n    \"USA reaching 2 goals despite rotation — system did generate chances\",\n    \"Match being competitive rather than one-sided\"\n  ],\n  \"got_wrong\": [\n    \"Turkey's 0-goal record was situational, not structural — they scored 3\",\n    \"Rotation impact on USA's defensive shape was more severe than modelled\",\n    \"Over-weighted Paraguay dead-rubber as evidence of Ay-Yıldızlılar's finishing ceiling\",\n    \"Underestimated Turkey's attacking depth — Baris Alper Yilmaz and Ayhan both contributed\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the Turkey 0-goal sample harder — specifically asking whether the Paraguay match was a genuine test of their finishing or just a context where they lacked motivation, and factored in that a rotation-heavy USA backline was a fundamentally different defensive proposition than what Turkey had faced previously.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T04:06:36.176426+00:00",
+  "got_right": [
+    "Güler scoring — identified him as Turkey's most likely threat",
+    "USA reaching 2 goals despite rotation — system did generate chances",
+    "Match being competitive rather than one-sided"
+  ],
+  "got_wrong": [
+    "Turkey's 0-goal record was situational, not structural — they scored 3",
+    "Rotation impact on USA's defensive shape was more severe than modelled",
+    "Over-weighted Paraguay dead-rubber as evidence of Ay-Yıldızlılar's finishing ceiling",
+    "Underestimated Turkey's attacking depth — Baris Alper Yilmaz and Ayhan both contributed"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the Turkey 0-goal sample harder — specifically asking whether the Paraguay match was a genuine test of their finishing or just a context where they lacked motivation, and factored in that a rotation-heavy USA backline was a fundamentally different defensive proposition than what Turkey had faced previously."
+}

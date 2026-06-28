@@ -1,0 +1,17 @@
+{
+  "fixture_id": "064",
+  "date": "2026-06-26",
+  "home": "URU",
+  "away": "ESP",
+  "home_score": 0,
+  "away_score": 1,
+  "ingested_at": "2026-06-27T02:06:25.047152+00:00",
+  "goal_scorers": [
+    {
+      "name": "Álex Baena",
+      "team": "away",
+      "minute": "42'",
+      "type": "Goal"
+    }
+  ]
+}

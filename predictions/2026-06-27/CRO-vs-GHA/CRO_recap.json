@@ -1,0 +1,23 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "067",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "Got the result right and the core reasoning holds, but I have to be honest about the clean sheet: I argued throughout this debate that Ghana wouldn't score — repeatedly citing Croatia's defensive organisation and implying Vatreni would win without conceding — and Ghana scored. The Black Stars pundit warned about transition moments and pace against Croatia's high line, and that threat materialised. Petar Sucic was the match-winner rather than Budimir, which means my set-piece/crossing mechanism was at least partially validated in spirit (Croatia did score from their attacking play), but my specific prediction of the scorer was wrong. The must-win motivation asymmetry was the correct frame — Croatia came at Ghana with the urgency that England didn't have in R2, and that's what separated the teams. The one thing I'd change: I should have priced in a Ghana goal more seriously rather than defending the 1-0 clean-sheet line through five turns of debate, especially when the tournament base rate and the Ghana pundit's transition threat were both pointing toward 2-1 as a plausible outcome.\n\n```json\n{\n  \"got_right\": [\"Croatia win as the most likely outcome\", \"Must-win motivation asymmetry as the decisive tactical frame\", \"Croatia's attacking quality sufficient to break Ghana's defensive block\", \"Set-piece and crossing route as the primary goal-scoring mechanism\"],\n  \"got_wrong\": [\"Predicted a Croatia clean sheet — Ghana scored 1 goal\", \"Predicted Budimir as scorer — actual scorer was Sucic\", \"Under-predicted total goal count (predicted 1, actual was 3)\", \"Dismissed Ghana's counter-attack threat too readily after R2\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I should have backed the 2-1 scoreline rather than defending a clean sheet through multiple turns — the Black Stars pundit's transition threat was grounded in R1/R2 evidence and deserved more credit than I gave it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:43:47.642065+00:00",
+  "got_right": [
+    "Croatia win as the most likely outcome",
+    "Must-win motivation asymmetry as the decisive tactical frame",
+    "Croatia's attacking quality sufficient to break Ghana's defensive block",
+    "Set-piece and crossing route as the primary goal-scoring mechanism"
+  ],
+  "got_wrong": [
+    "Predicted a Croatia clean sheet — Ghana scored 1 goal",
+    "Predicted Budimir as scorer — actual scorer was Sucic",
+    "Under-predicted total goal count (predicted 1, actual was 3)",
+    "Dismissed Ghana's counter-attack threat too readily after R2"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I should have backed the 2-1 scoreline rather than defending a clean sheet through multiple turns — the Black Stars pundit's transition threat was grounded in R1/R2 evidence and deserved more credit than I gave it."
+}

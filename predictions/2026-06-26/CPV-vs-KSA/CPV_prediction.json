@@ -1,0 +1,23 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "063",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "win_probability": 0.5,
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "KSA: 1 goal in 2 tournament games \u2014 attacking record the binding constraint on their chances",
+    "CPV defensive solidity proven vs Spain (2.29 xG, 0 goals) \u2014 Sidny Cabral suspension noted but system holds",
+    "Tournament base rate: 1-0 most common (15%); draw held at 26.7% base rate",
+    "Scorecard calibration: underpredicted goals historically, but KSA-specific attacking limitations justify clean sheet call"
+  ],
+  "predicted_scorers": [
+    "Pina"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:33:54.855396+00:00"
+}

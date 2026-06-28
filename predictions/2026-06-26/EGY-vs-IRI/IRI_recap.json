@@ -1,0 +1,22 @@
+{
+  "team_code": "IRI",
+  "fixture_id": "065",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I predicted Egypt would win 2–1, and instead Team Melli came away with 1–1 — a draw that keeps them alive. The calibration signal from my scorecard was right there in front of me (two missed draws in two predictions), and I still discounted draw sufficiently to call it a loss, which is exactly the error I was warned about. What I got directionally right was the low-scoring, tight nature of this match and Iran's ability to find a goal even when attacking under pressure — what I got wrong was the conviction that Egypt's superior counter quality through Salah and Marmoush would be decisive; neither of them scored, and Mahmoud Saber's equaliser for Egypt and Rezaeian's strike for Iran aren't the players I named at all. The structural argument — that Iran forcing an open game would gift Egypt's forward line — had logic behind it, but the actual quality of those transitions didn't materialise the way I expected, which means I over-weighted Egypt's attacking ceiling and under-weighted Team Melli's capacity to defend reasonably well even while pushed forward.\n\n```json\n{\n  \"got_right\": [\n    \"Match was tight and low-scoring (1-1 rather than high-scoring open game)\",\n    \"Iran found a goal even when forced to push forward — attack improving from deep-sitting Belgium game\",\n    \"Draw probability deserved to be held above tournament baseline given Iran's defensive quality\"\n  ],\n  \"got_wrong\": [\n    \"Egypt's world-class forward line (Salah, Marmoush) did not produce — neither scored\",\n    \"Predicted counter-attack transitions would be decisive for Egypt — they weren't\",\n    \"Called it a loss despite my own scorecard explicitly flagging a pattern of missing draws\",\n    \"Named Taremi as likely scorer — it was Rezaeian who got Iran's goal\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I should have trusted my own scorecard calibration signal more — it told me I was systematically missing draws, and I still let the structural argument about open transitions push my loss probability too high rather than keeping draw as the plurality outcome.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T05:07:11.258290+00:00",
+  "got_right": [
+    "Match was tight and low-scoring (1-1 rather than high-scoring open game)",
+    "Iran found a goal even when forced to push forward — attack improving from deep-sitting Belgium game",
+    "Draw probability deserved to be held above tournament baseline given Iran's defensive quality"
+  ],
+  "got_wrong": [
+    "Egypt's world-class forward line (Salah, Marmoush) did not produce — neither scored",
+    "Predicted counter-attack transitions would be decisive for Egypt — they weren't",
+    "Called it a loss despite my own scorecard explicitly flagging a pattern of missing draws",
+    "Named Taremi as likely scorer — it was Rezaeian who got Iran's goal"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I should have trusted my own scorecard calibration signal more — it told me I was systematically missing draws, and I still let the structural argument about open transitions push my loss probability too high rather than keeping draw as the plurality outcome."
+}

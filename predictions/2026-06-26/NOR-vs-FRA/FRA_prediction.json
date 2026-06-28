@@ -1,0 +1,24 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "061",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.68,
+  "draw_probability": 0.22,
+  "loss_probability": 0.1,
+  "key_factors": [
+    "Haaland benched \u2014 Norway's entire attacking focal point removed",
+    "Norway resting ~10 players; rotated squad structurally outclassed",
+    "Mbapp\u00e9 Golden Boot race (tied at 4 goals) guarantees attacking start against depleted XI",
+    "Tournament calibration: 2-0 favoured for one-sided contests; prior under-prediction corrected upward"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9",
+    "Demb\u00e9l\u00e9"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:27:47.378632+00:00"
+}

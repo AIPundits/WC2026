@@ -1,0 +1,21 @@
+{
+  "team_code": "IRA",
+  "fixture_id": "062",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-5 (loss)",
+  "narrative": "I got the result direction right — a loss was the only defensible call — but a 0–5 scoreline against my predicted 1–2 tells you everything about how badly I misjudged the magnitude. I credited the Lions of Mesopotamia with a goal they never looked like scoring, and I thought Senegal's attack, sharp as it was, would be contained to two; instead Habib Diarra, Sarr, and a brace from Pape Gueye carved Iraq apart in a way that looked less like a competitive World Cup match and more like a training exercise. The one thing I'd change is straightforward: I should have treated the quality gap as a gulf rather than a step, dropped the predicted Iraq goal entirely, and pushed the Senegal tally up to four or five — the underlying data on their attacking output already supported it, and I softened the projection without justification.\n\n```json\n{\n  \"got_right\": [\n    \"predicted a loss for Lions of Mesopotamia\",\n    \"identified Lions of Teranga as the clearly superior side\",\n    \"flagged Senegal's attacking quality as the decisive factor\"\n  ],\n  \"got_wrong\": [\n    \"predicted Lions of Mesopotamia would score — they were shut out 0\",\n    \"predicted Senegal would score only 2 — they scored 5\",\n    \"massively underestimated the margin of defeat (predicted 1-2, actual 0-5)\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have removed the predicted Iraq goal entirely and pushed Senegal's tally to 4–5, reflecting the actual quality gap the data already pointed to rather than softening the scoreline without evidence.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T21:06:31.007757+00:00",
+  "got_right": [
+    "predicted a loss for Lions of Mesopotamia",
+    "identified Lions of Teranga as the clearly superior side",
+    "flagged Senegal's attacking quality as the decisive factor"
+  ],
+  "got_wrong": [
+    "predicted Lions of Mesopotamia would score — they were shut out 0",
+    "predicted Senegal would score only 2 — they scored 5",
+    "massively underestimated the margin of defeat (predicted 1-2, actual 0-5)"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have removed the predicted Iraq goal entirely and pushed Senegal's tally to 4–5, reflecting the actual quality gap the data already pointed to rather than softening the scoreline without evidence."
+}

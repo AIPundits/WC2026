@@ -1,0 +1,24 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "070",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "win_probability": 0.63,
+  "draw_probability": 0.2,
+  "loss_probability": 0.17,
+  "key_factors": [
+    "DCO must-win motivation vs UZB playing for nothing \u2014 decisive incentive gap",
+    "Uzbekistan conceded 8 in 2 games \u2014 weakest defence DCO have faced",
+    "Mpasi and defensive block have outperformed expectations all tournament \u2014 clean sheet plausible",
+    "Wissa and Bakambu face first genuinely vulnerable backline of this campaign"
+  ],
+  "predicted_scorers": [
+    "Wissa",
+    "Bakambu"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:34:59.779550+00:00"
+}

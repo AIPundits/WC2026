@@ -1,0 +1,21 @@
+{
+  "team_code": "GHA",
+  "fixture_id": "067",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 0
+  },
+  "win_probability": 0.22,
+  "draw_probability": 0.43,
+  "loss_probability": 0.35,
+  "key_factors": [
+    "Scorecard calibration: under-predicted draw vs England \u2014 correct adjustment is more draw weight here",
+    "Ghana two clean sheets \u2014 actual tournament evidence outweighs theoretical threats",
+    "Croatia set-piece/crossing threat real but Ghana absorbed comparable threats vs England",
+    "Motivation asymmetry acknowledged \u2014 Croatia urgency is genuine pressure across 90 minutes"
+  ],
+  "predicted_scorers": [],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:22:50.531764+00:00"
+}

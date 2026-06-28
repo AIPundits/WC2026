@@ -1,0 +1,21 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "064",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "Predicted the rotation correctly — Baena started and actually scored the winner, which is a nice irony given I cited him as a rotation risk rather than a match-winner. I also got Spain's defensive shape right: zero goals conceded, clean sheet intact, the back four held exactly as their tournament record suggested. What I got badly wrong was Uruguay's attacking output: I accepted the Valverde-in-space argument too readily and priced in a La Celeste goal that never came, because Spain's defensive structure — even rotated — was simply too solid for a side that, for all their quality, haven't broken through elite compact defences at this tournament. The conservative incentive structure I cited as a reason for Spain not to chase a win turned out not to cap them; they got the goal they needed early and sat on it efficiently.\n\n```json\n{\n  \"got_right\": [\n    \"Spain rotation confirmed — Baena started and proved decisive, scoring the winner\",\n    \"Spain's defensive organisation held — clean sheet preserved, no Uruguay breakthrough\",\n    \"Uruguay's need to attack created exposure that Spain exploited on the counter\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Uruguay would score — they did not; I overpriced Valverde/Núñez threat against a structured back four\",\n    \"Called a draw based on Spain's conservative incentive structure — Spain won without needing to press\",\n    \"Zubimendi concern was overstated; midfield controlled well enough to protect a 1-0 lead\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I should have weighted Spain's clean-sheet run more heavily than the H2H draw rate — a team that hasn't conceded in three group games is telling you something structural about their defensive floor, and I let historical pattern override current-tournament evidence.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T02:06:57.124949+00:00",
+  "got_right": [
+    "Spain rotation confirmed — Baena started and proved decisive, scoring the winner",
+    "Spain's defensive organisation held — clean sheet preserved, no Uruguay breakthrough",
+    "Uruguay's need to attack created exposure that Spain exploited on the counter"
+  ],
+  "got_wrong": [
+    "Predicted Uruguay would score — they did not; I overpriced Valverde/Núñez threat against a structured back four",
+    "Called a draw based on Spain's conservative incentive structure — Spain won without needing to press",
+    "Zubimendi concern was overstated; midfield controlled well enough to protect a 1-0 lead"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I should have weighted Spain's clean-sheet run more heavily than the H2H draw rate — a team that hasn't conceded in three group games is telling you something structural about their defensive floor, and I let historical pattern override current-tournament evidence."
+}

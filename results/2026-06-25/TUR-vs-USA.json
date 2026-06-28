@@ -1,0 +1,41 @@
+{
+  "fixture_id": "060",
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_score": 3,
+  "away_score": 2,
+  "ingested_at": "2026-06-26T04:06:03.117551+00:00",
+  "goal_scorers": [
+    {
+      "name": "Auston Trusty",
+      "team": "away",
+      "minute": "3'",
+      "type": "Goal"
+    },
+    {
+      "name": "Arda Güler",
+      "team": "home",
+      "minute": "10'",
+      "type": "Goal"
+    },
+    {
+      "name": "Baris Alper Yilmaz",
+      "team": "home",
+      "minute": "31'",
+      "type": "Goal"
+    },
+    {
+      "name": "Sebastian Berhalter",
+      "team": "away",
+      "minute": "49'",
+      "type": "Goal"
+    },
+    {
+      "name": "Kaan Ayhan",
+      "team": "home",
+      "minute": "90'+8'",
+      "type": "Goal"
+    }
+  ]
+}

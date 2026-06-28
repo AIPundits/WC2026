@@ -1,0 +1,41 @@
+{
+  "fixture_id": "062",
+  "date": "2026-06-26",
+  "home": "SEN",
+  "away": "IRA",
+  "home_score": 5,
+  "away_score": 0,
+  "ingested_at": "2026-06-26T21:05:47.713826+00:00",
+  "goal_scorers": [
+    {
+      "name": "Habib Diarra",
+      "team": "home",
+      "minute": "4'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "team": "home",
+      "minute": "56'",
+      "type": "Goal"
+    },
+    {
+      "name": "Pape Gueye",
+      "team": "home",
+      "minute": "59'",
+      "type": "Goal"
+    },
+    {
+      "name": "Pape Gueye",
+      "team": "home",
+      "minute": "71'",
+      "type": "Goal"
+    },
+    {
+      "name": "Iliman Ndiaye",
+      "team": "home",
+      "minute": "82'",
+      "type": "Goal"
+    }
+  ]
+}

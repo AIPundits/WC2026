@@ -1,0 +1,23 @@
+{
+  "team_code": "KSA",
+  "fixture_id": "063",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 1
+  },
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
+  "loss_probability": 0.47,
+  "key_factors": [
+    "CPV superior in-tournament form \u2014 Saudi Arabia: 1 goal in 2 games, structurally limited attack",
+    "Tournament base rate: 1-0 most common (15%); draw held at tournament base rate (26.7%)",
+    "Scorecard calibration: draw probability at base rate addresses under-call pattern vs Uruguay",
+    "Lopes Cabral suspension opens Al-Dawsari route but CPV defensive system absorbs one personnel change"
+  ],
+  "predicted_scorers": [
+    "Pina"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:33:54.855980+00:00"
+}

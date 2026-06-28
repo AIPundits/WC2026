@@ -1,0 +1,25 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "066",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.63,
+  "draw_probability": 0.22,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "NZL concede 2.5 goals/game \u2014 structurally different from Egypt and Iran defensive blocks",
+    "Doku return and absence of Beiranvand are the two changes that shift this from Belgium's previous draws",
+    "Lukaku and De Bruyne sub-fit caps Belgium at 2 goals \u2014 fitness evidence holds the ceiling",
+    "Surman set-piece threat targets Ngoy-absent backline \u2014 NZL goal is evidenced, not assumed"
+  ],
+  "predicted_scorers": [
+    "Lukaku",
+    "Doku",
+    "Surman"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:45:26.445741+00:00"
+}

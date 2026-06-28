@@ -1,11 +1,11 @@
 {
   "team_code": "SEN",
   "predictions_made": 1,
-  "results_scored": 2,
-  "correct_winner": 1,
+  "results_scored": 3,
+  "correct_winner": 2,
   "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.1763,
+  "brier_score": 0.1443,
   "per_prediction": [
     {
       "fixture_id": "017",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1305
+    },
+    {
+      "fixture_id": "062",
+      "date": "2026-06-26",
+      "opponent": "IRA",
+      "predicted": "2-1",
+      "actual": "5-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.0803
     }
   ]
 }

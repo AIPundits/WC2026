@@ -1,0 +1,25 @@
+{
+  "team_code": "POR",
+  "fixture_id": "069",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.33,
+  "draw_probability": 0.38,
+  "loss_probability": 0.29,
+  "key_factors": [
+    "Colombia incentivised to defend \u2014 draw secures group top spot",
+    "Portugal must-win forces open play, creating counter-attack space for D\u00edaz",
+    "Neves set-piece threat established tournament evidence vs compact blocks",
+    "R\u00faben Dias return limits Colombia's second-goal opportunity on counter",
+    "Tournament draw rate 27.3% \u2014 competing motivations actively support level result"
+  ],
+  "predicted_scorers": [
+    "Neves",
+    "D\u00edaz"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:31:22.599713+00:00"
+}

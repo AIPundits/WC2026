@@ -1,11 +1,11 @@
 {
   "team_code": "DZA",
   "predictions_made": 1,
-  "results_scored": 2,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 1,
+  "results_scored": 3,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 2,
   "exact_score": 1,
-  "brier_score": 0.1687,
+  "brier_score": 0.1769,
   "per_prediction": [
     {
       "fixture_id": "019",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1153
+    },
+    {
+      "fixture_id": "071",
+      "date": "2026-06-27",
+      "opponent": "AUT",
+      "predicted": "1-1",
+      "actual": "3-3",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1933
     }
   ]
 }

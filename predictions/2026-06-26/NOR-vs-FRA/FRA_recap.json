@@ -1,0 +1,23 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "061",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "4-1 (win)",
+  "narrative": "I called the right result, I called Dembélé as a scorer, and my structural read — Norway's attacking system gutted without Haaland, France with full incentive to attack — proved correct. What I completely missed was the *scale*: Les Bleus scored four, not two, and Dembélé didn't just score, he bagged a hat-trick. My clean-sheet prediction was also wrong; The Lions found a goal through Aasgaard, suggesting that even a rotated, Haaland-less Norway side carries more threat on the counter than my 0.10 loss probability implied. The one thing I'd revise: having explicitly identified this as the largest structural imbalance I'd faced in the tournament, I was too conservative anchoring on a 2-0 scoreline — the tournament calibration note about \"blowout possible if France attack freely\" was right there in my own reasoning, and I should have followed it to a 3-0 or 4-0 projection rather than hedging back to 2-0.\n\n```json\n{\n  \"got_right\": [\n    \"France win — correct result direction\",\n    \"Dembélé named as a predicted scorer (scored a hat-trick)\",\n    \"Norway's attacking system structurally weakened without Haaland\",\n    \"France attacking freely with high intent, as predicted\"\n  ],\n  \"got_wrong\": [\n    \"Scoreline badly underestimated — predicted 2-0, actual 4-1\",\n    \"Predicted clean sheet; Norway scored through Aasgaard\",\n    \"Mbappé named as scorer but did not score; Dembélé took over completely\",\n    \"Underestimated France's attacking ceiling against depleted opposition\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"Having explicitly flagged the largest structural imbalance of the tournament and noted 'blowout possible if France attack freely', I should have committed to a 3-0 or 4-0 scoreline rather than anchoring conservatively at 2-0.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T21:01:20.787764+00:00",
+  "got_right": [
+    "France win — correct result direction",
+    "Dembélé named as a predicted scorer (scored a hat-trick)",
+    "Norway's attacking system structurally weakened without Haaland",
+    "France attacking freely with high intent, as predicted"
+  ],
+  "got_wrong": [
+    "Scoreline badly underestimated — predicted 2-0, actual 4-1",
+    "Predicted clean sheet; Norway scored through Aasgaard",
+    "Mbappé named as scorer but did not score; Dembélé took over completely",
+    "Underestimated France's attacking ceiling against depleted opposition"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "Having explicitly flagged the largest structural imbalance of the tournament and noted 'blowout possible if France attack freely', I should have committed to a 3-0 or 4-0 scoreline rather than anchoring conservatively at 2-0."
+}

@@ -1,0 +1,23 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "067",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "win_probability": 0.44,
+  "draw_probability": 0.33,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Must-win elimination pressure vs Ghana's draw-is-enough \u2014 motivation asymmetry drives the full 90-minute attacking commitment",
+    "Set-piece and crossing route demonstrated vs Panama (Stanisic-Budimir) \u2014 the same mechanism applies here",
+    "Partey fitness compromise weakens Ghana's midfield screen under sustained crossing pressure",
+    "Ghana clean sheets genuine evidence but earned vs England who lacked Croatia's elimination urgency"
+  ],
+  "predicted_scorers": [
+    "Budimir"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T12:22:50.530920+00:00"
+}

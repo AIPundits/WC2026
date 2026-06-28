@@ -1,0 +1,24 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "064",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "win_probability": 0.37,
+  "draw_probability": 0.4,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Spain rotation confirmed \u2014 Zubimendi for Rodri, Yamal limited minutes; quality gap materially compressed",
+    "H2H 50% draw rate across 10 meetings; both WC encounters ended level",
+    "Spain conservative posture \u2014 draw secures 1st place, no incentive for risk",
+    "Scorecard calibration: missed CPV draw (predicted 3-0) in identical motivation scenario \u2014 corrected here"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal",
+    "Valverde"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:37:40.176197+00:00"
+}

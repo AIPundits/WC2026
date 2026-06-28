@@ -1,0 +1,24 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "062",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.6,
+  "draw_probability": 0.22,
+  "loss_probability": 0.18,
+  "key_factors": [
+    "Sarr in tournament form (2 WC goals) against porous Iraq defence",
+    "Iraq 0 shots on target vs France \u2014 attacking ceiling very low",
+    "Mendy OUT \u2014 Diaw carries goalkeeper risk, Koulibaly error could gift Iraq one",
+    "Dead rubber removes motivation asymmetry \u2014 both sides relaxed"
+  ],
+  "predicted_scorers": [
+    "Sarr",
+    "Man\u00e9"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T18:02:00.359436+00:00"
+}

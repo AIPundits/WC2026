@@ -1,11 +1,11 @@
 {
   "team_code": "COL",
   "predictions_made": 1,
-  "results_scored": 2,
-  "correct_winner": 2,
-  "correct_scoreline_pattern": 2,
+  "results_scored": 3,
+  "correct_winner": 3,
+  "correct_scoreline_pattern": 3,
   "exact_score": 0,
-  "brier_score": 0.1475,
+  "brier_score": 0.1624,
   "per_prediction": [
     {
       "fixture_id": "024",
@@ -28,6 +28,17 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.0728
+    },
+    {
+      "fixture_id": "069",
+      "date": "2026-06-27",
+      "opponent": "POR",
+      "predicted": "1-1",
+      "actual": "0-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1923
     }
   ]
 }

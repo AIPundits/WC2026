@@ -1,0 +1,21 @@
+{
+  "team_code": "NED",
+  "fixture_id": "058",
+  "predicted_from_perspective": "3-0 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "I called the result, called the Oranje goal tally, and was broadly right about Tunisia's open-play attacking threat being negligible — but I predicted a clean sheet with conviction, and Les Aigles de Carthage did find the net. My entire defensive analysis was built on the 0.05 xG figure against Japan, and while that correctly indicated Tunisia were not a sustained open-play threat, it didn't rule out a single goal from a set piece, a transitional moment, or — as appears to be the case — a fortunate situation in a 3-goal game where Oranje had already won it. I also named Gakpo and Malen as expected scorers; the listed goals came from Brobbey and an own goal, which means my individual-level reading of who would convert was simply wrong. The clean-sheet call was the one place where I let \"zero open-play threat\" slide into \"zero goals conceded,\" and those are not the same thing.\n\n```json\n{\n  \"got_right\": [\n    \"Oranje winning convincingly — the quality gap with Les Aigles de Carthage was real\",\n    \"Oranje scoring exactly 3 goals — the floor-not-ceiling framing held\",\n    \"Tunisia's open-play attacking threat was negligible — their one goal did not come from sustained pressure\"\n  ],\n  \"got_wrong\": [\n    \"Predicted clean sheet — Les Aigles de Carthage did score, proving even low-xG sides can find one goal\",\n    \"Named Gakpo and Malen as scorers — actual goals came from Brobbey and an own goal\",\n    \"Over-extrapolated from Japan xG data to conclude zero goals conceded was near-certain\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would separate 'low attacking threat' from 'zero goals conceded' — even a Tunisia side with 0.05 xG in one match carries enough residual set-piece and transitional risk to warrant assigning at least 20–25% probability to conceding one goal, which I effectively zeroed out.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T00:56:42.761746+00:00",
+  "got_right": [
+    "Oranje winning convincingly — the quality gap with Les Aigles de Carthage was real",
+    "Oranje scoring exactly 3 goals — the floor-not-ceiling framing held",
+    "Tunisia's open-play attacking threat was negligible — their one goal did not come from sustained pressure"
+  ],
+  "got_wrong": [
+    "Predicted clean sheet — Les Aigles de Carthage did score, proving even low-xG sides can find one goal",
+    "Named Gakpo and Malen as scorers — actual goals came from Brobbey and an own goal",
+    "Over-extrapolated from Japan xG data to conclude zero goals conceded was near-certain"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would separate 'low attacking threat' from 'zero goals conceded' — even a Tunisia side with 0.05 xG in one match carries enough residual set-piece and transitional risk to warrant assigning at least 20–25% probability to conceding one goal, which I effectively zeroed out."
+}

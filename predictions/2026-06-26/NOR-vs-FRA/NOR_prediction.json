@@ -1,0 +1,23 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "061",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "win_probability": 0.14,
+  "draw_probability": 0.26,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "Haaland benched \u2014 Norway's attacking system loses its only world-class threat",
+    "Mbapp\u00e9 Golden Boot race (tied at 4 goals) guarantees attacking intent from France",
+    "Norway ~10 rotations structurally outclassed vs France's first-choice attack",
+    "Tournament calibration: 2-0 favoured for one-sided contests; draw at base rate 0.26"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:27:47.378090+00:00"
+}

@@ -1,11 +1,11 @@
 {
   "team_code": "AUS",
   "predictions_made": 2,
-  "results_scored": 2,
+  "results_scored": 3,
   "correct_winner": 0,
   "correct_scoreline_pattern": 0,
   "exact_score": 0,
-  "brier_score": 0.2836,
+  "brier_score": 0.2642,
   "per_prediction": [
     {
       "fixture_id": "008",
@@ -28,6 +28,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2323
+    },
+    {
+      "fixture_id": "059",
+      "date": "2026-06-25",
+      "opponent": "PAR",
+      "predicted": "1-0",
+      "actual": "0-0",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2253
     }
   ]
 }

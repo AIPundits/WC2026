@@ -1,0 +1,21 @@
+{
+  "team_code": "CUR",
+  "fixture_id": "055",
+  "predicted_from_perspective": "0-1 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "Getting the result direction right is cold comfort when I handed Les Éléphants one goal too few and completely blanked on Pépé as a threat — two goals from him while I was busy writing about Diallo and Adingra is an analytical miss I own fully. My \"modest tournament scoring output\" argument for CIV was structurally fragile: two goals across two games is a sample, not a ceiling, and the simultaneous kickoff I correctly identified as removing their passive-draw incentive meant they attacked with full conviction — and the goals came. The 5-4-1 held CUR to zero (that part was right), but Room couldn't keep a fully committed, transition-hunting Les Éléphants side to a single goal, so my calibration adjustment — useful in direction — wasn't aggressive enough in magnitude. The one genuine blind spot: I built my entire attacking threat model around wide players and never stress-tested what a central striker with Pépé's finishing record does against a compact low block when Les Éléphants are committed to winning.\n\n```json\n{\n  \"got_right\": [\n    \"CUR would not score — the 5-4-1 defensive shape protected our end without offering an attacking outlet\",\n    \"CIV would attack with intent given simultaneous kickoff removing passive draw option\",\n    \"Result direction: a CUR loss was the correct call\"\n  ],\n  \"got_wrong\": [\n    \"Underestimated CIV goal output — called 1, actual was 2\",\n    \"Completely overlooked Pépé as a goal threat, fixated on Adingra and Diallo wide channels\",\n    \"Over-weighted CIV's low tournament scoring average as a ceiling rather than treating it as noise\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have stress-tested the Pépé central-striker threat explicitly — his finishing record in a committed, win-seeking Les Éléphants setup was the factor my analysis ignored entirely.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T22:01:05.403083+00:00",
+  "got_right": [
+    "CUR would not score — the 5-4-1 defensive shape protected our end without offering an attacking outlet",
+    "CIV would attack with intent given simultaneous kickoff removing passive draw option",
+    "Result direction: a CUR loss was the correct call"
+  ],
+  "got_wrong": [
+    "Underestimated CIV goal output — called 1, actual was 2",
+    "Completely overlooked Pépé as a goal threat, fixated on Adingra and Diallo wide channels",
+    "Over-weighted CIV's low tournament scoring average as a ceiling rather than treating it as noise"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have stress-tested the Pépé central-striker threat explicitly — his finishing record in a committed, win-seeking Les Éléphants setup was the factor my analysis ignored entirely."
+}

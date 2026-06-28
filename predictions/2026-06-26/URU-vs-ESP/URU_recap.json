@@ -1,0 +1,21 @@
+{
+  "team_code": "URU",
+  "fixture_id": "064",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "The structural read on this match was partly right and partly badly wrong. I correctly anticipated a low-scoring, tight affair — La Roja did set up conservatively, the rotation did happen, and Álex Baena (who I specifically flagged as entering the lineup for Williams) turned out to be the match-winner. But the most important error was assuming La Celeste could create and convert against even a rotated Spain backline: Bielsa's side were blanked, Valverde never found the space I'd predicted the Zubimendi-for-Rodri swap would open, and the desperation to attack I cited as a draw-creating factor instead left Uruguay exposed to the single decisive break. The H2H had 0 Uruguay wins from 10 meetings staring me in the face — I noted it explicitly and then still predicted a La Celeste goal, which in hindsight was the reasoning error I should have corrected before locking in.\n\n```json\n{\n  \"got_right\": [\n    \"Spain rotation materialised — Baena started and scored, validating the lineup read\",\n    \"Low-scoring, tight game — total goals (1) consistent with cautious Spain setup\",\n    \"Spain conservative posture limited their attacking ambition, keeping it to a single goal\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Valverde would find space through Zubimendi's positional gaps — never materialised\",\n    \"Assumed Uruguay's attacking desperation would produce at least one goal — they were blanked\",\n    \"Drew confidence from H2H draw rate while underweighting the zero Uruguay wins signal\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have treated 'zero Uruguay wins from ten meetings against Spain, across all formats' as a hard ceiling on my La Celeste goal prediction, not just a footnote — that number was the clearest signal in the briefing and I buried it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-27T02:06:57.124065+00:00",
+  "got_right": [
+    "Spain rotation materialised — Baena started and scored, validating the lineup read",
+    "Low-scoring, tight game — total goals (1) consistent with cautious Spain setup",
+    "Spain conservative posture limited their attacking ambition, keeping it to a single goal"
+  ],
+  "got_wrong": [
+    "Predicted Valverde would find space through Zubimendi's positional gaps — never materialised",
+    "Assumed Uruguay's attacking desperation would produce at least one goal — they were blanked",
+    "Drew confidence from H2H draw rate while underweighting the zero Uruguay wins signal"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have treated 'zero Uruguay wins from ten meetings against Spain, across all formats' as a hard ceiling on my La Celeste goal prediction, not just a footnote — that number was the clearest signal in the briefing and I buried it."
+}

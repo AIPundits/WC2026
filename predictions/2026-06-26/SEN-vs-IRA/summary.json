@@ -1,0 +1,11 @@
+{
+  "fixture_id": "062",
+  "fixture_date": "2026-06-26",
+  "home_code": "SEN",
+  "away_code": "IRA",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn JSON parse failure: No ```json fenced block found in turn text",
+  "total_cost_usd": 3.30525855,
+  "model": "claude-sonnet-4-6"
+}

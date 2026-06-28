@@ -1,11 +1,11 @@
 {
   "team_code": "BEL",
   "predictions_made": 1,
-  "results_scored": 2,
-  "correct_winner": 0,
+  "results_scored": 3,
+  "correct_winner": 1,
   "correct_scoreline_pattern": 0,
   "exact_score": 0,
-  "brier_score": 0.2557,
+  "brier_score": 0.1936,
   "per_prediction": [
     {
       "fixture_id": "014",
@@ -28,6 +28,17 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2893
+    },
+    {
+      "fixture_id": "066",
+      "date": "2026-06-26",
+      "opponent": "NZL",
+      "predicted": "2-1",
+      "actual": "5-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.0693
     }
   ]
 }

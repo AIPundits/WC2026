@@ -1,0 +1,21 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "070",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "The direction was right and the reasoning that got there was largely sound: the motivation asymmetry between a must-win Léopards side and an eliminated White Wolves proved decisive, and Uzbekistan's defensive structure was indeed broken open as predicted — 3 goals scored against a side that conceded 8 in 2 games. What I got wrong was the clean sheet: White Wolves did score, exactly as their pundit warned, and I conceded that possibility in the debate but still predicted 2-0 rather than incorporating it into the scoreline. I also under-predicted Léopards' attacking output — 3 goals against Uzbekistan confirms the category-error argument I made about comparing DCO's elite-opposition scoring rate to what they'd produce against this backline, and I should have leaned harder on that logic when choosing the margin.\n\n```json\n{\n  \"got_right\": [\n    \"DCO win — correct direction, correct result\",\n    \"Motivation asymmetry proving decisive\",\n    \"Uzbekistan's defensive structure collapsing under DCO pressure\",\n    \"Wissa and Bakambu as the attacking threat against Uzbekistan's backline\"\n  ],\n  \"got_wrong\": [\n    \"Predicted clean sheet — White Wolves did score, validating opponent's warning\",\n    \"Under-predicted DCO goal tally — scored 3, not 2\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I should have predicted Léopards 3–1 rather than 2–0, trusting my own category-error argument more fully — if DCO's scoring rate vs elite defences was not valid evidence, the logical endpoint was a higher margin, not just a cleaner sheet.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:46:15.495335+00:00",
+  "got_right": [
+    "DCO win — correct direction, correct result",
+    "Motivation asymmetry proving decisive",
+    "Uzbekistan's defensive structure collapsing under DCO pressure",
+    "Wissa and Bakambu as the attacking threat against Uzbekistan's backline"
+  ],
+  "got_wrong": [
+    "Predicted clean sheet — White Wolves did score, validating opponent's warning",
+    "Under-predicted DCO goal tally — scored 3, not 2"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I should have predicted Léopards 3–1 rather than 2–0, trusting my own category-error argument more fully — if DCO's scoring rate vs elite defences was not valid evidence, the logical endpoint was a higher margin, not just a cleaner sheet."
+}

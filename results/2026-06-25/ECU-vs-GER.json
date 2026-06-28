@@ -1,0 +1,23 @@
+{
+  "fixture_id": "056",
+  "date": "2026-06-25",
+  "home": "ECU",
+  "away": "GER",
+  "home_score": 2,
+  "away_score": 1,
+  "ingested_at": "2026-06-25T22:00:26.160107+00:00",
+  "goal_scorers": [
+    {
+      "name": "Leroy Sané",
+      "team": "away",
+      "minute": "2'",
+      "type": "Goal"
+    },
+    {
+      "name": "Nilson Angulo",
+      "team": "home",
+      "minute": "9'",
+      "type": "Goal"
+    }
+  ]
+}

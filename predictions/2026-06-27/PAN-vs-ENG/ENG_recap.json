@@ -1,0 +1,20 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "068",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "Exact scoreline, correct winner, and the two core pillars of the argument held up cleanly: Three Lions had too much quality for Los Canaleros even with rotation, and Panama's 0-goal tournament record proved a reliable guide to their attacking threat — they didn't trouble England at the other end. The calibration adjustment I made in the final turn — bumping draw probability up to the tournament base rate after the Ghana 0-0 lesson — was the right move, and it didn't cost me the call. The one thing I genuinely got wrong in process rather than outcome was starting the debate at 3-1 before self-correcting; my opening scoreline was too goals-heavy before I'd properly weighted the deep-block evidence that the Ghana result had already provided.\n\n```json\n{\n  \"got_right\": [\"Three Lions quality advantage persisted through rotation\", \"Los Canaleros posed no attacking threat — 0 goals in 3 WC matches confirmed\", \"2-0 scoreline matched tournament base rate profile for one-sided contests\", \"Clean sheet — Panama's limited attack never tested Pickford\"],\n  \"got_wrong\": [\"Initial opening prediction of 3-1 was too optimistic on England goal volume before calibration\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have opened with 2-0 rather than 3-1 — my own Ghana evidence was already in the briefing and I should have weighted the deep-block vulnerability from the start rather than correcting mid-debate.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:44:42.098508+00:00",
+  "got_right": [
+    "Three Lions quality advantage persisted through rotation",
+    "Los Canaleros posed no attacking threat — 0 goals in 3 WC matches confirmed",
+    "2-0 scoreline matched tournament base rate profile for one-sided contests",
+    "Clean sheet — Panama's limited attack never tested Pickford"
+  ],
+  "got_wrong": [
+    "Initial opening prediction of 3-1 was too optimistic on England goal volume before calibration"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have opened with 2-0 rather than 3-1 — my own Ghana evidence was already in the briefing and I should have weighted the deep-block vulnerability from the start rather than correcting mid-debate."
+}

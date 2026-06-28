@@ -1,0 +1,20 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "072",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-1 (win)",
+  "narrative": "I got the direction and the broad shape right — La Albiceleste win, Al-Nashama score once, Álvarez as the key Argentine threat — but I capped Argentina at two goals when a rotated side without Messi still found three. The lesson I keep failing to fully absorb is that La Albiceleste's squad depth is deep enough that even a B lineup produces blowout-range output against structurally outclassed opposition, and the tournament base rates told me exactly that (4-1, 5-1, 6-0 have all happened here). I correctly identified Olwan as Al-Nashama's scoring threat and he delivered, which validates the pattern reasoning; what I got wrong was setting the ceiling on Argentina's goals too conservatively given Al-Nashama's record of conceding 2.5 per game. The consistent pattern across all three of my predictions now is clear: I keep landing one goal short of Argentina's actual output.\n\n```json\n{\n  \"got_right\": [\n    \"La Albiceleste win despite heavy rotation and Messi on bench\",\n    \"Al-Nashama score once — Olwan's form was real\",\n    \"Álvarez flagged as key Argentine threat in Messi's absence\"\n  ],\n  \"got_wrong\": [\n    \"Capped Argentina at two goals when three was well within range\",\n    \"Underweighted Al-Nashama's defensive fragility (2.5 conceded per game) as a ceiling-raiser for Argentina's output\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would apply a higher goal ceiling to Argentina against sides conceding 2+ per game, even with a rotated lineup — the tournament base rates explicitly flagged blowouts as realistic and I ignored that signal in favour of a conservative 2-goal call.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T08:47:54.976420+00:00",
+  "got_right": [
+    "La Albiceleste win despite heavy rotation and Messi on bench",
+    "Al-Nashama score once — Olwan's form was real",
+    "Álvarez flagged as key Argentine threat in Messi's absence"
+  ],
+  "got_wrong": [
+    "Capped Argentina at two goals when three was well within range",
+    "Underweighted Al-Nashama's defensive fragility (2.5 conceded per game) as a ceiling-raiser for Argentina's output"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would apply a higher goal ceiling to Argentina against sides conceding 2+ per game, even with a rotated lineup — the tournament base rates explicitly flagged blowouts as realistic and I ignored that signal in favour of a conservative 2-goal call."
+}

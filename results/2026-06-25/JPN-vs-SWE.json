@@ -1,0 +1,23 @@
+{
+  "fixture_id": "057",
+  "date": "2026-06-25",
+  "home": "JPN",
+  "away": "SWE",
+  "home_score": 1,
+  "away_score": 1,
+  "ingested_at": "2026-06-26T01:00:49.217385+00:00",
+  "goal_scorers": [
+    {
+      "name": "Daizen Maeda",
+      "team": "home",
+      "minute": "56'",
+      "type": "Goal"
+    },
+    {
+      "name": "Anthony Elanga",
+      "team": "away",
+      "minute": "62'",
+      "type": "Goal"
+    }
+  ]
+}

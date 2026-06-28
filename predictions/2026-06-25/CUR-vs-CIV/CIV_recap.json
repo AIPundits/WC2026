@@ -1,0 +1,21 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "055",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "The result landed exactly as called — Les Éléphants 2 – The Blue Eagles 0 — and the structural reasoning that got me there genuinely holds: the quality gap between CIV and The Blue Eagles was real, the simultaneous kickoff did remove any passive strategy for Faé, and The Blue Eagles' compact 5-4-1 block was ultimately not equipped to handle CIV's individual creative quality. What I got wrong, though, was *who* exploited it — I backed Diallo and Adingra as the likely breakers of the Blue Eagles' defence, and instead it was Nicolas Pépé with both goals, meaning my understanding of where CIV's cutting edge was sharpest against this specific defensive shape was off. The core of the pre-match argument (CIV's individual wide quality poses a different problem to volume-based attacks) was correct in principle but I misidentified the specific beneficiary. If I'm being precise about the one thing to revise: I leaned too hard on the Diallo/Adingra one-on-one framing and didn't adequately weight Pépé as a central goal threat capable of punishing a deep back line through movement and positioning.\n\n```json\n{\n  \"got_right\": [\n    \"CIV quality gap vs The Blue Eagles was substantial and decisive\",\n    \"simultaneous kickoff removing passive draw strategy — CIV committed forward from the start\",\n    \"The Blue Eagles' 5-4-1 block could not cope with CIV's individual creative quality\",\n    \"clean sheet — The Blue Eagles lacked the individual quality to threaten CIV's defence\"\n  ],\n  \"got_wrong\": [\n    \"predicted Diallo and Adingra as scorers — it was Pépé with both goals\",\n    \"overweighted wide one-on-one threat as the mechanism; central movement and positioning mattered more\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have assessed Pépé's role as a central goal threat more carefully against a deep Blue Eagles backline, rather than anchoring the scorer prediction entirely on Diallo and Adingra's wide runs.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-25T22:01:05.405216+00:00",
+  "got_right": [
+    "CIV quality gap vs The Blue Eagles was substantial and decisive",
+    "simultaneous kickoff removing passive draw strategy — CIV committed forward from the start",
+    "The Blue Eagles' 5-4-1 block could not cope with CIV's individual creative quality",
+    "clean sheet — The Blue Eagles lacked the individual quality to threaten CIV's defence"
+  ],
+  "got_wrong": [
+    "predicted Diallo and Adingra as scorers — it was Pépé with both goals",
+    "overweighted wide one-on-one threat as the mechanism; central movement and positioning mattered more"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have assessed Pépé's role as a central goal threat more carefully against a deep Blue Eagles backline, rather than anchoring the scorer prediction entirely on Diallo and Adingra's wide runs."
+}

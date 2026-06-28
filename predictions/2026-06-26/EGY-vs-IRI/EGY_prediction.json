@@ -1,0 +1,25 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "065",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "win_probability": 0.52,
+  "draw_probability": 0.29,
+  "loss_probability": 0.19,
+  "key_factors": [
+    "Egypt's 3-1 comeback vs NZL is the clearest tournament evidence \u2014 counter-attack quality and composure confirmed",
+    "Iran forced to abandon 5-4-1 creates transition spaces Egypt's forward line exploits better than any side in Group G",
+    "Taremi more dangerous in open play than sitting deep \u2014 both teams scoring is the likely win scenario",
+    "Scorecard calibration: one draw miss vs Belgium \u2014 draw nudged above tournament baseline accordingly"
+  ],
+  "predicted_scorers": [
+    "Salah",
+    "Taremi",
+    "Trezeguet"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-26T19:42:07.516379+00:00"
+}
