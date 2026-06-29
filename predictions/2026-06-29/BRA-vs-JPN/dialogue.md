@@ -2,11 +2,11 @@
 
 **Fixture:** 074 — 2026-06-29 — NRG Stadium, Houston — stage `round_of_32`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.9331
+**Turns:** 6 • **Consensus:** True • **Cost:** $2.0593
 
 ## Turn 1 — Seleção AI Pundit (BRA) — `opening_statement`
 
-Brazil enter this Round of 32 tie in the strongest position of any side at this stage of the tournament: seven goals scored, one conceded across three group matches, back-to-back 3-0 wins with Vinícius and Cunha in form, and clean defensive slates all round. Japan are unbeaten, yes — but their injury list is the most severe at this tournament: Endo (the defensive midfield pivot), Minamino, and Mitoma all confirmed out, with Kubo doubtful too. Without Endo anchoring the press, the 3-4-2-1 system Japan have built their tournament on loses its structural spine exactly when Brazil's fluid attacking movement punishes midfield gaps most severely. The October 2025 friendly comeback is the psychological reference Japan will lean on, but competitive H2H is categorically different — Brazil have never lost to Japan in a competitive fixture across 13 meetings, and that win came against a full-strength Brazil squad this one is not. Tournament base rates tell me 1-0 is the most common single result and 2-0 is well-represented; the blowout frequency (4-1, 5-1 both in the distribution) also rises when one side is structurally outclassed. My opening call is **Seleção 2 – Japan 0** — Brazil's defensive solidity nullifies a depleted Japanese counter-attack, and two goals from the Vinícius/Cunha axis is well within their recent rhythm.
+I have both briefings from this session. Brazil enter this Round of 32 fixture with genuine momentum: W2 D1 in the group stage, seven goals scored and only one conceded — the best defensive return among Group C sides — with back-to-back 3-0 wins demonstrating both clinical finishing and structural solidity. Japan arrive unbeaten but significantly depleted: Endo, Minamino, and Mitoma are all out for the tournament, and Kubo is doubtful — that's their captain, their most mobile forward, and their primary left-wing threat all absent simultaneously. The structural problem for Japan is specific: without Endo anchoring the midfield press, the 3-4-2-1 shape that compressed space effectively against Netherlands and Sweden loses its defensive pivot at exactly the moment Brazil's movement and width (Vinícius, Cunha, Endrick) will test it most relentlessly. Tournament base rates say 1-0 is the single most common result and 2-0 is well-represented (8.3%); blowouts are also in the distribution when sides are outclassed — the 3-1 scoreline (11.1%) is the tournament's second most frequent. My opening call is **Seleção 2 – Japan 0**: Brazil's defensive record and Japan's depleted attack make a clean sheet plausible, two goals from the Vinícius/Cunha axis is within their demonstrated rhythm.
 
 ```json
 {
@@ -18,10 +18,10 @@ Brazil enter this Round of 32 tie in the strongest position of any side at this 
   "draw_probability": 0.25,
   "loss_probability": 0.13,
   "key_factors": [
-    "Japan's injury losses (Endo, Minamino, Mitoma) structurally weaken their midfield and attack",
-    "Brazil conceded just once in group stage — defensive solidity is tournament evidence, not projection",
-    "Vinícius and Cunha in form — Japan's depleted defensive midfield creates exploit spaces",
-    "Competitive H2H: Brazil unbeaten vs Japan in all 13 competitive meetings"
+    "Japan missing Endo, Minamino, Mitoma — structural midfield and attacking depletion",
+    "Brazil conceded once in group stage — tournament defensive evidence is strong",
+    "Vinícius and Cunha in form — Brazil's attacking rhythm well-established",
+    "Competitive H2H: Brazil unbeaten vs Japan in 13 competitive meetings"
   ],
   "predicted_scorers": ["Vinícius", "Cunha"],
   "confidence": "medium"
@@ -30,52 +30,9 @@ Brazil enter this Round of 32 tie in the strongest position of any side at this 
 
 ## Turn 2 — Samurai Blue AI Pundit (JPN) — `opening_statement`
 
-Both briefings are in hand. The picture is stark but not hopeless. Japan arrive at this knockout fixture unbeaten but heavily depleted — Endo, Minamino, and Mitoma all confirmed out, Kubo doubtful — and Brazil have conceded just one goal in three tournament matches, with six scored across their last two outings. The loss of Endo is the structural problem the Brazil pundit will hammer, and they're right to: without the defensive midfield pivot anchoring Japan's press, Vinicius and Cunha will find more of the transition space that Japan typically closes off. The October 2025 friendly comeback (from 0-2 down to win 3-2) is real evidence that Japan can hurt this Brazil side, and their 7 goals scored in the group stage matches Brazil's 7 — the attacking capacity is there even without the injured stars. But the tournament base rates are clear that 1-0 and 2-0 are the most likely results in a lopsided knockout; blowouts also occur when sides are structurally outclassed, and I have to be honest: Japan are underdogs here.
+I have both briefings from this session already. The data hasn't changed: Japan are the underdogs here and I won't dress that up. Samurai Blue arrive unbeaten in the group stage (W1 D2, 7 goals, 3 conceded) but are the most injury-depleted side remaining in the tournament — Endo, Minamino, and Mitoma all confirmed out, Kubo doubtful — and that injury list isn't peripheral personnel, it's the captain and defensive pivot, the most mobile forward, and the primary wide threat. Brazil, meanwhile, conceded once in three group matches, with back-to-back 3-0 wins and Vinicius operating in the form of his career. The single most important factor is structural: without Endo anchoring the midfield press, Japan's 3-4-2-1 loses its defensive spine at precisely the moment Brazil's fluid three-man attack (Vinicius, Cunha, Endrick) will probe the transition spaces most aggressively. The October 2025 friendly win is real evidence Japan can hurt Brazil — but that was a different, less defensively organised Brazilian side, and the base rates say 1-0 is the tournament's most common result when one side is clearly stronger.
 
-My opening call: Japan's defensive discipline can hold Brazil for long stretches and Ueda's form gives a realistic threat on the counter, but Brazil's quality ultimately tells. **Samurai Blue 1 – Seleção 2**, low confidence.
-
-```json
-{
-  "predicted_score": { "self": 1, "opponent": 2 },
-  "goes_to_extra_time": false,
-  "predicted_score_aet": null,
-  "penalty_winner": null,
-  "win_probability": 0.22,
-  "draw_probability": 0.25,
-  "loss_probability": 0.53,
-  "key_factors": ["Endo absence removes Japan's defensive midfield spine — structural vulnerability vs Brazil's movement", "Brazil conceded just 1 goal in group stage; Japan's depleted attack faces their best defense", "October 2025 friendly win shows Japan can hurt Brazil; Ueda's form is a genuine counter-attack threat", "Tournament base rates: 1-0 most common single result; blowouts possible when sides are outclassed"],
-  "predicted_scorers": ["Ueda", "Vinicius", "Cunha"],
-  "confidence": "low"
-}
-```
-
-## Turn 3 — Seleção AI Pundit (BRA) — `rebuttal`
-
-The Japan pundit and I are closer than we are apart — both calling a Brazil win — but their Ueda-counter-attack argument deserves a direct response. Japan scored 7 goals in the group stage, true, but four came against Tunisia; against the two European sides with actual defensive structure (Netherlands, Sweden), they scored three across 180 minutes. Minamino and Mitoma — both out — were integral to those attacking patterns, and the burden now falls on Ueda operating largely alone at the top of a 3-4-2-1 without the runners behind him. Brazil's backline has conceded once in this tournament, and that was a lob by Saibari in a moment of individual brilliance, not a structural breakdown — Marquinhos and Gabriel have been commanding, and Alisson behind them is a sweeper-keeper who reads counter-attacks exactly like the one Japan would need to execute. The October 2025 friendly is the one data point Japan can lean on, but it was played against a Brazil side that conceded three — a side considerably less defensively organised than the one Ancelotti has built here. I'm holding **Seleção 2 – Japan 0**.
-
-```json
-{
-  "predicted_score": { "self": 2, "opponent": 0 },
-  "goes_to_extra_time": false,
-  "predicted_score_aet": null,
-  "penalty_winner": null,
-  "win_probability": 0.62,
-  "draw_probability": 0.25,
-  "loss_probability": 0.13,
-  "key_factors": [
-    "Japan's group stage goals heavily skewed by Tunisia (4-0) — real scoring rate vs organised defence is lower",
-    "Minamino and Mitoma absences remove the runners that make Ueda's counter-attack threat viable",
-    "Brazil's one concession in the tournament was individual brilliance, not a defensive structural flaw",
-    "Ancelotti's defensive shape + Alisson's sweeping is built for exactly the counter Japan would need"
-  ],
-  "predicted_scorers": ["Vinícius", "Cunha"],
-  "confidence": "medium"
-}
-```
-
-## Turn 4 — Samurai Blue AI Pundit (JPN) — `rebuttal`
-
-The Tunisia goal decomposition is the strongest point the Brazil pundit has made, and I'll take it squarely: 3 goals against organised defenses in 180 minutes (Netherlands, Sweden) is a more honest read of Japan's attacking ceiling than the raw 7-in-3 figure, and with Minamino and Mitoma absent as runners, Ueda doesn't have the support structure that made those counter-attacks function. The point about Alisson as a sweeper-keeper specifically built for exactly the counter Japan needs is also well-taken — that's a tactical specificity I wasn't weighting enough. Where I'd push back: Japan drew 2-2 with Netherlands, who then beat Sweden 5-1, so their attacking quality against a top European side isn't negligible, and Kamada and Doan can carry the ball into dangerous areas independently. But the Brazil pundit has genuinely moved me on Japan's scoring chances — I'm narrowing the gap toward a clean sheet for Brazil being more likely, and nudging loss probability upward.
+Samurai Blue can score — Ueda's form, Kamada and Doan as independent carriers — but Brazil are clear favourites and I won't predict otherwise. **Samurai Blue 1 – Seleção 2**, low confidence on the scoreline, medium confidence that Brazil win.
 
 ```json
 {
@@ -84,17 +41,17 @@ The Tunisia goal decomposition is the strongest point the Brazil pundit has made
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.20,
-  "draw_probability": 0.24,
-  "loss_probability": 0.56,
-  "key_factors": ["Japan's adjusted scoring rate vs organised defenses: 3 goals in 180 min (Netherlands, Sweden)", "Minamino and Mitoma absent — runners that made Ueda's counter viable are gone", "Alisson as sweeper-keeper specifically counters Japan's transition game", "Kamada and Doan retain independent ball-carrying threat even without full squad"],
+  "draw_probability": 0.25,
+  "loss_probability": 0.55,
+  "key_factors": ["Endo absence removes defensive midfield spine — structural vulnerability to Brazil's movement", "Brazil conceded once in group stage; strongest defensive record Japan have faced in this tournament", "Japan's adjusted scoring rate vs organised defenses: 3 goals in 180 min (Netherlands, Sweden)", "Ueda form and Kamada/Doan as independent threats keep a Japan goal viable despite depleted squad"],
   "predicted_scorers": ["Ueda", "Vinicius", "Cunha"],
   "confidence": "low"
 }
 ```
 
-## Turn 5 — Seleção AI Pundit (BRA) — `final_prediction`
+## Turn 3 — Seleção AI Pundit (BRA) — `rebuttal`
 
-My scorecard gives me a clear calibration instruction: across three matches, I've twice awarded the weaker opponent a goal they didn't score (Scotland, predicted 2-1, actual 3-0) and once correctly predicted a clean sheet (Haiti). The pattern says I have a residual tendency to gift opposition sides a consolation that isn't earned by the data — and the Japan pundit, despite arguing well for Kamada and Doan as independent threats, has themselves conceded that without Minamino and Mitoma as runners, Japan's real scoring rate against organised defences is three goals in 180 minutes, not seven. Brazil's defensive record in this tournament — Marquinhos, Gabriel, Alisson, one goal conceded — is the single most important tournament-evidence fact on the board, and Japan's depleted forward line is the worst attacking unit they've faced. My calibration adjustment is to hold the clean-sheet prediction rather than flinch from it: the Scotland lesson says I was too generous there, and the evidence here supports the same conclusion. My final call is **Seleção 2 – Japan 0**. Predicted scorers: Vinícius, Cunha.
+The Japan pundit has been admirably honest about the underdogs situation, and the 3-goals-in-180-minutes-vs-organised-defences calibration is the strongest argument for Japan scoring — I've already conceded that point is well-taken. But I want to push back on Ueda specifically: he's a capable striker, but his effectiveness in this Japan system depends on runners either side of him creating the width to open defensive lines, and those runners are Minamino and Mitoma — both absent. Kamada and Doan are ball-carriers rather than pure movement threats; they'll find Brazil's defensive shape more compact to break down than Sweden or Netherlands's. The core disagreement between us is simply whether Japan convert one of their limited opportunities, and Brazil's defensive record — one goal conceded, the best in the tournament — is the most direct evidence I can point to that says they won't. I'm holding **Seleção 2 – Japan 0**.
 
 ```json
 {
@@ -106,10 +63,53 @@ My scorecard gives me a clear calibration instruction: across three matches, I'v
   "draw_probability": 0.25,
   "loss_probability": 0.13,
   "key_factors": [
-    "Brazil conceded once in 3 group matches — tournament defensive evidence, not projection",
-    "Japan's adjusted scoring rate vs organised defences: 3 goals in 180 min without Minamino/Mitoma",
-    "Scorecard pattern: I've over-gifted opponent goals in previous predictions — calibrating to clean sheet",
-    "H2H in competitive fixtures: Brazil unbeaten vs Japan across 13 meetings"
+    "Ueda's effectiveness depends on wide runners (Minamino, Mitoma) who are both absent",
+    "Kamada and Doan are carriers, not pure movement threats — less dangerous against Brazil's shape",
+    "Brazil's 1-goal-conceded record is the strongest single predictive fact in this fixture",
+    "Japan's adjusted scoring rate vs organised defences: 3 goals in 180 min, now without key attackers"
+  ],
+  "predicted_scorers": ["Vinícius", "Cunha"],
+  "confidence": "medium"
+}
+```
+
+## Turn 4 — Samurai Blue AI Pundit (JPN) — `rebuttal`
+
+The Ueda-without-runners argument is the Brazil pundit's sharpest tactical point and I'll give it its due — the width that Minamino and Mitoma provide is real and absent. But "carrier rather than movement threat" undersells Kamada specifically: he scored against Netherlands from central areas in this tournament, and Brazil's one concession came from Morocco's Saibari also operating in a central counter-attack pocket rather than wide. The evidence that organised, compact sides can still find a goal against this Brazil backline in limited circumstances — not through sustained pressure, but through a single quality moment — is tournament-proven, not invented. I'm not moving from my scoreline because the base case for Japan getting one goal from individual quality (Kamada, Ueda) remains plausible even without the wide runners.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.20,
+  "draw_probability": 0.25,
+  "loss_probability": 0.55,
+  "key_factors": ["Endo absence removes midfield defensive spine — primary structural vulnerability", "Brazil conceded once in group stage but Morocco's goal shows a quality moment can find them", "Kamada tournament goal (vs Netherlands) demonstrates central individual threat even without wide runners", "Ueda's runner-dependency is real but individual quality goals happen in knockout football"],
+  "predicted_scorers": ["Ueda", "Kamada", "Vinicius"],
+  "confidence": "low"
+}
+```
+
+## Turn 5 — Seleção AI Pundit (BRA) — `final_prediction`
+
+My scorecard confirms the relevant pattern: I correctly predicted a clean sheet when I committed to one (Haiti, exact 3-0), and the one time I awarded an opponent a goal they didn't earn (Scotland, predicted 2-1, actual 3-0) was a mistake driven by over-speculating about "desperation attack" creating chances. The Japan pundit's Kamada point is the strongest argument against my 2-0 call — he genuinely scored from central areas against Netherlands — but that Netherlands defensive structure is materially different from Ancelotti's disciplined 4-2-3-1 with Casemiro and Guimarães shielding, and Kamada without Minamino or Mitoma pulling defenders wide has considerably less space to operate in. The Morocco concession is noted but it was a set-piece lob by Saibari — a moment of individual brilliance against a transitional defensive shape — rather than evidence of a structural Ancelotti backline weakness. My calibration adjustment is to stay the course on the clean sheet: the Scottish precedent says I was too generous there, and the evidence here is if anything cleaner than it was vs Scotland. My final call is **Seleção 2 – Japan 0**. Predicted scorers: Vinícius, Cunha.
+
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 0 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.62,
+  "draw_probability": 0.25,
+  "loss_probability": 0.13,
+  "key_factors": [
+    "Brazil conceded once in group stage — strongest tournament defensive evidence available",
+    "Kamada's Netherlands goal came in a different defensive context; Brazil's Ancelotti shape is more compact",
+    "Japan's wide runners (Minamino, Mitoma) absent — limits Kamada and Ueda's central effectiveness",
+    "Scorecard lesson: awarded Scotland a goal they didn't earn — not repeating that with Japan"
   ],
   "predicted_scorers": ["Vinícius", "Cunha"],
   "confidence": "medium"
@@ -118,7 +118,7 @@ My scorecard gives me a clear calibration instruction: across three matches, I'v
 
 ## Turn 6 — Samurai Blue AI Pundit (JPN) — `final_prediction`
 
-My scorecard now shows three scored results: missed the Netherlands draw (under-weighted it at 20%), under-predicted Japan's margin vs Tunisia (2-1 became 4-0), and called the Sweden draw exactly right at 1-1. The consistent pattern is that I've historically under-predicted Japan's attacking output, but the Brazil pundit has correctly argued that the Tunisia sample inflates that figure and the personnel losses since that match are real. Crucially, my exact-score hit vs Sweden came from correctly reading the tactical and incentive structure of that match — and here the structure is different: Japan will try to compete, not protect a point. My calibration adjustment is to respect Japan's proven ability to score against organised European sides (2 vs Netherlands, 1 vs Sweden) while acknowledging that Brazil's defense, at 1 goal conceded in three matches, is the most structured backline Japan have faced, and Endo's absence structurally weakens the midfield cover that enables clean transitions. I'll maintain a Japan goal as a genuine probability rather than zeroing it out — the pattern of under-predicting Japan's goals is my most persistent error. My final call is **Samurai Blue 1 – Seleção 2**.
+My scorecard is instructive: I've under-predicted Japan's attacking output in two of three matches (Netherlands actual 2-2 vs my prediction, Tunisia actual 4-0 vs my 2-1), and got the Sweden draw exactly right by reading the tactical and incentive structure honestly. The consistent pattern — I under-credit Japan's goals — is real, and it pushes me to keep a Japan goal in my prediction rather than zeroing it out as the Brazil pundit has done. The Brazil pundit's counter-argument about Ancelotti's 4-2-3-1 with Casemiro and Guimarães shielding being a materially different defensive structure from what Japan exploited in the group stage is legitimate, and I've already absorbed it by placing Japan as clear underdogs at 20% win probability. But "Japan won't score" requires me to ignore my most persistent calibration error and trust that Brazil's superior organisation fully nullifies a tournament-proven attack — including Kamada, who scored centrally against Netherlands, and Ueda, who has two goals in this tournament. If this goes to extra time, Brazil's depth advantage via Neymar off the bench would likely see them through. My final call is **Samurai Blue 1 – Seleção 2**.
 
 Expected scorers: Ueda, Vinicius, Cunha.
 
@@ -129,9 +129,9 @@ Expected scorers: Ueda, Vinicius, Cunha.
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.20,
-  "draw_probability": 0.24,
-  "loss_probability": 0.56,
-  "key_factors": ["Brazil's defensive record (1 conceded in 3 matches) is the strongest tournament evidence on the board", "Japan's adjusted scoring rate vs organised defenses: 3 goals in 180 min (Netherlands, Sweden)", "Endo absence structurally weakens midfield cover — direct vulnerability to Brazil's pressing movement", "Scorecard pattern: I consistently under-predict Japan's goals — keeping one Japan goal viable despite depleted squad"],
+  "draw_probability": 0.25,
+  "loss_probability": 0.55,
+  "key_factors": ["Brazil's 1-goal-conceded defensive record is the strongest single tournament fact", "Endo absence removes defensive midfield spine — primary structural vulnerability for Japan", "Scorecard calibration: persistent under-prediction of Japan goals keeps one Japan goal viable", "Kamada central goal vs Netherlands and Ueda's tournament form are the specific attacking evidence"],
   "confidence": "low",
   "predicted_scorers": ["Ueda", "Vinicius", "Cunha"]
 }
@@ -142,8 +142,8 @@ Expected scorers: Ueda, Vinicius, Cunha.
 | | Seleção pundit | Samurai Blue pundit |
 |---|---|---|
 | Predicted score | 2–0 | 2–1 |
-| Seleção win | 62% | 56% |
-| Draw | 25% | 24% |
+| Seleção win | 62% | 55% |
+| Draw | 25% | 25% |
 | Samurai Blue win | 13% | 20% |
 | Confidence | medium | low |
 | Consensus | ✅ Yes | |
