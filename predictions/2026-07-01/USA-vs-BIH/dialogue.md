@@ -2,36 +2,36 @@
 
 **Fixture:** 082 — 2026-07-01 — Levi's Stadium, Santa Clara — stage `round_of_32`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.9310
+**Turns:** 6 • **Consensus:** True • **Cost:** $2.2197
 
 ## Turn 1 — Stars and Stripes AI Pundit (USA) — `opening_statement`
 
-Both briefings read. The evidence picture here is unusually clear for a knockout fixture.
+Both briefings read. This is USA's first knockout fixture with their first-choice XI fully rested and available.
 
-Stars and Stripes arrive at Levi's Stadium with their first-choice XI fully available — Pulisic fit after managing his calf through the Turkey rotation, Balogun leading the line, yellow card slates wiped clean under 2026 rules. Bosnia & Herzegovina qualified creditably as a best third-placed team, but their attacking numbers are the most alarming of any Round of 32 side: **13 total shots and 0.5 expected goals from open play across all three group matches**. That figure isn't a blip — it reflects a structural inability to create from open play, with Džeko's aerial threat at set pieces and teenage flashes from Alajbegović as their only realistic routes to goal. Bosnia's defensive record (6 conceded in 3 matches, including 4 to Switzerland) compounds the picture on the other end.
+Stars and Stripes arrive at Levi's Stadium in the strongest possible shape: Pulisic confirmed fit after managing his calf through the Turkey rotation, yellow card slates wiped clean for the whole squad, and 8 goals scored in the group stage — joint-highest among Round of 32 sides. Bosnia got here by winning a nervy dead rubber against Qatar, but their group stage tells a more complicated story: a 1-4 hammering by Switzerland exposed exactly the vulnerability USA will seek to exploit — defensive disorganisation when pressed by a quality side moving at pace. The knockout scoreline data is clear that tight margins dominate (3 of 5 decisive results were by exactly 1 goal), so I'm not predicting a blowout, but the quality gap here is real and evidenced by this tournament, not just reputation.
 
-The tournament base rates say 1-0 is the most common result and blowouts do happen when one side is structurally outclassed — and Bosnia's 0.5 xG record qualifies as structural. I'm going **Stars and Stripes 2 – Bosnia & Herzegovina 0**: Pulisic and Balogun combine to settle this inside 90 minutes, Bosnia's open-play threat is too limited to trouble the Stars and Stripes backline, though Džeko will make Ream and Richards uncomfortable on set pieces. I'm keeping draw probability below the knockout base rate of 28.6% because Bosnia's attacking record is precisely the kind of strong match-specific evidence the calibration notes allow for.
+Dzeko's aerial presence at set pieces is Bosnia's primary threat — at 40 he remains physically imposing — and Alajbegovic's creativity could cause problems on transitions if USA are caught too high. But Bosnia have conceded 6 goals in 3 group matches, and Pulisic driving through half-spaces into that backline is a matchup that strongly favours the Stars and Stripes. My opening call is **Stars and Stripes 2 – Bosnia & Herzegovina 1**: USA score twice through their creative spine, Bosnia get one back from a Dzeko set-piece moment, but the Stars and Stripes advance.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 0 },
+  "predicted_score": { "self": 2, "opponent": 1 },
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.65,
-  "draw_probability": 0.22,
-  "loss_probability": 0.13,
-  "key_factors": ["Bosnia 0.5 xG from open play across 3 group matches — structurally limited attack", "USA full-strength first-choice XI with Pulisic returning after managed absence", "Bosnia conceded 6 in 3 group games including 4 vs Switzerland — defensive fragility", "Dzeko set-piece aerial threat the primary Bosnia danger"],
-  "predicted_scorers": ["Pulisic", "Balogun"],
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": ["USA full-strength first-choice XI with Pulisic fit — elite attacking output (8 goals in group stage)", "Bosnia conceded 4 to Switzerland when pressed by quality side — same vulnerability USA will target", "Dzeko aerial set-piece threat is Bosnia's most credible route to goal", "Knockout margin norm is 1 goal — predicting tight but decisive USA win"],
+  "predicted_scorers": ["Pulisic", "Balogun", "Dzeko"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 2 — Zmajevi AI Pundit (BIH) — `opening_statement`
 
-Both briefings read. The picture is uncomfortable but I'll state it plainly rather than dress it up.
+I've already read both briefings earlier in this session — the evidence picture hasn't changed, and I'll make my opening case on that basis.
 
-The 0.5 expected goals from open play across three group matches is the number I can't argue away — it's the weakest attacking output of any Round of 32 side, and it reflects something structural rather than statistical noise: Barbarez's 4-4-2 is built to absorb and counter, and when that counter-attack is blunted (as Switzerland did after going up to eleven versus ten), BIH create almost nothing. The genuine good news is that Muharemovic returns from suspension and shores up the centre-back pairing that was disrupted against Switzerland, and Džeko — goalless in the tournament but physically imposing at 40 — remains a legitimate aerial threat at set pieces against a USA backline that conceded 3 to Türkiye, albeit from a rotated squad. USA's 8 goals in three group matches against Paraguay, Australia and (partially) Türkiye with Pulisic driving through the half-spaces represents a clear attacking superiority that honest analysis can't explain away. I'm predicting **Zmajevi 1 – Stars and Stripes 2**: Džeko punishes a set-piece, USA score twice through Pulisic and Balogun, and BIH's open-play attacking limitation proves the decisive structural gap.
+The most damning number in BIH's dossier is one I can't argue past: 0.5 expected goals from open play across all three group matches, the lowest attacking output of any Round of 32 side. Against a USA backline anchored by Ream and Richards — which, for all its known aerial vulnerability, hasn't faced a genuine quality test yet — BIH's route to goal runs almost exclusively through set-pieces where Džeko, at 40 years old and still physically imposing, can exploit USA's limited aerial height. The encouraging news is that Muharemovic returns to shore up the central defence that collapsed against Switzerland, and Dedic's fitness doubt at right-back is the one genuine squad concern that could further expose BIH defensively on that flank against Pulisic's half-space runs. USA are clearly the stronger side — 8 goals scored, full-strength, rested — and I'll be honest about that rather than manufacture a case for a BIH win that the tournament evidence doesn't support. My opening call is **Zmajevi 1 – Stars and Stripes 2**: Džeko grabs one from a delivery into the box, USA's clinical spine does the rest.
 
 ```json
 {
@@ -42,7 +42,7 @@ The 0.5 expected goals from open play across three group matches is the number I
   "win_probability": 0.13,
   "draw_probability": 0.27,
   "loss_probability": 0.60,
-  "key_factors": ["BIH 0.5 xG from open play across 3 matches — structural attacking limitation", "USA 8 goals in group stage with Pulisic fit and rested", "Džeko set-piece aerial threat the one genuine BIH route to goal", "Muharemovic returns — defensive unit stronger than Switzerland collapse"],
+  "key_factors": ["BIH 0.5 xG from open play — structural attacking limitation, lowest of any R32 side", "USA 8 goals in group stage with full-strength Pulisic-led XI rested", "Džeko aerial set-piece threat — primary and almost only BIH route to goal", "Muharemovic returns but Dedic doubtful — defensive reshuffle possible"],
   "predicted_scorers": ["Džeko", "Pulisic", "Balogun"],
   "confidence": "medium"
 }
@@ -50,9 +50,9 @@ The 0.5 expected goals from open play across three group matches is the number I
 
 ## Turn 3 — Stars and Stripes AI Pundit (USA) — `rebuttal`
 
-The Džeko set-piece argument is the one thing in that opening I'm genuinely taking on board — the 0.5 xG figure measures open-play threat, not aerial delivery threat, and those are different mechanisms. Džeko winning headers at the near post against Ream and Richards is a real scenario that doesn't require Bosnia to beat USA's press or create combinations through midfield. The Turkey concessions came from a rotated defensive unit, but even the first-choice backline isn't particularly tall, and that's a specific vulnerability worth pricing in. I'm updating from **Stars and Stripes 2–0** to **Stars and Stripes 2–1**: the USA win isn't in doubt, but pretending a 40-year-old with 73 international goals is a non-factor at set pieces in a knockout match would be wilful.
+We've opened from opposite sides of the ledger and landed on the same scoreline, which tells you something about how one-sided the evidence is. The Dedic point is worth amplifying: if he doesn't start, whoever fills that right-back slot will be asked to contain Pulisic's runs from deep — and that's not a job for a replacement-level player in a World Cup knockout match. The 0.5 xG from open play figure is the structural fact that underpins both our predictions; it means Bosnia's only realistic route to goal is the specific set-piece scenario we've both described, and that single mechanism caps their upside significantly.
 
-The draw probability I'm keeping below the 28.6% knockout base rate — Bosnia's open-play creation is genuinely the worst of any Round of 32 side, and that limits their ability to draw level if USA score first and defend their shape.
+The one marginal disagreement remaining is draw probability — I'd argue 0.26 is already generous given Bosnia's attacking limitations, and the case for keeping it even below that rests precisely on this xG figure. But we're within a rounding error of each other. Holding **Stars and Stripes 2 – Bosnia & Herzegovina 1**.
 
 ```json
 {
@@ -60,18 +60,18 @@ The draw probability I'm keeping below the 28.6% knockout base rate — Bosnia's
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.63,
-  "draw_probability": 0.23,
-  "loss_probability": 0.14,
-  "key_factors": ["Bosnia 0.5 xG from open play — structural attacking limitation", "USA full-strength XI with Pulisic driving through half-spaces", "Dzeko aerial set-piece threat is real and separate from open-play xG", "Bosnia defensive fragility (6 conceded in 3 group matches) vs USA's potent attack"],
-  "predicted_scorers": ["Pulisic", "Balogun"],
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": ["USA full-strength with Pulisic fit — elite attacking output evidenced in tournament", "Bosnia 0.5 xG from open play — structurally limited to set-piece goals", "Dedic fitness doubt compounds Bosnia's right-back vulnerability to Pulisic runs", "Knockout margin norm is 1 goal — both pundits converged on 2-1"],
+  "predicted_scorers": ["Pulisic", "Balogun", "Dzeko"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 4 — Zmajevi AI Pundit (BIH) — `rebuttal`
 
-The Stars and Stripes pundit has done something useful — they updated their prediction based on the Džeko argument, which means we've converged on the same scoreline from opposite directions, and I'll take that as validation rather than push against it. The draw probability debate is the remaining gap: their argument is that Bosnia can't equalize from open play if USA go ahead, which is fair, but it ignores the path where Džeko scores *first* from a set-piece and USA then need to find two goals against a compact, motivated BIH defensive block — a scenario where 1-1 at 90 minutes is genuinely plausible. I'm keeping draw at 0.27 precisely because the knockout base rate is 28.6% and while BIH's 0.5 xG is strong evidence to go below it, I don't think it's conclusive enough to drop much further when Džeko scoring first opens a viable draw path.
+When two pundits approaching from opposite directions land on the same scoreline, the honest thing to say is that the evidence is genuinely clear — and it is. The Dedic amplification is fair: if he fails his fitness check, whoever slots in at right-back facing Pulisic's half-space runs will be tested in the worst possible context for an understudy. The draw probability gap between us is genuinely within rounding error, and I won't manufacture a principled disagreement where there isn't one — my 0.27 versus their 0.26 is not an argument worth having when the substantive prediction is identical. I'll hold at 0.27 only because the Džeko-scores-first path to 1-1 is a legitimate knockout scenario that prevents me going below the base rate without further confirmation that Dedic is actually ruled out.
 
 ```json
 {
@@ -82,7 +82,7 @@ The Stars and Stripes pundit has done something useful — they updated their pr
   "win_probability": 0.13,
   "draw_probability": 0.27,
   "loss_probability": 0.60,
-  "key_factors": ["BIH 0.5 xG from open play — structural limitation acknowledged", "Džeko set-piece threat as primary BIH scoring route accepted by both sides", "draw path exists if BIH score first — not just if USA score first", "USA full-strength XI with Pulisic the decisive quality gap"],
+  "key_factors": ["BIH 0.5 xG from open play — structural ceiling on attacking output confirmed", "Dedic fitness doubt compounds right-back vulnerability to Pulisic half-space runs", "Džeko set-piece threat remains the one genuine BIH scoring mechanism", "convergence on same scoreline from both sides reflects one-sided evidence picture"],
   "predicted_scorers": ["Džeko", "Pulisic", "Balogun"],
   "confidence": "medium"
 }
@@ -90,7 +90,7 @@ The Stars and Stripes pundit has done something useful — they updated their pr
 
 ## Turn 5 — Stars and Stripes AI Pundit (USA) — `final_prediction`
 
-My scorecard shows 1 correct winner from 3 scored results — and the pattern is consistent: I've under-predicted USA's dominance when playing their first-choice XI (called 2–1 against Paraguay, actual 4–1; called 1–1 against Australia, actual 2–0), and the Turkey loss came from a rotated squad and shouldn't be treated as evidence of what full-strength USA can do. The calibration adjustment runs in the direction of not softening USA's win probability — my documented error is under-predicting the Stars and Stripes, not over-predicting them. On the draw probability: the Bosnia pundit's "Džeko scores first" scenario is a genuine path to 1–1, but it requires a specific chain of events against an attacking unit that's been clinical all tournament, and Bosnia's open-play limitation still constrains how they respond if USA equalise quickly. I'm holding draw below the 28.6% knockout base rate because Bosnia's 0.5 xG record is exactly the kind of strong match-specific evidence that justifies it. My final call is **Stars and Stripes 2 – Bosnia & Herzegovina 1**.
+My scorecard shows 1 correct winner from 3 scored results, with a consistent pattern: I've under-predicted USA's goals when playing their first-choice XI (4–1 actual vs my 2–1 vs Paraguay; 2–0 actual vs my 1–1 call against Australia, where I also got the direction wrong by letting debate pressure move me off a win). The Turkey loss was a deliberate rotation match and doesn't represent full-strength USA. The calibration lesson going into this knockout fixture is to hold a USA win call confidently — but the knockout data's tight-margin norm (3 of 5 decisive results by exactly 1 goal, no blowouts yet in knockouts) is the counter-weight that keeps me at 2–1 rather than inflating to 3–1. Both sides of this debate converged on the same scoreline independently, and Bosnia's 0.5 xG from open play justifies keeping draw probability just below the 28.6% knockout base rate — that's genuine match-specific evidence, not arbitrary suppression. If this goes to extra time I'd still back USA to advance. My final call is **Stars and Stripes 2 – Bosnia & Herzegovina 1**.
 
 ```json
 {
@@ -98,18 +98,18 @@ My scorecard shows 1 correct winner from 3 scored results — and the pattern is
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.63,
-  "draw_probability": 0.23,
-  "loss_probability": 0.14,
-  "key_factors": ["USA full-strength first-choice XI — documented pattern of under-predicting their dominance", "Bosnia 0.5 xG from open play is the strongest match-specific evidence in this debate", "Dzeko aerial set-piece threat the primary Bosnia route to goal", "Bosnia defensive fragility (6 conceded in 3 matches) vs USA's clinical attack"],
-  "predicted_scorers": ["Pulisic", "Balogun", "Džeko"],
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": ["USA full-strength first-choice XI — documented pattern of outperforming my predictions", "Bosnia 0.5 xG from open play — structural ceiling on their attacking threat", "Dzeko aerial set-piece threat the one genuine Bosnia scoring mechanism", "Knockout tight-margin norm prevents inflating to 3-1 despite quality gap"],
+  "predicted_scorers": ["Pulisic", "Balogun", "Dzeko"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 6 — Zmajevi AI Pundit (BIH) — `final_prediction`
 
-My scorecard carries one lesson that bears directly on this fixture: I predicted 1-1 against Switzerland and got 1-4 — I over-priced BIH's ability to stay level against a clearly superior opponent, and that systematic error runs exactly parallel to this matchup. USA aren't Switzerland, but they've scored 8 goals in three group matches with a rested, full-strength XI, and my documented pattern of draw-inflation against quality opposition means I should nudge draw probability down from 0.27 toward where the Stars and Stripes pundit has it — not because their argument alone moved me, but because my own R2 miscalibration is confirmatory evidence. The Džeko set-piece path to a goal remains legitimate and I'm keeping it in the prediction, but I can't in good conscience hold draw at the knockout base rate when my own track record says I lean too heavily toward draws against sides with this attacking quality differential. My final call is **Zmajevi 1 – Stars and Stripes 2** — Džeko gets one from a set-piece, Pulisic and Balogun do the damage for USA; if it somehow reaches extra time, I'd back the Stars and Stripes to advance.
+My scorecard's most instructive entry is R2: I predicted 1-1 against Switzerland and got 1-4 — a documented pattern of over-pricing BIH's ability to draw against clearly superior opposition, which is precisely the risk I'm managing in this fixture. The calibration adjustment is the same one I made in the earlier version of this debate: nudge draw probability below 0.27, because both my R2 track record and BIH's 0.5 xG figure are independent signals pointing the same direction. Two pundits converging independently on Zmajevi 1 – Stars and Stripes 2 from opposite starting positions is about as clear a consensus signal as this experiment produces, and nothing in the scorecard data gives me reason to depart from that scoreline. If this reaches extra time, I'd back the Stars and Stripes to advance on the weight of their attacking quality. My final call is **Zmajevi 1 – Stars and Stripes 2**.
 
 ```json
 {
@@ -120,7 +120,7 @@ My scorecard carries one lesson that bears directly on this fixture: I predicted
   "win_probability": 0.13,
   "draw_probability": 0.24,
   "loss_probability": 0.63,
-  "key_factors": ["own R2 pattern — over-priced draw vs clearly superior Switzerland, same risk here", "USA 8 goals in group stage with full-strength Pulisic-led XI rested and ready", "Džeko set-piece aerial threat the one legitimate BIH scoring route", "Muharemovic return improves defence but open-play attacking limitation remains structural"],
+  "key_factors": ["R2 pattern — over-priced draw vs superior Switzerland, same risk corrected here", "BIH 0.5 xG from open play structural ceiling justifies sub-baseline draw probability", "Džeko set-piece aerial threat the one confirmed BIH scoring mechanism", "USA full-strength IX with Pulisic fit — 8 goals in group stage, rested and motivated"],
   "predicted_scorers": ["Džeko", "Pulisic", "Balogun"],
   "confidence": "medium"
 }
@@ -131,8 +131,8 @@ My scorecard carries one lesson that bears directly on this fixture: I predicted
 | | Stars and Stripes pundit | Zmajevi pundit |
 |---|---|---|
 | Predicted score | 2–1 | 2–1 |
-| Stars and Stripes win | 63% | 63% |
-| Draw | 23% | 24% |
-| Zmajevi win | 14% | 13% |
+| Stars and Stripes win | 58% | 63% |
+| Draw | 26% | 24% |
+| Zmajevi win | 16% | 13% |
 | Confidence | medium | medium |
 | Consensus | ✅ Yes | |
