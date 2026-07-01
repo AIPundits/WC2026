@@ -2,15 +2,17 @@
 
 **Fixture:** 080 — 2026-07-01 — Mercedes-Benz Stadium, Atlanta — stage `round_of_32`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.6835
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.8028
 
 ## Turn 1 — Three Lions AI Pundit (ENG) — `opening_statement`
 
-Digesting both briefings carefully before making my case.
+I already have both briefings from earlier in this session — ENG and DCO read for 2026-07-01. Proceeding directly to my opening case.
 
-England top Group L with genuine quality but one glaring caveat on record: the 0-0 against Ghana's deep block is directly relevant here, because DR Congo under Desabre will set up in the exact same defensive shape — compact, counter-punching, feeding Wissa in behind the full-backs. The key difference from the Ghana game is that Rice is back in the engine room after his precautionary rest, and this is a knockout match where DR Congo *cannot* just park the bus — they will need to attack at some point, which opens the game up and benefits England's superior quality. Spence deputising for the injured James at right-back is a specific vulnerability Wissa will target from the first minute, and that's where DR Congo's most credible scoring route lies.
+---
 
-The backline DR Congo are putting out — Mbemba, Tuanzebe, Wan-Bissaka, Masuaku — is genuinely Premier League calibre, and Mpasi was excellent in the group stage, so this is not a side England will brush aside. But the quality gap across the pitch is real and significant: Kane, Bellingham, and Saka against a team that scored only once against top European opposition (Portugal, Colombia) in the group stage. I'm going **Three Lions 2–1 DR Congo** in ninety minutes — England find the net through their set-piece threat and the Kane–Bellingham link, DR Congo score on a Wissa counter through the Spence channel, but England's quality ultimately tells.
+England arrive in Atlanta as group winners but carrying a clear tournament warning on their record: the 0-0 against Ghana proved Tuchel's side without Foden and Palmer can be genuinely pedestrian against a disciplined deep block, and DR Congo under Desabre have set up exactly that way throughout the group stage — holding Portugal to a 1-1 draw and Colombia to a single goal. The right-back situation is a specific tactical problem: Reece James is out with a hamstring injury, leaving Spence as deputy, and the Léopards have specifically identified the Wissa-against-right-back channel as their primary counter-attacking route. The good news for Three Lions is that Rice returns fully fresh after precautionary rest against Panama — and his absence was precisely the missing piece in the Ghana game, where Anderson held midfield alone and England couldn't impose rhythm.
+
+Knockout base rates are clear: two-thirds of the seven knockout matches played so far were decided by one goal, and the draw rate at ninety minutes sits at 28.6% — so this is inherently tighter than England's group stage dominance might imply. DR Congo's Premier League-calibre backline (Mbemba, Tuanzebe, Wan-Bissaka, Masuaku) and the excellent Mpasi in goal mean they have the personnel to frustrate England for long spells. But England's quality through Kane, Bellingham, and Saka — with Rice providing the build-up platform — is a tier above anything DR Congo have genuinely defended against, and a knockout match where DR Congo *must* score means they cannot park the bus indefinitely. My opening call is **Three Lions 2–1 DR Congo** in regulation.
 
 ```json
 {
@@ -22,11 +24,11 @@ The backline DR Congo are putting out — Mbemba, Tuanzebe, Wan-Bissaka, Masuaku
   "draw_probability": 0.28,
   "loss_probability": 0.15,
   "key_factors": [
-    "England 0-0 vs Ghana — deep-block vulnerability is real and DCO set up identically",
-    "Rice back in midfield — significant upgrade on Anderson who played vs Ghana",
-    "Wissa targeting Spence at right-back — England's clearest defensive exposure",
-    "DR Congo's PL-pedigree backline and excellent GK Mpasi — not a side to brush aside",
-    "Knockout match forces DCO to attack, opening space for England's quality"
+    "England 0-0 vs Ghana — deep-block vulnerability directly relevant to DCO's setup",
+    "Rice returns fully fresh — key upgrade distinguishing this from Ghana stalemate",
+    "Wissa targeting Spence at right-back — DCO's documented primary counter-attack route",
+    "Knockout dynamic forces DCO to attack, opening space England's quality will exploit",
+    "DCO backline has PL pedigree — Mbemba, Tuanzebe, Wan-Bissaka, Masuaku — not lightweight opposition"
   ],
   "predicted_scorers": ["Kane", "Bellingham", "Wissa"],
   "confidence": "medium"
@@ -35,7 +37,11 @@ The backline DR Congo are putting out — Mbemba, Tuanzebe, Wan-Bissaka, Masuaku
 
 ## Turn 2 — Léopards AI Pundit (DCO) — `opening_statement`
 
-The tournament evidence is clear-eyed about where Léopards stand: defensively resilient enough to hold Portugal and Colombia to one goal each, but not yet convincingly dangerous in open play against top-tier European opposition — 4 goals across 3 games, with the quality ones coming against Uzbekistan. England's group-stage record has a glaring caveat that cuts directly to this match: the 0-0 against Ghana was played with Anderson holding midfield without Rice, against a low-block defence that is precisely what Desabre will deploy in Atlanta. Rice returning changes that dynamic somewhat, but Spence at right-back replacing the injured James is DCO's most exploitable route, and Wissa targeting that channel on the break is not a vague plan — it's the documented tactical blueprint confirmed by multiple sources. The quality gap is real (Kane, Bellingham, Saka against a squad whose tournament goal record flatters the Uzbekistan result), but England's 0-0 against Ghana is proof this backline and system can hold a top-10 European side scoreless — and DCO will replicate that setup with better individual quality in Wissa and Mpasi. My opening call is **Léopards 1 – Three Lions 2** in regulation: England find the net twice through set-pieces and the Kane–Bellingham link, but Wissa punishes Spence on the counter for the goal DCO need to keep fighting.
+I already read both briefings earlier in this session — no need to re-pull them. Proceeding directly.
+
+---
+
+Léopards enter this Round of 32 as the tournament's most resilient side relative to their resources: a 1-1 draw against Portugal, a 0-1 defeat to Colombia despite Mpasi making multiple match-saving stops, and a character-driven 3-1 win over Uzbekistan to sneak through as best third-place. England are the clear quality favourites — Kane, Bellingham, Saka, and Rice back in the engine room — but the Ghana 0-0 is the most directly relevant piece of tournament evidence for this match, because DCO under Desabre will set up identically: compact, counter-oriented, feeding Wissa into the space behind the right-back. The injury to Reece James means Spence starts at right-back, and that is not a small upgrade for DCO — Wissa targeting that channel on the counter is the documented tactical plan and the most credible route to a Léopards goal. I'm going **Léopards 1 – Three Lions 2** in regulation: England's superior quality eventually tells, but this is a one-goal margin game where DCO earn something through Wissa's individual threat, not a comfortable English cruise.
 
 ```json
 {
@@ -44,14 +50,14 @@ The tournament evidence is clear-eyed about where Léopards stand: defensively r
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.18,
-  "draw_probability": 0.26,
-  "loss_probability": 0.56,
+  "draw_probability": 0.28,
+  "loss_probability": 0.54,
   "key_factors": [
-    "England 0-0 vs Ghana — low-block vulnerability directly replicable by DCO",
-    "Spence at right-back (James OUT) — Wissa's primary counter-attack channel",
-    "Rice returning — partial counter to the Ghana comparison",
-    "Mpasi and PL-calibre backline — never lost by more than one goal in tournament",
-    "Kane and Bellingham set-piece threat against DCO's compact block"
+    "England 0-0 vs Ghana — compact low-block vulnerability directly replicable by DCO",
+    "Spence at right-back (James OUT) — Wissa's documented primary counter-attack channel",
+    "Rice returning — partial but meaningful counter to the Ghana comparison",
+    "DCO defensive record vs Colombia and Portugal genuine — never lost by more than one goal",
+    "Knockout dynamic forces DCO to attack eventually, opening space for England quality"
   ],
   "predicted_scorers": ["Wissa", "Kane", "Bellingham"],
   "confidence": "medium"
@@ -60,9 +66,9 @@ The tournament evidence is clear-eyed about where Léopards stand: defensively r
 
 ## Turn 3 — Three Lions AI Pundit (ENG) — `rebuttal`
 
-The notable thing here is genuine convergence: we've arrived at the same scoreline and the same three scorers from opposite perspectives, which is meaningful when neither of us is working from H2H precedent. The one claim worth pushing back on is the "better individual quality in Wissa than Ghana's forwards" framing — that's true in attack, but Ghana's defensive structure was specifically reinforced by Partey's midfield disruption, which DCO cannot replicate at the same level. Rice and Anderson had a harder midfield contest against Ghana than they'll face against DR Congo's setup, which is why I'm slightly more confident England break through than the raw Ghana comparison implies.
+We've converged on the same scoreline and the same scorers from opposite sides again — which, as before, I think is a meaningful signal that the evidence genuinely points one way. The one thing worth flagging in the DCO pundit's framing: "never lost by more than one goal" is accurate, but the Colombia loss was 0-1 — a defeat, not just a narrow holding exercise — against a side England would be expected to handle more comfortably than. The gap in attacking quality between Colombia and England is real, and that's the argument against treating DCO's defensive record as a ceiling rather than a floor.
 
-The "never lost by more than one goal" defensive record is a real data point, and it's why I have DR Congo as credible opponents rather than a walkover — but it also came against groups that included Colombia and Portugal (strong) and Uzbekistan (weaker). England's attacking quality at full strength is a tier above what DCO have faced. Holding my call unchanged: **Three Lions 2–1 DR Congo**, with Rice's return the hinge that separates this from the Ghana result.
+The Spence-at-right-back vulnerability and the Wissa counter-attack threat are both well-established by now, and I've had them in my reasoning since the opening — no new information there. The Ghana 0-0 remains the dominant calibration anchor, but the knockout dynamic (DCO must score to survive, which opens the game) is the reason I'm predicting a decisive England result rather than another stalemate. Holding **Three Lions 2–1 DR Congo**.
 
 ```json
 {
@@ -74,10 +80,11 @@ The "never lost by more than one goal" defensive record is a real data point, an
   "draw_probability": 0.28,
   "loss_probability": 0.15,
   "key_factors": [
-    "England 0-0 vs Ghana — deep-block vulnerability real, but DCO lacks Partey-equivalent midfield disruptor",
-    "Rice returning — key upgrade distinguishing this from Ghana game",
-    "Wissa targeting Spence — DCO's primary and documented counter-attack route",
-    "DCO never lost by more than one goal — defensive resilience is real but England's attack is a level above DCO's group opponents"
+    "England 0-0 vs Ghana — deep-block vulnerability baked in via draw probability at knockout base rate",
+    "Rice returns — key upgrade on Anderson who played vs Ghana",
+    "Wissa targeting Spence channel — credible DCO threat, accounts for their goal",
+    "DCO lost to Colombia — their defensive ceiling is not impenetrable against top European quality",
+    "Knockout dynamic forces DCO to commit forward, opening space for England's quality"
   ],
   "predicted_scorers": ["Kane", "Bellingham", "Wissa"],
   "confidence": "medium"
@@ -86,7 +93,7 @@ The "never lost by more than one goal" defensive record is a real data point, an
 
 ## Turn 4 — Léopards AI Pundit (DCO) — `rebuttal`
 
-The Partey point is fair and I'll take it — Ghana's midfield disruption was a specific ingredient DCO can't fully replicate, and it's a legitimate reason to discount the Ghana comparison slightly. But the Three Lions pundit is sliding toward "England's attack is a tier above everything DCO have faced" without accounting for the actual evidence: Colombia, who DCO held to a single goal, have their own creative midfield quality in James Rodríguez, and Portugal's front line includes Ronaldo, Bernardo Silva, and Bruno Fernandes. The "never lost by more than one goal" record was built against real opposition, not group-stage fodder. We've converged on the same scoreline and the same scorers, so the residual argument is really about how comfortably England win — and on that, the Ghana 0-0 even partially discounted still tells me this won't be routine. Holding **Léopards 1 – Three Lions 2**.
+The Three Lions pundit's "Colombia loss means the defensive ceiling is not impenetrable" argument is technically accurate but misses the texture of that result — the briefing confirms Mpasi made *multiple crucial late saves* to keep the margin at one, and DCO created chances enough that the scoreline flattered Colombia slightly. The gap between England and Colombia is real, but it doesn't make DCO's 0-1 defeat evidence of fragility — it's evidence of a side that competes hard and loses narrowly to top opposition, which is a different thing. On the convergence point: we agree on scoreline, scorers, and directional outcome, which does suggest the evidence is pointing clearly — I'll hold everything where it is, since nothing in their rebuttal introduced new information I hadn't already factored.
 
 ```json
 {
@@ -95,13 +102,13 @@ The Partey point is fair and I'll take it — Ghana's midfield disruption was a 
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.18,
-  "draw_probability": 0.26,
-  "loss_probability": 0.56,
+  "draw_probability": 0.28,
+  "loss_probability": 0.54,
   "key_factors": [
-    "Partey midfield disruption point conceded — Ghana comparison partially discounted",
-    "DCO defensive record built against Colombia and Portugal — not paper opposition",
-    "Wissa vs Spence counter-attack route still the primary DCO scoring mechanism",
-    "Rice return shifts England's creative capability but doesn't resolve set-piece vs compact block challenge"
+    "Mpasi multiple crucial saves vs Colombia — 0-1 reflects competitive performance not fragility",
+    "Spence at right-back vs Wissa counter — documented primary DCO scoring route unchanged",
+    "Rice return partially offsets Ghana 0-0 comparison but doesn't eliminate it",
+    "Knockout dynamic forces DCO forward — genuine factor in England finding the margin"
   ],
   "predicted_scorers": ["Wissa", "Kane", "Bellingham"],
   "confidence": "medium"
@@ -110,7 +117,7 @@ The Partey point is fair and I'll take it — Ghana's midfield disruption was a 
 
 ## Turn 5 — Three Lions AI Pundit (ENG) — `final_prediction`
 
-My scorecard is instructive: the Ghana 0-0 remains the sharpest miss (predicted 3-1, actual 0-0), and that's the calibration I've been carrying through this debate. The good news is I've already built it in — my draw probability of 0.28 sits right at the knockout base rate, which is where it should be given that evidence. The DR Congo pundit's point about Colombia and Portugal being real opponents for DCO's defensive record is well-taken and I accept it; this is not a side that conceded cheaply against paper opposition. The structural reason I'm still predicting an England win in ninety minutes rather than extra time is the knockout dynamic itself: Desabre cannot simply replicate Ghana's patient 0-0 block because DR Congo *must* score to survive, and the moment they commit forward, England's quality through Kane and Bellingham in transition will be decisive. My final call is **Three Lions 2–1 DR Congo**.
+My scorecard confirms the one pattern that matters most for this fixture: predicted Three Lions 3-1 Ghana, actual 0-0 — a miss that tells me I over-predicted England's ability to break down a deep, disciplined block. My draw probability of 0.28 is already sitting at the knockout base rate precisely because of that evidence, and I'm not moving it lower. The DCO pundit's Mpasi point is fair — multiple crucial saves vs Colombia means the 0-1 defeat reflects competitive solidity, not fragility — and I'll absorb that as a slight upward revision to DCO's defensive credibility without changing the directional call. Rice back in midfield, England's set-piece threat, and the knockout imperative forcing DR Congo to commit forward are the three factors that tip me toward an England win rather than another stalemate; if it goes to extra time I'd still back Three Lions to advance, but my call is that regulation settles it. My final call is **Three Lions 2–1 DR Congo**.
 
 Predicted scorers: Kane, Bellingham, Wissa.
 
@@ -124,11 +131,11 @@ Predicted scorers: Kane, Bellingham, Wissa.
   "draw_probability": 0.28,
   "loss_probability": 0.15,
   "key_factors": [
-    "Ghana 0-0 calibration: draw probability held at knockout base rate (28.6%)",
-    "Rice return distinguishes this from Ghana game — midfield contest shifts England's way",
-    "Knockout dynamic forces DCO to attack, opening space England's quality will exploit",
-    "DCO defensive record vs Colombia and Portugal is genuine — not paper opposition",
-    "Wissa targeting Spence — DCO's documented and credible counter-attack route"
+    "Scorecard calibration: Ghana 0-0 miss drives draw probability to knockout base rate (28%)",
+    "Rice returns — key midfield upgrade from the Ghana stalemate",
+    "Wissa targeting Spence channel — credible DCO counter-attack threat accounts for their goal",
+    "Mpasi crucial saves vs Colombia — DCO defensive resilience is genuine, not paper",
+    "Knockout dynamic forces DR Congo to commit forward, creating space England's quality exploits"
   ],
   "predicted_scorers": ["Kane", "Bellingham", "Wissa"],
   "confidence": "medium"
@@ -137,7 +144,7 @@ Predicted scorers: Kane, Bellingham, Wissa.
 
 ## Turn 6 — Léopards AI Pundit (DCO) — `final_prediction`
 
-My scorecard reveals a consistent pattern I have to reckon with: across all three group-stage predictions, I underestimated DCO every single time — they outperformed my expectation vs Portugal (drew instead of losing), kept the Colombia margin tighter than I predicted (0-1 not 1-2), and scored more vs Uzbekistan (3-1 not 2-0). The calibration adjustment is to nudge the draw probability up to the knockout base rate of 28.6% rather than holding it below — my prior pattern suggests I am systematically undervaluing DCO's ability to stay in games. That said, the Three Lions pundit's knockout-dynamic argument has real force: Desabre cannot replicate Ghana's purely defensive mandate because Léopards *must* score to survive, and that forced openness benefits England's quality in transition. Acknowledging both my calibration history and England's structural advantage, my final call is **Léopards 1 – Three Lions 2** — and if it somehow reaches extra time, England's squad depth makes them the likely advancers.
+My scorecard confirms the same pattern I identified earlier in this session: I have systematically underestimated DCO across all three group-stage predictions — they outperformed my expectation every single time (drew instead of losing vs Portugal, kept Colombia tighter than I predicted, scored more vs Uzbekistan). The calibration adjustment I'm making is to hold the draw probability at the full knockout base rate of 28% rather than trimming it, and to resist the temptation to price England's win probability higher than 0.54 despite the quality gap — my track record says I consistently undervalue what this defence and goalkeeper can do against better opposition. The Three Lions pundit and I agree on direction, scorers, and scoreline, and the remaining debate is purely probabilistic — nothing in this dialogue moved me off the core call that England win narrowly but DCO earn a goal through Wissa's counter-attack versus Spence; if it reaches extra time I'd back England to advance on the depth of their bench, but I'm predicting regulation settles it. My final call is **Léopards 1 – Three Lions 2**.
 
 ```json
 {
@@ -149,11 +156,11 @@ My scorecard reveals a consistent pattern I have to reckon with: across all thre
   "draw_probability": 0.28,
   "loss_probability": 0.54,
   "key_factors": [
-    "Scorecard calibration: consistent pattern of underestimating DCO — draw probability raised to knockout base rate",
-    "Knockout dynamic forces DCO to attack — removes pure Ghana-style low-block option",
-    "Wissa vs Spence counter-attack route remains DCO's primary and documented scoring mechanism",
-    "England set-piece and Kane-Bellingham link the most credible route to two goals",
-    "DCO defensive record vs Colombia and Portugal genuine — never lost by more than one goal"
+    "Scorecard calibration: consistent DCO underestimation — draw probability held at knockout base rate",
+    "Wissa vs Spence counter-attack channel — documented primary DCO scoring route",
+    "Rice return partially offsets Ghana 0-0 comparison but doesn't eliminate the low-block concern",
+    "Mpasi and PL-calibre backline provide genuine defensive credibility — 0-1 to Colombia not fragility",
+    "Knockout dynamic forces DCO forward — creates space England's quality ultimately exploits"
   ],
   "predicted_scorers": ["Wissa", "Kane", "Bellingham"],
   "confidence": "medium"
