@@ -1,0 +1,27 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "077",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.33,
+  "draw_probability": 0.28,
+  "loss_probability": 0.39,
+  "key_factors": [
+    "Haaland returning with 4 WC goals is the decisive attacking advantage",
+    "Norway's defensive frailty structural \u2014 Diomand\u00e9/Diallo counter-attack is a live route to goal",
+    "CIV finishing inconsistency (1.33/game) limits ceiling against a side that does concede",
+    "draw at 90 mins genuine minority scenario \u2014 both teams produce decisive results"
+  ],
+  "predicted_scorers": [
+    "Diomand\u00e9",
+    "Haaland"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T10:49:46.118253+00:00"
+}

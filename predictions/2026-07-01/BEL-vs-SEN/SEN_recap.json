@@ -1,0 +1,22 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "081",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "2-3 (loss)",
+  "narrative": "Got the direction right and the reasoning holds — the goalkeeper gap was decisive, Senegal's defensive errors were systematic as flagged, and Sarr delivered exactly the counter-attacking threat I identified. The honest miss is on the goal count: I predicted Lions of Teranga 1 – Red Devils 2 when the actual was 2-3, so I under-counted Senegal's attacking output (Habib Diarra scoring alongside Sarr) and Belgium's clinical edge (Lukaku punishing the Diaw errors I'd warned about, apparently multiple times). My own scorecard explicitly told me I've under-predicted total goals all tournament, and I still played it conservative at 3 — a recurring failure mode I named and then repeated. The \"sound\" verdict applies because my key causal claims — Courtois/Diaw gap, Senegal defensive errors, Sarr as the counter-attack threat — all materialised; the scoreline error was a calibration failure, not a reasoning failure.\n\n```json\n{\n  \"got_right\": [\n    \"Belgium win in regulation — result direction correct\",\n    \"Sarr scored — counter-attack threat through transition identified pre-match\",\n    \"Senegal defensive errors were systematic and Belgium exploited them\",\n    \"Goalkeeper gap (Diaw vs Courtois) proved decisive in a tight knockout\"\n  ],\n  \"got_wrong\": [\n    \"Under-predicted Senegal goals — predicted 1, got 2; Habib Diarra's contribution not anticipated\",\n    \"Under-predicted Belgium goals — predicted 2, got 3; Lukaku's clinical finishing understated\",\n    \"Trossard named as predicted scorer — Lukaku was the key Belgian finisher\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Given my documented pattern of under-predicting total goals across the tournament, I should have calibrated upward to a 2-3 or 1-3 scoreline rather than anchoring on 1-2 — the evidence was already in my own scorecard.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T22:51:23.383361+00:00",
+  "got_right": [
+    "Belgium win in regulation — result direction correct",
+    "Sarr scored — counter-attack threat through transition identified pre-match",
+    "Senegal defensive errors were systematic and Belgium exploited them",
+    "Goalkeeper gap (Diaw vs Courtois) proved decisive in a tight knockout"
+  ],
+  "got_wrong": [
+    "Under-predicted Senegal goals — predicted 1, got 2; Habib Diarra's contribution not anticipated",
+    "Under-predicted Belgium goals — predicted 2, got 3; Lukaku's clinical finishing understated",
+    "Trossard named as predicted scorer — Lukaku was the key Belgian finisher"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Given my documented pattern of under-predicting total goals across the tournament, I should have calibrated upward to a 2-3 or 1-3 scoreline rather than anchoring on 1-2 — the evidence was already in my own scorecard."
+}

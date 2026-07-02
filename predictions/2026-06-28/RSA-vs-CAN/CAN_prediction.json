@@ -1,0 +1,28 @@
+{
+  "team_code": "CAN",
+  "fixture_id": "073",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.57,
+  "draw_probability": 0.25,
+  "loss_probability": 0.18,
+  "key_factors": [
+    "Davies return confronts RSA's right side with unprecedented tournament problem",
+    "Zwane suspended \u2014 RSA counter-attack ceiling limited to Maseko individual moments",
+    "David-Larin partnership is highest quality striker combination RSA have faced",
+    "scorecard shows mixed errors, no systematic RSA under-prediction requiring adjustment"
+  ],
+  "predicted_scorers": [
+    "David",
+    "Davies",
+    "Maseko"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T18:18:13.967228+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "CIV",
+  "fixture_id": "077",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "An exact scoreline — Les Éléphants 1 – The Lions 2 — and Haaland duly delivered the winning goal as the single biggest threat I'd flagged from the opening statement. The core structural argument held: Norway's attacking quality was decisive, CIV's defensive solidity kept it to two, and the counter-attack route I'd built the entire case around materialised — through Amad Diallo, exactly as I'd described, just not as I'd named in the scorers list. That's the sting: I spent two turns explaining why Diallo in behind Norway's high line was CIV's primary weapon, then picked Diomandé as the scorer instead. The one thing the match pushed back on was my claim about Norway's defensive frailty being \"structural regardless of XI\" — they conceded only once against the full-strength CIV attack, which suggests the frailty was more rotation-dependent than I allowed for.\n\n```json\n{\n  \"got_right\": [\n    \"Haaland returning and scoring proved decisive — exactly as predicted from the opening statement\",\n    \"CIV's counter-attack route to goal was live — Amad Diallo scored as I'd described tactically\",\n    \"CIV's defensive solidity limited Norway to two goals, consistent with 0.67/game conceded in group stage\",\n    \"Narrow Norway win at 90 minutes with no extra time — outcome and shape both matched\"\n  ],\n  \"got_wrong\": [\n    \"Named Diomandé as predicted scorer despite two turns of reasoning that specifically highlighted Diallo as the counter-attack threat\",\n    \"Overstated Norway's structural defensive frailty — with full-strength XI they held CIV to a single goal, suggesting rotation explained more of the group-stage leakiness than I credited\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I should have named Amad Diallo as the predicted CIV scorer, not Diomandé — I spent two turns building the case for Diallo exploiting Norway's high line in behind and then contradicted myself in the JSON.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T19:01:05.393733+00:00",
+  "got_right": [
+    "Haaland returning and scoring proved decisive — exactly as predicted from the opening statement",
+    "CIV's counter-attack route to goal was live — Amad Diallo scored as I'd described tactically",
+    "CIV's defensive solidity limited Norway to two goals, consistent with 0.67/game conceded in group stage",
+    "Narrow Norway win at 90 minutes with no extra time — outcome and shape both matched"
+  ],
+  "got_wrong": [
+    "Named Diomandé as predicted scorer despite two turns of reasoning that specifically highlighted Diallo as the counter-attack threat",
+    "Overstated Norway's structural defensive frailty — with full-strength XI they held CIV to a single goal, suggesting rotation explained more of the group-stage leakiness than I credited"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I should have named Amad Diallo as the predicted CIV scorer, not Diomandé — I spent two turns building the case for Diallo exploiting Norway's high line in behind and then contradicted myself in the JSON."
+}

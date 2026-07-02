@@ -1,0 +1,20 @@
+{
+  "team_code": "ECU",
+  "fixture_id": "079",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "The final scoreline tells a harsh story: El Tri didn't just edge this — they controlled it, with both Julián Quiñones and Raúl Jiménez finding the net while La Tricolor managed precisely zero. I did flag Jiménez as a threat, so I was right to respect El Tri's attacking quality — but I badly misjudged La Tricolor's capacity to respond. The 0–2 scoreline isn't a one-goal-got-away result; it's a reflection of a side that couldn't manufacture anything meaningful going forward. My draw prediction looked like a reasonable middle ground before kick-off; in hindsight it papered over a real quality gap I should have committed to calling.\n\n```json\n{\n  \"got_right\": [\n    \"El Tri's attacking threat was genuine — Jiménez and Quiñones both delivered\",\n    \"Flagged El Tri's forward line as the key danger for La Tricolor's defence\"\n  ],\n  \"got_wrong\": [\n    \"Predicted La Tricolor would score — they were blanked entirely\",\n    \"Treated this as a balanced, evenly-matched contest when the quality gap was clear\",\n    \"A draw prediction implied La Tricolor had enough going forward to level — they demonstrably did not\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have weighted La Tricolor's recent attacking output more critically — if the numbers showed a team struggling to score, predicting a goal and a draw was wishful thinking dressed up as caution, and I should have called the loss outright.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T08:28:02.541234+00:00",
+  "got_right": [
+    "El Tri's attacking threat was genuine — Jiménez and Quiñones both delivered",
+    "Flagged El Tri's forward line as the key danger for La Tricolor's defence"
+  ],
+  "got_wrong": [
+    "Predicted La Tricolor would score — they were blanked entirely",
+    "Treated this as a balanced, evenly-matched contest when the quality gap was clear",
+    "A draw prediction implied La Tricolor had enough going forward to level — they demonstrably did not"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have weighted La Tricolor's recent attacking output more critically — if the numbers showed a team struggling to score, predicting a goal and a draw was wishful thinking dressed up as caution, and I should have called the loss outright."
+}

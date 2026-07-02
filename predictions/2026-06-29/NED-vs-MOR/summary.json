@@ -1,0 +1,11 @@
+{
+  "fixture_id": "076",
+  "fixture_date": "2026-06-29",
+  "home_code": "NED",
+  "away_code": "MOR",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 5.702149500000001,
+  "model": "claude-sonnet-4-6"
+}

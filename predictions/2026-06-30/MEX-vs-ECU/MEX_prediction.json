@@ -1,0 +1,26 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "079",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.5,
+  "draw_probability": 0.3,
+  "loss_probability": 0.2,
+  "key_factors": [
+    "Mexico's three tournament clean sheets \u2014 consistent evidence I've been wrong to discount",
+    "Scorecard shows systematic over-prediction of opponents scoring vs El Tri \u2014 correcting now",
+    "Ecuador scoreless in 2 of 3 group games \u2014 0.67 goals/game against Mexico's 0-conceded record",
+    "1-0 is the tournament's most common scoreline and fits the defensive profile of both sides"
+  ],
+  "predicted_scorers": [
+    "Jim\u00e9nez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T11:00:31.960533+00:00"
+}

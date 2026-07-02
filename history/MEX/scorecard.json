@@ -1,11 +1,11 @@
 {
   "team_code": "MEX",
   "predictions_made": 2,
-  "results_scored": 3,
-  "correct_winner": 3,
-  "correct_scoreline_pattern": 2,
+  "results_scored": 4,
+  "correct_winner": 4,
+  "correct_scoreline_pattern": 3,
   "exact_score": 1,
-  "brier_score": 0.1576,
+  "brier_score": 0.1499,
   "per_prediction": [
     {
       "fixture_id": "001",
@@ -39,6 +39,21 @@
       "correct_winner": true,
       "correct_scoreline_pattern": false,
       "brier": 0.1355
+    },
+    {
+      "fixture_id": "079",
+      "date": "2026-06-30",
+      "stage": "round_of_32",
+      "opponent": "ECU",
+      "predicted": "1-0",
+      "actual": "2-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1267,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
     }
   ]
 }

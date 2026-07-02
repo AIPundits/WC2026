@@ -1,0 +1,30 @@
+{
+  "team_code": "ECU",
+  "fixture_id": "079",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "goes_to_extra_time": true,
+  "predicted_score_aet": {
+    "self": 1,
+    "opponent": 2
+  },
+  "penalty_winner": null,
+  "win_probability": 0.2,
+  "draw_probability": 0.3,
+  "loss_probability": 0.5,
+  "key_factors": [
+    "Ecuador's Germany 2-1 win is the most recent evidence \u2014 counter-attacking template proven in must-win knockout-style context",
+    "Mexico's zero-conceded record real but came vs weaker opposition than Pacho/Hincapi\u00e9/Caicedo defensive unit",
+    "H2H 100% draw rate in last 3 reflects genuine tactical match-up dynamic",
+    "Scorecard shows Ecuador score when existential pressure demands \u2014 this match is exactly that scenario"
+  ],
+  "predicted_scorers": [
+    "Valencia",
+    "Jim\u00e9nez"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T11:00:31.961230+00:00"
+}

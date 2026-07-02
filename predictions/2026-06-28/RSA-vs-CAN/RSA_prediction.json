@@ -1,0 +1,27 @@
+{
+  "team_code": "RSA",
+  "fixture_id": "073",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.3,
+  "draw_probability": 0.27,
+  "loss_probability": 0.43,
+  "key_factors": [
+    "Calibration adjustment: all 3 prior predictions over-pessimistic about RSA \u2014 defending elevated RSA win probability",
+    "Davies returning at partial match sharpness \u2014 new problem for Broos' right side but not a 90-minute certainty",
+    "Canada true attacking rate ~1.5 goals/game outside Qatar anomaly \u2014 gap with RSA defence is narrow",
+    "Zwane still suspended \u2014 RSA counter-attack reliant on Maseko's individual moments"
+  ],
+  "predicted_scorers": [
+    "David",
+    "Maseko"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-28T18:18:13.966495+00:00"
+}

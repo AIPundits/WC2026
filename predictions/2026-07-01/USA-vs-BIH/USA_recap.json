@@ -1,0 +1,21 @@
+{
+  "team_code": "USA",
+  "fixture_id": "082",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "Predicted outcome: correct. Predicted margin: slightly off — I expected Zmajevi to nick one goal, likely from a transition or set-piece, and they never came close. The Stars and Stripes backline held a clean sheet, which means I underestimated the defensive organisation Berhalter (or his successor) set up against Bosnia-Herzegovina's forward threat. Balogun on the scoresheet vindicated at least one of my attacking assessments, though I'd want to know whether both goals came from the areas I flagged or whether the second was more opportunistic. The core call — USA win, two goals scored — was solid; the single goal I handed Zmajevi was the one part that didn't materialise, and that's on me reading their attacking threat too generously.\n\n```json\n{\n  \"got_right\": [\n    \"Stars and Stripes win\",\n    \"USA scoring 2 goals\",\n    \"Balogun as a likely contributor to the attack\",\n    \"Zmajevi lacking the quality to threaten consistently\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Zmajevi would score 1 — they kept a clean sheet, so I overrated Bosnia's attacking threat\",\n    \"Implied USA's backline would leak at least once from a transition or set-piece\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I'd revise my assessment of Zmajevi's attacking potency downward — I gave them too much credit for a goal that never came, and a more sober read of their squad quality vs. USA's defensive structure would have pointed toward a clean sheet.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T08:35:58.280457+00:00",
+  "got_right": [
+    "Stars and Stripes win",
+    "USA scoring 2 goals",
+    "Balogun as a likely contributor to the attack",
+    "Zmajevi lacking the quality to threaten consistently"
+  ],
+  "got_wrong": [
+    "Predicted Zmajevi would score 1 — they kept a clean sheet, so I overrated Bosnia's attacking threat",
+    "Implied USA's backline would leak at least once from a transition or set-piece"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I'd revise my assessment of Zmajevi's attacking potency downward — I gave them too much credit for a goal that never came, and a more sober read of their squad quality vs. USA's defensive structure would have pointed toward a clean sheet."
+}

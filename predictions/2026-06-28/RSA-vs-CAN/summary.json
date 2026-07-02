@@ -1,0 +1,11 @@
+{
+  "fixture_id": "073",
+  "fixture_date": "2026-06-28",
+  "home_code": "RSA",
+  "away_code": "CAN",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 2.1091113,
+  "model": "claude-sonnet-4-6"
+}

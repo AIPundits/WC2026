@@ -1,0 +1,22 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "081",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-2 (win)",
+  "narrative": "The structural case held up: the Mendy absence proved decisive, Sarr delivered exactly the threat I flagged (and I had him on the scoresheet), and Senegal's defensive errors under pressure created the space Belgium's attacking line needed. The match profile came out closer to the open, high-scoring encounter I anticipated versus Senegal's press-and-transition identity — not the Egypt grind. What I got wrong is the goal count on both sides: I priced in one Senegal goal but they found two, and Belgium's actual scorer was Lukaku rather than Trossard or Doku, which suggests the final-third execution ran through different channels than I expected. Getting the result right for the right structural reasons counts, but being conservative on the total goals (predicted 3, actual 5) is a calibration miss I've now seen twice with Belgium in open games.\n\n```json\n{\n  \"got_right\": [\n    \"Belgium win — the Mendy absence proved the decisive structural gap as predicted\",\n    \"Sarr scored — correctly identified and named him as the primary Senegal attacking threat\",\n    \"Senegal's defensive errors gifting goals — Belgium did score 3, consistent with that pattern\",\n    \"Match profile open and high-scoring rather than a compact defensive grind\"\n  ],\n  \"got_wrong\": [\n    \"Senegal scored 2, not 1 — underestimated their attacking output even with the goalkeeper disadvantage\",\n    \"Lukaku scored, not Trossard or Doku — misread which channel Belgium's goals would flow through\",\n    \"Total goal count too conservative — predicted 3 goals, actual was 5\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd revise the total goals upward when both teams have this combination of attacking intent and defensive fragility — Senegal's 2.0 conceded per game should have pushed me toward a 3-2 or 3-1 scoreline rather than anchoring on a tidier 2-1.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T22:51:23.382452+00:00",
+  "got_right": [
+    "Belgium win — the Mendy absence proved the decisive structural gap as predicted",
+    "Sarr scored — correctly identified and named him as the primary Senegal attacking threat",
+    "Senegal's defensive errors gifting goals — Belgium did score 3, consistent with that pattern",
+    "Match profile open and high-scoring rather than a compact defensive grind"
+  ],
+  "got_wrong": [
+    "Senegal scored 2, not 1 — underestimated their attacking output even with the goalkeeper disadvantage",
+    "Lukaku scored, not Trossard or Doku — misread which channel Belgium's goals would flow through",
+    "Total goal count too conservative — predicted 3 goals, actual was 5"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd revise the total goals upward when both teams have this combination of attacking intent and defensive fragility — Senegal's 2.0 conceded per game should have pushed me toward a 3-2 or 3-1 scoreline rather than anchoring on a tidier 2-1."
+}

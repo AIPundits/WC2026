@@ -1,0 +1,27 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "077",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.38,
+  "draw_probability": 0.28,
+  "loss_probability": 0.34,
+  "key_factors": [
+    "Haaland returning with 4 WC goals is Norway's decisive attacking advantage",
+    "Norway's structural defensive leakiness means Diomand\u00e9/Diallo counter-attack will create",
+    "CIV's defensive solidity (2 clean sheets in 3 group matches) caps Norway's ceiling",
+    "Norway's superior goal volume in full-strength matches outweighs CIV's modest attacking output"
+  ],
+  "predicted_scorers": [
+    "Haaland",
+    "Diomand\u00e9"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T10:49:46.118983+00:00"
+}

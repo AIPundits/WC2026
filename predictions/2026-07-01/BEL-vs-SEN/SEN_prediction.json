@@ -1,0 +1,27 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "081",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
+  "loss_probability": 0.47,
+  "key_factors": [
+    "Mendy OUT \u2014 Courtois vs Diaw is the decisive knockout goalkeeper gap",
+    "Sarr in form (3 WC goals) \u2014 Senegal's pace in transition is the genuine counter-threat",
+    "Senegal defensive errors in all 3 group matches \u2014 Belgium's technical movement will find gaps",
+    "Calibration: predicted France draw, got 3-1 loss \u2014 not over-predicting Senegal's ability to hold elite opposition"
+  ],
+  "predicted_scorers": [
+    "Sarr",
+    "Trossard"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T11:04:35.396820+00:00"
+}

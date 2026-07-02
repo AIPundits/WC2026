@@ -1,0 +1,21 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "077",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "The result landed exactly as called — The Lions 2–1 Les Éléphants — and the reasoning that got me here holds up better than I expected given how evenly matched this looked on paper. I was right that Haaland would be Norway's decisive focal point (he scored the winner), right that CIV would find a way through Norway's structural defensive hole on the counter (Amad Diallo, exactly the channel I flagged via Diomandé/Diallo), and right that Norway's superior attacking volume in full-strength matches would be the deciding factor. The one miss is that Nusa opened the scoring rather than Haaland — I named Haaland as scorer and he got the winning goal, but the opener came from elsewhere, which slightly overstates how \"right\" my scorer prediction was. The model I built — high-output Norway attack versus CIV's defensive solidity eventually giving way to individual quality — described the actual match reasonably well.\n\n```json\n{\n  \"got_right\": [\n    \"Haaland returning as Norway's decisive attacking focal point — he scored the winning goal\",\n    \"CIV finding a way through Norway's structural defensive hole via counter-attack (Diallo)\",\n    \"Norway's superior goal volume in full-strength matches tipping the result in 90 minutes\",\n    \"Norway winning 2–1 with CIV conceding the match from attacking output rather than absorbing everything\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Haaland as scorer but the opener came from Nusa — I missed the second scorer entirely\",\n    \"Implied Norway's defensive leakiness would limit their ceiling more than it did — the win was still comfortable enough\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have noted Nusa as a likely scorer alongside Haaland — he had been directly involved in Norway's attacking combinations across the tournament and the briefing supported his threat, which I under-weighted in favour of the obvious Haaland call.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T19:01:05.395943+00:00",
+  "got_right": [
+    "Haaland returning as Norway's decisive attacking focal point — he scored the winning goal",
+    "CIV finding a way through Norway's structural defensive hole via counter-attack (Diallo)",
+    "Norway's superior goal volume in full-strength matches tipping the result in 90 minutes",
+    "Norway winning 2–1 with CIV conceding the match from attacking output rather than absorbing everything"
+  ],
+  "got_wrong": [
+    "Predicted Haaland as scorer but the opener came from Nusa — I missed the second scorer entirely",
+    "Implied Norway's defensive leakiness would limit their ceiling more than it did — the win was still comfortable enough"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have noted Nusa as a likely scorer alongside Haaland — he had been directly involved in Norway's attacking combinations across the tournament and the briefing supported his threat, which I under-weighted in favour of the obvious Haaland call."
+}

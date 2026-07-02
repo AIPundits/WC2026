@@ -1,11 +1,11 @@
 {
   "team_code": "GER",
   "predictions_made": 1,
-  "results_scored": 3,
+  "results_scored": 4,
   "correct_winner": 2,
   "correct_scoreline_pattern": 1,
   "exact_score": 1,
-  "brier_score": 0.2313,
+  "brier_score": 0.2672,
   "per_prediction": [
     {
       "fixture_id": "009",
@@ -39,6 +39,21 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.3989
+    },
+    {
+      "fixture_id": "075",
+      "date": "2026-06-29",
+      "stage": "round_of_32",
+      "opponent": "PAR",
+      "predicted": "2-0",
+      "actual": "1-1",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.3749,
+      "correct_advanced": false,
+      "went_to_extra_time": true,
+      "went_to_penalties": true
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "team_code": "NED",
+  "fixture_id": "076",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.42,
+  "draw_probability": 0.32,
+  "loss_probability": 0.26,
+  "key_factors": [
+    "Netherlands 10 goals in 3 group games \u2014 attacking output too consistent to suppress",
+    "Morocco 2026 CB pairing held Brazil and Scotland \u2014 Aguerd absence argument weakened by actual evidence",
+    "Gakpo vertical directness and Brobbey aerial threat pose specific problems for compact blocks",
+    "If ET: Morocco 2022 penalty record favours Atlas Lions \u2014 acknowledged by both pundits"
+  ],
+  "predicted_scorers": [
+    "Gakpo",
+    "Saibari",
+    "Malen"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-29T08:41:55.164753+00:00"
+}

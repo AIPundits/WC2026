@@ -1,0 +1,28 @@
+{
+  "fixture_id": "079",
+  "date": "2026-06-30",
+  "stage": "round_of_32",
+  "home": "MEX",
+  "away": "ECU",
+  "home_score": 2,
+  "away_score": 0,
+  "ingested_at": "2026-07-01T04:05:54.422458+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "MEX",
+  "goal_scorers": [
+    {
+      "name": "Julián Quiñones",
+      "team": "home",
+      "minute": "22'",
+      "type": "Goal"
+    },
+    {
+      "name": "Raúl Jiménez",
+      "team": "home",
+      "minute": "31'",
+      "type": "Goal"
+    }
+  ]
+}

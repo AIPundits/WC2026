@@ -1,0 +1,22 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "078",
+  "predicted_from_perspective": "1-3 (loss)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "The structural call proved correct — Hien's absence, Lindelöf forced back, France exploiting exactly the defensive gaps I flagged — and the 3-goal France haul landed precisely where I predicted, with Mbappé delivering as expected. What I got wrong is the part that stings: I argued Gyökeres and Isak would \"create something against any defence in this tournament,\" and they created precisely nothing. Sweden were blanked, not just held — and in hindsight, the same defensive reorganisation that weakened the backline also stripped out the midfield platform that sets those two free on the counter. I framed the Lindelöf problem as a defensive issue and didn't follow its full consequences upfield. The H2H competitive history I cited as a draw floor was irrelevant on the day; a Sweden side this structurally compromised had no business drawing on form.\n\n```json\n{\n  \"got_right\": [\n    \"France winning 3–0 — called the result and France's exact goal tally\",\n    \"Mbappé as a scorer — he netted twice\",\n    \"Hien's absence disrupting Sweden's defensive structure — was the central tactical problem\",\n    \"France's dominant form (10 goals, 3W in group stage) translating directly into this match\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Blågult would score through the counter-threat — Sweden were blanked entirely\",\n    \"Claimed Gyökeres/Isak retain genuine counter-threat — they had nothing across 90 minutes\",\n    \"H2H competitive history cited as evidence of a draw floor — irrelevant given the structural damage to Sweden's shape\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have traced the Lindelöf-drops-back problem all the way upfield: losing your defensive midfielder to the backline doesn't just expose the defence — it also removes the platform that launches the counter-attack you're counting on to score.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T22:56:13.720833+00:00",
+  "got_right": [
+    "France winning 3–0 — called the result and France's exact goal tally",
+    "Mbappé as a scorer — he netted twice",
+    "Hien's absence disrupting Sweden's defensive structure — was the central tactical problem",
+    "France's dominant form (10 goals, 3W in group stage) translating directly into this match"
+  ],
+  "got_wrong": [
+    "Predicted Blågult would score through the counter-threat — Sweden were blanked entirely",
+    "Claimed Gyökeres/Isak retain genuine counter-threat — they had nothing across 90 minutes",
+    "H2H competitive history cited as evidence of a draw floor — irrelevant given the structural damage to Sweden's shape"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have traced the Lindelöf-drops-back problem all the way upfield: losing your defensive midfielder to the backline doesn't just expose the defence — it also removes the platform that launches the counter-attack you're counting on to score."
+}

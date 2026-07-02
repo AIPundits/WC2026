@@ -1,0 +1,21 @@
+{
+  "team_code": "BIH",
+  "fixture_id": "082",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "The result direction I called correctly — Stars and Stripes were the better side, and a Zmajevi loss was the right prediction. But I overcounted what the Zmajevi attack would produce: a clean sheet conceded tells you we either couldn't create meaningful chances, couldn't convert when we did, or both. Folarin Balogun did the damage for USA, which I'd identified as a threat pre-match, so credit there — but the scoreline of 0–2 is arguably more clinical than 1–2 and reflects an American side that had us fairly well under control throughout. The one goal I gave Zmajevi credit for scoring never materialised, and that gap between 1 and 0 is the honest part of this reflection.\n\n```json\n{\n  \"got_right\": [\n    \"Stars and Stripes winning the match\",\n    \"Balogun identified as a goal threat for USA\",\n    \"Zmajevi as clear underdogs with limited room to hurt a structured USA defence\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Zmajevi would score at least once — they were shut out\",\n    \"Underestimated USA's defensive solidity and ability to keep a clean sheet\",\n    \"Overestimated Zmajevi's attacking output in a high-pressure group stage match\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Zmajevi's attacking conversion rate more critically against a well-organised USA backline, and leaned toward a 0–2 or 0–1 scoreline rather than granting us a consolation goal that the evidence didn't strongly support.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T08:35:58.282178+00:00",
+  "got_right": [
+    "Stars and Stripes winning the match",
+    "Balogun identified as a goal threat for USA",
+    "Zmajevi as clear underdogs with limited room to hurt a structured USA defence"
+  ],
+  "got_wrong": [
+    "Predicted Zmajevi would score at least once — they were shut out",
+    "Underestimated USA's defensive solidity and ability to keep a clean sheet",
+    "Overestimated Zmajevi's attacking output in a high-pressure group stage match"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Zmajevi's attacking conversion rate more critically against a well-organised USA backline, and leaned toward a 0–2 or 0–1 scoreline rather than granting us a consolation goal that the evidence didn't strongly support."
+}

@@ -1,11 +1,11 @@
 {
   "team_code": "RSA",
   "predictions_made": 2,
-  "results_scored": 3,
-  "correct_winner": 1,
-  "correct_scoreline_pattern": 1,
+  "results_scored": 4,
+  "correct_winner": 2,
+  "correct_scoreline_pattern": 2,
   "exact_score": 0,
-  "brier_score": 0.2762,
+  "brier_score": 0.2478,
   "per_prediction": [
     {
       "fixture_id": "001",
@@ -39,6 +39,21 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2873
+    },
+    {
+      "fixture_id": "073",
+      "date": "2026-06-28",
+      "stage": "round_of_32",
+      "opponent": "CAN",
+      "predicted": "1-2",
+      "actual": "0-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1626,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
     }
   ]
 }

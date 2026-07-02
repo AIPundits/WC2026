@@ -1,0 +1,22 @@
+{
+  "team_code": "PAR",
+  "fixture_id": "075",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "Well. Paraguay without Gómez, averaging a third of a goal per game, drew 1-1 with a Germany side that had scored ten in three group matches. The one thing I got right was that Germany's attack would produce — they did get their goal — and I was right to flag Almirón's return as the only genuine mitigating factor, because whoever created or finished Paraguay's equaliser did so in transition, exactly the scenario I described as the one avenue available to Albirroja. What I got wrong was treating \"0.33 goals per game\" as a near-ceiling for Paraguay's output in this match specifically: tournament averages don't account for a reshuffled German defence, a single moment of quality, or the emotional energy of a knockout fixture. I also overestimated how decisively Germany would convert their volume — 7.3 shots on target per game in the group stage against Turkey and Australia is not the same as 7.3 shots on target against a Paraguay backline playing for its life. The one thing I'd change is this: I gave Almirón's return perhaps one sentence of weight and immediately talked myself out of it; a sounder approach would have been to model the specific matchup of Almirón versus Germany's untested centre-back pairing more seriously, even if the conclusion stayed the same.\n\n```json\n{\n  \"got_right\": [\n    \"Germany's attack was a genuine threat — they did score\",\n    \"Almirón's return identified as the key mitigating factor for Paraguay in transition\",\n    \"Reshuffled German defence flagged as a potential vulnerability\"\n  ],\n  \"got_wrong\": [\n    \"Paraguay's 0.33 goals/game group average treated as a near-ceiling — they scored in a knockout match\",\n    \"Germany's group-stage goal volume did not translate to a dominant winning performance here\",\n    \"Gómez suspension did not devastate Paraguay's structure as severely as predicted\",\n    \"Loss probability of 0.73 was too high — the draw was a live outcome I discounted too heavily\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have modelled Almirón versus Germany's untested centre-back pairing as a concrete tactical matchup rather than dismissing it in one sentence, which would have pushed draw probability meaningfully higher than the 0.17 I locked in.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T08:54:13.687326+00:00",
+  "got_right": [
+    "Germany's attack was a genuine threat — they did score",
+    "Almirón's return identified as the key mitigating factor for Paraguay in transition",
+    "Reshuffled German defence flagged as a potential vulnerability"
+  ],
+  "got_wrong": [
+    "Paraguay's 0.33 goals/game group average treated as a near-ceiling — they scored in a knockout match",
+    "Germany's group-stage goal volume did not translate to a dominant winning performance here",
+    "Gómez suspension did not devastate Paraguay's structure as severely as predicted",
+    "Loss probability of 0.73 was too high — the draw was a live outcome I discounted too heavily"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have modelled Almirón versus Germany's untested centre-back pairing as a concrete tactical matchup rather than dismissing it in one sentence, which would have pushed draw probability meaningfully higher than the 0.17 I locked in."
+}

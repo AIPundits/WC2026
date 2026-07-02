@@ -1,0 +1,30 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "076",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "goes_to_extra_time": true,
+  "predicted_score_aet": {
+    "self": 1,
+    "opponent": 1
+  },
+  "penalty_winner": "self",
+  "win_probability": 0.27,
+  "draw_probability": 0.32,
+  "loss_probability": 0.41,
+  "key_factors": [
+    "Morocco 2026 CB pairing held Brazil and Scotland \u2014 defensive ceiling confirmed by tournament evidence",
+    "Netherlands 10 goals in 3 games is elite but compact blocks present a different problem",
+    "2022 penalty asymmetry: Morocco beat Spain, Netherlands lost to Argentina \u2014 shootout favours Atlas Lions",
+    "Scoreline base rates favour 1-0/1-1 outcomes \u2014 multiple goal Netherlands wins require specific conditions"
+  ],
+  "predicted_scorers": [
+    "Saibari",
+    "Gakpo"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-29T08:41:55.165436+00:00"
+}

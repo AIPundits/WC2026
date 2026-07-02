@@ -1,0 +1,11 @@
+{
+  "fixture_id": "079",
+  "fixture_date": "2026-06-30",
+  "home_code": "MEX",
+  "away_code": "ECU",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 4.23076545,
+  "model": "claude-sonnet-4-6"
+}

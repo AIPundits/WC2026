@@ -1,0 +1,11 @@
+{
+  "fixture_id": "078",
+  "fixture_date": "2026-06-30",
+  "home_code": "FRA",
+  "away_code": "SWE",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 2.1526882499999997,
+  "model": "claude-sonnet-4-6"
+}

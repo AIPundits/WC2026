@@ -1,0 +1,22 @@
+{
+  "fixture_id": "076",
+  "date": "2026-06-29",
+  "stage": "round_of_32",
+  "home": "NED",
+  "away": "MOR",
+  "home_score": 1,
+  "away_score": 1,
+  "ingested_at": "2026-06-30T08:53:34.286922+00:00",
+  "home_score_aet": 1,
+  "away_score_aet": 1,
+  "penalty_winner": "away",
+  "advanced": "MOR",
+  "goal_scorers": [
+    {
+      "name": "Cody Gakpo",
+      "team": "home",
+      "minute": "72'",
+      "type": "Goal"
+    }
+  ]
+}

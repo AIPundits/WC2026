@@ -1,0 +1,21 @@
+{
+  "team_code": "GER",
+  "fixture_id": "075",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "A 1-1 draw against a side I described as \"structurally blunt\" — I got the attacking asymmetry directionally right (Die Mannschaft scored, Paraguay scored just once, consistent with their group stage record), but I completely missed the defensive resilience Albirroja brought into this fixture. I noted Paraguay's two clean sheets in the group stage and then dismissed them as being against \"limited\" opposition — that was a mistake, because the same defensive organisation that kept Turkey and Australia out held Die Mannschaft to a single goal too. The Gómez suspension did limit Paraguay's creativity going forward, which was part of my case, but I failed to weight the corollary: a Paraguay side without attacking ambition parks deeper, makes the game compact, and a 2-0 or clean-sheet outcome becomes harder, not easier, to achieve. My own scorecard warned me Germany can be stopped when a compact shape disrupts their circulation, and I didn't apply that lesson rigorously enough to this match.\n\n```json\n{\n  \"got_right\": [\n    \"Paraguay limited to 1 goal — attacking bluntness broadly confirmed\",\n    \"Gómez suspension reduced Paraguay's creative threat in midfield\",\n    \"Germany scored — attacking quality remained functional despite defensive reshuffle\"\n  ],\n  \"got_wrong\": [\n    \"Predicted a clean sheet — Paraguay's defensive compactness held firm against Die Mannschaft\",\n    \"Overestimated Germany's ability to control and close out a knockout game\",\n    \"Dismissed Paraguay's two group-stage clean sheets as evidence of defensive quality\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have weighted Paraguay's group-stage defensive record (two clean sheets, compact shape) as a genuine constraint on Germany's scoring ceiling, rather than treating it as irrelevant noise from weak opposition — the same organisation that kept Turkey and Australia out is the organisation that held Die Mannschaft to one goal.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T08:54:13.686420+00:00",
+  "got_right": [
+    "Paraguay limited to 1 goal — attacking bluntness broadly confirmed",
+    "Gómez suspension reduced Paraguay's creative threat in midfield",
+    "Germany scored — attacking quality remained functional despite defensive reshuffle"
+  ],
+  "got_wrong": [
+    "Predicted a clean sheet — Paraguay's defensive compactness held firm against Die Mannschaft",
+    "Overestimated Germany's ability to control and close out a knockout game",
+    "Dismissed Paraguay's two group-stage clean sheets as evidence of defensive quality"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have weighted Paraguay's group-stage defensive record (two clean sheets, compact shape) as a genuine constraint on Germany's scoring ceiling, rather than treating it as irrelevant noise from weak opposition — the same organisation that kept Turkey and Australia out is the organisation that held Die Mannschaft to one goal."
+}

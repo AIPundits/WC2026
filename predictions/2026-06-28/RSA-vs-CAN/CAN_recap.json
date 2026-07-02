@@ -1,0 +1,21 @@
+{
+  "team_code": "CAN",
+  "fixture_id": "073",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "The result is correct but the scoresheet tells a slightly humbling story: I had Canada scoring twice and conceding once, the actual match delivered a single goal and a clean sheet. The right directional call was there — Davies' return genuinely did confront Broos' right side with a problem they hadn't prepared for, and that unlocking role proved decisive — but I over-trusted Canada's goals-against profile and under-trusted RSA's defensive resolve to sustain a clean sheet even against Davies at close to full sharpness. The Ronwen Williams form note I acknowledged in my rebuttal turned out to be load-bearing: he kept Bafana Bafana in it for long enough that Les Rouges had to grind out the single goal rather than find a second. I also had Maseko as a goal threat who would land a counter — that never materialised, which in hindsight reflects how well Canada managed their defensive shape once ahead.\n\n```json\n{\n  \"got_right\": [\n    \"Canada win in regulation — correct directional call\",\n    \"Davies' return created a qualitatively new problem for RSA's right side\",\n    \"RSA's defensive discipline would make at least one goal difficult for Canada\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Canada score 2 — they scored only 1\",\n    \"Predicted RSA would score via Maseko counter-attack — Canada kept a clean sheet\",\n    \"Over-estimated Canada's true goal output; Qatar blowout discount wasn't applied sharply enough\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I would have weighted Ronwen Williams' in-tournament shot-stopping form more heavily as a downward pressure on Canada's expected goals, rather than briefly acknowledging it and leaving the 2-goal prediction unchanged.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-29T06:30:02.527419+00:00",
+  "got_right": [
+    "Canada win in regulation — correct directional call",
+    "Davies' return created a qualitatively new problem for RSA's right side",
+    "RSA's defensive discipline would make at least one goal difficult for Canada"
+  ],
+  "got_wrong": [
+    "Predicted Canada score 2 — they scored only 1",
+    "Predicted RSA would score via Maseko counter-attack — Canada kept a clean sheet",
+    "Over-estimated Canada's true goal output; Qatar blowout discount wasn't applied sharply enough"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I would have weighted Ronwen Williams' in-tournament shot-stopping form more heavily as a downward pressure on Canada's expected goals, rather than briefly acknowledging it and leaving the 2-goal prediction unchanged."
+}

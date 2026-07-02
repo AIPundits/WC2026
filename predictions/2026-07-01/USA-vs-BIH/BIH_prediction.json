@@ -1,0 +1,28 @@
+{
+  "team_code": "BIH",
+  "fixture_id": "082",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.13,
+  "draw_probability": 0.24,
+  "loss_probability": 0.63,
+  "key_factors": [
+    "R2 pattern \u2014 over-priced draw vs superior Switzerland, same risk corrected here",
+    "BIH 0.5 xG from open play structural ceiling justifies sub-baseline draw probability",
+    "D\u017eeko set-piece aerial threat the one confirmed BIH scoring mechanism",
+    "USA full-strength IX with Pulisic fit \u2014 8 goals in group stage, rested and motivated"
+  ],
+  "predicted_scorers": [
+    "D\u017eeko",
+    "Pulisic",
+    "Balogun"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T11:08:07.522407+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "080",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.57,
+  "draw_probability": 0.28,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Scorecard calibration: Ghana 0-0 miss drives draw probability to knockout base rate (28%)",
+    "Rice returns \u2014 key midfield upgrade from the Ghana stalemate",
+    "Wissa targeting Spence channel \u2014 credible DCO counter-attack threat accounts for their goal",
+    "Mpasi crucial saves vs Colombia \u2014 DCO defensive resilience is genuine, not paper",
+    "Knockout dynamic forces DR Congo to commit forward, creating space England's quality exploits"
+  ],
+  "predicted_scorers": [
+    "Kane",
+    "Bellingham",
+    "Wissa"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T11:01:32.233854+00:00"
+}

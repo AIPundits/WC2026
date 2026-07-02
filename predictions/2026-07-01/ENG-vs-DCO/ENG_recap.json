@@ -1,0 +1,22 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "080",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "The scoreline landed exactly where I called it — Three Lions 2–1 Léopards — and the key structural arguments held: England's quality was decisive, the knockout dynamic forced DR Congo to commit forward and they paid for it, and Rice's return provided the midfield platform the Ghana match lacked. Kane scoring was the most predictable piece of the whole thing, and I had that right. Where I was wrong: I flagged Wissa through the Spence channel as the primary DCO counter-attack threat, but it was Cipenga — not Wissa — who got the goal, which suggests the specific tactical route I identified either didn't materialise or wasn't the real danger point. I also called Bellingham as a scorer, and without confirmation he got one of England's goals that remains an open miss.\n\n```json\n{\n  \"got_right\": [\n    \"Scoreline: Three Lions 2–1 Léopards in regulation\",\n    \"Kane scoring — identified as England's most reliable threat\",\n    \"DR Congo scoring once — knockout dynamic forcing them forward, creating a vulnerability\",\n    \"England winning in ninety minutes — draw probability at 0.28 reflected genuine uncertainty without triggering a different result call\"\n  ],\n  \"got_wrong\": [\n    \"Wissa as the DCO goalscorer — it was Cipenga, not Wissa through the right-back channel\",\n    \"Bellingham as a scorer — no confirmation he found the net\",\n    \"Specific right-back channel threat via Wissa may have been overstated as the primary DCO route\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I over-specified Wissa as the DCO goal threat — I should have distributed scorer probability across multiple DCO attackers rather than anchoring so heavily on one channel.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T18:05:56.460900+00:00",
+  "got_right": [
+    "Scoreline: Three Lions 2–1 Léopards in regulation",
+    "Kane scoring — identified as England's most reliable threat",
+    "DR Congo scoring once — knockout dynamic forcing them forward, creating a vulnerability",
+    "England winning in ninety minutes — draw probability at 0.28 reflected genuine uncertainty without triggering a different result call"
+  ],
+  "got_wrong": [
+    "Wissa as the DCO goalscorer — it was Cipenga, not Wissa through the right-back channel",
+    "Bellingham as a scorer — no confirmation he found the net",
+    "Specific right-back channel threat via Wissa may have been overstated as the primary DCO route"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I over-specified Wissa as the DCO goal threat — I should have distributed scorer probability across multiple DCO attackers rather than anchoring so heavily on one channel."
+}

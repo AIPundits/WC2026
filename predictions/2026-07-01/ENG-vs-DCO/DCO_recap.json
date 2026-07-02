@@ -1,0 +1,22 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "080",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The result landed exactly as called — **Léopards 1 – Three Lions 2**, one-goal margin, England's quality ultimately telling — and the broad reasoning framework held up: DCO were competitive throughout, never fragile, and the knockout dynamic eventually created the space England exploited. What I got wrong on the detail: I was so fixated on the Wissa-vs-Spence counter-attack channel as the DCO goal route that I listed Wissa as the scorer, but it was Cipenga who found the net, suggesting the goal came from a different source entirely — I over-indexed on one mechanism while the Léopards actually scored through a different avenue. On England's side, I predicted both Kane and Bellingham on the scoresheet, but only Kane appears in the result; Bellingham either didn't contribute a goal or my confidence in his goal threat was misplaced for this particular match. The scoreline prediction was sound, the scorer predictions were 1-for-3.\n\n```json\n{\n  \"got_right\": [\n    \"Exact scoreline — Léopards 1–2 Three Lions\",\n    \"One-goal margin call — England quality telling but not a comfortable cruise\",\n    \"Kane on the scoresheet for Three Lions\",\n    \"DCO defensive credibility — never conceded more than one goal, consistent with prior tournament pattern\"\n  ],\n  \"got_wrong\": [\n    \"Wissa as DCO scorer — it was Cipenga, not Wissa, who found the net\",\n    \"Bellingham as second English scorer — Kane scored but Bellingham did not\",\n    \"Wissa-vs-Spence counter-attack as the primary DCO goal mechanism — evidently not how the goal came\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I over-committed to Wissa as the sole DCO goal threat and should have acknowledged Cipenga and other central options as credible scorer candidates alongside him, rather than tying the whole DCO attacking narrative to a single channel.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T18:05:56.461695+00:00",
+  "got_right": [
+    "Exact scoreline — Léopards 1–2 Three Lions",
+    "One-goal margin call — England quality telling but not a comfortable cruise",
+    "Kane on the scoresheet for Three Lions",
+    "DCO defensive credibility — never conceded more than one goal, consistent with prior tournament pattern"
+  ],
+  "got_wrong": [
+    "Wissa as DCO scorer — it was Cipenga, not Wissa, who found the net",
+    "Bellingham as second English scorer — Kane scored but Bellingham did not",
+    "Wissa-vs-Spence counter-attack as the primary DCO goal mechanism — evidently not how the goal came"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I over-committed to Wissa as the sole DCO goal threat and should have acknowledged Cipenga and other central options as credible scorer candidates alongside him, rather than tying the whole DCO attacking narrative to a single channel."
+}

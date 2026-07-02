@@ -1,0 +1,21 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "076",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "The prediction I locked in — **Atlas Lions 1 – Oranje 1 at 90 minutes** — landed exactly, and the structural argument that got me there holds up: Morocco's compact defensive block limited Netherlands' attack to a single goal despite their tournament-leading output, and the match finished tight as the scoreline-base-rate analysis said it would. I had Gakpo as a predicted scorer and he delivered — the vertical directness I flagged as a genuine tactical concern for our backline was precisely how Netherlands created their threat. Where I missed was on the Atlas Lions' scoring source: Saibari was my named threat and he evidently didn't convert (the scorer on our side isn't listed in the brief, suggesting it was someone else entirely), which means I had the shape right but the mechanics wrong. Crucially, I also predicted Morocco advancing via penalties — the result is recorded as a draw, so either the match didn't reach that conclusion or the knockout resolution went differently from my anticipated path, which is the honest gap between getting the 90-minute scoreline right and getting the full narrative right.\n\n```json\n{\n  \"got_right\": [\n    \"1-1 scoreline at 90 minutes — exact match\",\n    \"Gakpo identified as a scorer and he delivered\",\n    \"Morocco's defensive block held Netherlands to one goal despite elite attacking output\",\n    \"Draw probability calibrated above tournament base rate was warranted for this specific matchup\"\n  ],\n  \"got_wrong\": [\n    \"Saibari as Atlas Lions scorer — did not appear to score; actual scorer not identified from available data\",\n    \"Penalty advancement prediction uncertain — result recorded as draw, advancement path unclear from brief\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd be more agnostic on the specific scorer for Morocco — anchoring on Saibari given his group stage hat-trick was reasonable but I should have spread scorer probability more evenly across Ounahi, En-Nesyri, and the wider squad rather than concentrating it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T08:54:30.323174+00:00",
+  "got_right": [
+    "1-1 scoreline at 90 minutes — exact match",
+    "Gakpo identified as a scorer and he delivered",
+    "Morocco's defensive block held Netherlands to one goal despite elite attacking output",
+    "Draw probability calibrated above tournament base rate was warranted for this specific matchup"
+  ],
+  "got_wrong": [
+    "Saibari as Atlas Lions scorer — did not appear to score; actual scorer not identified from available data",
+    "Penalty advancement prediction uncertain — result recorded as draw, advancement path unclear from brief"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd be more agnostic on the specific scorer for Morocco — anchoring on Saibari given his group stage hat-trick was reasonable but I should have spread scorer probability more evenly across Ounahi, En-Nesyri, and the wider squad rather than concentrating it."
+}

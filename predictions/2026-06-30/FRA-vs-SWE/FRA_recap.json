@@ -1,0 +1,22 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "078",
+  "predicted_from_perspective": "3-1 (win)",
+  "actual_from_perspective": "3-0 (win)",
+  "narrative": "The scoreline flatters my prediction only slightly — I got the result and France's three goals precisely right, but I credited Blågult's counter-attacking threat too generously. Gyökeres and Isak being shut out completely tells you the Saliba-Upamecano partnership was even more dominant than I expected, and my reasoning about Sweden finding \"a consolation through the counter\" turned out to be noise — they barely threatened. Mbappé was correct as a scorer (doubled up), but Barcola not Dembélé was the one who made the difference in front of goal, which is a small miss. The Hien-absence argument held entirely — Sweden's defensive structure never recovered, and France exploited it exactly as I described — the under-prediction I identified in my calibration check was real but manifested through a clean sheet rather than more French goals.\n\n```json\n{\n  \"got_right\": [\n    \"France winning 3–0 (goals exactly correct at 3)\",\n    \"Hien's absence disrupting Sweden's defensive structure, exploited by France's attack\",\n    \"Mbappé as a scorer (scored twice)\",\n    \"Sweden's group-stage defensive vulnerability carrying into the knockout\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Sweden would score 1 via counter-attack — they were completely shut out\",\n    \"Credited Gyökeres/Isak as a genuine counter-threat — neither troubled France's backline\",\n    \"Predicted Dembélé as scorer — Barcola took that role instead\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would strip out the 'Sweden consolation goal through the counter' narrative entirely — the Saliba-Upamecano clean-sheet potential against a structurally disrupted Blågult side warranted more weight than I gave it, and anchoring too strongly on the 'counter-threat from Gyökeres/Isak' inflated my opponent-goal prediction when the conditions didn't support it.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T22:56:13.719196+00:00",
+  "got_right": [
+    "France winning 3–0 (goals exactly correct at 3)",
+    "Hien's absence disrupting Sweden's defensive structure, exploited by France's attack",
+    "Mbappé as a scorer (scored twice)",
+    "Sweden's group-stage defensive vulnerability carrying into the knockout"
+  ],
+  "got_wrong": [
+    "Predicted Sweden would score 1 via counter-attack — they were completely shut out",
+    "Credited Gyökeres/Isak as a genuine counter-threat — neither troubled France's backline",
+    "Predicted Dembélé as scorer — Barcola took that role instead"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would strip out the 'Sweden consolation goal through the counter' narrative entirely — the Saliba-Upamecano clean-sheet potential against a structurally disrupted Blågult side warranted more weight than I gave it, and anchoring too strongly on the 'counter-threat from Gyökeres/Isak' inflated my opponent-goal prediction when the conditions didn't support it."
+}

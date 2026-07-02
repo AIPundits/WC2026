@@ -1,0 +1,28 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "081",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.5,
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Mendy OUT \u2014 Courtois vs Diaw is the decisive structural goalkeeper gap in a knockout tie",
+    "Senegal's press/transition identity creates space \u2014 match profile closer to NZL than Egypt grind",
+    "Sarr and Man\u00e9 scored against France and Norway \u2014 one Senegal goal priced in as realistic",
+    "Scorecard calibration: Belgium underscored vs open opponents (5 vs NZL) \u2014 holding 2 given Senegal's defensive quality above NZL level"
+  ],
+  "predicted_scorers": [
+    "Trossard",
+    "Doku",
+    "Sarr"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T11:04:35.396273+00:00"
+}

@@ -1,13 +1,29 @@
-# Tournament Context — updated 2026-06-28
+# Tournament Context — updated 2026-07-02
 
-**Matches with results:** 72
-**Average goals/game:** 2.99
-**Draw rate:** 27.8% (20 draws in 72 matches)
+**Matches with results:** 82 (72 group stage, 10 knockout)
+**Average goals/game (all matches):** 2.94
+**Draw rate — group stage:** 27.8% (20 draws in 72 matches)
+**Draw rate — knockout (level at 90 min):** 20.0% (2 in 10 matches)
 
-## Actual scoreline frequency
+## Knockout scoreline frequency (use this for knockout fixtures)
 
-| Scoreline | Count | % of matches |
-|-----------|-------|--------------|
+*10 knockout matches played. 2 went to extra time level at 90 min.* *Of 8 decisive results: 5 settled by 1 goal, 3 by 2+ goals.*
+
+| Scoreline | Count | % of KO matches |
+|-----------|-------|-----------------|
+| 2-1 | 3 | 30.0% |
+| 2-0 | 2 | 20.0% |
+| 1-1 draw | 2 | 20.0% |
+| 3-2 | 1 | 10.0% |
+| 1-0 | 1 | 10.0% |
+| 3-0 | 1 | 10.0% |
+
+## Group stage scoreline frequency (context only for knockout fixtures)
+
+*72 group stage matches. Use for individual team scoring patterns (a team that scored 8 group stage goals carries real attacking threat), but do not use group stage margins as a template for knockout scorelines — mismatches that produced blowouts in the group stage are rare in the knockout rounds.*
+
+| Scoreline | Count | % of GS matches |
+|-----------|-------|-----------------|
 | 1-0 | 10 | 13.9% |
 | 1-1 draw | 9 | 12.5% |
 | 3-1 | 8 | 11.1% |
@@ -28,7 +44,8 @@
 
 ## Calibration notes for pundits
 
-- **1-0 is the most common result** — do not require 2+ goals from the stronger team unless there is clear attacking evidence.
-- **2-1 is historically over-predicted** — it accounts for a small fraction of actual results; favour 1-0 or 2-0 for one-sided contests.
-- **Draws occur in roughly 27.8% of group stage matches** — if your draw probability is well below this, you are likely under-pricing level results.
-- **Blowouts happen** — scorelines of 4-0, 5-1, 6-0 have occurred. When one team is structurally outclassed, wider margins are more likely than the 2-1 default.
+- **Tight margins dominate knockout results** — of 8 decisive knockout results, 5 were settled by exactly 1 goal and only 3 by 2 or more. A 1-goal winning margin (e.g. 1-0, 2-1) is the knockout norm; predict a 2+ goal gap only when there is a clear quality and fitness gap evidenced by this tournament.
+- **Knockout draw rate (level at 90 min): 20.0% (2/10 matches)** — a draw at 90 min triggers extra time. Do not set `draw_probability` below this rate without strong evidence of a decisive winner.
+- **Group stage scoring volume is evidence about individual teams, not knockout scorelines** — a team that scored consistently in the group stage has proven attacking quality that carries into the knockouts. An inability to score in the group stage is equally telling. But use the knockout frequency table above as your scoreline prior, not the group stage table.
+- **Group stage draw rate: 27.8%** — relevant only for group stage fixtures.
+- **Blowouts are rare in knockout rounds** — they occurred in the group stage (6-0, 7-1) but the knockout data shows far tighter margins. Only predict a large margin if the quality gap is exceptional and evidenced by this tournament, not just reputation.

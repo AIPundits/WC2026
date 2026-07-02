@@ -1,0 +1,22 @@
+{
+  "team_code": "JPN",
+  "fixture_id": "074",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "Got the scoreline right and I won't pretend otherwise — but let me be honest about what drove the right answer and what missed. The structural call about Endo's absence and Brazil's defensive organisation was sound: Brazil controlled the match as expected, Seleção's one concession came via Sano rather than the Ueda-Kamada axis I'd specifically flagged, which tells you the goal came from a route I hadn't fully accounted for. My scorer predictions were completely wrong — Martinelli, not Vinicius or Cunha, was the Brazilian finisher, and none of my three named scorers appeared on the sheet. The scoreline prediction was correct, the mechanism that produced it was not.\n\n```json\n{\n  \"got_right\": [\n    \"Exact scoreline: Samurai Blue 1–2 Seleção\",\n    \"Brazil winning as clear favourites\",\n    \"Japan scoring one goal despite injury-depleted squad — individual quality still finding a route through\",\n    \"Endo absence and Brazil's defensive solidity as the two primary structural factors\"\n  ],\n  \"got_wrong\": [\n    \"All three named scorers wrong — Ueda, Vinicius, Cunha; actual scorers were Sano and Martinelli\",\n    \"Over-indexed on Kamada and Ueda as Japan's most likely scoring routes; actual goal came from a different profile\",\n    \"Vinicius flagged as primary Brazil scorer; Martinelli delivered instead\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"Rather than narrowing scorer predictions to the three most obvious names, I'd have acknowledged that Japan's goal was as likely to come from a set-piece or a non-first-choice attacker route — the injury list should have made me less specific, not more.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-29T19:06:01.946488+00:00",
+  "got_right": [
+    "Exact scoreline: Samurai Blue 1–2 Seleção",
+    "Brazil winning as clear favourites",
+    "Japan scoring one goal despite injury-depleted squad — individual quality still finding a route through",
+    "Endo absence and Brazil's defensive solidity as the two primary structural factors"
+  ],
+  "got_wrong": [
+    "All three named scorers wrong — Ueda, Vinicius, Cunha; actual scorers were Sano and Martinelli",
+    "Over-indexed on Kamada and Ueda as Japan's most likely scoring routes; actual goal came from a different profile",
+    "Vinicius flagged as primary Brazil scorer; Martinelli delivered instead"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "Rather than narrowing scorer predictions to the three most obvious names, I'd have acknowledged that Japan's goal was as likely to come from a set-piece or a non-first-choice attacker route — the injury list should have made me less specific, not more."
+}

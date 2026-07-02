@@ -1,0 +1,27 @@
+{
+  "team_code": "GER",
+  "fixture_id": "075",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.67,
+  "draw_probability": 0.19,
+  "loss_probability": 0.14,
+  "key_factors": [
+    "Paraguay 1 goal in 3 group games \u2014 structural attacking bluntness confirmed",
+    "G\u00f3mez suspended \u2014 midfield worse today than in Paraguay's two clean sheet matches",
+    "Scorecard calibration: ECU loss shows Germany can be beaten by high press; Paraguay lacks the attack to replicate it",
+    "Germany 10 goals in 3 group games \u2014 attacking depth unaffected by defensive reshuffle"
+  ],
+  "predicted_scorers": [
+    "Havertz",
+    "Wirtz"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-29T08:33:53.108436+00:00"
+}

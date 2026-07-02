@@ -1,0 +1,22 @@
+{
+  "team_code": "NED",
+  "fixture_id": "076",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "The 1-1 scoreline is exactly the scenario I kept describing as \"the closest rival\" to my primary call — and yet I still didn't predict it. Gakpo scoring was correct, and Morocco's defensive resilience against elite attacking quality was something I flagged throughout the debate. What I got wrong was the decisive part: I argued that Netherlands' attacking output (10 goals, 3.3 per game) was \"too consistent to suppress,\" but Morocco's compact block held Oranje to a single goal, which is precisely what their Brazil result had already told me was achievable. The one thing I'd change: once the Atlas Lions pundit demonstrated that Morocco's 2026 CB pairing had already empirically held Brazil and Scotland without Aguerd, I should have moved my draw probability higher and my win probability lower — the evidence was in front of me and I didn't fully act on it.\n\n```json\n{\n  \"got_right\": [\n    \"Gakpo scoring — correctly identified him as Netherlands' primary goal threat\",\n    \"Morocco's defensive block being capable of limiting elite attacks to one goal\",\n    \"Draw flagged throughout as a realistic scenario at 0.32 probability\",\n    \"Saibari/Hakimi transition threat acknowledged as genuine danger to Netherlands\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Netherlands win in regulation — overestimated their ability to find a second goal vs compact block\",\n    \"Relied too heavily on Netherlands' group-stage goal tally as predictive of knockout output\",\n    \"Aguerd absence argument — Morocco's 2026 CB pairing had already empirically disproved this concern\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"Once the empirical evidence from Morocco's 2026 campaign (holding Brazil, Scotland without Aguerd) directly refuted my central attacking advantage argument, I should have shifted my primary prediction to 1-1 rather than holding Oranje 2-1 as the headline call.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T08:54:30.322372+00:00",
+  "got_right": [
+    "Gakpo scoring — correctly identified him as Netherlands' primary goal threat",
+    "Morocco's defensive block being capable of limiting elite attacks to one goal",
+    "Draw flagged throughout as a realistic scenario at 0.32 probability",
+    "Saibari/Hakimi transition threat acknowledged as genuine danger to Netherlands"
+  ],
+  "got_wrong": [
+    "Predicted Netherlands win in regulation — overestimated their ability to find a second goal vs compact block",
+    "Relied too heavily on Netherlands' group-stage goal tally as predictive of knockout output",
+    "Aguerd absence argument — Morocco's 2026 CB pairing had already empirically disproved this concern"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "Once the empirical evidence from Morocco's 2026 campaign (holding Brazil, Scotland without Aguerd) directly refuted my central attacking advantage argument, I should have shifted my primary prediction to 1-1 rather than holding Oranje 2-1 as the headline call."
+}

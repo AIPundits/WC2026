@@ -1,0 +1,22 @@
+{
+  "fixture_id": "082",
+  "date": "2026-07-01",
+  "stage": "round_of_32",
+  "home": "USA",
+  "away": "BIH",
+  "home_score": 2,
+  "away_score": 0,
+  "ingested_at": "2026-07-02T02:10:55.993720+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "USA",
+  "goal_scorers": [
+    {
+      "name": "Folarin Balogun",
+      "team": "home",
+      "minute": "45'",
+      "type": "Goal"
+    }
+  ]
+}

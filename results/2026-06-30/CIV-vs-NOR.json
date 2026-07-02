@@ -1,0 +1,34 @@
+{
+  "fixture_id": "077",
+  "date": "2026-06-30",
+  "stage": "round_of_32",
+  "home": "CIV",
+  "away": "NOR",
+  "home_score": 1,
+  "away_score": 2,
+  "ingested_at": "2026-06-30T19:00:15.486898+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "NOR",
+  "goal_scorers": [
+    {
+      "name": "Antonio Nusa",
+      "team": "away",
+      "minute": "39'",
+      "type": "Goal"
+    },
+    {
+      "name": "Amad Diallo",
+      "team": "home",
+      "minute": "74'",
+      "type": "Goal"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "away",
+      "minute": "86'",
+      "type": "Goal"
+    }
+  ]
+}

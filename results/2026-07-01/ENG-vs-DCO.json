@@ -1,0 +1,28 @@
+{
+  "fixture_id": "080",
+  "date": "2026-07-01",
+  "stage": "round_of_32",
+  "home": "ENG",
+  "away": "DCO",
+  "home_score": 2,
+  "away_score": 1,
+  "ingested_at": "2026-07-01T18:05:18.488732+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ENG",
+  "goal_scorers": [
+    {
+      "name": "Brian Cipenga",
+      "team": "away",
+      "minute": "7'",
+      "type": "Goal"
+    },
+    {
+      "name": "Harry Kane",
+      "team": "home",
+      "minute": "86'",
+      "type": "Goal"
+    }
+  ]
+}

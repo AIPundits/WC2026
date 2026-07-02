@@ -1,0 +1,21 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "079",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "El Tri delivered exactly what I hoped for but didn't fully back: a clean sheet and a decisive win over La Tricolor, with Raúl Jiménez getting on the scoresheet just as I'd predicted. I got the result right and the defensive solidity right — La Tricolor were kept at arm's length without ever looking like they'd unlock us — but I undersold the attacking output, calling for just one goal when El Tri were clearly in the mood for more. The second goal from Julián Quiñones was the margin I should have allowed for given El Tri's quality advantage and La Tricolor's defensive vulnerabilities in transition. Credit where it's due to Jiménez for proving the prediction right in at least one dimension, but the 2-0 scoreline shows I was too conservative with the final line.\n\n```json\n{\n  \"got_right\": [\n    \"El Tri win\",\n    \"clean sheet / La Tricolor kept scoreless\",\n    \"Raúl Jiménez as a scorer\"\n  ],\n  \"got_wrong\": [\n    \"predicted only one goal for El Tri — they scored two\",\n    \"underestimated El Tri's attacking potency on the night\",\n    \"Julián Quiñones as a scorer was not on my radar\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have accounted more aggressively for El Tri's attacking depth and La Tricolor's vulnerability to sustained pressure, predicting a 2-0 rather than defaulting to a cautious 1-0.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T08:28:02.540232+00:00",
+  "got_right": [
+    "El Tri win",
+    "clean sheet / La Tricolor kept scoreless",
+    "Raúl Jiménez as a scorer"
+  ],
+  "got_wrong": [
+    "predicted only one goal for El Tri — they scored two",
+    "underestimated El Tri's attacking potency on the night",
+    "Julián Quiñones as a scorer was not on my radar"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have accounted more aggressively for El Tri's attacking depth and La Tricolor's vulnerability to sustained pressure, predicting a 2-0 rather than defaulting to a cautious 1-0."
+}

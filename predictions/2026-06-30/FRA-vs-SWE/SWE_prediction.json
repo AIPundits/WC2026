@@ -1,0 +1,28 @@
+{
+  "team_code": "SWE",
+  "fixture_id": "078",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 3
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.12,
+  "draw_probability": 0.22,
+  "loss_probability": 0.66,
+  "key_factors": [
+    "France averaging 3.33 goals/game; have exceeded predictions in 2 of 3 matches",
+    "Hien ruled out \u2014 Lindel\u00f6f drops back, Sweden lose CB continuity and midfield cover simultaneously",
+    "Sweden's competitive H2H history (2017 WC qualifier win) keeps draw above market but discounted from 40%",
+    "Gy\u00f6keres/Isak retain genuine counter-threat even against Saliba-Upamecano"
+  ],
+  "predicted_scorers": [
+    "Gy\u00f6keres",
+    "Demb\u00e9l\u00e9",
+    "Mbapp\u00e9"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T10:53:46.082158+00:00"
+}

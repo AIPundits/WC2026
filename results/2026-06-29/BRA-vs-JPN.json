@@ -1,0 +1,28 @@
+{
+  "fixture_id": "074",
+  "date": "2026-06-29",
+  "stage": "round_of_32",
+  "home": "BRA",
+  "away": "JPN",
+  "home_score": 2,
+  "away_score": 1,
+  "ingested_at": "2026-06-29T19:05:17.367792+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "BRA",
+  "goal_scorers": [
+    {
+      "name": "Kaishu Sano",
+      "team": "away",
+      "minute": "29'",
+      "type": "Goal"
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "team": "home",
+      "minute": "90'+5'",
+      "type": "Goal"
+    }
+  ]
+}

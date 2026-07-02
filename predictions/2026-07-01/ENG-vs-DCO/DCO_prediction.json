@@ -1,0 +1,29 @@
+{
+  "team_code": "DCO",
+  "fixture_id": "080",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.18,
+  "draw_probability": 0.28,
+  "loss_probability": 0.54,
+  "key_factors": [
+    "Scorecard calibration: consistent DCO underestimation \u2014 draw probability held at knockout base rate",
+    "Wissa vs Spence counter-attack channel \u2014 documented primary DCO scoring route",
+    "Rice return partially offsets Ghana 0-0 comparison but doesn't eliminate the low-block concern",
+    "Mpasi and PL-calibre backline provide genuine defensive credibility \u2014 0-1 to Colombia not fragility",
+    "Knockout dynamic forces DCO forward \u2014 creates space England's quality ultimately exploits"
+  ],
+  "predicted_scorers": [
+    "Wissa",
+    "Kane",
+    "Bellingham"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T11:01:32.234420+00:00"
+}

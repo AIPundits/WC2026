@@ -1,0 +1,28 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "078",
+  "predicted_score": {
+    "self": 3,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.66,
+  "draw_probability": 0.22,
+  "loss_probability": 0.12,
+  "key_factors": [
+    "France averaging 3.33 goals/game in tournament; my prior under-prediction pattern corrected upward",
+    "Hien ruled out \u2014 Lindel\u00f6f loses midfield cover and CB continuity against Demb\u00e9l\u00e9/Mbapp\u00e9/Olise",
+    "Sweden's 7-goal concession rate in group stage; now structurally more exposed",
+    "Draw probability nudged to 0.22 reflecting Sweden's competitive H2H history with France"
+  ],
+  "predicted_scorers": [
+    "Demb\u00e9l\u00e9",
+    "Mbapp\u00e9",
+    "Gy\u00f6keres"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-30T10:53:46.081433+00:00"
+}

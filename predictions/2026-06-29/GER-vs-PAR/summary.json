@@ -1,0 +1,11 @@
+{
+  "fixture_id": "075",
+  "fixture_date": "2026-06-29",
+  "home_code": "GER",
+  "away_code": "PAR",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 2.12523435,
+  "model": "claude-sonnet-4-6"
+}

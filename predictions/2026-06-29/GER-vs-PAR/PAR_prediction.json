@@ -1,0 +1,27 @@
+{
+  "team_code": "PAR",
+  "fixture_id": "075",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.1,
+  "draw_probability": 0.17,
+  "loss_probability": 0.73,
+  "key_factors": [
+    "Paraguay 1 goal in 3 group games \u2014 attacking bluntness is confirmed tournament evidence",
+    "G\u00f3mez suspended \u2014 midfield weaker today than in Paraguay's clean sheet matches",
+    "Germany 10 goals in 3 games \u2014 attacking depth on a different level",
+    "Scorecard calibration: modest upward nudge to draw probability given pattern of over-predicting decisive outcomes"
+  ],
+  "predicted_scorers": [
+    "Havertz",
+    "Wirtz"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-06-29T08:33:53.109151+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "team_code": "USA",
+  "fixture_id": "082",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": [
+    "USA full-strength first-choice XI \u2014 documented pattern of outperforming my predictions",
+    "Bosnia 0.5 xG from open play \u2014 structural ceiling on their attacking threat",
+    "Dzeko aerial set-piece threat the one genuine Bosnia scoring mechanism",
+    "Knockout tight-margin norm prevents inflating to 3-1 despite quality gap"
+  ],
+  "predicted_scorers": [
+    "Pulisic",
+    "Balogun",
+    "Dzeko"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-01T11:08:07.521514+00:00"
+}
