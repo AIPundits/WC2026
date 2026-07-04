@@ -1054,5 +1054,101 @@
     "home": "COL",
     "away": "GHA",
     "sofascore_event_id": 0
+  },
+  {
+    "id": "089",
+    "date": "2026-07-04",
+    "kickoff_utc": "2026-07-04T17:00Z",
+    "venue": "NRG Stadium, Houston",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "CAN",
+    "away": "MOR",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "090",
+    "date": "2026-07-04",
+    "kickoff_utc": "2026-07-04T21:00Z",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "FRA",
+    "away": "PAR",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "091",
+    "date": "2026-07-05",
+    "kickoff_utc": "2026-07-05T20:00Z",
+    "venue": "MetLife Stadium, East Rutherford",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "BRA",
+    "away": "NOR",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "092",
+    "date": "2026-07-05",
+    "kickoff_utc": "2026-07-06T00:00Z",
+    "venue": "Estadio Azteca, Mexico City",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "MEX",
+    "away": "ENG",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "093",
+    "date": "2026-07-06",
+    "kickoff_utc": "2026-07-06T19:00Z",
+    "venue": "AT&T Stadium, Arlington",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "POR",
+    "away": "ESP",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "094",
+    "date": "2026-07-06",
+    "kickoff_utc": "2026-07-06T21:00Z",
+    "venue": "Lumen Field, Seattle",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "USA",
+    "away": "BEL",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "095",
+    "date": "2026-07-07",
+    "kickoff_utc": "2026-07-07T16:00Z",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "ARG",
+    "away": "EGY",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "096",
+    "date": "2026-07-07",
+    "kickoff_utc": "2026-07-07T20:00Z",
+    "venue": "BC Place, Vancouver",
+    "stage": "round_of_16",
+    "group": null,
+    "round": 5,
+    "home": "SUI",
+    "away": "COL",
+    "sofascore_event_id": 0
   }
 ]
