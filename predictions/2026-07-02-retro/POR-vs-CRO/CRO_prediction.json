@@ -1,0 +1,28 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "084",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.18,
+  "draw_probability": 0.2,
+  "loss_probability": 0.62,
+  "key_factors": [
+    "Croatia's defensive fragility (5 conceded, no clean sheets) directly exploitable by Le\u00e3o/F\u00e9lix pace",
+    "Portugal's defensive solidity (0.33 conceded/game) limits Croatia's upside to 1 goal",
+    "H2H dominance (7W-1L-2D) \u2014 Portugal grind out knockouts against Croatia",
+    "Calibration: prior pattern of over-predicting draws vs strong opponents \u2014 draw_probability reduced to reflect actual knockout draw rate (15.4%)"
+  ],
+  "predicted_scorers": [
+    "Kramari\u0107",
+    "Le\u00e3o",
+    "Bruno Fernandes"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:28:46.049163+00:00"
+}

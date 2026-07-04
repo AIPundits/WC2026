@@ -1,0 +1,25 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "085",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.18,
+  "draw_probability": 0.17,
+  "loss_probability": 0.65,
+  "key_factors": [
+    "Scorecard pattern: over-predicted Algeria scoring vs organised defences (ARG, now SUI)",
+    "Algeria scored 0 vs Argentina \u2014 Switzerland's compact 4-3-3 replicates that defensive structure",
+    "Knockout clean sheet rate 46.2% \u2014 Algeria's inconsistent attack supports a shutout",
+    "Switzerland's 1.0 goals conceded/game vs Algeria's 2.33/game \u2014 fundamental defensive gap",
+    "Algeria's 3-goal game came in chaotic 3-3 context \u2014 unlikely against Yakin's discipline"
+  ],
+  "predicted_scorers": [],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:33:55.038186+00:00"
+}

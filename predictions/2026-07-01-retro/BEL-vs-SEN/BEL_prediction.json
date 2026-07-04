@@ -1,0 +1,28 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "081",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.5,
+  "draw_probability": 0.18,
+  "loss_probability": 0.32,
+  "key_factors": [
+    "Mendy absent \u2014 Diaw untested at knockout level",
+    "Belgium defensive solidity (0.67 GA/game group stage)",
+    "Senegal front three genuine threat (8 group stage goals, scored in every game)",
+    "KDB in open knockout space vs porous Senegal defence",
+    "Calibration: Belgium over-predicted goals in group stage but Senegal's defence is structurally weaker than Iran or Egypt"
+  ],
+  "predicted_scorers": [
+    "De Bruyne",
+    "Mane"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:28:37.791310+00:00"
+}

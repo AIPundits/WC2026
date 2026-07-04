@@ -1,0 +1,26 @@
+{
+  "team_code": "BIH",
+  "fixture_id": "082",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.18,
+  "draw_probability": 0.15,
+  "loss_probability": 0.67,
+  "key_factors": [
+    "USA attacking output proven across group stage",
+    "BIH defensive fragility exposed vs Switzerland",
+    "no BIH goals scored vs USA in competitive history",
+    "Balogun clinical in front of goal"
+  ],
+  "predicted_scorers": [
+    "Balogun"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:32:33.965164+00:00"
+}

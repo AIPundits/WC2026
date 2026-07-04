@@ -1,0 +1,27 @@
+{
+  "team_code": "AUT",
+  "fixture_id": "083",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.1,
+  "draw_probability": 0.15,
+  "loss_probability": 0.75,
+  "key_factors": [
+    "Spain's perfect 0-conceded defensive record negates Austria's 2.0 goals scored per game",
+    "Austria scored 0 against Argentina's organised block - directly analogous to Spain's structure",
+    "Historical calibration: I under-predict dominant team margins, nudging Spain's ceiling toward 3 but modal KO distribution supports 2-0",
+    "Rodri's positional control eliminates Rangnick press trigger and space in behind for Yamal/Baena"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal",
+    "Yamal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:21:44.992207+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "fixture_id": "080",
+  "fixture_date": "2026-07-01",
+  "home_code": "ENG",
+  "away_code": "DCO",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn JSON parse failure: No ```json fenced block found in turn text",
+  "total_cost_usd": 1.5294933,
+  "model": "claude-sonnet-4-6"
+}

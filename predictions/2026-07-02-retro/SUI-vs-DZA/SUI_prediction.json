@@ -1,0 +1,28 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "085",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.57,
+  "draw_probability": 0.2,
+  "loss_probability": 0.23,
+  "key_factors": [
+    "Algeria conceded 7 in 3 group games \u2014 worst defensive record among Round of 32 qualifiers",
+    "Switzerland's 1.0 goals conceded/game across 3 matches far more stable than Algeria's 2.33",
+    "Algeria scored 0 against Argentina \u2014 the organised defensive template Yakin replicates",
+    "Scorecard flag: I over-predicted a Nati win vs Qatar, so drawing probability lifted to 0.20",
+    "Knockout clean sheet rate 46.2% \u2014 supported by Algeria's attacking inconsistency"
+  ],
+  "predicted_scorers": [
+    "Embolo",
+    "Ndoye"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:33:55.037494+00:00"
+}

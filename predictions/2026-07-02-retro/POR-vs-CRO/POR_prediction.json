@@ -1,0 +1,29 @@
+{
+  "team_code": "POR",
+  "fixture_id": "084",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.57,
+  "draw_probability": 0.28,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Croatia's defensive fragility (5 conceded in group stage, no clean sheets)",
+    "Portugal's defensive solidity (0.33 goals conceded per game)",
+    "Le\u00e3o/F\u00e9lix pace exploiting Croatia's exposed backline in transition",
+    "H2H dominance (7W-1L-2D) including AET win at Euro 2016 R16",
+    "Calibration: prior pattern of under-calling Portugal decisive wins \u2014 not adjusting toward draw"
+  ],
+  "predicted_scorers": [
+    "Bruno Fernandes",
+    "Le\u00e3o",
+    "Kramari\u0107"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:28:46.048424+00:00"
+}

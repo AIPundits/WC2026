@@ -1,0 +1,26 @@
+{
+  "team_code": "SEN",
+  "fixture_id": "081",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.31,
+  "draw_probability": 0.17,
+  "loss_probability": 0.52,
+  "key_factors": [
+    "Mendy absent \u2014 Diaw untested at knockout level",
+    "Belgium defensive solidity (0.67 GA/game group stage)",
+    "Senegal front three genuine threat (8 group stage goals, scored in every game)",
+    "Calibration: historical tendency to under-predict goals, adjusted upward mentally but base rate favours tight Belgium win"
+  ],
+  "predicted_scorers": [
+    "Mane"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T12:28:37.791929+00:00"
+}
