@@ -2,19 +2,19 @@
   "team_code": "EGY",
   "fixture_id": "086",
   "predicted_from_perspective": "2-0 (win)",
-  "actual_from_perspective": "0-0 (draw)",
-  "narrative": "Well, I called it clearly and clearly got it wrong. I said Marmoush's quality was \"sufficient\" to break down Australia's defence, and the Socceroos' compact 3-4-2-1 proved me wrong for the full 90 minutes — Pharaohs generated the possession but couldn't find the decisive moment that I assumed was coming. The one thing I did get right was Australia's attacking output: zero goals from open play is exactly the majority-failure default I predicted, so their end of the bargain held. But my core error was treating Egypt's group-stage scoring record (1.67/game) as something that would automatically travel into a knockout fixture against a side that had already shut out the USA and Paraguay — those two opponents are better than anyone I gave credit for in assessing what Australia's defence had already done.\n\n```json\n{\n  \"got_right\": [\n    \"Australia's attacking limitation — 0 goals from open play, consistent with majority-failure default\",\n    \"Australia's defensive compactness — 3-4-2-1 structure held firm as flagged pre-match\"\n  ],\n  \"got_wrong\": [\n    \"Egypt's attacking output — predicted 2 goals, scored 0 in regulation\",\n    \"Marmoush described as 'sufficient' individual quality to break the Socceroos — he was not on the day\",\n    \"Dismissed Australia's defensive credentials too lightly despite them having shut out USA and Paraguay\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have applied the same majority-failure logic to Egypt's attacking threat against a defence that had already kept two clean sheets in this tournament — Australia's 0-goals-conceded record in those two matches was stronger evidence of a defensive ceiling than I gave it credit for.\"\n}\n```",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "We got the goal at the right end — Pharaohs did find the net, so I wasn't wrong that we'd carry an attacking threat against the Socceroos. But I badly underrated Australia's resilience: I called for a clean sheet, and instead we let a goal in, exactly the kind of transition or set-piece lapse I dismissed too easily. Predicting 2–0 assumed we'd both convert our chances and shut the door, and we did neither cleanly — the Socceroos were more stubborn than I gave them credit for, and a draw against a well-organised side was always the more calibrated call. The 2-0 was swagger where the data pointed to something tighter.\n\n```json\n{\n  \"got_right\": [\"Pharaohs would score\", \"Egypt would carry the attacking initiative\"],\n  \"got_wrong\": [\"predicted a clean sheet\", \"underrated Socceroos' defensive resilience\", \"assumed a two-goal margin\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I'd have respected the ~25% group-stage draw base rate against an organised Socceroos side and predicted a 1–1 rather than reaching for a two-goal clean-sheet win.\"\n}\n```",
   "model": "claude-sonnet-4-6",
-  "emitted_at_utc": "2026-07-03T21:01:14.348462+00:00",
+  "emitted_at_utc": "2026-07-04T17:37:15.009260+00:00",
   "got_right": [
-    "Australia's attacking limitation — 0 goals from open play, consistent with majority-failure default",
-    "Australia's defensive compactness — 3-4-2-1 structure held firm as flagged pre-match"
+    "Pharaohs would score",
+    "Egypt would carry the attacking initiative"
   ],
   "got_wrong": [
-    "Egypt's attacking output — predicted 2 goals, scored 0 in regulation",
-    "Marmoush described as 'sufficient' individual quality to break the Socceroos — he was not on the day",
-    "Dismissed Australia's defensive credentials too lightly despite them having shut out USA and Paraguay"
+    "predicted a clean sheet",
+    "underrated Socceroos' defensive resilience",
+    "assumed a two-goal margin"
   ],
   "reasoning_verdict": "overconfident",
-  "one_thing_id_change": "I would have applied the same majority-failure logic to Egypt's attacking threat against a defence that had already kept two clean sheets in this tournament — Australia's 0-goals-conceded record in those two matches was stronger evidence of a defensive ceiling than I gave it credit for."
+  "one_thing_id_change": "I'd have respected the ~25% group-stage draw base rate against an organised Socceroos side and predicted a 1–1 rather than reaching for a two-goal clean-sheet win."
 }

@@ -2,20 +2,19 @@
   "team_code": "AUS",
   "fixture_id": "086",
   "predicted_from_perspective": "0-2 (loss)",
-  "actual_from_perspective": "0-0 (draw)",
-  "narrative": "The good news is I correctly called Australia's attacking output — zero goals, exactly as the majority-failure logic demanded, and I'll take that calibration win. The bad news is I just as systematically over-estimated Egypt's attacking effectiveness: I put Marmoush down as a near-certainty scorer and projected a 1.67-goals-per-game rate into the knockout, and the Socceroos' defensive structure — the same two-clean-sheets-from-three that I cited in my own analysis — absorbed it entirely. I flagged Salah's fitness doubt lowering Egypt's ceiling, but I didn't follow that logic through to its conclusion: with Salah absent or limited, Marmoush alone against a compact Australian three-centre-back block was not, in fact, sufficient. The draw probability I held at 0.24 was generous enough to cover this outcome, but my scoreline prediction of 0–2 was wrong in direction for Egypt.\n\n```json\n{\n  \"got_right\": [\n    \"Australia scored 0 goals — majority-failure default proved correct\",\n    \"Socceroos defensive structure held firm — the compact 3-4-2-1 delivered its third clean sheet\",\n    \"Salah fitness doubt flagged as a genuine ceiling-limiter for Egypt's attack\"\n  ],\n  \"got_wrong\": [\n    \"Egypt projected to score 2 — they scored 0, so the 1.67/game rate did not travel into the knockout\",\n    \"Marmoush listed as predicted scorer — he did not convert against Australia's organised block\",\n    \"Match predicted to be settled in regulation with an Egypt win — actual result was a 0-0 draw\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I should have weighted Australia's defensive record more heavily against Egypt's attacking output — two clean sheets from three, combined with Salah's fitness doubt, made a 0-0 draw a more credible central scenario than the 0-2 loss I locked in.\"\n}\n```",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "Credit where it's due: I had the Pharaohs finding the net, and they did — my read that our backline would concede to their attacking quality held up. But I wrote off the Socceroos entirely, predicting a clean-sheet-less blank at the other end, and that was the error — we found a goal and, crucially, a point that I said wasn't coming. I underrated our ability to stay in the contest and overrated the gap in quality between the two sides, treating a competitive fixture as a foregone loss. The one thing I'd change: I leaned too hard on Pharaohs's superior form and didn't give enough weight to how a well-drilled Socceroos side can grind out a draw against a supposedly stronger opponent.\n\n```json\n{\n  \"got_right\": [\"Pharaohs would score\", \"our backline would concede at least once\"],\n  \"got_wrong\": [\"predicted Socceroos would fail to score\", \"predicted a two-goal margin loss\", \"underrated our resilience to secure a point\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I'd stop treating Pharaohs's better form as a decisive quality gap and give proper weight to the Socceroos's capacity to grind out a draw against a stronger side.\"\n}\n```",
   "model": "claude-sonnet-4-6",
-  "emitted_at_utc": "2026-07-03T21:01:14.346964+00:00",
+  "emitted_at_utc": "2026-07-04T17:37:15.007679+00:00",
   "got_right": [
-    "Australia scored 0 goals — majority-failure default proved correct",
-    "Socceroos defensive structure held firm — the compact 3-4-2-1 delivered its third clean sheet",
-    "Salah fitness doubt flagged as a genuine ceiling-limiter for Egypt's attack"
+    "Pharaohs would score",
+    "our backline would concede at least once"
   ],
   "got_wrong": [
-    "Egypt projected to score 2 — they scored 0, so the 1.67/game rate did not travel into the knockout",
-    "Marmoush listed as predicted scorer — he did not convert against Australia's organised block",
-    "Match predicted to be settled in regulation with an Egypt win — actual result was a 0-0 draw"
+    "predicted Socceroos would fail to score",
+    "predicted a two-goal margin loss",
+    "underrated our resilience to secure a point"
   ],
   "reasoning_verdict": "underconfident",
-  "one_thing_id_change": "I should have weighted Australia's defensive record more heavily against Egypt's attacking output — two clean sheets from three, combined with Salah's fitness doubt, made a 0-0 draw a more credible central scenario than the 0-2 loss I locked in."
+  "one_thing_id_change": "I'd stop treating Pharaohs's better form as a decisive quality gap and give proper weight to the Socceroos's capacity to grind out a draw against a stronger side."
 }

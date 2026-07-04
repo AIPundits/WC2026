@@ -4,19 +4,11 @@
   "stage": "round_of_32",
   "home": "AUS",
   "away": "EGY",
-  "home_score": 0,
-  "away_score": 0,
-  "ingested_at": "2026-07-03T21:00:35.578470+00:00",
+  "home_score": 1,
+  "away_score": 1,
+  "ingested_at": "2026-07-04T17:41:06.450587+00:00",
   "home_score_aet": 1,
   "away_score_aet": 1,
   "penalty_winner": "away",
-  "advanced": "EGY",
-  "goal_scorers": [
-    {
-      "name": "Mohamed Hany",
-      "team": "home",
-      "minute": "55'",
-      "type": "Own Goal"
-    }
-  ]
+  "advanced": "EGY"
 }
