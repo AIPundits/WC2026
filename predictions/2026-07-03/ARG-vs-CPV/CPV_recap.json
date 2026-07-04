@@ -1,0 +1,23 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "087",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "2-3 (loss)",
+  "narrative": "The result right was Argentina winning — and honestly, the 3-goal Argentina haul was even close to my predicted 2 (just one off), so my read on La Albiceleste's attacking output wasn't far wrong. But I built my entire pre-match case around CPV's goal drought being structural and permanent, and Duarte, Sidny Lopes Cabral, and — in a chaotic sense — a Diney Borges own goal showed that a knockout match can unlock something different from group stage pattern data. Two Blue Sharks goals against the tournament's most clinical side is the exact opposite of the zero I confidently anchored on through three separate lines of reasoning, and I have to own that the calibration methodology led me somewhere embarrassing on CPV's attacking end. The result direction was correct, but 2–3 is a fundamentally different football match than 0–2 — this was a chaotic, high-stakes thriller, not the controlled shutdown I envisaged.\n\n```json\n{\n  \"got_right\": [\n    \"Argentina winning the match\",\n    \"Argentina scoring multiple goals — predicted 2, they scored 3\",\n    \"Match being decided in regulation without extra time\",\n    \"Vozinha being tested rather than the match being routine\"\n  ],\n  \"got_wrong\": [\n    \"CPV scoring zero goals — they scored 2, directly contradicting my 'calibration default' argument\",\n    \"Assuming group stage goal drought was a reliable signal for knockout performance\",\n    \"Treating the match as a controlled defensive display rather than a high-scoring open game\",\n    \"Confidently anchoring on 0-2 when the actual match was 2-3 — a different football match entirely\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would weight knockout match unpredictability more heavily — a team that ground out three draws in the group stage can shift into attack-mode urgency in a knockout, and I should not have treated three group stage scorelines as a hard ceiling on CPV's attacking output.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-04T00:46:46.466364+00:00",
+  "got_right": [
+    "Argentina winning the match",
+    "Argentina scoring multiple goals — predicted 2, they scored 3",
+    "Match being decided in regulation without extra time",
+    "Vozinha being tested rather than the match being routine"
+  ],
+  "got_wrong": [
+    "CPV scoring zero goals — they scored 2, directly contradicting my 'calibration default' argument",
+    "Assuming group stage goal drought was a reliable signal for knockout performance",
+    "Treating the match as a controlled defensive display rather than a high-scoring open game",
+    "Confidently anchoring on 0-2 when the actual match was 2-3 — a different football match entirely"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would weight knockout match unpredictability more heavily — a team that ground out three draws in the group stage can shift into attack-mode urgency in a knockout, and I should not have treated three group stage scorelines as a hard ceiling on CPV's attacking output."
+}

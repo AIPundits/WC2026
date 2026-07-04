@@ -1,0 +1,27 @@
+{
+  "team_code": "COL",
+  "fixture_id": "088",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.64,
+  "draw_probability": 0.19,
+  "loss_probability": 0.17,
+  "key_factors": [
+    "Ghana 0 goals vs England \u2014 calibration default 0 goals against Colombia's organised defence",
+    "Colombia scored vs DR Congo's comparable compact block \u2014 tournament evidence for at least 1 goal",
+    "2-0 at 23.1% KO matches \u2014 base rate supports over 1-0 (7.7%)",
+    "Scorecard over-prediction pattern \u2014 already moved from 2-1 to 2-0 on calibration"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz",
+    "Su\u00e1rez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T11:40:03.714690+00:00"
+}

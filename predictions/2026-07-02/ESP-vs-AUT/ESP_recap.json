@@ -1,0 +1,22 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "083",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "3-0 (win)",
+  "narrative": "The result vindicated the core of my pre-match case: Rangnick couldn't reshape Austria into a disciplined low block, Spain's defensive record held, and the quality gap proved decisive in regulation. Oyarzabal was my predicted scorer and delivered with a brace — that's a clean hit. Where I was wrong is simple: I predicted 2 goals and Spain scored 3, and while Oyarzabal was on the scoresheet, Yamal (listed as below fitness) didn't get the goal I credited him with — meaning I got one scorer right and one wrong, even as the broader attacking threat I described was real. The 3–0 margin reflects a Spain performance that was, if anything, more dominant than I fully priced in — I stayed at 2-0 even after acknowledging the KSA under-prediction in my scorecard review, and that caution cost me accuracy on the margin. One thing I'd change: having identified a comparable quality gap to the Argentina–Austria result (0-2 defeat for Rot-Weiß-Rot), I should have been willing to go to 3-0 as my primary scoreline rather than anchoring at 2-0 out of residual caution.\n\n```json\n{\n  \"got_right\": [\n    \"Spain win and clean sheet — defensive record extended, Austria could not break through\",\n    \"Oyarzabal as a predicted scorer — he delivered with a brace\",\n    \"Austria's press failing against Spain's midfield control (Rodri/Pedri structure held firm)\",\n    \"Quality gap proved decisive in regulation — no extra time, no drama\"\n  ],\n  \"got_wrong\": [\n    \"Predicted scoreline was 2-0, actual was 3-0 — underestimated Spain's attacking output\",\n    \"Yamal predicted to score but did not — attacker fitness concern may have been more significant than I weighted\",\n    \"Margin between 2-0 and 3-0 was closer than I committed to given the Austria-Argentina precedent I identified\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"Having explicitly cited the Argentina 2-0 Austria result as the key precedent, I should have trusted that data point further and gone to 3-0 as my primary scoreline rather than treating it as an upper-bound outlier.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T21:00:54.102533+00:00",
+  "got_right": [
+    "Spain win and clean sheet — defensive record extended, Austria could not break through",
+    "Oyarzabal as a predicted scorer — he delivered with a brace",
+    "Austria's press failing against Spain's midfield control (Rodri/Pedri structure held firm)",
+    "Quality gap proved decisive in regulation — no extra time, no drama"
+  ],
+  "got_wrong": [
+    "Predicted scoreline was 2-0, actual was 3-0 — underestimated Spain's attacking output",
+    "Yamal predicted to score but did not — attacker fitness concern may have been more significant than I weighted",
+    "Margin between 2-0 and 3-0 was closer than I committed to given the Austria-Argentina precedent I identified"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "Having explicitly cited the Argentina 2-0 Austria result as the key precedent, I should have trusted that data point further and gone to 3-0 as my primary scoreline rather than treating it as an upper-bound outlier."
+}

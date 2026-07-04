@@ -1,0 +1,11 @@
+{
+  "fixture_id": "086",
+  "fixture_date": "2026-07-03",
+  "home_code": "AUS",
+  "away_code": "EGY",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 2.6265188999999998,
+  "model": "claude-sonnet-4-6"
+}

@@ -1,0 +1,26 @@
+{
+  "team_code": "AUT",
+  "fixture_id": "083",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.15,
+  "draw_probability": 0.28,
+  "loss_probability": 0.57,
+  "key_factors": [
+    "Argentina precedent \u2014 Austria scored 0 against comparable elite opposition",
+    "Spain 0 goals conceded in group stage \u2014 defensive structure is tournament-proven",
+    "Pino out, Williams doubtful \u2014 Spain's attacking variety reduced, supports 1-goal margin over 2",
+    "Knockout margin data: 3 of 5 decisive results settled by exactly 1 goal"
+  ],
+  "predicted_scorers": [
+    "Yamal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T09:02:28.961664+00:00"
+}

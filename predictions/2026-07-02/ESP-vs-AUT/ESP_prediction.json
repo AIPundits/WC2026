@@ -1,0 +1,27 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "083",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.57,
+  "draw_probability": 0.28,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Scorecard lesson: I over-corrected to draws after CPV \u2014 URU showed Spain win when quality gap is clear",
+    "Austria blanked 0-2 by Argentina; Spain's defensive and midfield quality is comparable",
+    "Rangnick can moderate press but Austria's defensive record (6 conceded) still leaves gaps",
+    "Spain 0 goals conceded in 3 group games \u2014 Austria's scoring path is genuinely difficult"
+  ],
+  "predicted_scorers": [
+    "Yamal",
+    "Oyarzabal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T09:02:28.960602+00:00"
+}

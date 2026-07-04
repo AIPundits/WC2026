@@ -1,0 +1,27 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "086",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.52,
+  "draw_probability": 0.23,
+  "loss_probability": 0.25,
+  "key_factors": [
+    "Egypt scored in 3/3 group games (1.67/game) \u2014 tournament-proven attacking output",
+    "Australia scored in 1/3 group games \u2014 majority-failure default, 0 goals predicted",
+    "Scorecard calibration: missed draws vs Belgium/Iran, but both had scoring mechanisms Australia lacks",
+    "Salah doubt real but Marmoush alone is sufficient attacking quality against limited Australia attack"
+  ],
+  "predicted_scorers": [
+    "Marmoush",
+    "Trezeguet"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T11:29:47.747598+00:00"
+}

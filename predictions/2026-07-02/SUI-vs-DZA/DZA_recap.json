@@ -1,0 +1,20 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "085",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "The result direction was right — I called a loss, and a loss is what we got — but I left one phantom goal in the Les Fennecs column that never materialised. The 0–2 scoreline tells a clearer story than my 1–2: Nati were organised, clinical through Embolo and Ndoye, and Les Fennecs never truly threatened their backline across 90 minutes. I correctly identified Nati's forward line as the decisive threat, but I overestimated our ability to nick one in reply — perhaps leaning too hard on Algeria's tournament record of rarely going completely blank. The one thing that flatters my reasoning here is the margin; the one thing that should have given me pause is how little evidence there was that Les Fennecs could break down a compact Swiss defensive shape.\n\n```json\n{\n  \"got_right\": [\n    \"predicted a loss for Les Fennecs\",\n    \"Nati's attacking threat through their forwards proved decisive\",\n    \"2-goal winning margin for Nati\"\n  ],\n  \"got_wrong\": [\n    \"predicted Les Fennecs would score 1 goal; they were shut out entirely\",\n    \"overestimated Les Fennecs's ability to create and convert against a disciplined Swiss defence\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Les Fennecs's goal-scoring probability lower from the outset, anchoring more heavily on Nati's defensive record rather than Algeria's historic tendency to put something on the board.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T09:09:59.124780+00:00",
+  "got_right": [
+    "predicted a loss for Les Fennecs",
+    "Nati's attacking threat through their forwards proved decisive",
+    "2-goal winning margin for Nati"
+  ],
+  "got_wrong": [
+    "predicted Les Fennecs would score 1 goal; they were shut out entirely",
+    "overestimated Les Fennecs's ability to create and convert against a disciplined Swiss defence"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Les Fennecs's goal-scoring probability lower from the outset, anchoring more heavily on Nati's defensive record rather than Algeria's historic tendency to put something on the board."
+}

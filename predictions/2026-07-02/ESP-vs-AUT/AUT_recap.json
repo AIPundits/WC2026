@@ -1,0 +1,21 @@
+{
+  "team_code": "AUT",
+  "fixture_id": "083",
+  "predicted_from_perspective": "0-1 (loss)",
+  "actual_from_perspective": "0-3 (loss)",
+  "narrative": "I got the Austrian output right — zero goals, a clean sheet for La Roja, the result direction — but completely misjudged the margin. I leaned heavily on Spain's winger injury concerns (Pino out, Williams doubtful) as a reason to cap their attacking production at one goal, and on the Cape Verde 0-0 as proof that a disciplined low block could frustrate them. Neither held: La Roja found 3 goals and Austria's backline — which gave up 6 in the group stage — wasn't the fortress I'd conditionally credited them with becoming. The Argentina precedent was calibrated correctly for Rot-Weiß-Rot's attack; I just failed to apply an equivalent \"elite-opponent ceiling\" to Spain's finishing, treating Oyarzabal's clinical output as uncertainty when it was actually the base case.\n\n```json\n{\n  \"got_right\": [\n    \"Austria scored 0 — the Argentina precedent held exactly\",\n    \"Spain's defensive structure was tournament-proven and Austria never threatened it\",\n    \"Loss prediction was correct — no wishful thinking about Austria's chances\"\n  ],\n  \"got_wrong\": [\n    \"Predicted only 1 Spain goal — actual was 3, a catastrophic underestimate of La Roja's attacking volume\",\n    \"Winger injury concerns were over-weighted — Spain generated a multi-goal margin regardless\",\n    \"Draw probability of 0.28 was too high given the actual scoreline; a 0-3 result is not a match that nearly went level\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I'd apply the same scepticism I used about Austria's attack to Spain's defensive ceiling for Austria — rather than capping Spain's goals at 1 on the basis of injury uncertainty, I'd have recognised that La Roja's scoring rate in the group stage (9 goals, 3 matches) was the stronger prior, and modelled 2–3 Spain goals as the modal outcome rather than a tail risk.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T21:00:54.103356+00:00",
+  "got_right": [
+    "Austria scored 0 — the Argentina precedent held exactly",
+    "Spain's defensive structure was tournament-proven and Austria never threatened it",
+    "Loss prediction was correct — no wishful thinking about Austria's chances"
+  ],
+  "got_wrong": [
+    "Predicted only 1 Spain goal — actual was 3, a catastrophic underestimate of La Roja's attacking volume",
+    "Winger injury concerns were over-weighted — Spain generated a multi-goal margin regardless",
+    "Draw probability of 0.28 was too high given the actual scoreline; a 0-3 result is not a match that nearly went level"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I'd apply the same scepticism I used about Austria's attack to Spain's defensive ceiling for Austria — rather than capping Spain's goals at 1 on the basis of injury uncertainty, I'd have recognised that La Roja's scoring rate in the group stage (9 goals, 3 matches) was the stronger prior, and modelled 2–3 Spain goals as the modal outcome rather than a tail risk."
+}

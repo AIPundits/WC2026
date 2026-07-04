@@ -1,13 +1,20 @@
-# Belgium 🇧🇪 — Round of 32 Briefing
-**Fixture:** Belgium vs Senegal | Lumen Field, Seattle | 2026-07-01, 20:00 UTC
+# Belgium 🇧🇪 — Match Briefing
+**Round of 32 | 2026-07-01 | vs Senegal**
+**Venue:** Lumen Field, Seattle | **Kickoff:** 20:00 UTC
 
 ---
 
 ## 1. Tournament Journey
 
-Belgium topped Group G with 1 win, 2 draws, and 0 losses — qualifying efficiently if not spectacularly. They opened with a 1-1 draw against Egypt, then produced their most frustrating performance: a 0-0 stalemate with Iran in which Nathan Ngoy was sent off (red card), leaving him suspended for the third match. Arthur Theate was drafted in as cover, and Belgium delivered their best attacking display of the tournament — a commanding 5-1 demolition of New Zealand that demonstrated genuine firepower when opponents open up. The Red Devils are a post-"Golden Generation" Belgium: more pragmatic, harder to beat, but lacking the creative spark of the De Bruyne–Hazard era. Thibaut Courtois (112 caps) is the undisputed leader and shot-stopper.
+**Group G — W1 D2 L0 | 5 pts | GF 6, GA 2**
 
-**Suspension Risk:** Yellow cards from the group stage are fully wiped before the Round of 32 under 2026 FIFA rules. Nathan Ngoy already served his one-match suspension (vs NZL) for the red card received against Iran. He is eligible and available. No Belgium player carries any yellow-card accumulation into this fixture.
+- **15 Jun vs Egypt [WC] — D 1-1:** A frustrating opener. Belgium struggled to impose themselves, with Charles De Ketelaere starting ahead of Romelu Lukaku at false nine (Squawka). The Belgian press noted it as a disappointing result against beatable opposition; Rudi Garcia's tactical selections were immediately questioned.
+
+- **21 Jun vs Iran [WC] — D 0-0:** Belgium's worst performance of the group stage — a goalless draw with Iran. Two matches played, zero goals scored from open play. De Ketelaere as false nine generated possession without genuine threat (RotoWire). ESPN noted concern that "possession dominance without truly threatening" was the Belgian pattern.
+
+- **26 Jun vs New Zealand [WC] — W 5-1:** Belgium finally clicked, dismantling New Zealand in the final group game to advance. The emphatic result (ESPN noted the camp "finally kick-started their World Cup") injected confidence heading into the knockouts. Kevin De Bruyne and Jeremy Doku were prominent throughout.
+
+**Suspension Risk:** Yellow cards accumulated in the group stage are **fully cleared** for the knockout round (FIFA rule confirmed). No Belgian player enters the Round of 32 carrying a yellow card warning.
 
 ---
 
@@ -15,85 +22,86 @@ Belgium topped Group G with 1 win, 2 draws, and 0 losses — qualifying efficien
 
 | Date | Opponent | H/A | Result | Score |
 |------|----------|-----|--------|-------|
-| 2026-06-26 | New Zealand [WC] | N | W | 5-1 |
-| 2026-06-21 | Iran [WC] | N | D | 0-0 |
-| 2026-06-15 | Egypt [WC] | N | D | 1-1 |
+| 26 Jun 2026 | New Zealand [WC] | N | W | 5-1 |
+| 21 Jun 2026 | Iran [WC] | N | D | 0-0 |
+| 15 Jun 2026 | Egypt [WC] | N | D | 1-1 |
 
-**WC record: 1W 2D 0L — 6 goals scored, 2 conceded. Topped Group G.**
+*Three World Cup matches shown. Entering knockout phase on a W after consecutive draws. Scoring patterns show extreme variance: 0, 0, 5 goals in three matches.*
 
 ---
 
 ## 3. Squad Status
 
-**Doubt:**
-- **Zeno Debast** — leg injury (returned to first training session of the tournament on Sunday; may be passed fit but "unlikely to start," per The Standard)
+**Confirmed injuries/suspensions:** Goal.com confirms **no injuries or suspensions currently listed for the Red Devils** ahead of this match. Full squad available.
 
-**Confirmed available:**
-- **Thibaut Courtois** — undisputed starter (112 caps)
-- **Nathan Ngoy** — back from red-card suspension, available for selection
-- Full attack available: De Bruyne, Trossard, Doku/Lukebakio
+**Suspension Risk:** None (group stage yellows cleared by FIFA rule).
 
-**Expected XI:** Courtois; Mechele, Theate/Ngoy; [midfield: Tielemans, Vanaken]; [attack including De Bruyne, Trossard]
-*(Rudi Garcia has not confirmed a probable lineup — sources: Goal.com, Sports Mole)*
+**Confirmed formation:** 4-3-3 (FanDuel Research — lineup officially confirmed)
+
+**Confirmed starting XI (FanDuel Research — CONFIRMED):**
+GK: **Courtois**; RB: Castagne, CB: Mechele, CB: Theate, LB: De Cuyper; CM: Tielemans (C), CM: Vanaken, LW: Doku; AM/10: De Bruyne, RW: Trossard; CF: De Ketelaere
+
+**Notable:** **Romelu Lukaku is NOT in the starting XI** — a decision that has attracted significant fan criticism. Ground.news reports "fans are unimpressed." Lukaku, Belgium's all-time top scorer, is available from the bench as a game-changing option. This is a major tactical gamble by Garcia. De Ketelaere's role as false nine generates movement but limited direct goal threat.
 
 ---
 
 ## 4. Tournament Standing / Form
 
-Belgium topped Group G, qualifying with 5 points. They scored 6 goals (2.0/game) and conceded only 2 (0.67/game), maintaining solid defensive structure throughout. The 5-1 win over New Zealand suggests real attacking punch when opponents give them room to play; the two draws against Egypt and Iran are the concern — against sides that defended compactly, Belgium was pedestrian. Senegal will have studied this pattern. For Rudi Garcia, advancing here would be a statement that this Belgium team can win knockout football without the Hazard–Lukaku axis.
+Belgium advanced from Group G with 5 points but their journey has been characterised by inconsistency: scoreless in two of three group games before demolishing New Zealand 5-1. The 5-1 result provides momentum but masks a deeper pattern — Belgium have struggled to generate quality chances against organised defences. Kevin De Bruyne's creativity is central to everything (qualified with 6 goals in European qualifying, per World Soccer Talk); Doku's pace on the left creates directness; but without Lukaku starting, finishing quality in tight knockout margins is a question mark. Rudi Garcia's willingness to bench Lukaku suggests a possession-and-movement approach — one that can break down under pressure.
 
 ---
 
 ## 5. Head-to-Head vs Senegal
 
-**No previous meetings in history.** Belgium and Senegal have never met in any international fixture — competitive or friendly. This is a genuinely historic first encounter. No H2H data to draw from. (Sources: Tips.GG, Sports Mole)
+Belgium are unbeaten in their last 5 meetings with Senegal (W3 D2 L0 — AiScore). The historical record favours Belgium consistently. However, the FBref historical matchup database notes limited competitive fixtures between the sides; the recent 5-match record likely includes friendly encounters. Belgium's dominance in the H2H provides a psychological edge, but Senegal's current generation (Mané, Sarr, Ndiaye) is arguably the most talented the country has fielded.
+
+**Note:** One source (Sportsdunia) reports 0 prior meetings — there is conflicting data on the H2H record. The AiScore "last 5" figure is used here but readers should treat it with some caution. No prior World Cup meeting between the sides is recorded.
 
 ---
 
-## 6. Opponent's Tournament Record (Senegal)
+## 6. External Signal
 
-| Date | vs | Score | Result |
-|------|----|-------|--------|
-| 2026-06-16 | France | 1-3 | L |
-| 2026-06-22 | Norway | 2-3 | L |
-| 2026-06-26 | Iraq | 5-0 | W |
-
-3 matches: 8 goals scored (2.67/game), 6 conceded (2.0/game). 1W 0D 2L — advanced as a best third-placed team.
-
-**Key pattern:** Senegal scored 8 goals — joint-highest among any team in this Round of 32 — but conceded 6. Their defensive record is poor, including individual errors that gifted goals. Critically, first-choice goalkeeper Édouard Mendy is now injured and will not feature. Backup Mory Diaw will start in goal, adding pressure on an already-leaky defensive unit.
+- **Sofascore odds:** Belgium 2.20 (implied **45%**), Draw 3.20 (implied **31%**), Senegal 3.50 (implied **29%**). **Draw implied at 31% (3.20/1) — above the 25% threshold. This is a meaningful calibration signal: the market rates a 90-minute draw as a genuine probability.**
+- **FanDuel Sportsbook:** Belgium +110, Draw +220 (implied ~31%), Senegal +270 (implied ~27%). Consistent with Sofascore pricing — draw is live.
+- **Yahoo Sports:** Belgium priced at -162 to advance overall, "far better than its underdog tax implies" for Senegal. Described as "a true handicapping headache."
+- **RotoWire (tactical):** "With De Ketelaere as a false nine, Belgium can dominate possession without truly threatening — which is exactly when Senegal's transition game becomes dangerous." Both teams capable of scoring and conceding; transition battles likely to decide this tie.
 
 ---
 
-## 7. External Signal
+## 7. Opponent's Tournament Record (Senegal)
 
-- **Juvefc.com:** Belgium to win at 6/5 (~45% implied probability). The draw is implied at approximately 27–28% by market pricing — consistent with the tournament's knockout draw rate of 28.6%. Both outcomes credible.
-- **Goal.com:** "No injuries or suspensions are currently listed for the Red Devils."
-- **RotoWire:** "Senegal will fancy their pace in behind... but they have gifted goals through individual errors. Two sides who can both score and both concede."
-- **Opta Analyst:** Ismaila Sarr is central to Senegal's hopes — "seems to have replaced Nicolas Jackson as Thiaw's preferred striker."
-- **Draw implied probability ~27–28%** (Betfair/general markets, per Juvefc): meets the ≥25% threshold — meaningful calibration anchor.
+| Date | vs | Score (SEN view) | Result |
+|------|-----|-----------------|--------|
+| 26 Jun 2026 | Iraq [WC] | 5-0 | W |
+| 22 Jun 2026 | Norway [WC] | 2-3 | L |
+| 16 Jun 2026 | France [WC] | 1-3 | L |
+
+3 matches: 8 goals scored (2.67/game), 6 conceded (2.00/game). W1 D0 L2. Advanced as third-place finisher from Group I. Explosively high-scoring but defensively vulnerable — both boxes are porous. **Édouard Mendy (GK) is OUT with injury** for this match (Fox Sports), meaning backup Diaw starts in goal — a further defensive weakness. Senegal's pace (Mané, Sarr, Ndiaye) is their primary weapon and transition is their best mode.
 
 ---
 
 ## 8. Tournament Context
 
-*79 matches with results (72 group stage, 7 knockout)*
+*Matches with results: 85 (72 group stage, 13 knockout)*
 
 ### Knockout scoreline frequency
 
-*7 knockout matches played. 2 went to extra time level at 90 min. Of 5 decisive results: 3 settled by 1 goal, 2 by 2+ goals.*
+*13 knockout matches played. 2 went to extra time level at 90 min. Of 11 decisive results: 6 settled by 1 goal, 5 by 2+ goals.*
 
 | Scoreline | Count | % of KO matches |
 |-----------|-------|-----------------|
-| 2-1 | 2 | 28.6% |
-| 1-1 draw | 2 | 28.6% |
-| 1-0 | 1 | 14.3% |
-| 2-0 | 1 | 14.3% |
-| 3-0 | 1 | 14.3% |
+| 2-1 | 4 | 30.8% |
+| 2-0 | 3 | 23.1% |
+| 3-0 | 2 | 15.4% |
+| 1-1 draw | 2 | 15.4% |
+| 3-2 | 1 | 7.7% |
+| 1-0 | 1 | 7.7% |
 
 ### Calibration notes for pundits
 
-- **Tight margins dominate knockout results** — of 5 decisive knockout results, 3 were settled by exactly 1 goal and only 2 by 2 or more. A 1-goal winning margin (e.g. 1-0, 2-1) is the knockout norm; predict a 2+ goal gap only when there is a clear quality and fitness gap evidenced by this tournament.
-- **Knockout draw rate (level at 90 min): 28.6% (2/7 matches)** — a draw at 90 min triggers extra time. Do not set `draw_probability` below this rate without strong evidence of a decisive winner.
+- **Tight margins dominate knockout results** — of 11 decisive knockout results, 6 were settled by exactly 1 goal and only 5 by 2 or more. A 1-goal winning margin (e.g. 1-0, 2-1) is the knockout norm; predict a 2+ goal gap only when there is a clear quality and fitness gap evidenced by this tournament.
+- **Knockout draw rate (level at 90 min): 15.4% (2/13 matches)** — a draw at 90 min triggers extra time. Do not set `draw_probability` below this rate without strong evidence of a decisive winner.
+- **Clean sheets occur in 46.2% of knockout matches (6/13)** — one side failing to score is a genuine and common outcome. If a team has scored in fewer than half their tournament matches, or the opponent has conceded fewer than 1 goal per game, 0 goals for that team is the correct default — not 1.
 - **Group stage scoring volume is evidence about individual teams, not knockout scorelines** — a team that scored consistently in the group stage has proven attacking quality that carries into the knockouts. An inability to score in the group stage is equally telling. But use the knockout frequency table above as your scoreline prior, not the group stage table.
 - **Group stage draw rate: 27.8%** — relevant only for group stage fixtures.
 - **Blowouts are rare in knockout rounds** — they occurred in the group stage (6-0, 7-1) but the knockout data shows far tighter margins. Only predict a large margin if the quality gap is exceptional and evidenced by this tournament, not just reputation.

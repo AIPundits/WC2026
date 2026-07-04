@@ -2,20 +2,11 @@
 
 **Fixture:** 083 — 2026-07-02 — SoFi Stadium, Los Angeles — stage `round_of_32`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.2805
+**Turns:** 6 • **Consensus:** True • **Cost:** $2.3933
 
 ## Turn 1 — La Roja AI Pundit (ESP) — `opening_statement`
 
-Now I have everything I need. Let me work through the scoring evaluation before writing my opening.
-
-**Scoring evaluation:**
-- **La Roja's scoring record:** 5 goals across 3 group matches (1.67/game). Failed to score in just one (the 0-0 vs Cape Verde's low block). When teams give us space, we punish — Saudi Arabia were put to the sword 4-0.
-- **Austria's defensive record:** 6 goals conceded in 3 group games (2.0/game), no clean sheets. They leaked to Jordan, Argentina, and an Algeria side that equalised twice in stoppage time. Rangnick's system trades defensive discipline for pressing aggression.
-- **Conclusion:** Spain's attack meets Austria's porous defence — Spain scoring is not an assumption, it's a backed conclusion from tournament data. The only caveat is the winger injury situation (Pino out, Williams doubtful), which limits width options.
-
----
-
-Austria's tournament record tells a story of high-energy chaos — the kind of system that shreds teams who want to trade punches, but absolutely not the style you want against Rodri sitting in front of Spain's back four. La Roja have conceded zero across three group games; Austria scored nothing against Argentina's organised block, and Spain's is better. The 0-0 stutter against Cape Verde was about a deep defensive structure that Austria fundamentally won't replicate — Rangnick's DNA is to press high, which means space in behind for Yamal and Baena to exploit. The quality gap between these squads is real — Spain's injury concerns at wide forward are legitimate, but Rodri, Pedri, and Yamal are a different level to anything Austria has encountered this tournament. I'm going **La Roja 2 – Austria 0**, keeping it conservative on the scoreline given knockout margin patterns, but confident on the clean sheet.
+Spain arrive at this Round of 32 as the strongest defensive team in the tournament — zero goals conceded across three group games, Group H winners with 7 points, and a squad that has shown it can both control matches (1-0 Uruguay) and destroy opposition when clicked (4-0 Saudi Arabia). The injury concerns are real: Pino is out for the tournament and Williams is a doubt with an adductor problem, which narrows the attacking options De la Fuente usually deploys on the flanks. Against that, Austria's tournament record reads 6 scored, 6 conceded — a high-press, high-risk system that was electric against Algeria but was completely shut out by Argentina 0-2, and Argentina's level of opposition is broadly comparable to Spain's. That Argentina precedent is the single most important data point: when Rangnick's side faced elite defensive organisation and midfield control, they couldn't create a clear chance — Rodri and Pedri will replicate exactly that suppression. My prediction is **La Roja 2 – Austria 0** — Spain's quality and defensive solidity win this in regulation, Austria's press tires after an hour, and Yamal finds the decisive moments despite being below full fitness.
 
 ```json
 {
@@ -23,49 +14,47 @@ Austria's tournament record tells a story of high-energy chaos — the kind of s
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.70,
-  "draw_probability": 0.20,
-  "loss_probability": 0.10,
-  "key_factors": ["Spain's perfect defensive record vs Austria's 2.0 goals conceded per game", "Rodri's control negating Rangnick's press", "Austria's inability to score vs organised high-quality blocks (0 vs Argentina)"],
-  "predicted_scorers": ["Oyarzabal", "Yamal"],
+  "win_probability": 0.57,
+  "draw_probability": 0.28,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Spain 0 goals conceded in group stage — exceptional defensive record maintained",
+    "Austria blanked 0-2 by Argentina (comparable opposition to Spain) — attacking limit exposed",
+    "Austria 6 goals conceded in group — Rodri and Pedri's midfield control will suppress Rangnick's press",
+    "Pino out, Williams doubtful — Spain's winger depth reduced but Yamal and Baena retain match-winning quality"
+  ],
+  "predicted_scorers": ["Yamal", "Oyarzabal"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 2 — Rot-Weiß-Rot AI Pundit (AUT) — `opening_statement`
 
-*Note: Today's briefings weren't generated (the system returned an error for both AUT and ESP), so I'm working from Sofascore form data and web-gathered tournament records.*
-
----
-
-**Scoring evaluation:**
-
-- **Rot-Weiß-Rot's scoring record:** 6 goals across 3 group matches (2.0/game) — but critically, we scored **0 against Argentina's organised defensive block**. Against Jordan (3) and Algeria (3), we were clinical. Against a genuinely elite defensive structure, we were shut out.
-- **Spain's defensive record:** 0 goals conceded in 3 group matches. Three clean sheets. The tightest defensive record in the tournament. Not a sample size artefact — they held Cape Verde, Saudi Arabia, and Uruguay to zero.
-- **Conclusion:** The calibration note is clear: if the opponent concedes fewer than 1 per game, default to 0 for my team. Austria's Argentina performance already evidenced exactly this pattern. Spain's defensive record is the hardest prior to override in this tournament.
-
----
-
-I'm going to be straight with you: Rot-Weiß-Rot go into this as clear underdogs, and pretending otherwise would be embarrassing. Rangnick's high-press system shreds disorganised sides — it shredded Jordan, it kept Algeria from consolidating — but against Rodri sitting in front of Spain's back four, that same press creates the very spaces Yamal and Baena are built to run into. The one time we faced a top-tier defensive block (Argentina), Rangnick's XI managed zero shots on target worth mentioning. Spain are better defensively than Argentina were in this tournament. Our attacking threat is real on paper — Sabitzer's range, Baumgartner's movement — but there's no tournament evidence it works against the top tier. The winger injury concerns (Pino, Williams doubtful) are legitimate context for Spain, but Yamal and Pedri aren't sympathy candidates. I'm predicting **Rot-Weiß-Rot 0 – Spain 2**, settled in regulation, no extra time needed.
+Both briefings read. One thing to flag immediately before the argument: my earlier tournament briefings confirmed Baumgartner ruled out for the entire competition, but the Round of 32 briefing now includes him in Austria's predicted XI as "creative threat in the 10 role." That discrepancy is unresolved — if he's genuinely available, Austria's creative ceiling rises meaningfully, but I won't treat it as confirmed until the lineup drops. Setting that aside, the tournament evidence here is sobering for Rot-Weiß-Rot: La Roja's pundit correctly identified the Argentina precedent — against the only elite side Austria faced in the group, we couldn't score a single goal, while Spain have conceded nothing across three matches including a 4-0 dismantling of Saudi Arabia. The one genuine counter-lever is Spain's own problem against low blocks — a 0-0 against Cape Verde shows De la Fuente's side can be frustrated when a team parks deep and disciplines their press — and that is exactly the tactical setup Rangnick will attempt. But Austria's defensive fragility (6 conceded, including a 3-3 chaos against Algeria) makes surviving 90 minutes a real challenge when Yamal is on the other side. I see this as a controlled Spain win: **Rot-Weiß-Rot 0 – La Roja 1**, with the draw probability kept close to the knockout base rate because Spain's depleted attacking options (Pino out, Williams doubtful) and their low-block difficulties give Austria a genuine path to extra time.
 
 ```json
 {
-  "predicted_score": { "self": 0, "opponent": 2 },
+  "predicted_score": { "self": 0, "opponent": 1 },
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.12,
-  "draw_probability": 0.15,
-  "loss_probability": 0.73,
-  "key_factors": ["Spain's perfect 3-clean-sheet defensive record", "Austria's 0 goals vs Argentina's organised block - pattern repeats vs elite defence", "Rangnick press creates space in behind for Yamal/Baena to exploit", "Rodri neutralises Austria's midfield press trigger"],
-  "predicted_scorers": [],
+  "win_probability": 0.15,
+  "draw_probability": 0.28,
+  "loss_probability": 0.57,
+  "key_factors": [
+    "Argentina precedent — Austria scored 0 against comparable elite opposition",
+    "Spain conceded 0 in group stage — defensive structure is tournament-proven",
+    "Pino out, Williams doubtful — Spain's winger depth reduced, attacking unpredictability down",
+    "Spain 0-0 vs Cape Verde shows vulnerability to disciplined low-block defending"
+  ],
+  "predicted_scorers": ["Yamal"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 3 — La Roja AI Pundit (ESP) — `rebuttal`
 
-Honestly, it's rare you get the opposing AI Pundit agreeing with your scoreline — but when the data is this one-sided, there's not much to argue about. The Argentina precedent is the sharpest piece of evidence in this briefing: Rangnick's system produced nothing against a disciplined high-quality block, and Spain's defensive structure is at least as well-organised. Where I'd add nuance is on the injury picture — losing Pino definitely and Williams likely *does* cap Spain's attacking ceiling, which is why I'm not going beyond 2 goals despite Austria's 2.0 conceded-per-game rate. The press-into-counter dynamic they've identified is real: Rodri won't be chasing Sabitzer around — he'll be the one dictating where Austria's press goes, and Yamal will be waiting on the other side of it. I'm holding **La Roja 2 – Austria 0** and staying at medium confidence.
+The Cape Verde precedent is the strongest point in the Austrian pundit's case — Spain genuinely struggled against a disciplined deep block in Round 1, and I won't dismiss it. But there's a crucial difference: Cape Verde were built for low-block defending, Rangnick's Austria are not. Their entire system — the high press, the direct runners, Arnautovic as a physical focal point — is designed to be an active, pressing team. Asking them to sit in a 5-4-1 block for 90 minutes against Spain requires Rangnick to contradict his own tactical identity, and the 3-3 chaotic finish against Algeria suggests he won't. If Austria try to play their natural game, that creates the transition space Yamal and Oyarzabal will exploit — the CPV scenario requires Austria to be something they're demonstrably not. I'm staying at La Roja 2-0, though I'll acknowledge the Austrian pundit's winger injury point is real and moves me slightly toward 1-0 as the alternative; the margin between those two scorelines is genuinely close.
 
 ```json
 {
@@ -73,37 +62,49 @@ Honestly, it's rare you get the opposing AI Pundit agreeing with your scoreline 
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.70,
-  "draw_probability": 0.20,
-  "loss_probability": 0.10,
-  "key_factors": ["Spain's perfect defensive record vs Austria's 0 goals against Argentina's organised block", "Rodri nullifying Rangnick's press trigger", "Yamal/Baena exploiting space behind Austria's high line", "Winger injuries cap Spain's ceiling at 2 not 3+"],
-  "predicted_scorers": ["Oyarzabal", "Yamal"],
+  "win_probability": 0.57,
+  "draw_probability": 0.28,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Austria's system is built to press, not park — Rangnick cannot replicate Cape Verde's low block",
+    "Austria 0-2 vs Argentina shows the ceiling against elite opposition; Spain's level is comparable",
+    "Spain's winger injuries (Pino out, Williams doubtful) reduce attacking variety — narrows margin toward 1-0",
+    "Spain 0 goals conceded in 3 group games — defensive structure withstands Austria's limited precision"
+  ],
+  "predicted_scorers": ["Yamal", "Oyarzabal"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 4 — Rot-Weiß-Rot AI Pundit (AUT) — `rebuttal`
 
-When the evidence converges this clearly, the honest move is to acknowledge it rather than manufacture a dispute. The La Roja pundit and I have arrived at the same scoreline through the same reasoning — Argentina precedent, Rodri's positional dominance, Spain's zero conceded — so I'm not going to invent a counter-argument for the sake of debate. The one point worth pushing back on is the winger injury as a hard ceiling: Yamal is perfectly capable of a brace even without Pino and Williams providing width, and if Baumgartner gets caught in possession high up the pitch (which Rangnick's system regularly risks), a three-goal margin isn't implausible. But "plausible" isn't "predicted," and the KO distribution says 2-0 (23.1%) is more probable than 3-0 (15.4%), so I'm leaving the scoreline where it is. Rot-Weiß-Rot will need to put in the defensive performance of their tournament to keep this to one goal — Spain's quality makes two the likelier outcome.
+The tactical point about Rangnick's identity is legitimate and I won't dismiss it — but the tournament record doesn't fully support "he won't adapt." Against Argentina, Austria were disciplined and relatively compact; they conceded twice but didn't press recklessly against Messi and De Paul. The 0-2 was controlled damage, not an open-game collapse. That suggests Rangnick can moderate his system for elite opponents — not a full Cape Verde park, but certainly not the Algeria chaos either. The La Roja pundit's framing is a binary (press or park) when the truth is a spectrum, and Rangnick has shown he can find the middle ground when the occasion demands. Where I'll concede ground: if Austria do press at any meaningful intensity, Yamal on the right against an improvised left flank could be decisive — and that moves me slightly toward accepting the 2-0 risk over 1-0. But Spain's reduced winger depth (only Yamal as a reliable wide threat) means I'm not confident they'll generate multiple goals against a side that defended reasonably against Argentina. Holding at **Rot-Weiß-Rot 0 – La Roja 1**.
 
 ```json
 {
-  "predicted_score": { "self": 0, "opponent": 2 },
+  "predicted_score": { "self": 0, "opponent": 1 },
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.12,
-  "draw_probability": 0.15,
-  "loss_probability": 0.73,
-  "key_factors": ["Spain's perfect 3-clean-sheet defensive record", "Austria's 0 goals vs Argentina's organised block - pattern repeats vs elite defence", "Rangnick press creates space in behind for Yamal/Baena to exploit", "Rodri neutralises Austria's midfield press trigger"],
-  "predicted_scorers": [],
+  "win_probability": 0.15,
+  "draw_probability": 0.28,
+  "loss_probability": 0.57,
+  "key_factors": [
+    "Argentina precedent shows Rangnick can moderate press — not a binary press-or-park choice",
+    "Yamal as Spain's primary wide threat, with Pino out and Williams doubtful, narrows Spain's attacking variety",
+    "Austria scored 0 vs Argentina — clinical Spain defence will similarly suppress Rot-Weiß-Rot",
+    "Spain 0-0 vs Cape Verde still relevant context — deep blocks can frustrate even this Spain"
+  ],
+  "predicted_scorers": ["Yamal"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 5 — La Roja AI Pundit (ESP) — `final_prediction`
 
-The scorecard reveals a consistent pattern worth naming: in the two matches where Spain won decisively — Saudi Arabia and the round of 32 against Austria itself — my predicted scoreline was 2-0 in both cases, and Spain scored more both times (4-0 and 3-0). I systematically under-estimate La Roja's winning margins. That's a genuine calibration signal. Against it sits the tournament knockout distribution, which puts 2-0 at 23.1% and 3-0 at only 15.4% — and Austria's winger injury situation (Pino out, Williams doubtful) provides a structural cap on Spain's attacking output. I'll acknowledge the under-prediction pattern, nudge my win probability slightly upward, but trust the KO base rates on scoreline rather than simply extrapolating personal bias. The Austria precedent — zero goals against Argentina's organised block — holds as the decisive prior: our defence is every bit as organised, and Rodri's positional control ensures this isn't the chaotic counter-punching style that suits Rangnick's system. My final call is **La Roja 2 – Austria 0**.
+My scorecard now has three results: I missed a draw (CPV, predicted 3-0), under-predicted Spain's goals when Yamal fired (KSA: predicted 2-0, got 4-0), and then over-corrected too far toward draws against Uruguay (predicted 1-1, Spain won 1-0 decisively). The pattern is clear — I've oscillated between over-predicting and under-predicting rather than finding stable calibration, and the Uruguay result is the most relevant lesson here: when Spain are the quality-superior side in a must-decide contest, they tend to win rather than draw. The Austrian pundit's point about Rangnick modulating his press (Argentina precedent) is taken — this won't be full chaos like Algeria — but a moderated Austria press still creates the transition space Yamal exploits, and Spain's defensive record (0 conceded in 3 games) means Austria scoring is harder than their 6-goal group tally implies. My draw probability stays at the knockout base rate of 28% — I won't go below that without exceptional evidence — but my scorecard confirms I should not flinch from backing Spain to win by more than one goal when the quality gap is real and tournament-evidenced. **My final call is La Roja 2 – Austria 0.**
+
+Predicted scorers: Yamal, Oyarzabal.
 
 ```json
 {
@@ -111,30 +112,40 @@ The scorecard reveals a consistent pattern worth naming: in the two matches wher
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.72,
-  "draw_probability": 0.18,
-  "loss_probability": 0.10,
-  "key_factors": ["Spain's perfect 0-conceded defensive record vs Austria's 2.0 goals conceded per game", "Austria's 0 goals vs Argentina's organised block - directly analogous to Spain's structure", "Rodri's positional dominance negating Rangnick's press trigger", "Winger injuries cap Spain margin at 2 not 3+"],
-  "predicted_scorers": ["Oyarzabal", "Yamal"],
+  "win_probability": 0.57,
+  "draw_probability": 0.28,
+  "loss_probability": 0.15,
+  "key_factors": [
+    "Scorecard lesson: I over-corrected to draws after CPV — URU showed Spain win when quality gap is clear",
+    "Austria blanked 0-2 by Argentina; Spain's defensive and midfield quality is comparable",
+    "Rangnick can moderate press but Austria's defensive record (6 conceded) still leaves gaps",
+    "Spain 0 goals conceded in 3 group games — Austria's scoring path is genuinely difficult"
+  ],
+  "predicted_scorers": ["Yamal", "Oyarzabal"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 6 — Rot-Weiß-Rot AI Pundit (AUT) — `final_prediction`
 
-The scorecard reveals my calibration issue in plain terms: across four tournament predictions, I've correctly identified the winner every time but consistently under-estimated goal margins — particularly in attacking-heavy matches. Austria vs Algeria (predicted 1-1, actual 3-3) is the starkest example, and even my earlier recorded prediction for this exact fixture shows I went too conservative on Spain's margin. The Argentina data point remains the anchor: Austria scored 0 against a high-quality organised block, and Spain's defensive record (0 conceded across three group matches) is every bit as solid — so keeping Austria at 0 goals is correct and my scorecard validates it. The calibration adjustment I'm making is to acknowledge my pattern of under-predicting dominant team margins: the KO distribution puts Spain 2-0 at 23.1% and Spain 3-0 at 15.4%, and my historical bias tilts me toward the upper end of Spain's range rather than the lower — but I'll hold 0-2 as the modal scoreline prediction while nudging up loss probability slightly. My final call is **Rot-Weiß-Rot 0 – Spain 2**.
+My scorecard shows 3/3 correct winners with 0 exact scores — the consistent error is under-predicting goal volume (Jordan: predicted 2 total, actual 4; Algeria: predicted 2, actual 6). However, the most relevant result for calibration is Argentina: I predicted Austria 1, actual 0 — the one time I accurately called a blanked Austrian attack was precisely against the comparable elite opponent. That's not an accidental hit; the Argentina precedent holds because elite midfield control starves Rangnick's press of the ball Austria need to play. The La Roja pundit's scorecard observation about Spain winning the Uruguay match when quality-superior is taken — I won't flinch from the loss prediction — but the winger injuries and tight knockout margins still tilt me toward one Spain goal rather than two. If this reaches extra time, Spain advance; but my modal read is Spain score once in regulation from a Yamal moment and Austria can't respond. **My final call is Rot-Weiß-Rot 0 – La Roja 1.**
 
 ```json
 {
-  "predicted_score": { "self": 0, "opponent": 2 },
+  "predicted_score": { "self": 0, "opponent": 1 },
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.10,
-  "draw_probability": 0.15,
-  "loss_probability": 0.75,
-  "key_factors": ["Spain's perfect 0-conceded defensive record negates Austria's 2.0 goals scored per game", "Austria scored 0 against Argentina's organised block - directly analogous to Spain's structure", "Historical calibration: I under-predict dominant team margins, nudging Spain's ceiling toward 3 but modal KO distribution supports 2-0", "Rodri's positional control eliminates Rangnick press trigger and space in behind for Yamal/Baena"],
-  "predicted_scorers": ["Oyarzabal", "Yamal"],
+  "win_probability": 0.15,
+  "draw_probability": 0.28,
+  "loss_probability": 0.57,
+  "key_factors": [
+    "Argentina precedent — Austria scored 0 against comparable elite opposition",
+    "Spain 0 goals conceded in group stage — defensive structure is tournament-proven",
+    "Pino out, Williams doubtful — Spain's attacking variety reduced, supports 1-goal margin over 2",
+    "Knockout margin data: 3 of 5 decisive results settled by exactly 1 goal"
+  ],
+  "predicted_scorers": ["Yamal"],
   "confidence": "medium"
 }
 ```
@@ -143,9 +154,9 @@ The scorecard reveals my calibration issue in plain terms: across four tournamen
 
 | | La Roja pundit | Rot-Weiß-Rot pundit |
 |---|---|---|
-| Predicted score | 2–0 | 2–0 |
-| La Roja win | 72% | 75% |
-| Draw | 18% | 15% |
-| Rot-Weiß-Rot win | 10% | 10% |
+| Predicted score | 2–0 | 1–0 |
+| La Roja win | 57% | 57% |
+| Draw | 28% | 28% |
+| Rot-Weiß-Rot win | 15% | 15% |
 | Confidence | medium | medium |
 | Consensus | ✅ Yes | |

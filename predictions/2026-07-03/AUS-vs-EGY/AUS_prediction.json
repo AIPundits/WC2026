@@ -1,0 +1,26 @@
+{
+  "team_code": "AUS",
+  "fixture_id": "086",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.22,
+  "draw_probability": 0.24,
+  "loss_probability": 0.54,
+  "key_factors": [
+    "Australia majority-failure default \u2014 scored in 1/3 matches, 0 goals predicted",
+    "Egypt proven attacking output (1.67/game) through Marmoush carries into knockouts",
+    "Salah fitness doubt lowers Egypt ceiling but Marmoush alone sufficient against limited attack",
+    "Scorecard confirms systematic over-prediction of Australia goals \u2014 corrected to zero"
+  ],
+  "predicted_scorers": [
+    "Marmoush"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T11:29:47.747002+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "084",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "goes_to_extra_time": true,
+  "predicted_score_aet": {
+    "self": 1,
+    "opponent": 2
+  },
+  "penalty_winner": null,
+  "win_probability": 0.2,
+  "draw_probability": 0.35,
+  "loss_probability": 0.45,
+  "key_factors": [
+    "Portugal scored 1 goal in 2 matches vs organised blocks \u2014 one regulation goal is the evidence-consistent ceiling",
+    "Knockout draw rate 28.6%; 1-1 at 90 min equally supported by tournament data as any regulation result",
+    "Kramari\u0107 counter-attack threat is Croatia's primary route to a goal against Portugal's defensive transitions",
+    "Portugal squad depth (Ramos, Neto off bench) gives narrow edge in extra time over Croatia's veterans",
+    "Euro 2016 R16 precedent: identical scenario, went to AET, Portugal won 1-0"
+  ],
+  "predicted_scorers": [
+    "Kramari\u0107",
+    "Le\u00e3o"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T09:12:08.578468+00:00"
+}

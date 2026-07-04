@@ -1,0 +1,27 @@
+{
+  "team_code": "GHA",
+  "fixture_id": "088",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.15,
+  "draw_probability": 0.18,
+  "loss_probability": 0.67,
+  "key_factors": [
+    "Colombia 0.33 goals/game conceded \u2014 Ghana 0-goal default per calibration guidance",
+    "Ghana 0 goals vs England (comparable organised defense) \u2014 key tournament evidence",
+    "2-0 at 23.1% KO matches \u2014 strongest base rate support for scoreline",
+    "Scorecard: inconsistent error pattern, no directional adjustment available \u2014 trust the data"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz",
+    "Su\u00e1rez"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T11:40:03.715266+00:00"
+}

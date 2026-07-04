@@ -1,0 +1,23 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "087",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "3-2 (win)",
+  "narrative": "I got the result right and Messi's name on the scoresheet — but the 2-0 clean sheet prediction was flatly wrong, and it matters. My entire defensive argument rested on Cape Verde's \"scored in only 1 of 3 group games\" calibration logic, but that dataset described a team sitting deep to avoid losing in the group stage — in a knockout match where a draw is useless to them, the Blue Sharks came out and attacked, and the result was two goals past Martínez, including a comeback from 2-0 down that made this genuinely anxious in the final stages. I also correctly flagged Messi but missed Lisandro Martínez as a scorer and incorrectly named Lautaro. The goal that sealed it was an own goal — this was not the controlled, professional shut-out I envisioned. I got the winner right, but the match context I described — \"Vozinha keeps it from becoming a rout\" — was exactly backwards; it was Cape Verde preventing this from being a rout.\n\n```json\n{\n  \"got_right\": [\n    \"Argentina winning the match\",\n    \"Messi scoring — correctly predicted as a goal scorer\",\n    \"Argentina's goal-scoring quality being decisive — 3 goals confirms the attacking threat was real\",\n    \"Knockout margin being tight — both pundits converging on 2-0 was right about score being low, wrong about who was shut out\"\n  ],\n  \"got_wrong\": [\n    \"Clean sheet for Argentina — Blue Sharks scored twice, completely invalidating the 0-goal calibration\",\n    \"Cape Verde's attacking threat in knockout context — group-stage low scoring was a misleading proxy\",\n    \"Lautaro as predicted scorer — Lisandro Martínez scored, not Lautaro\",\n    \"Characterising this as a controlled Argentina win — it was a chaotic 3-2 that went to the wire\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would not apply group-stage scoring rates to predict a side's knockout output without explicitly adjusting for the fact that a team playing for survival abandons the cautious defensive shape that suppressed their goals in the group stage.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-04T00:46:46.464835+00:00",
+  "got_right": [
+    "Argentina winning the match",
+    "Messi scoring — correctly predicted as a goal scorer",
+    "Argentina's goal-scoring quality being decisive — 3 goals confirms the attacking threat was real",
+    "Knockout margin being tight — both pundits converging on 2-0 was right about score being low, wrong about who was shut out"
+  ],
+  "got_wrong": [
+    "Clean sheet for Argentina — Blue Sharks scored twice, completely invalidating the 0-goal calibration",
+    "Cape Verde's attacking threat in knockout context — group-stage low scoring was a misleading proxy",
+    "Lautaro as predicted scorer — Lisandro Martínez scored, not Lautaro",
+    "Characterising this as a controlled Argentina win — it was a chaotic 3-2 that went to the wire"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would not apply group-stage scoring rates to predict a side's knockout output without explicitly adjusting for the fact that a team playing for survival abandons the cautious defensive shape that suppressed their goals in the group stage."
+}

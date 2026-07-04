@@ -1,0 +1,31 @@
+{
+  "team_code": "POR",
+  "fixture_id": "084",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "goes_to_extra_time": true,
+  "predicted_score_aet": {
+    "self": 2,
+    "opponent": 1
+  },
+  "penalty_winner": null,
+  "win_probability": 0.38,
+  "draw_probability": 0.38,
+  "loss_probability": 0.24,
+  "key_factors": [
+    "Portugal scored 1 goal in 2 matches vs organised blocks \u2014 one regulation goal is evidence-consistent ceiling",
+    "Scorecard pattern: over-predicted goals vs organised opposition in every group match \u2014 calibrated down",
+    "1-1 at 90 min equally supported by KO base rate (28.6%) as regulation decisive result",
+    "Kramari\u0107 counter-attack threat \u2014 Croatia's realistic route to equalize if Portugal score first",
+    "Portugal squad depth (Ramos, Neto) gives narrow edge in extra time despite Croatia's AET experience"
+  ],
+  "predicted_scorers": [
+    "Neves",
+    "Kramari\u0107"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T09:12:08.577747+00:00"
+}

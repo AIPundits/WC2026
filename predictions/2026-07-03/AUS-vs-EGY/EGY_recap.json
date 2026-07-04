@@ -1,0 +1,20 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "086",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "Well, I called it clearly and clearly got it wrong. I said Marmoush's quality was \"sufficient\" to break down Australia's defence, and the Socceroos' compact 3-4-2-1 proved me wrong for the full 90 minutes — Pharaohs generated the possession but couldn't find the decisive moment that I assumed was coming. The one thing I did get right was Australia's attacking output: zero goals from open play is exactly the majority-failure default I predicted, so their end of the bargain held. But my core error was treating Egypt's group-stage scoring record (1.67/game) as something that would automatically travel into a knockout fixture against a side that had already shut out the USA and Paraguay — those two opponents are better than anyone I gave credit for in assessing what Australia's defence had already done.\n\n```json\n{\n  \"got_right\": [\n    \"Australia's attacking limitation — 0 goals from open play, consistent with majority-failure default\",\n    \"Australia's defensive compactness — 3-4-2-1 structure held firm as flagged pre-match\"\n  ],\n  \"got_wrong\": [\n    \"Egypt's attacking output — predicted 2 goals, scored 0 in regulation\",\n    \"Marmoush described as 'sufficient' individual quality to break the Socceroos — he was not on the day\",\n    \"Dismissed Australia's defensive credentials too lightly despite them having shut out USA and Paraguay\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have applied the same majority-failure logic to Egypt's attacking threat against a defence that had already kept two clean sheets in this tournament — Australia's 0-goals-conceded record in those two matches was stronger evidence of a defensive ceiling than I gave it credit for.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T21:01:14.348462+00:00",
+  "got_right": [
+    "Australia's attacking limitation — 0 goals from open play, consistent with majority-failure default",
+    "Australia's defensive compactness — 3-4-2-1 structure held firm as flagged pre-match"
+  ],
+  "got_wrong": [
+    "Egypt's attacking output — predicted 2 goals, scored 0 in regulation",
+    "Marmoush described as 'sufficient' individual quality to break the Socceroos — he was not on the day",
+    "Dismissed Australia's defensive credentials too lightly despite them having shut out USA and Paraguay"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have applied the same majority-failure logic to Egypt's attacking threat against a defence that had already kept two clean sheets in this tournament — Australia's 0-goals-conceded record in those two matches was stronger evidence of a defensive ceiling than I gave it credit for."
+}

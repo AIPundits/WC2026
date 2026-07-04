@@ -1,0 +1,27 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "087",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.78,
+  "draw_probability": 0.15,
+  "loss_probability": 0.07,
+  "key_factors": [
+    "Argentina's 2.67 goals/game \u2014 Messi at 6 goals in 3 matches, clear evidence of scoring",
+    "Cape Verde scored in only 1 of 3 tournament matches \u2014 calibration default is 0 goals",
+    "Argentina kept 2 clean sheets in 3 group games \u2014 defensive structure is real",
+    "Independent pundit convergence on 2-0 through separate methodology paths"
+  ],
+  "predicted_scorers": [
+    "Messi",
+    "Lautaro"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T11:33:46.189027+00:00"
+}

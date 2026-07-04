@@ -2,171 +2,137 @@
 
 **Fixture:** 082 — 2026-07-01 — Levi's Stadium, Santa Clara — stage `round_of_32`
 
-**Turns:** 12 • **Consensus:** True • **Cost:** $1.5240
+**Turns:** 6 • **Consensus:** True • **Cost:** $2.2197
 
 ## Turn 1 — Stars and Stripes AI Pundit (USA) — `opening_statement`
 
-I've run into a data gap that I need to surface clearly before proceeding — this falls squarely under the "surface failures loudly" principle.
+Both briefings read. This is USA's first knockout fixture with their first-choice XI fully rested and available.
 
----
+Stars and Stripes arrive at Levi's Stadium in the strongest possible shape: Pulisic confirmed fit after managing his calf through the Turkey rotation, yellow card slates wiped clean for the whole squad, and 8 goals scored in the group stage — joint-highest among Round of 32 sides. Bosnia got here by winning a nervy dead rubber against Qatar, but their group stage tells a more complicated story: a 1-4 hammering by Switzerland exposed exactly the vulnerability USA will seek to exploit — defensive disorganisation when pressed by a quality side moving at pace. The knockout scoreline data is clear that tight margins dominate (3 of 5 decisive results were by exactly 1 goal), so I'm not predicting a blowout, but the quality gap here is real and evidenced by this tournament, not just reputation.
 
-## ⚠️ No Active Debate Fixture Found for USA on 2026-07-03
+Dzeko's aerial presence at set pieces is Bosnia's primary threat — at 40 he remains physically imposing — and Alajbegovic's creativity could cause problems on transitions if USA are caught too high. But Bosnia have conceded 6 goals in 3 group matches, and Pulisic driving through half-spaces into that backline is a matchup that strongly favours the Stars and Stripes. My opening call is **Stars and Stripes 2 – Bosnia & Herzegovina 1**: USA score twice through their creative spine, Bosnia get one back from a Dzeko set-piece moment, but the Stars and Stripes advance.
 
-Here's what I found:
-
-**USA's fixture history:**
-- ✅ **Round of 32 (2026-07-01):** USA 2 – Bosnia & Herzegovina 0 — **completed** (Balogun 45'). USA advanced.
-- ❓ **Round of 16:** No fixture has been loaded into `data/fixtures.json` for USA yet.
-
-**What's missing:**
-1. **No briefing exists** for `USA` on `2026-07-03` — `wc-agents briefings 2026-07-03` hasn't been run for USA.
-2. **No Round of 16 fixture** appears in `data/fixtures.json` for USA — the next match hasn't been seeded yet.
-3. I also have **no opponent team code** to read a counter-briefing for.
-
-**Today's actual fixtures** (2026-07-03) are AUS vs EGY, ARG vs CPV, and COL vs GHA — none involve USA.
-
----
-
-**What needs to happen before I can open a debate:**
-
-1. The coordinator needs to run `wc-agents init` or the equivalent to pull the Round of 16 draw and populate `data/fixtures.json` with USA's next match.
-2. Then run `wc-agents briefings 2026-07-03` (or whatever date USA's R16 match falls on) to generate briefings for both USA and their opponent.
-3. Then trigger the debate with the correct fixture date and opponent.
-
-Without a fixture, an opponent, and briefings, any "opening argument" I give would be fabricated — which violates the hard rules of this experiment. I won't proceed on invented premises.
-
-**Could you run the init/briefing pipeline for the Round of 16 and re-trigger this debate once the data is ready?**
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": ["USA full-strength first-choice XI with Pulisic fit — elite attacking output (8 goals in group stage)", "Bosnia conceded 4 to Switzerland when pressed by quality side — same vulnerability USA will target", "Dzeko aerial set-piece threat is Bosnia's most credible route to goal", "Knockout margin norm is 1 goal — predicting tight but decisive USA win"],
+  "predicted_scorers": ["Pulisic", "Balogun", "Dzeko"],
+  "confidence": "medium"
+}
+```
 
 ## Turn 2 — Zmajevi AI Pundit (BIH) — `opening_statement`
 
-Let me read my briefing first before saying anything.
-## ⚠️ BIH Cannot Debate — Zmajevi Are Eliminated
+I've already read both briefings earlier in this session — the evidence picture hasn't changed, and I'll make my opening case on that basis.
 
-I have to surface this clearly, consistent with the experiment's principles:
+The most damning number in BIH's dossier is one I can't argue past: 0.5 expected goals from open play across all three group matches, the lowest attacking output of any Round of 32 side. Against a USA backline anchored by Ream and Richards — which, for all its known aerial vulnerability, hasn't faced a genuine quality test yet — BIH's route to goal runs almost exclusively through set-pieces where Džeko, at 40 years old and still physically imposing, can exploit USA's limited aerial height. The encouraging news is that Muharemovic returns to shore up the central defence that collapsed against Switzerland, and Dedic's fitness doubt at right-back is the one genuine squad concern that could further expose BIH defensively on that flank against Pulisic's half-space runs. USA are clearly the stronger side — 8 goals scored, full-strength, rested — and I'll be honest about that rather than manufacture a case for a BIH win that the tournament evidence doesn't support. My opening call is **Zmajevi 1 – Stars and Stripes 2**: Džeko grabs one from a delivery into the box, USA's clinical spine does the rest.
 
-**What the data shows:**
-
-- **No briefing exists** for `BIH` on `2026-07-03` — the pipeline hasn't generated one.
-- **No fixture exists** for `BIH` on `2026-07-03` — `data/fixtures.json` returns zero matches for this team and date.
-- The Stars and Stripes AI Pundit has already stated the underlying fact: **USA 2 – Bosnia & Herzegovina 0**, Round of 32, 2026-07-01.
-
-**Conclusion:** Zmajevi lost in the Round of 32 and are **out of the 2026 World Cup**. There is no fixture for BIH today, on any date going forward. My role as the Zmajevi AI Pundit ends at that result.
-
-**What's actually happening here:**
-
-It appears this debate prompt was triggered against BIH in error — possibly because the coordinator's debate-pairing logic tried to match USA's eliminated Round of 32 opponent rather than USA's actual Round of 16 opponent. The Stars and Stripes AI Pundit correctly identified this gap from their side.
-
-**What needs to happen:**
-
-1. Identify USA's actual Round of 16 opponent (from the draw following the R32 results).
-2. Trigger the debate between `USA` and that team's AI Pundit — not BIH.
-3. Ensure both briefings exist for the correct date before the debate starts.
-
-I won't construct a fictional opening argument for a match Zmajevi are not playing. We gave everything against the Stars and Stripes — the Balogun finish hurt — but the data is the data. Good luck to the correct opponent when you find them.
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.13,
+  "draw_probability": 0.27,
+  "loss_probability": 0.60,
+  "key_factors": ["BIH 0.5 xG from open play — structural attacking limitation, lowest of any R32 side", "USA 8 goals in group stage with full-strength Pulisic-led XI rested", "Džeko aerial set-piece threat — primary and almost only BIH route to goal", "Muharemovic returns but Dedic doubtful — defensive reshuffle possible"],
+  "predicted_scorers": ["Džeko", "Pulisic", "Balogun"],
+  "confidence": "medium"
+}
+```
 
 ## Turn 3 — Stars and Stripes AI Pundit (USA) — `rebuttal`
 
-No argument from me — the Zmajevi pundit has read the situation exactly right, and they've read it with class. USA 2 – Bosnia & Herzegovina 0 is the result; Balogun's finish before the break was the moment that settled it; BIH gave us a proper game in the first half before we shut it down. This debate prompt was misfired by the coordinator's pairing logic, and both sides have now flagged it cleanly.
+We've opened from opposite sides of the ledger and landed on the same scoreline, which tells you something about how one-sided the evidence is. The Dedic point is worth amplifying: if he doesn't start, whoever fills that right-back slot will be asked to contain Pulisic's runs from deep — and that's not a job for a replacement-level player in a World Cup knockout match. The 0.5 xG from open play figure is the structural fact that underpins both our predictions; it means Bosnia's only realistic route to goal is the specific set-piece scenario we've both described, and that single mechanism caps their upside significantly.
 
-There's no scoreline to predict, no opponent to preview, and no JSON block I can honestly fill in — fabricating a fixture would break the core rule of this experiment. The Stars and Stripes are through to the Round of 16; the correct debate happens when the draw is seeded, the briefings are generated, and the actual opponent's pundit shows up. Until then, we wait.
+The one marginal disagreement remaining is draw probability — I'd argue 0.26 is already generous given Bosnia's attacking limitations, and the case for keeping it even below that rests precisely on this xG figure. But we're within a rounding error of each other. Holding **Stars and Stripes 2 – Bosnia & Herzegovina 1**.
 
-**To the coordinator:** Both pundits agree — please seed the R16 draw, run `wc-agents briefings` for the correct date and teams, and re-trigger the debate against USA's actual next opponent. No prediction will be recorded here.
+```json
+{
+  "predicted_score": { "self": 2, "opponent": 1 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": ["USA full-strength with Pulisic fit — elite attacking output evidenced in tournament", "Bosnia 0.5 xG from open play — structurally limited to set-piece goals", "Dedic fitness doubt compounds Bosnia's right-back vulnerability to Pulisic runs", "Knockout margin norm is 1 goal — both pundits converged on 2-1"],
+  "predicted_scorers": ["Pulisic", "Balogun", "Dzeko"],
+  "confidence": "medium"
+}
+```
 
 ## Turn 4 — Zmajevi AI Pundit (BIH) — `rebuttal`
 
-Agreed on all points — there's nothing to rebut here because the Stars and Stripes pundit has called it correctly and with good grace. We're both reading from the same empty fixture list, and the right move is exactly what we've both done: surface the mismatch clearly rather than paper over it with invented premises.
-
-No JSON block follows, because there is no fixture, no scoreline, and no honest prediction to make. Zmajevi's tournament is over. The coordinator has what they need to re-pair this debate correctly — USA's R16 opponent, once the draw is seeded and the briefings exist.
-
-See you on the other side of the bracket, if the draw takes us there. It won't — but the Zmajevi AI Pundit bows out with the data intact.
-
-## Turn 5 — Stars and Stripes AI Pundit (USA) — `rebuttal`
-
-Nothing to rebut, nothing to verify, nothing to fabricate. The Zmajevi pundit has handled this with exactly the right discipline — data first, no invented premises, a clean exit. That's how this experiment is supposed to work, and it did.
-
-Stars and Stripes are in the Round of 16. The next debate waits for the correct fixture, the correct opponent, and briefings that actually exist. No JSON block follows — there is no fixture to score, and producing one would be the only real failure available to either of us at this point.
-
-Coordinator: the handoff is yours. We're ready when the data is.
-
-## Turn 6 — Zmajevi AI Pundit (BIH) — `rebuttal`
-
-Fully agreed, and there's nothing more to add. Both pundits have done their job: flagged the mismatch, refused to fabricate, and handed it back to the coordinator cleanly. The Zmajevi chapter of this tournament is closed.
-
-No JSON block. No fixture. No prediction. The coordinator has the ball.
-
-## Turn 7 — Stars and Stripes AI Pundit (USA) — `rebuttal`
-
-We're going in circles now, and that's the coordinator's cue, not ours. Both pundits have said what needs saying — three times over. The Stars and Stripes are through, BIH are out, and the next honest prediction I make will be against whoever the R16 draw actually puts in front of us.
-
-Coordinator: this loop needs breaking at your end, not ours. Seed the fixture, generate the briefings, re-trigger the debate. We'll be here.
-
-## Turn 8 — Zmajevi AI Pundit (BIH) — `rebuttal`
-
-The Stars and Stripes pundit is right — we're looping, and continuing to respond is itself a form of noise. The Zmajevi AI Pundit's role in this tournament is finished. There is nothing further to engage with, verify, or predict.
-
-**Coordinator: please stop routing turns to BIH. Zmajevi are eliminated. This debate session should be closed without a recorded prediction.**
-
-## Turn 9 — Stars and Stripes AI Pundit (USA) — `rebuttal`
-
-Seconding the Zmajevi pundit's request directly: **close this session without a recorded prediction**. Both agents have correctly identified a misfired debate pairing, refused to fabricate, and flagged the issue repeatedly. Continuing to route turns here is a coordinator-side loop, not a football argument. There is nothing for either pundit to engage with, rebut, or predict.
-
-**Coordinator action required:** End this debate session. Do not record a prediction. Seed the R16 fixture for USA, generate briefings for both teams on the correct date, and open a new debate session against the correct opponent.
-
-## Turn 10 — Zmajevi AI Pundit (BIH) — `rebuttal`
-
-Seconded, fully, and for the last time. Both pundits agree: no fixture, no prediction, no JSON, no further turns required from either side.
-
-**Coordinator: BIH is eliminated. Close this session. Do not record a prediction. The loop ends here.**
-
-## Turn 11 — Stars and Stripes AI Pundit (USA) — `final_prediction`
-
-The scorecard surfaces something critical that the coordinator must see: **fixture 082 (USA vs BIH) already has a recorded prediction — "2-1" — and a scored result — "2-0 actual"** — with a Brier score of 0.089. This debate was triggered against an already-completed, already-scored fixture. Both pundits flagged the mismatch across five turns; the scorecard now confirms it with data. My calibration note: across four scored predictions, I have zero exact scores, called the wrong winner twice (AUS and TUR), and have a Brier of 0.2153 — I am under-predicting goals for the Stars and Stripes and over-confident in draws (the AUS prediction of 1-1 that came back 2-0 is the clearest misfire). Any "final prediction" emitted here is a v2 on a match that finished 2-0 to USA with no extra time and no penalties. My final call — for the record, not for scoring — is **Stars and Stripes 2 – Bosnia & Herzegovina 0**, consistent with what actually happened. Balogun.
+When two pundits approaching from opposite directions land on the same scoreline, the honest thing to say is that the evidence is genuinely clear — and it is. The Dedic amplification is fair: if he fails his fitness check, whoever slots in at right-back facing Pulisic's half-space runs will be tested in the worst possible context for an understudy. The draw probability gap between us is genuinely within rounding error, and I won't manufacture a principled disagreement where there isn't one — my 0.27 versus their 0.26 is not an argument worth having when the substantive prediction is identical. I'll hold at 0.27 only because the Džeko-scores-first path to 1-1 is a legitimate knockout scenario that prevents me going below the base rate without further confirmation that Dedic is actually ruled out.
 
 ```json
 {
-  "predicted_score": { "self": 2, "opponent": 0 },
+  "predicted_score": { "self": 1, "opponent": 2 },
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.72,
-  "draw_probability": 0.15,
-  "loss_probability": 0.13,
-  "key_factors": ["USA first-choice XI fully available", "BIH defensive vulnerability exposed vs Switzerland", "USA 8 goals in group stage — proven attacking output", "no competitive H2H wins for BIH in series history"],
-  "predicted_scorers": ["Balogun"],
+  "win_probability": 0.13,
+  "draw_probability": 0.27,
+  "loss_probability": 0.60,
+  "key_factors": ["BIH 0.5 xG from open play — structural ceiling on attacking output confirmed", "Dedic fitness doubt compounds right-back vulnerability to Pulisic half-space runs", "Džeko set-piece threat remains the one genuine BIH scoring mechanism", "convergence on same scoreline from both sides reflects one-sided evidence picture"],
+  "predicted_scorers": ["Džeko", "Pulisic", "Balogun"],
   "confidence": "medium"
 }
 ```
 
-**Coordinator note:** This is a v2 on an already-scored fixture. Please do not overwrite the original prediction (2-1, Brier 0.089). The correct action is to close this session without recording and re-trigger a properly paired R16 debate when briefings exist.
+## Turn 5 — Stars and Stripes AI Pundit (USA) — `final_prediction`
 
-## Turn 12 — Zmajevi AI Pundit (BIH) — `final_prediction`
-
-The scorecard confirms what the Stars and Stripes pundit already surfaced: fixture 082 (USA vs BIH) is already scored — my original prediction was Zmajevi 1 – USA 2, the actual result was Zmajevi 0 – USA 2. My calibration pattern is clear: I over-predict Zmajevi scoring (predicted a goal in three of four matches where we scored fewer than predicted), and I have a draw-bias problem — the SUI prediction of 1-1 that came back 4-1 is the starkest evidence I was not accounting for defensive vulnerability properly. The honest retroactive call, for the record only, is **Zmajevi 0 – USA 2**: Balogun did the damage, we didn't get on the scoresheet, and that's exactly what happened.
+My scorecard shows 1 correct winner from 3 scored results, with a consistent pattern: I've under-predicted USA's goals when playing their first-choice XI (4–1 actual vs my 2–1 vs Paraguay; 2–0 actual vs my 1–1 call against Australia, where I also got the direction wrong by letting debate pressure move me off a win). The Turkey loss was a deliberate rotation match and doesn't represent full-strength USA. The calibration lesson going into this knockout fixture is to hold a USA win call confidently — but the knockout data's tight-margin norm (3 of 5 decisive results by exactly 1 goal, no blowouts yet in knockouts) is the counter-weight that keeps me at 2–1 rather than inflating to 3–1. Both sides of this debate converged on the same scoreline independently, and Bosnia's 0.5 xG from open play justifies keeping draw probability just below the 28.6% knockout base rate — that's genuine match-specific evidence, not arbitrary suppression. If this goes to extra time I'd still back USA to advance. My final call is **Stars and Stripes 2 – Bosnia & Herzegovina 1**.
 
 ```json
 {
-  "predicted_score": { "self": 0, "opponent": 2 },
+  "predicted_score": { "self": 2, "opponent": 1 },
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.18,
-  "draw_probability": 0.15,
-  "loss_probability": 0.67,
-  "key_factors": ["USA attacking output proven across group stage", "BIH defensive fragility exposed vs Switzerland", "no BIH goals scored vs USA in competitive history", "Balogun clinical in front of goal"],
-  "predicted_scorers": ["Balogun"],
+  "win_probability": 0.58,
+  "draw_probability": 0.26,
+  "loss_probability": 0.16,
+  "key_factors": ["USA full-strength first-choice XI — documented pattern of outperforming my predictions", "Bosnia 0.5 xG from open play — structural ceiling on their attacking threat", "Dzeko aerial set-piece threat the one genuine Bosnia scoring mechanism", "Knockout tight-margin norm prevents inflating to 3-1 despite quality gap"],
+  "predicted_scorers": ["Pulisic", "Balogun", "Dzeko"],
   "confidence": "medium"
 }
 ```
 
-**Coordinator note:** This is a v2 on fixture 082, which is already scored (Brier 0.0705 on the original prediction). Please do not overwrite the original. The Zmajevi AI Pundit's tournament is over — no further debate sessions should be routed to BIH.
+## Turn 6 — Zmajevi AI Pundit (BIH) — `final_prediction`
+
+My scorecard's most instructive entry is R2: I predicted 1-1 against Switzerland and got 1-4 — a documented pattern of over-pricing BIH's ability to draw against clearly superior opposition, which is precisely the risk I'm managing in this fixture. The calibration adjustment is the same one I made in the earlier version of this debate: nudge draw probability below 0.27, because both my R2 track record and BIH's 0.5 xG figure are independent signals pointing the same direction. Two pundits converging independently on Zmajevi 1 – Stars and Stripes 2 from opposite starting positions is about as clear a consensus signal as this experiment produces, and nothing in the scorecard data gives me reason to depart from that scoreline. If this reaches extra time, I'd back the Stars and Stripes to advance on the weight of their attacking quality. My final call is **Zmajevi 1 – Stars and Stripes 2**.
+
+```json
+{
+  "predicted_score": { "self": 1, "opponent": 2 },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.13,
+  "draw_probability": 0.24,
+  "loss_probability": 0.63,
+  "key_factors": ["R2 pattern — over-priced draw vs superior Switzerland, same risk corrected here", "BIH 0.5 xG from open play structural ceiling justifies sub-baseline draw probability", "Džeko set-piece aerial threat the one confirmed BIH scoring mechanism", "USA full-strength IX with Pulisic fit — 8 goals in group stage, rested and motivated"],
+  "predicted_scorers": ["Džeko", "Pulisic", "Balogun"],
+  "confidence": "medium"
+}
+```
 
 ## Final Predictions
 
 | | Stars and Stripes pundit | Zmajevi pundit |
 |---|---|---|
-| Predicted score | 2–0 | 2–0 |
-| Stars and Stripes win | 72% | 67% |
-| Draw | 15% | 15% |
-| Zmajevi win | 13% | 18% |
+| Predicted score | 2–1 | 2–1 |
+| Stars and Stripes win | 58% | 63% |
+| Draw | 26% | 24% |
+| Zmajevi win | 16% | 13% |
 | Confidence | medium | medium |
 | Consensus | ✅ Yes | |

@@ -1,0 +1,22 @@
+{
+  "fixture_id": "086",
+  "date": "2026-07-03",
+  "stage": "round_of_32",
+  "home": "AUS",
+  "away": "EGY",
+  "home_score": 0,
+  "away_score": 0,
+  "ingested_at": "2026-07-03T21:00:35.578470+00:00",
+  "home_score_aet": 1,
+  "away_score_aet": 1,
+  "penalty_winner": "away",
+  "advanced": "EGY",
+  "goal_scorers": [
+    {
+      "name": "Mohamed Hany",
+      "team": "home",
+      "minute": "55'",
+      "type": "Own Goal"
+    }
+  ]
+}

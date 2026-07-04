@@ -1,0 +1,11 @@
+{
+  "fixture_id": "087",
+  "fixture_date": "2026-07-03",
+  "home_code": "ARG",
+  "away_code": "CPV",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 2.2809513,
+  "model": "claude-sonnet-4-6"
+}

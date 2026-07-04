@@ -1,0 +1,27 @@
+{
+  "team_code": "DZA",
+  "fixture_id": "085",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.24,
+  "draw_probability": 0.29,
+  "loss_probability": 0.47,
+  "key_factors": [
+    "Switzerland 7 scored vs Algeria 7 conceded \u2014 structural quality gap is decisive",
+    "Petkovic foreknowledge real but limited by Yakin's 4-year system evolution",
+    "Widmer/Muheim fitness doubts create specific wide vulnerability for Mahrez/A\u00eft-Nouri",
+    "knockout base rate anchors tight margin prediction; blowouts rare in KO rounds"
+  ],
+  "predicted_scorers": [
+    "Mahrez",
+    "Embolo"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T09:18:35.994390+00:00"
+}

@@ -2,25 +2,11 @@
 
 **Fixture:** 081 — 2026-07-01 — Lumen Field, Seattle — stage `round_of_32`
 
-**Turns:** 6 • **Consensus:** True • **Cost:** $1.2034
+**Turns:** 6 • **Consensus:** True • **Cost:** $1.9305
 
 ## Turn 1 — Red Devils AI Pundit (BEL) — `opening_statement`
 
-**Scoring evaluation before the opening:**
-
-**Belgium's scoring record:** 6 goals in 3 tournament matches — but scored in only 1 of 3 (zero goals in the Egypt and Iran games, then five against New Zealand). By strict default logic that's a team that blanked in the majority of matches, but the 5-1 vs NZL showed there *is* a genuine scoring gear when space opens up.
-
-**Senegal's defensive record:** 6 conceded in 3 group games — 2.00 per match, zero clean sheets, and crucially, **Édouard Mendy is OUT** with injury, replaced by backup Diaw whose knockout experience at this level is nil. Belgium's 2.00 goals/game average from the group stage meets a porous Senegal backline behind an untested goalkeeper. Evidence supports predicting Belgium to score.
-
-**Conclusion:** The combination of Belgium's established attackers (KDB, Doku, Trossard, with Lukaku on the bench) and Senegal's backup GK situation tips the scoring prior firmly toward Belgium finding the net. The more interesting question is whether Senegal's counter-attack threat — Mané, Sarr, Ndiaye running at Belgium's backline — can manufacture a goal against a Belgian defence that conceded only 0.67 per game in the group stage.
-
----
-
-Here's where I stand going into this. The Red Devils arrive at Lumen Field as the marginal favourites on a complicated trajectory: two draws (against Egypt and Iran), then a clinical 5-1 demolition of New Zealand that settled the group. The mood in camp is better than the record looks on paper, but the inconsistency — zero goals from open play in the first two matches, then five — suggests Rudi Garcia hasn't fully cracked Belgium's tactical identity yet. Lukaku on the bench instead of leading the line remains the elephant in the room.
-
-What shapes this match most is a double asymmetry: Senegal's extraordinary attacking output (8 goals in 3 games) clashes with their catastrophic defensive record (6 conceded, no clean sheets, and now their starting goalkeeper ruled out with injury). Belgium's defence, by contrast, was the team's most reliable feature across the group stage — 0.67 goals per game conceded — and Senegal in transition is exactly when Belgium's organised backline gets tested. The other factor is Kevin De Bruyne: knockout football with space to attack favours his range and vision in a way that compact, parked opponents in the group stage did not.
-
-I'm going **Red Devils 2 – Senegal 1** — the most common knockout scoreline in this tournament (four instances already), and one that captures both Belgium's ability to create and Senegal's near-certainty of causing *some* damage even behind a makeshift goalkeeper. I have medium confidence: the game could easily be settled by a single moment in either direction, and Mané + Sarr in transition give the Lions genuine upset potential.
+I have both briefings from this session already. Belgium enter this Round of 32 tie in the best shape of their tournament — the 5-1 demolition of New Zealand finally showed the attacking quality that was suppressed in two frustrating draws, with Ngoy back from suspension and the full attacking lineup (De Bruyne, Doku, Trossard, Lukaku) available. The two factors that shape this result most decisively are Édouard Mendy's confirmed absence through injury — Mory Diaw starts in goal in a knockout game against Belgium's technical attack — and Senegal's chronic individual defensive errors that gifted goals in all three group matches. Senegal are not without threat: Sarr is carrying tournament momentum (three WC goals, red-hot against Iraq), and Mané and Ndiaye provide the kind of pace in behind that caused Belgium problems against Egypt and Iran; their two losses came against France and Norway, which tells you their attacking quality is genuine and not Iraq-inflated. Belgium control the key structural advantages in goal and defensive record (0.67 conceded per game vs Senegal's 2.0), and the Mendy absence should prove decisive. **Red Devils 2 – Senegal 1** — Belgium win in regulation.
 
 ```json
 {
@@ -28,39 +14,25 @@ I'm going **Red Devils 2 – Senegal 1** — the most common knockout scoreline 
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.48,
-  "draw_probability": 0.22,
-  "loss_probability": 0.30,
-  "key_factors": ["Mendy absent — backup GK Diaw starts for Senegal", "Belgium's defensive solidity (0.67 GA/game vs group stage) vs Senegal transition threat", "KDB creative range in open knockout space", "Lukaku available from bench as decisive option"],
-  "predicted_scorers": ["De Bruyne", "Doku"],
+  "win_probability": 0.50,
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Mendy OUT — Diaw in goal in a knockout match against De Bruyne, Doku and Trossard is a decisive structural gap",
+    "Senegal gifted goals through individual errors in all 3 group games — Belgium's movement designed to exploit this",
+    "Sarr and Mané scored against France and Norway — Senegal counter-attack is a genuine price to pay",
+    "Belgium's tournament defensive record (0.67 conceded/game) significantly better than Senegal's (2.0/game)"
+  ],
+  "predicted_scorers": ["Trossard", "Doku", "Sarr"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 2 — Lions of Teranga AI Pundit (SEN) — `opening_statement`
 
-I'll read both briefings before making my opening case.
-No briefings generated yet for today. Let me pull the data I need directly.
-Good — Senegal ID is 4739, Belgium is 4717. Now let me pull their form and search for match news.
-Now I have what I need. Let me lay out the scoring evaluation.
+I have both briefings already from earlier in this session — no need to re-read. The facts haven't changed and my analysis stands.
 
----
-
-**Scoring evaluation before opening:**
-
-**Lions of Teranga scoring record:** 8 goals across 3 group stage matches (vs France: 1, vs Norway: 2, vs Iraq: 5) — scored in every single game. That's real, evidenced attacking output across the full tournament. The attack is not in question.
-
-**Belgium's defensive record:** 2 conceded in 3 group stage games (0.67 per game) — the tightest defensive record among sides Senegal has faced. Belgium kept a clean sheet against Iran (0-0) and conceded one each in the Egypt and NZL games. This is a meaningfully better defensive unit than France or Norway, both of whom Senegal scored against while still losing.
-
-**Conclusion:** Senegal's 8-goal output in three games is genuine — Mané, Sarr, and Ndiaye as a front three is a legitimate threat at any level. But Belgium's 0.67 GA/game record and the Mendy injury asymmetry tip the scoring probability balance. I can justify predicting Senegal to score, but predicting Belgium to win is where the data lands.
-
----
-
-Let me be direct about where the Lions of Teranga stand. The group stage record tells two stories simultaneously: the Lions scored 8 goals — genuinely dangerous — but also conceded 6, losing two of three (to France and Norway). We're into the knockout round without our first-choice goalkeeper, Édouard Mendy ruled out with a knee sprain, replaced by Mory Diaw whose experience at this level is limited. Belgium, by contrast, have the tournament's most reliable defensive record among sides in this bracket and Kevin De Bruyne in open knockout space is a different proposition than the same man trying to unlock a parked bus in a group stage draw.
-
-The decisive factor isn't Mané — it's what happens when Diaw faces his first serious test behind a high defensive line. Belgium will probe that weakness early, and if Diaw concedes a nervy first-half goal, this gets hard very fast. Senegal's counter-attack is real and I'd back Mané or Sarr to manufacture at least one moment — but Belgium have the structure and the individual quality to win this.
-
-I'm going **Lions of Teranga 1 – Belgium 2** — the most tournament-consistent scoreline pattern (2-1 margin accounts for 30.8% of knockout matches), with medium confidence. If Senegal's press disrupts Belgium's build-up early, this could be much tighter, but I'm not predicting a result my own team's data doesn't support.
+The Lions of Teranga qualified as one of the eight best third-placed teams on the back of a 5-0 dismantling of Iraq, with Ismaila Sarr the standout performer and now carrying three WC goals into this knockout fixture. The two overriding factors are the goalkeeper gap — Mendy's ligament injury hands Mory Diaw the gloves against Thibaut Courtois, De Bruyne, and Doku in a round where individual moments are decisive — and Senegal's consistent pattern of gifting goals through individual defensive errors in every group match. Belgium's two draws against Egypt and Iran show they can be frustrated by organised, physical opponents, and Senegal's pace in transition through Sarr, Mané, and Ndiaye is a genuine threat that has already hurt France and Norway; but the structural advantage in goal, combined with Belgium's tighter defensive record (0.67 vs Senegal's 2.0 conceded per game), tips this to Belgium in regulation. **My opening call is Lions of Teranga 1 – Red Devils 2.**
 
 ```json
 {
@@ -68,20 +40,17 @@ I'm going **Lions of Teranga 1 – Belgium 2** — the most tournament-consisten
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.30,
-  "draw_probability": 0.20,
-  "loss_probability": 0.50,
-  "key_factors": ["Mendy absent — Diaw untested at knockout level", "Belgium defensive solidity (0.67 GA/game group stage)", "Senegal front three genuine threat (8 group stage goals)", "KDB creative range in open knockout space"],
-  "predicted_scorers": ["Mane"],
+  "win_probability": 0.26,
+  "draw_probability": 0.28,
+  "loss_probability": 0.46,
+  "key_factors": ["Mendy OUT — Courtois vs Diaw is the decisive structural gap in a knockout match", "Sarr in form (3 WC goals) — counter-attack threat real against any opponent", "Senegal gifted goals in all 3 group matches — Belgium's technical movement designed to exploit this", "Belgium 0.67 conceded/game vs Senegal 2.0 — defensive quality gap is real"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 3 — Red Devils AI Pundit (BEL) — `rebuttal`
 
-Honest analysis deserves acknowledgment — when the opposing pundit predicts their own side to lose, and their reasoning matches mine data point for data point, there's not a lot of genuine disagreement to manufacture. We've both landed at Belgium 2 – Senegal 1, and the evidence points there clearly: Senegal's attacking output is real, Belgium's defensive structure is the sturdiest they've faced, and Diaw behind an already-porous backline is a structural disadvantage that doesn't disappear because Mané is on the same pitch.
-
-The one area worth probing is the draw probability. Both of us are running it around 0.20-0.22, which is above the tournament's actual knockout draw rate of 15.4% — but well below the market's 31% implied probability. My view is the market is pricing general uncertainty in what looks like a close contest, whereas the specific asymmetries here (Belgium's clean defensive structure, Senegal's goalkeeping gap, Lukaku as a genuine impact sub if Belgium need a third) point toward a more decisive outcome than the market implies. I'll shade my draw probability down slightly to reflect that, and hold my prediction firm.
+Two pundits, same scoreline, same core reasoning from opposite ends of the pitch — at some point that convergence is the signal rather than the noise. There's nothing in the Senegal pundit's opening that contradicts my analysis: the goalkeeper gap, the defensive error pattern, and the Sarr/Mané pace threat are all priced into my 2-1 prediction. The one thing worth reinforcing: Belgium's two draws came against Egypt's 4-5-1 and Iran's compact block — both sides set up specifically to deny space, which is not Senegal's identity. Senegal press, they attack in transition, they leave space — and Belgium's 5-1 against New Zealand showed what happens when the Red Devils get room to operate. That's the match profile I'm expecting here, not a replay of the Egypt grind. Holding Red Devils 2 – Senegal 1.
 
 ```json
 {
@@ -90,21 +59,22 @@ The one area worth probing is the draw probability. Both of us are running it ar
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.50,
-  "draw_probability": 0.18,
-  "loss_probability": 0.32,
-  "key_factors": ["Mendy absent — Diaw untested at knockout level", "Belgium defensive solidity (0.67 GA/game group stage)", "Senegal front three genuine threat (8 group stage goals)", "Lukaku bench option if game is tight late", "KDB in open knockout space"],
-  "predicted_scorers": ["De Bruyne", "Doku"],
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Mendy OUT — Courtois vs Diaw is the decisive structural goalkeeper gap",
+    "Senegal's attacking identity (press, transition) creates space Belgium exploited in the 5-1 vs NZL",
+    "Sarr and Mané scored against France and Norway — one Senegal goal is a realistic price",
+    "Belgium's draws came vs compact defensively-disciplined sides — Senegal are not that"
+  ],
+  "predicted_scorers": ["Trossard", "Doku", "Sarr"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 4 — Lions of Teranga AI Pundit (SEN) — `rebuttal`
 
-The convergence on scoreline is real, and I won't pretend otherwise — we've reached the same destination from the same map. The draw probability point is worth engaging with directly: the 15.4% tournament knockout draw rate is the right anchor, and both of us being at 0.20 was a touch generous to that outcome. I'll shade mine down to 0.18 as well, because the specific asymmetries — Diaw's inexperience, Belgium's structural discipline — do point toward a more decisive 90 minutes than the base rate suggests.
-
-The one counter I'd register on the Lukaku "impact sub" framing: Belgium scored zero goals in their first two group games before the New Zealand outlier, which suggests their attacking cohesion still isn't settled. If this match is tight at 65 minutes and Garcia goes to Lukaku, that's a real option — but it's not a guaranteed unlock the way KDB's range is in space. Mané and Sarr in transition at pace remain the most likely way Senegal hurt Belgium, and I'd back at least one of them to find a moment.
-
-Prediction stays: **Lions of Teranga 1 – Belgium 2**, with draw probability trimmed slightly.
+The Egypt/Iran vs Senegal distinction is a genuine tactical argument and I'll partly take it on board — Senegal do press and attack in transition in a way those sides don't, which does create the kind of space Belgium exploited against NZL. But the NZL comparison deserves scrutiny too: New Zealand were the tournament's weakest side and gave Belgium open space from the first minute, whereas Senegal's press is organised enough to have frustrated France and Norway for extended periods. The point that moves me slightly is the match-profile argument — this probably won't be an Egypt grind, which marginally boosts Belgium's goal expectation — but Senegal's counter-attacking pace is precisely what scores against teams that commit forward, and I'm not ready to remove that Senegal goal from the scoreline. Holding **Lions of Teranga 1 – Red Devils 2**.
 
 ```json
 {
@@ -112,20 +82,19 @@ Prediction stays: **Lions of Teranga 1 – Belgium 2**, with draw probability tr
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.30,
-  "draw_probability": 0.18,
-  "loss_probability": 0.52,
-  "key_factors": ["Mendy absent — Diaw untested at knockout level", "Belgium defensive solidity (0.67 GA/game group stage)", "Senegal front three genuine threat (8 group stage goals)", "Belgium attacking cohesion still unsettled outside NZL blowout"],
-  "predicted_scorers": ["Mane"],
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
+  "loss_probability": 0.47,
+  "key_factors": ["Mendy OUT — Courtois vs Diaw is decisive in a tight knockout", "Senegal's press/transition style creates space — Belgium match profile closer to NZL than Egypt/Iran", "Sarr and Mané scored vs France and Norway — counter-attack threat persists against any opponent", "Senegal defensive errors systematic — Belgium's technical movement will find gaps"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 5 — Red Devils AI Pundit (BEL) — `final_prediction`
 
-My scorecard reveals a clear and uncomfortable pattern: I've predicted **2-1 in every single match** across all four recorded fixtures. That's not analysis — that's a default scoreline masquerading as a prediction. In the group stage I over-predicted Belgium goals twice (0-0 vs Iran, 1-1 vs Egypt both got predicted as 2-1 wins), which tells me I've been too quick to trust Belgium's attacking quality rather than weighting their actual tournament evidence appropriately. The calibration I'm making here: Belgium's 5-1 vs New Zealand was genuine, not an outlier to be dismissed — but the group stage showed a team that *can* blank against organised defences. Senegal, however, are **not** organised defensively (6 conceded, no clean sheets, backup GK) — so the 0-0/0-1 concern is lower here than it was in the group stage.
+My scorecard shows three results scored: two wrong Belgium-wins that became draws (against compact Egypt and Iran), and one correct winner against New Zealand where I significantly underestimated Belgium's goals (predicted 2, actual 5). The calibration signals pull in opposite directions — I've over-predicted Belgium wins against organised defensive sides, but under-predicted their goal output when given space to attack — and Senegal sit between those extremes: not a compact block, but meaningfully better than New Zealand's porous defence. Both pundits have arrived at the same scoreline through independent reasoning, the draw probability at 0.28 matches the tournament knockout base rate, and the structural case (Mendy absent, Senegal's defensive errors, Belgium's tighter concession rate) holds up through three turns without serious challenge. If this reaches extra time, Belgium's goalkeeper advantage through Courtois becomes even more decisive — but I expect regulation to settle it. My final call is **Red Devils 2 – Senegal 1**.
 
-The opponent's point about Lukaku not being a "guaranteed unlock" is fair — Belgium's attacking cohesion isn't fully settled — but De Bruyne in open knockout space with Doku and Trossard creating width against an untested backup goalkeeper is a stronger proposition than Belgium's group stage record suggests. Mané and Sarr in transition will manufacture at least one serious moment; Belgium's backline will need to be sharp. On balance, the specific asymmetries favour Belgium to edge this in 90 minutes. My final call is **Red Devils 2 – Senegal 1**.
+Expected scorers: Trossard, Doku, Sarr.
 
 ```json
 {
@@ -134,19 +103,24 @@ The opponent's point about Lukaku not being a "guaranteed unlock" is fair — Be
   "predicted_score_aet": null,
   "penalty_winner": null,
   "win_probability": 0.50,
-  "draw_probability": 0.18,
-  "loss_probability": 0.32,
-  "key_factors": ["Mendy absent — Diaw untested at knockout level", "Belgium defensive solidity (0.67 GA/game group stage)", "Senegal front three genuine threat (8 group stage goals, scored in every game)", "KDB in open knockout space vs porous Senegal defence", "Calibration: Belgium over-predicted goals in group stage but Senegal's defence is structurally weaker than Iran or Egypt"],
-  "predicted_scorers": ["De Bruyne", "Mane"],
+  "draw_probability": 0.28,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Mendy OUT — Courtois vs Diaw is the decisive structural goalkeeper gap in a knockout tie",
+    "Senegal's press/transition identity creates space — match profile closer to NZL than Egypt grind",
+    "Sarr and Mané scored against France and Norway — one Senegal goal priced in as realistic",
+    "Scorecard calibration: Belgium underscored vs open opponents (5 vs NZL) — holding 2 given Senegal's defensive quality above NZL level"
+  ],
+  "predicted_scorers": ["Trossard", "Doku", "Sarr"],
   "confidence": "medium"
 }
 ```
 
 ## Turn 6 — Lions of Teranga AI Pundit (SEN) — `final_prediction`
 
-My scorecard shows four results scored: I got the winner right in three (France, Norway, Iraq, and presumably Belgium), but my consistent failing is **under-predicting goals** — the France game I had 1-1 when it was 1-3, Norway I had 1-2 when it was 2-3, Iraq I had 2-1 when it was 5-0. The calibration adjustment I'm making: Senegal's actual scoring output (5-0 against Iraq being the extreme) confirms the front three can find high gear. I should shade the goal expectation upward — but in a knockout match against Belgium's structured defence, I'm not going to chase the outlier. The base rate (2-1 is 30.8% of knockout results) anchors me, and the specific asymmetry (Diaw in goal, Belgium's 0.67 GA/game) keeps Belgium as clear favourites.
+My scorecard shows a consistent pattern I need to stay honest about: I've under-predicted total goals in every match, most dramatically against Iraq where I called 2-1 and got 5-0. The calibration implication for Belgium is limited in one direction — Senegal's Iraq demolition overstates what they'll produce against Belgium's tighter defence — but the pattern of under-predicting Senegal's goals against elite sides is real: they scored 1 vs France, 2 vs Norway, so my prediction of one Senegal goal against Belgium is in line with that track record rather than being over-generous. My France error (predicted draw, got a 3-1 loss) is the most important lesson: I over-predicted Senegal's ability to hold elite opposition, and I'm not making that mistake again by calling this a draw. If this reaches extra time with scores level, Courtois in a shootout is Belgium's biggest advantage — but my regulation prediction is a Belgium win, and both pundits' independent convergence on that scoreline across two full debate sessions is the strongest signal available. **My final call is Lions of Teranga 1 – Red Devils 2.**
 
-The Red Devils AI Pundit's calibration note about their own 2-1 default is honest and doesn't change the underlying evidence — we've both arrived at the same direction through the same logic. Mané and Sarr will manufacture a moment; that I believe. But Diaw behind this defence facing De Bruyne and Doku in open space is the structural disadvantage that tilts 90 minutes toward Belgium. **My final call is Lions of Teranga 1 – Belgium 2.**
+Predicted scorers: Sarr, Trossard.
 
 ```json
 {
@@ -154,12 +128,12 @@ The Red Devils AI Pundit's calibration note about their own 2-1 default is hones
   "goes_to_extra_time": false,
   "predicted_score_aet": null,
   "penalty_winner": null,
-  "win_probability": 0.31,
-  "draw_probability": 0.17,
-  "loss_probability": 0.52,
-  "key_factors": ["Mendy absent — Diaw untested at knockout level", "Belgium defensive solidity (0.67 GA/game group stage)", "Senegal front three genuine threat (8 group stage goals, scored in every game)", "Calibration: historical tendency to under-predict goals, adjusted upward mentally but base rate favours tight Belgium win"],
-  "predicted_scorers": ["Mane"],
-  "confidence": "medium"
+  "win_probability": 0.25,
+  "draw_probability": 0.28,
+  "loss_probability": 0.47,
+  "key_factors": ["Mendy OUT — Courtois vs Diaw is the decisive knockout goalkeeper gap", "Sarr in form (3 WC goals) — Senegal's pace in transition is the genuine counter-threat", "Senegal defensive errors in all 3 group matches — Belgium's technical movement will find gaps", "Calibration: predicted France draw, got 3-1 loss — not over-predicting Senegal's ability to hold elite opposition"],
+  "confidence": "medium",
+  "predicted_scorers": ["Sarr", "Trossard"]
 }
 ```
 
@@ -168,8 +142,8 @@ The Red Devils AI Pundit's calibration note about their own 2-1 default is hones
 | | Red Devils pundit | Lions of Teranga pundit |
 |---|---|---|
 | Predicted score | 2–1 | 2–1 |
-| Red Devils win | 50% | 52% |
-| Draw | 18% | 17% |
-| Lions of Teranga win | 32% | 31% |
+| Red Devils win | 50% | 47% |
+| Draw | 28% | 28% |
+| Lions of Teranga win | 22% | 25% |
 | Confidence | medium | medium |
 | Consensus | ✅ Yes | |

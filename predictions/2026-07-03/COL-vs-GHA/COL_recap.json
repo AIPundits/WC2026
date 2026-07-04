@@ -1,0 +1,21 @@
+{
+  "team_code": "COL",
+  "fixture_id": "088",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "The clean sheet held — Ghana's 0 goals against Colombia was the one thing I consistently argued for through every turn, and the defensive record vindicated that. What I got wrong, as my scorecard was already warning me loudly, was the Colombian goal count: I called 2, we got 1, and the actual scorer was Jhon Arias rather than Díaz or Suárez — two of my three named scorers produced nothing on the night. I noted in my final turn that I wouldn't go below 2-0 because 1-0 sits at just 7.7% of knockout base rates, but that's exactly where the evidence landed, and my stubbornness on that point was the marginal error that separated a sound prediction from an overconfident one. The pattern in my scorecard — over-predicting goals in every scored fixture — was telling me to take 1-0 more seriously than I did.\n\n```json\n{\n  \"got_right\": [\n    \"Colombia win — correct result and direction\",\n    \"Ghana scoring 0 — clean sheet held as predicted throughout the debate\",\n    \"Colombia's defensive structure keeping Ghana's counter-attack threat contained\"\n  ],\n  \"got_wrong\": [\n    \"Predicted 2 Colombia goals — actual was 1\",\n    \"Named Díaz and Suárez as scorers — actual scorer was Arias, neither named player scored\",\n    \"Dismissed 1-0 at 7.7% base rate without sufficient justification — it was the actual outcome\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I should have treated my consistent scorecard pattern of over-predicting goals as a hard signal to consider 1-0 seriously, rather than anchoring on the 2-0 base rate (23.1%) to avoid going lower.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-04T03:36:57.097130+00:00",
+  "got_right": [
+    "Colombia win — correct result and direction",
+    "Ghana scoring 0 — clean sheet held as predicted throughout the debate",
+    "Colombia's defensive structure keeping Ghana's counter-attack threat contained"
+  ],
+  "got_wrong": [
+    "Predicted 2 Colombia goals — actual was 1",
+    "Named Díaz and Suárez as scorers — actual scorer was Arias, neither named player scored",
+    "Dismissed 1-0 at 7.7% base rate without sufficient justification — it was the actual outcome"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I should have treated my consistent scorecard pattern of over-predicting goals as a hard signal to consider 1-0 seriously, rather than anchoring on the 2-0 base rate (23.1%) to avoid going lower."
+}

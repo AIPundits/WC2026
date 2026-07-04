@@ -1,0 +1,24 @@
+{
+  "team_code": "CPV",
+  "fixture_id": "087",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.06,
+  "draw_probability": 0.17,
+  "loss_probability": 0.77,
+  "key_factors": [
+    "Scorecard calibration: systematic CPV goal overestimation across 3 matches \u2014 zero-goal default applies",
+    "Argentina's 0.33 conceded/game with 2 clean sheets makes CPV scoring genuinely implausible",
+    "Knockout draw rate 15.4% \u2014 draw probability held just above to reflect CPV's draw structural tendency",
+    "Independent pundit convergence on 2-0 through separate calibration methodology paths"
+  ],
+  "predicted_scorers": [],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T11:33:46.189573+00:00"
+}

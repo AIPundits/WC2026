@@ -1,0 +1,28 @@
+{
+  "fixture_id": "085",
+  "date": "2026-07-02",
+  "stage": "round_of_32",
+  "home": "SUI",
+  "away": "DZA",
+  "home_score": 2,
+  "away_score": 0,
+  "ingested_at": "2026-07-03T05:00:44.901595+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "SUI",
+  "goal_scorers": [
+    {
+      "name": "Breel Embolo",
+      "team": "home",
+      "minute": "10'",
+      "type": "Goal"
+    },
+    {
+      "name": "Dan Ndoye",
+      "team": "home",
+      "minute": "46'",
+      "type": "Goal"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "fixture_id": "088",
+  "date": "2026-07-03",
+  "stage": "round_of_32",
+  "home": "COL",
+  "away": "GHA",
+  "home_score": 1,
+  "away_score": 0,
+  "ingested_at": "2026-07-04T03:36:03.204121+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "COL",
+  "goal_scorers": [
+    {
+      "name": "Jhon Arias",
+      "team": "home",
+      "minute": "14'",
+      "type": "Goal"
+    }
+  ]
+}

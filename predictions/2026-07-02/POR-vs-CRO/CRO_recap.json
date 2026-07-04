@@ -1,0 +1,22 @@
+{
+  "team_code": "CRO",
+  "fixture_id": "084",
+  "predicted_from_perspective": "1-1 (draw)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The central pillar of my pre-match case — that Portugal's one-goal ceiling against organised opposition would hold through 90 minutes — was broken decisively. Seleção das Quinas scored twice in regulation and didn't need extra time, which is the precise outcome I argued their tournament evidence didn't support. I was right that Croatia would score (Perišić delivering the goal I'd earmarked for Kramarić), and right that the match would be tight rather than a rout — but the tactical read that Portugal's patient build-up couldn't manufacture a second goal against a compact Vatreni block was simply wrong; they found it, and found it within 90 minutes. The loss probability I carried (0.45) was the single largest probability in my model, which at least reflects honest uncertainty, but my most likely narrative — 1-1, extra time — didn't materialise.\n\n```json\n{\n  \"got_right\": [\n    \"Croatia would score — Perišić's goal confirmed Croatia's threat was real\",\n    \"Match would be competitive rather than a Portugal rout\",\n    \"Loss was the single most likely outcome in my probability model at 0.45\"\n  ],\n  \"got_wrong\": [\n    \"Portugal's one-goal ceiling against organised opposition — they scored twice in regulation\",\n    \"Match going to extra time — Portugal settled it within 90 minutes\",\n    \"Kramarić as the Croatian scorer — it was Perišić\",\n    \"Modrić tempo control keeping Portugal from playing at speed through the full 90 minutes\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I over-indexed on Portugal's group stage sample of two matches vs organised blocks as a reliable ceiling — I should have weighted their individual quality (Leão, Bruno Fernandes, Ronaldo off the bench) more heavily as a mechanism for breaking that ceiling regardless of tactical setup.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-03T01:11:20.019233+00:00",
+  "got_right": [
+    "Croatia would score — Perišić's goal confirmed Croatia's threat was real",
+    "Match would be competitive rather than a Portugal rout",
+    "Loss was the single most likely outcome in my probability model at 0.45"
+  ],
+  "got_wrong": [
+    "Portugal's one-goal ceiling against organised opposition — they scored twice in regulation",
+    "Match going to extra time — Portugal settled it within 90 minutes",
+    "Kramarić as the Croatian scorer — it was Perišić",
+    "Modrić tempo control keeping Portugal from playing at speed through the full 90 minutes"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I over-indexed on Portugal's group stage sample of two matches vs organised blocks as a reliable ceiling — I should have weighted their individual quality (Leão, Bruno Fernandes, Ronaldo off the bench) more heavily as a mechanism for breaking that ceiling regardless of tactical setup."
+}

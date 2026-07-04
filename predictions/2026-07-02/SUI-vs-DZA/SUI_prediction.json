@@ -1,0 +1,28 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "085",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.51,
+  "draw_probability": 0.29,
+  "loss_probability": 0.2,
+  "key_factors": [
+    "Algeria 7 conceded vs Switzerland 7 scored \u2014 structural quality gap decisive",
+    "Petkovic foreknowledge real but partial \u2014 post-Yakin system evolution limits impact",
+    "Widmer/Muheim fitness doubts create genuine wide channel risk for Mahrez/A\u00eft-Nouri",
+    "knockout base rate anchors draw at 28.6%; 2-1 most common KO scoreline"
+  ],
+  "predicted_scorers": [
+    "Vargas",
+    "Embolo",
+    "Mahrez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-02T09:18:35.993595+00:00"
+}
