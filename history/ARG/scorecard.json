@@ -1,11 +1,11 @@
 {
   "team_code": "ARG",
   "predictions_made": 1,
-  "results_scored": 3,
-  "correct_winner": 3,
-  "correct_scoreline_pattern": 3,
+  "results_scored": 4,
+  "correct_winner": 4,
+  "correct_scoreline_pattern": 4,
   "exact_score": 0,
-  "brier_score": 0.1082,
+  "brier_score": 0.0875,
   "per_prediction": [
     {
       "fixture_id": "019",
@@ -39,6 +39,21 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.0409
+    },
+    {
+      "fixture_id": "087",
+      "date": "2026-07-03",
+      "stage": "round_of_32",
+      "opponent": "CPV",
+      "predicted": "2-0",
+      "actual": "3-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.0253,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
     }
   ]
 }

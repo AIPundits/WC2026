@@ -1,11 +1,11 @@
 {
   "team_code": "DZA",
   "predictions_made": 1,
-  "results_scored": 3,
-  "correct_winner": 2,
-  "correct_scoreline_pattern": 2,
+  "results_scored": 4,
+  "correct_winner": 3,
+  "correct_scoreline_pattern": 3,
   "exact_score": 1,
-  "brier_score": 0.1769,
+  "brier_score": 0.1679,
   "per_prediction": [
     {
       "fixture_id": "019",
@@ -39,6 +39,21 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.1933
+    },
+    {
+      "fixture_id": "085",
+      "date": "2026-07-02",
+      "stage": "round_of_32",
+      "opponent": "SUI",
+      "predicted": "1-2",
+      "actual": "0-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1409,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
     }
   ]
 }

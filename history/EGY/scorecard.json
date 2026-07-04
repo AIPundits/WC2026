@@ -1,11 +1,11 @@
 {
   "team_code": "EGY",
   "predictions_made": 1,
-  "results_scored": 3,
-  "correct_winner": 1,
+  "results_scored": 4,
+  "correct_winner": 2,
   "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.2063,
+  "brier_score": 0.2319,
   "per_prediction": [
     {
       "fixture_id": "014",
@@ -39,6 +39,21 @@
       "correct_winner": false,
       "correct_scoreline_pattern": false,
       "brier": 0.2702
+    },
+    {
+      "fixture_id": "086",
+      "date": "2026-07-03",
+      "stage": "round_of_32",
+      "opponent": "AUS",
+      "predicted": "2-0",
+      "actual": "0-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.3086,
+      "correct_advanced": true,
+      "went_to_extra_time": true,
+      "went_to_penalties": true
     }
   ]
 }
