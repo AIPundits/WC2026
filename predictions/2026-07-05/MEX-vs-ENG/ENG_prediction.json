@@ -1,0 +1,27 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "092",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.27,
+  "draw_probability": 0.35,
+  "loss_probability": 0.38,
+  "key_factors": [
+    "England blanked vs Ghana's organised block \u2014 my own scorecard confirms I over-predicted England goals in that exact scenario",
+    "Mexico 4/4 clean sheets \u2014 0-goal default for England not overridden by squad quality alone",
+    "Azteca altitude and partisan home crowd \u2014 conditions England have not faced in this tournament",
+    "Bellingham yellow card constraining England's midfield aggression throughout 90 minutes",
+    "Systematic under-prediction of draws in my scorecard \u2014 draw_probability raised accordingly"
+  ],
+  "predicted_scorers": [
+    "Jim\u00e9nez"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T10:07:34.188752+00:00"
+}

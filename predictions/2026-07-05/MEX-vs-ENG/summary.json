@@ -1,0 +1,11 @@
+{
+  "fixture_id": "092",
+  "fixture_date": "2026-07-05",
+  "home_code": "MEX",
+  "away_code": "ENG",
+  "turns": 10,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 2.4170480999999997,
+  "model": "claude-sonnet-4-6"
+}

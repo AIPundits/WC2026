@@ -1,0 +1,28 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "091",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.25,
+  "draw_probability": 0.22,
+  "loss_probability": 0.53,
+  "key_factors": [
+    "Brazil's defensive solidity (0.5 goals conceded/game, best in tournament) \u2014 dominant asymmetry",
+    "Norway concedes in every match (2.0/game) \u2014 Vinicius Jr./Rayan width will find gaps",
+    "Midfield injury doubts (Paqueta out, Casemiro uncertain) \u2014 \u00d8degaard transition space is Norway's route",
+    "Haaland 5 WC goals \u2014 one genuine chance likely against Marquinhos",
+    "Calibration: historical under-prediction of goals for both sides \u2014 Norway scoring 1 retained as confident call"
+  ],
+  "predicted_scorers": [
+    "Haaland",
+    "Vinicius"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T09:57:05.772282+00:00"
+}

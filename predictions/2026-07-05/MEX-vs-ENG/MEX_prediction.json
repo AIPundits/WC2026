@@ -1,0 +1,27 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "092",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.41,
+  "draw_probability": 0.31,
+  "loss_probability": 0.28,
+  "key_factors": [
+    "England blanked vs Ghana's organised block \u2014 the tournament template for Mexico's defensive setup",
+    "Mexico 4/4 clean sheets \u2014 historical scorecard confirms I over-predict opponent goals against El Tri",
+    "Azteca altitude and partisan home crowd \u2014 qualitatively different conditions from England's prior matches",
+    "Bellingham yellow card constraining England's midfield aggression throughout 90 minutes",
+    "Mexico transition threat (Qui\u00f1ones, Alvarado) exploiting Walker's more defensive RB shape"
+  ],
+  "predicted_scorers": [
+    "Jim\u00e9nez"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T10:07:34.187095+00:00"
+}

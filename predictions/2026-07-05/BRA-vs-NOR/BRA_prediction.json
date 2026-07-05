@@ -1,0 +1,28 @@
+{
+  "team_code": "BRA",
+  "fixture_id": "091",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.5,
+  "draw_probability": 0.24,
+  "loss_probability": 0.26,
+  "key_factors": [
+    "Norway's defensive record (2.0 goals conceded/game, zero clean sheets) vs Brazil's attacking output",
+    "Brazil's defensive solidity (0.5 goals conceded/game, best in tournament)",
+    "Vinicius Jr./Rayan width exploiting Norway full-back channels \u2014 France blueprint",
+    "Midfield injury doubts (Paqueta out, Casemiro uncertain) creating \u00d8degaard transition space",
+    "Calibration: historical pattern of under-predicting opponent goals \u2014 Norway scoring retained"
+  ],
+  "predicted_scorers": [
+    "Vinicius",
+    "Haaland"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T09:57:05.770688+00:00"
+}
