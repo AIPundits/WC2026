@@ -1,0 +1,27 @@
+{
+  "team_code": "CAN",
+  "fixture_id": "089",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.25,
+  "draw_probability": 0.18,
+  "loss_probability": 0.57,
+  "key_factors": [
+    "Morocco unbeaten in 4 WC matches with Netherlands scalp in R32",
+    "H2H: Canada have never beaten Morocco in senior football",
+    "Canada's Eustaquio-David mechanism is tournament-evidenced but Morocco's knockout defence is alert and disciplined",
+    "Penalty expertise asymmetry likely pushes Canada to commit forward late, opening counter-attack space",
+    "Scorecard calibration: pattern of over-predicting Canada goals supports capping Les Rouges at 1"
+  ],
+  "predicted_scorers": [
+    "David"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-04T17:06:33.022496+00:00"
+}

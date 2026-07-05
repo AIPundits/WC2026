@@ -1,0 +1,14 @@
+{
+  "fixture_id": "090",
+  "date": "2026-07-04",
+  "stage": "round_of_16",
+  "home": "FRA",
+  "away": "PAR",
+  "home_score": 1,
+  "away_score": 0,
+  "ingested_at": "2026-07-05T09:33:17.440299+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "FRA"
+}

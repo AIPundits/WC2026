@@ -1,0 +1,11 @@
+{
+  "fixture_id": "089",
+  "fixture_date": "2026-07-04",
+  "home_code": "CAN",
+  "away_code": "MOR",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 0.7441773,
+  "model": "claude-sonnet-4-6"
+}

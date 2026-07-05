@@ -1,0 +1,34 @@
+{
+  "fixture_id": "089",
+  "date": "2026-07-04",
+  "stage": "round_of_16",
+  "home": "CAN",
+  "away": "MOR",
+  "home_score": 0,
+  "away_score": 3,
+  "ingested_at": "2026-07-04T19:05:04.516317+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "MOR",
+  "goal_scorers": [
+    {
+      "name": "Azzedine Ounahi",
+      "team": "away",
+      "minute": "50'",
+      "type": "Goal"
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "team": "away",
+      "minute": "82'",
+      "type": "Goal"
+    },
+    {
+      "name": "Soufiane Rahimi",
+      "team": "away",
+      "minute": "90'+8'",
+      "type": "Goal"
+    }
+  ]
+}

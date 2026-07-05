@@ -1,0 +1,28 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "089",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.58,
+  "draw_probability": 0.2,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Morocco unbeaten in 4 WC matches, eliminated Netherlands in R32 \u2014 highest quality benchmark in this half of the bracket",
+    "H2H: Morocco have never lost to Canada in four senior meetings, including 2-1 in WC 2022",
+    "Scorecard calibration: historical pattern of under-predicting Morocco quality supports holding win probability",
+    "Canada's Eustaquio-David mechanism is tournament-evidenced \u2014 one Canada goal is realistic against Morocco's 1.0 conceded/game",
+    "Penalty expertise asymmetry likely pushes Canada to commit forward late, creating counter-attack space for Morocco"
+  ],
+  "predicted_scorers": [
+    "Brahim Diaz",
+    "David"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-04T17:06:33.023805+00:00"
+}

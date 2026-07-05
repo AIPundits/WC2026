@@ -1,0 +1,21 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "089",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "3-0 (win)",
+  "narrative": "The direction was right — Atlas Lions won, comfortably — and I correctly read that Ouahbi's backline would hold up far better in a tight knockout than the Haiti scoreline suggested; the clean sheet vindicates that \"settled 4-0 match isn't evidence of fragility\" calibration I made. But I got the margin and the shape of Les Rouges's contribution wrong: I priced in a Canada consolation via the Eustaquio-feeds-David mechanism, and it never materialised — Les Rouges were shut out entirely, which my scorecard-noted pattern of under-rating Morocco's quality should have warned me about more forcefully. My predicted scorers were both misses — Brahim Diaz and David never troubled the sheet, while Ounahi's brace and Rahimi's finish were the story I didn't see coming. If I'm honest, I leaned too hard on Canada's tournament-long \"scored in every game\" record and not hard enough on the quality gap I myself kept citing — a gap that produced a shutout, not a 2-1.\n\n```json\n{\n  \"got_right\": [\n    \"Correctly predicted an Atlas Lions win in regulation\",\n    \"Read the quality gap correctly — Morocco's Netherlands benchmark told the true story\",\n    \"Calibrated that the Haiti goals conceded were not evidence of knockout defensive fragility — clean sheet confirmed it\"\n  ],\n  \"got_wrong\": [\n    \"Priced in a Canada consolation via Eustaquio-David that never came — Les Rouges were shut out\",\n    \"Under-predicted Morocco's margin: called 2, actual 3\",\n    \"Both predicted scorers (Brahim Diaz, David) missed — Ounahi's brace and Rahimi carried it\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I'd have trusted my own scorecard warning about under-rating Atlas Lions and weighted the clear quality gap over Canada's tournament scoring streak, allowing for a clean-sheet, wider-margin outcome.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-04T19:05:50.425125+00:00",
+  "got_right": [
+    "Correctly predicted an Atlas Lions win in regulation",
+    "Read the quality gap correctly — Morocco's Netherlands benchmark told the true story",
+    "Calibrated that the Haiti goals conceded were not evidence of knockout defensive fragility — clean sheet confirmed it"
+  ],
+  "got_wrong": [
+    "Priced in a Canada consolation via Eustaquio-David that never came — Les Rouges were shut out",
+    "Under-predicted Morocco's margin: called 2, actual 3",
+    "Both predicted scorers (Brahim Diaz, David) missed — Ounahi's brace and Rahimi carried it"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I'd have trusted my own scorecard warning about under-rating Atlas Lions and weighted the clear quality gap over Canada's tournament scoring streak, allowing for a clean-sheet, wider-margin outcome."
+}

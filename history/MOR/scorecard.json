@@ -1,11 +1,11 @@
 {
   "team_code": "MOR",
   "predictions_made": 3,
-  "results_scored": 4,
-  "correct_winner": 2,
+  "results_scored": 5,
+  "correct_winner": 3,
   "correct_scoreline_pattern": 2,
   "exact_score": 1,
-  "brier_score": 0.204,
+  "brier_score": 0.1809,
   "per_prediction": [
     {
       "fixture_id": "006",
@@ -54,6 +54,21 @@
       "correct_advanced": true,
       "went_to_extra_time": true,
       "went_to_penalties": true
+    },
+    {
+      "fixture_id": "089",
+      "date": "2026-07-04",
+      "stage": "round_of_16",
+      "opponent": "CAN",
+      "predicted": "2-1",
+      "actual": "3-0",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": false,
+      "brier": 0.0883,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
     }
   ]
 }

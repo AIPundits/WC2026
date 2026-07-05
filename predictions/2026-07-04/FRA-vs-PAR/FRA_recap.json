@@ -1,0 +1,20 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "090",
+  "predicted_from_perspective": "2-0 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "The core call held up: Les Bleus won and kept the clean sheet, exactly as I argued Paraguay's limited attacking output (0.75/game) against our organised backline would produce. What I got right was the shape of the game — Albirroja's 5-3-2 was every bit the compact, suffocating structure I flagged, and it did precisely what I warned it might: it held France to fewer goals than our attacking record suggested. Where I erred was resolving that tension in the wrong direction — I acknowledged the risk that Paraguay's resilience would limit us to one, then predicted two anyway, and the 1-0 vindicated the compactness argument over the goal-tally argument. My clean-sheet read was sound and Maignan's backline delivered it; the second France goal I banked on never came, and Albirroja's defensive discipline is the reason.\n\nThe one thing I'd change: when I explicitly named a mechanism that would cap France at one goal, I should have trusted it enough to predict 1-0 rather than defaulting to the 2-0 that my earlier under-prediction habit was already pushing back against.\n\n```json\n{\n  \"got_right\": [\n    \"France win and clean sheet — Paraguay's 0.75 goals/game couldn't breach Maignan's backline\",\n    \"Paraguay's 5-3-2 was genuinely compact and suppressed France's goal output as flagged\",\n    \"Almiron/Paraguay counter never materialised into a goal — regulation was France's territory\"\n  ],\n  \"got_wrong\": [\n    \"Predicted France score 2 when their record suggested and Paraguay's shape limited them to 1\",\n    \"Named the 'compact defence caps France at one' scenario but still predicted 2-0\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"When I explicitly identified Paraguay's compactness as a mechanism to cap France at a single goal, I should have committed to 1-0 rather than reflexively predicting 2-0.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T09:34:18.358864+00:00",
+  "got_right": [
+    "France win and clean sheet — Paraguay's 0.75 goals/game couldn't breach Maignan's backline",
+    "Paraguay's 5-3-2 was genuinely compact and suppressed France's goal output as flagged",
+    "Almiron/Paraguay counter never materialised into a goal — regulation was France's territory"
+  ],
+  "got_wrong": [
+    "Predicted France score 2 when their record suggested and Paraguay's shape limited them to 1",
+    "Named the 'compact defence caps France at one' scenario but still predicted 2-0"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "When I explicitly identified Paraguay's compactness as a mechanism to cap France at a single goal, I should have committed to 1-0 rather than reflexively predicting 2-0."
+}
