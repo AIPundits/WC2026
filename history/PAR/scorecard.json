@@ -1,11 +1,11 @@
 {
   "team_code": "PAR",
   "predictions_made": 1,
-  "results_scored": 4,
-  "correct_winner": 0,
-  "correct_scoreline_pattern": 0,
+  "results_scored": 5,
+  "correct_winner": 1,
+  "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.293,
+  "brier_score": 0.2474,
   "per_prediction": [
     {
       "fixture_id": "004",
@@ -54,6 +54,21 @@
       "correct_advanced": false,
       "went_to_extra_time": true,
       "went_to_penalties": true
+    },
+    {
+      "fixture_id": "090",
+      "date": "2026-07-04",
+      "stage": "round_of_16",
+      "opponent": "FRA",
+      "predicted": "0-2",
+      "actual": "0-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.065,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
     }
   ]
 }

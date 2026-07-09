@@ -1,0 +1,28 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "093",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.56,
+  "draw_probability": 0.22,
+  "loss_probability": 0.22,
+  "key_factors": [
+    "Spain's perfect 0-conceded record in 4 tournament matches \u2014 dominant defensive prior",
+    "Portugal's 0 goals vs Colombia \u2014 direct evidence of attacking limits vs organised defence",
+    "Nations League final win for Portugal \u2014 modest upward nudge on their win probability",
+    "Double winger injury (Williams + Pino) narrows Spain's width; Yamal on right remains decisive",
+    "Calibration: scorecard shows I over-predicted a draw vs Uruguay \u2014 keeping decisive call"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal",
+    "Yamal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T10:54:54.072589+00:00"
+}

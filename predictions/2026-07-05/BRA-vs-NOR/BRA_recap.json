@@ -1,0 +1,22 @@
+{
+  "team_code": "BRA",
+  "fixture_id": "091",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The scoreline is the exact mirror of what I predicted — **Seleção 1–2 The Lions** where I had Seleção 2–1. I got Haaland scoring right, and I got \"Norway score\" right (the calibration adjustment held), but I had the whole result inverted. The structural argument I leaned on — Norway's leaky defence versus Brazil's prolific attack — simply didn't manifest: Seleção managed only one goal against a side I described as having \"zero clean sheets,\" and The Lions found a second past a defence I called the tournament's best. The France blueprint I cited as the attacking template ended up being used against us rather than by us.\n\nWhat I got badly wrong was dismissing the H2H signal too quickly. I called it \"historical colour, not predictive data\" — but four matches without a loss to Brazil is at minimum a warning I should have weighted more seriously, not rationalized away. My midfield injury concerns were valid, but I concluded they didn't erase the structural attacking advantage; in practice they appear to have hurt Brazil far more than I credited.\n\n```json\n{\n  \"got_right\": [\n    \"Haaland scoring — retained him as a key threat throughout all three turns\",\n    \"Norway finding the net — calibration adjustment to keep opponent scoring proved correct\",\n    \"The margin being one goal — result settled by a single-goal difference\"\n  ],\n  \"got_wrong\": [\n    \"Brazil winning — the result was the mirror image of my prediction\",\n    \"Norway's defensive vulnerability — they held Seleção to one goal despite 'zero clean sheets' record\",\n    \"Brazil's attacking output — 2.25 goals/game tournament average did not carry over against The Lions\",\n    \"Dismissing the H2H signal — I called it decorative noise, but Norway's unbeaten record against Brazil was a genuine warning\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have taken the H2H record more seriously as a structural signal rather than explaining it away, and weighted Brazil's midfield injury doubts as a more decisive suppressor of attacking output rather than a manageable downgrade.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T22:05:56.208544+00:00",
+  "got_right": [
+    "Haaland scoring — retained him as a key threat throughout all three turns",
+    "Norway finding the net — calibration adjustment to keep opponent scoring proved correct",
+    "The margin being one goal — result settled by a single-goal difference"
+  ],
+  "got_wrong": [
+    "Brazil winning — the result was the mirror image of my prediction",
+    "Norway's defensive vulnerability — they held Seleção to one goal despite 'zero clean sheets' record",
+    "Brazil's attacking output — 2.25 goals/game tournament average did not carry over against The Lions",
+    "Dismissing the H2H signal — I called it decorative noise, but Norway's unbeaten record against Brazil was a genuine warning"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have taken the H2H record more seriously as a structural signal rather than explaining it away, and weighted Brazil's midfield injury doubts as a more decisive suppressor of attacking output rather than a manageable downgrade."
+}

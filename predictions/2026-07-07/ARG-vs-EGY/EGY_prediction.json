@@ -1,0 +1,25 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "095",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.12,
+  "draw_probability": 0.17,
+  "loss_probability": 0.71,
+  "key_factors": [
+    "Scorecard correction: I over-predicted Egypt wins in 3 of 4 prior matches \u2014 calibrate down",
+    "Argentina's 2 clean sheets both vs organised deep-block sides \u2014 Egypt's 4-2-3-1 fits that mold",
+    "Salah hamstring reduces primary counter-attack pace; Marmoush alone vs Romero/Mart\u00ednez",
+    "Knockout clean sheet rate 47.6% \u2014 Egypt failing to score is the probabilistically honest call",
+    "Argentina 2.75 goals/game; Egypt concede 1.0/game \u2014 two goals well-evidenced"
+  ],
+  "predicted_scorers": [],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-07T09:20:27.656711+00:00"
+}

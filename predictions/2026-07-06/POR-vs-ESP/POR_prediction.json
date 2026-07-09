@@ -1,0 +1,27 @@
+{
+  "team_code": "POR",
+  "fixture_id": "093",
+  "predicted_score": {
+    "self": 0,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.24,
+  "draw_probability": 0.2,
+  "loss_probability": 0.56,
+  "key_factors": [
+    "Spain's perfect 0-conceded record in 4 tournament matches \u2014 strongest defensive prior in competition",
+    "Portugal's 0 goals vs Colombia \u2014 direct evidence of attacking limits vs organised defence",
+    "Nations League final win for Portugal \u2014 legitimate upward nudge on win probability",
+    "Double winger injury (Williams + Pino) narrows Spain's attacking width but Yamal remains decisive",
+    "Calibration: scorecard shows I over-predict draws in knockouts \u2014 adjusting draw_probability down"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T10:54:54.071894+00:00"
+}

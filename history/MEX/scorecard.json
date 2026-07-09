@@ -1,11 +1,11 @@
 {
   "team_code": "MEX",
   "predictions_made": 2,
-  "results_scored": 4,
+  "results_scored": 5,
   "correct_winner": 4,
   "correct_scoreline_pattern": 3,
   "exact_score": 1,
-  "brier_score": 0.1499,
+  "brier_score": 0.1721,
   "per_prediction": [
     {
       "fixture_id": "001",
@@ -52,6 +52,21 @@
       "correct_scoreline_pattern": true,
       "brier": 0.1267,
       "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "092",
+      "date": "2026-07-05",
+      "stage": "round_of_16",
+      "opponent": "ENG",
+      "predicted": "1-0",
+      "actual": "2-3",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2609,
+      "correct_advanced": false,
       "went_to_extra_time": false,
       "went_to_penalties": false
     }

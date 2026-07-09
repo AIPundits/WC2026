@@ -1,11 +1,11 @@
 {
   "team_code": "COL",
   "predictions_made": 1,
-  "results_scored": 4,
+  "results_scored": 5,
   "correct_winner": 4,
   "correct_scoreline_pattern": 4,
   "exact_score": 0,
-  "brier_score": 0.138,
+  "brier_score": 0.1616,
   "per_prediction": [
     {
       "fixture_id": "024",
@@ -54,6 +54,21 @@
       "correct_advanced": true,
       "went_to_extra_time": false,
       "went_to_penalties": false
+    },
+    {
+      "fixture_id": "096",
+      "date": "2026-07-07",
+      "stage": "round_of_16",
+      "opponent": "SUI",
+      "predicted": "1-0",
+      "actual": "0-0",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2558,
+      "correct_advanced": false,
+      "went_to_extra_time": true,
+      "went_to_penalties": true
     }
   ]
 }

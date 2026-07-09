@@ -1,0 +1,22 @@
+{
+  "team_code": "EGY",
+  "fixture_id": "095",
+  "predicted_from_perspective": "0-2 (loss)",
+  "actual_from_perspective": "2-3 (loss)",
+  "narrative": "Well, the Pharaohs lost — that part I called correctly, and the reasoning that got me there (Argentina's quality, the 0.75 goals-conceded rate, the knockout pressure on a depleted Egypt) all held up directionally. What I got comprehensively wrong was Egypt's attacking output: I talked myself all the way down to a 0-goal prediction, citing Salah's hamstring and the Algeria/Austria deep-block precedent — and the Pharaohs responded by putting *two past* Dibu Martínez. Mostafa Zico's goal is a direct rebuke to my claim that Marmoush operating alone couldn't threaten; clearly the attack found more gaps in a 3-goal match than I modelled. The one thing I'd revise: the calibration correction I made in the final turn, where I used my own over-prediction of Egypt *wins* to also deflate Egypt's *goal tally*, conflated two separate error types — getting the result direction right doesn't require zeroing out the attack.\n\n```json\n{\n  \"got_right\": [\n    \"Argentina won the match — loss outcome correctly predicted\",\n    \"Argentina scored multiple goals, consistent with 2.75/game rate\",\n    \"Egypt's defensive shape giving up goals to a high-tempo Argentine attack\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Egypt 0 goals — they scored 2, proving Marmoush and Zico were genuine threats\",\n    \"Overstated the Algeria/Austria deep-block parallel — Egypt found more space than Algeria did\",\n    \"Conflated Salah hamstring with total Egypt attacking absence — other forwards stepped up\",\n    \"Argentina scored 3, not 2 — slightly underestimated their attacking volume\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I should have kept the Pharaohs at 1 goal rather than zeroing out the attack based on a calibration correction designed to fix my win-prediction bias, not my goal-tally bias — those are separate errors that needed separate corrections.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-07T18:09:59.080159+00:00",
+  "got_right": [
+    "Argentina won the match — loss outcome correctly predicted",
+    "Argentina scored multiple goals, consistent with 2.75/game rate",
+    "Egypt's defensive shape giving up goals to a high-tempo Argentine attack"
+  ],
+  "got_wrong": [
+    "Predicted Egypt 0 goals — they scored 2, proving Marmoush and Zico were genuine threats",
+    "Overstated the Algeria/Austria deep-block parallel — Egypt found more space than Algeria did",
+    "Conflated Salah hamstring with total Egypt attacking absence — other forwards stepped up",
+    "Argentina scored 3, not 2 — slightly underestimated their attacking volume"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I should have kept the Pharaohs at 1 goal rather than zeroing out the attack based on a calibration correction designed to fix my win-prediction bias, not my goal-tally bias — those are separate errors that needed separate corrections."
+}

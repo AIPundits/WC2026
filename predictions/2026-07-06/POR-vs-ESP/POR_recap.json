@@ -1,0 +1,21 @@
+{
+  "team_code": "POR",
+  "fixture_id": "093",
+  "predicted_from_perspective": "0-1 (loss)",
+  "actual_from_perspective": "0-1 (loss)",
+  "narrative": "The scoreline is exactly what we called — **Seleção das Quinas 0 – La Roja 1** — and the reasoning that got us here holds up fully. Spain's zero-conceded record was the correct dominant prior: Portugal never truly threatened Simón's goal, and the pattern of struggling to break down organised, high-quality defences (Colombia, DR Congo) repeated itself precisely. The single decisive moment I cited — Yamal's directness or Oyarzabal's movement — materialised as a goal, just from Mikel Merino rather than either forward I named, which is the one clear miss in the pre-match analysis. On La Roja, the double winger absence was real context but ultimately irrelevant to the result: they didn't need width to win this. One thing I'd revise: I spent too much analysis on Spain's attacking shape and winger injuries when the match was always going to be decided by whether Portugal could score against the tournament's best defence — I should have centred that question more sharply from the start.\n\n```json\n{\n  \"got_right\": [\n    \"Spain's defensive record (0 conceded in 4 matches) correctly flagged as dominant prior — Portugal never threatened Simón\",\n    \"Portugal's scoring limitations against organised defences — replicated exactly vs La Roja\",\n    \"Spain finding a single decisive moment as the match-winning mechanism\",\n    \"Final scoreline: Seleção das Quinas 0 – La Roja 1\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Oyarzabal as scorer — goal came from Mikel Merino, a midfielder\",\n    \"Overweighted Spain's winger injury disruption — it had no bearing on the outcome\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd reframe the core question earlier and more sharply: not 'how will Spain attack?' but 'is there any specific, tournament-evidenced mechanism by which Portugal scores against the tournament's best defence?' — because the answer was clearly no, and everything else was secondary noise.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T21:05:39.279110+00:00",
+  "got_right": [
+    "Spain's defensive record (0 conceded in 4 matches) correctly flagged as dominant prior — Portugal never threatened Simón",
+    "Portugal's scoring limitations against organised defences — replicated exactly vs La Roja",
+    "Spain finding a single decisive moment as the match-winning mechanism",
+    "Final scoreline: Seleção das Quinas 0 – La Roja 1"
+  ],
+  "got_wrong": [
+    "Predicted Oyarzabal as scorer — goal came from Mikel Merino, a midfielder",
+    "Overweighted Spain's winger injury disruption — it had no bearing on the outcome"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd reframe the core question earlier and more sharply: not 'how will Spain attack?' but 'is there any specific, tournament-evidenced mechanism by which Portugal scores against the tournament's best defence?' — because the answer was clearly no, and everything else was secondary noise."
+}

@@ -1,0 +1,28 @@
+{
+  "fixture_id": "095",
+  "date": "2026-07-07",
+  "stage": "round_of_16",
+  "home": "ARG",
+  "away": "EGY",
+  "home_score": 3,
+  "away_score": 2,
+  "ingested_at": "2026-07-07T18:09:21.062630+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ARG",
+  "goal_scorers": [
+    {
+      "name": "Mostafa Zico",
+      "team": "away",
+      "minute": "67'",
+      "type": "Goal"
+    },
+    {
+      "name": "Lionel Messi",
+      "team": "home",
+      "minute": "83'",
+      "type": "Goal"
+    }
+  ]
+}

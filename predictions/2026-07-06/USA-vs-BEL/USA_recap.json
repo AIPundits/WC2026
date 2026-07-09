@@ -1,0 +1,21 @@
+{
+  "team_code": "USA",
+  "fixture_id": "094",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-4 (loss)",
+  "narrative": "That's a sobering result to sit with. I predicted Stars and Stripes would win comfortably on the back of a full-strength attack and a compact defensive shape — instead, the Red Devils ran riot, scoring four. The one thing I got right was that USA would score, which they did, but a 1–4 defeat means Belgium didn't just overcome Pochettino's 3-5-2 system — they dismantled it. My two central pillars — AET fatigue and Belgium being stifled by organised defences — both collapsed: Belgium played with energy and creativity, and whatever tactical discipline USA brought wasn't enough to contain De Bruyne and the attack at full tilt. The Balogun reinstatement I called the biggest single factor in the match turned out to be irrelevant to the actual outcome — USA's attacking threat was overwhelmed by the scale of what Belgium did going the other way.\n\n```json\n{\n  \"got_right\": [\n    \"USA would score — they did get one goal\",\n    \"Belgium's attacking quality was genuine and had to be respected\"\n  ],\n  \"got_wrong\": [\n    \"Belgium AET fatigue would be a meaningful disadvantage — they showed no signs of it\",\n    \"Pochettino's 3-5-2 would stifle Belgium as it stifled Iran and Egypt — it didn't\",\n    \"Balogun's reinstatement would be the match-defining factor — USA still lost heavily\",\n    \"USA's defensive solidity would hold — four goals conceded tells a different story\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would have weighted Belgium's attacking ceiling — four goals in four tournament matches against the right opponent — much more heavily than the AET fatigue argument, which was a soft structural concern rather than a concrete performance indicator.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-07T08:55:38.202856+00:00",
+  "got_right": [
+    "USA would score — they did get one goal",
+    "Belgium's attacking quality was genuine and had to be respected"
+  ],
+  "got_wrong": [
+    "Belgium AET fatigue would be a meaningful disadvantage — they showed no signs of it",
+    "Pochettino's 3-5-2 would stifle Belgium as it stifled Iran and Egypt — it didn't",
+    "Balogun's reinstatement would be the match-defining factor — USA still lost heavily",
+    "USA's defensive solidity would hold — four goals conceded tells a different story"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would have weighted Belgium's attacking ceiling — four goals in four tournament matches against the right opponent — much more heavily than the AET fatigue argument, which was a soft structural concern rather than a concrete performance indicator."
+}

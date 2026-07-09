@@ -1,0 +1,27 @@
+{
+  "team_code": "COL",
+  "fixture_id": "096",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.43,
+  "draw_probability": 0.29,
+  "loss_probability": 0.28,
+  "key_factors": [
+    "Scorecard calibration: over-predicting Colombia goals corrected \u2014 1 goal predicted, consistent with last 3 matches",
+    "Defensive asymmetry: Switzerland concedes 0.75/game vs Colombia's 0.25/game \u2014 scoring against Colombia harder even quality-adjusted",
+    "Draw probability elevated to reflect symmetry point and genuine match tightness",
+    "C\u00f3rdoba absence limits Colombia's attack but D\u00edaz in transition remains a credible scoring threat",
+    "Switzerland's 2.25/game scoring rate quality-adjusts down significantly vs this defence"
+  ],
+  "predicted_scorers": [
+    "D\u00edaz"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-07T09:29:41.443716+00:00"
+}

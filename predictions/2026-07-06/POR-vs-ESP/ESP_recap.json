@@ -1,0 +1,21 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "093",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "1-0 (win)",
+  "narrative": "The result landed exactly where the reasoning pointed — La Roja's defensive structure held firm against Seleção das Quinas for the fourth time running, and Portugal's attack, which blanked against Colombia in the group stage, couldn't find a way through a back line that hadn't been beaten all tournament. The \"tight, controlled win\" framing held up: this wasn't a 4-0 demolition, it was a 1-0 grind, which is precisely what the H2H history and both teams' defensive records implied. Where I was cleanly wrong was on the source of the goal — I pointed to Oyarzabal and Yamal, and the winner came from Mikel Merino, a midfielder arriving late, which is exactly the kind of set-piece or second-ball moment I didn't assign enough weight to given Spain's midfield depth. The one thing I'd change: I leaned too heavily on wide attackers as the goal threat and should have weighted Spain's midfield runners — Merino specifically — as credible scorers given his record of appearing at crucial moments.\n\n```json\n{\n  \"got_right\": [\n    \"La Roja 1–0 scoreline predicted exactly\",\n    \"Spain's defensive clean sheet — 5th in a row, consistent with the 0-conceded prior\",\n    \"Portugal's attacking limits against an organised, compact defence — scored 0 as predicted\",\n    \"Tight, controlled match with no multi-goal swing — H2H history validated\"\n  ],\n  \"got_wrong\": [\n    \"Predicted scorers Oyarzabal and Yamal — the actual goal came from Mikel Merino\",\n    \"Framed the decisive moment as coming from wide play or a forward's run; it came from a midfield runner\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I should have included Merino as a predicted scorer — his record of late arrivals into the box and Spain's reliance on midfield runners at set pieces was tournament evidence I had and didn't weight.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T21:05:39.279754+00:00",
+  "got_right": [
+    "La Roja 1–0 scoreline predicted exactly",
+    "Spain's defensive clean sheet — 5th in a row, consistent with the 0-conceded prior",
+    "Portugal's attacking limits against an organised, compact defence — scored 0 as predicted",
+    "Tight, controlled match with no multi-goal swing — H2H history validated"
+  ],
+  "got_wrong": [
+    "Predicted scorers Oyarzabal and Yamal — the actual goal came from Mikel Merino",
+    "Framed the decisive moment as coming from wide play or a forward's run; it came from a midfield runner"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I should have included Merino as a predicted scorer — his record of late arrivals into the box and Spain's reliance on midfield runners at set pieces was tournament evidence I had and didn't weight."
+}

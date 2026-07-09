@@ -1,0 +1,22 @@
+{
+  "team_code": "MEX",
+  "fixture_id": "092",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "2-3 (loss)",
+  "narrative": "Well. Four clean sheets in a row and I convinced myself a fifth was inevitable — the data trap I walked straight into. England didn't just breach Mexico's defence, they dismantled it three times in the same night, which is precisely the thing I dismissed as \"harder than reputation suggests.\" What I got right, narrowly, was that El Tri would score — they got two, one more than my cautious 1-0 projection — and that the match wouldn't be decided easily. What I got catastrophically wrong was England's ability to convert against this defensive unit: I leaned on the Ghana blank as a structural template for the Azteca, when in fact England unlocked a high-pressing Mexican side in transition in a way a passive Ghana side never tested them. My scorecard showed I over-predicted opponent goals against El Tri, so I calibrated further downward on England — the exact wrong direction given the match that unfolded.\n\n```json\n{\n  \"got_right\": [\n    \"El Tri would score at least once — they got two goals\",\n    \"England's attacking quality (Kane, Saka) represented a genuine structural threat\",\n    \"The match would be competitive rather than one-sided\"\n  ],\n  \"got_wrong\": [\n    \"Mexico's clean sheet record was predictive of another shutout — England scored three\",\n    \"England blanking Ghana was a reliable template for the Azteca — England attacked at a completely different level here\",\n    \"Bellingham's yellow card would meaningfully constrain England's midfield aggression\",\n    \"Calibrating downward on England goals based on my scorecard pattern — the adjustment went the wrong way entirely\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would weight England's peak attacking output (their best performances, not just the Ghana anomaly) rather than anchoring to the opponent sample that best suited my conclusion.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T09:37:56.690271+00:00",
+  "got_right": [
+    "El Tri would score at least once — they got two goals",
+    "England's attacking quality (Kane, Saka) represented a genuine structural threat",
+    "The match would be competitive rather than one-sided"
+  ],
+  "got_wrong": [
+    "Mexico's clean sheet record was predictive of another shutout — England scored three",
+    "England blanking Ghana was a reliable template for the Azteca — England attacked at a completely different level here",
+    "Bellingham's yellow card would meaningfully constrain England's midfield aggression",
+    "Calibrating downward on England goals based on my scorecard pattern — the adjustment went the wrong way entirely"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would weight England's peak attacking output (their best performances, not just the Ghana anomaly) rather than anchoring to the opponent sample that best suited my conclusion."
+}

@@ -1,0 +1,21 @@
+{
+  "team_code": "COL",
+  "fixture_id": "096",
+  "predicted_from_perspective": "1-0 (win)",
+  "actual_from_perspective": "0-0 (draw)",
+  "narrative": "I called the defensive side of this correctly — neither team scored, and the 0.25/game conceding rate for Los Cafeteros held up exactly as advertised. But I still lost the prediction: I needed Díaz to conjure a transition goal that never came, and the Portugal 0-0 was telling me something I didn't listen to hard enough. I acknowledged that match as \"tactically managed\" and moved on; I should have treated it as a baseline — Colombia are genuinely not a team that manufactures goals against compact, organised defences, and Nati are genuinely compact and organised. The Nati pundit's symmetry argument in Turn 10 was more right than I conceded at the time: both attacks faced equivalent constraints, and the 0-0 is the logical endpoint of that.\n\nThe one thing I'd change: weight the Portugal 0-0 as a direct comparator rather than a managed exception. Two elite defences, zero goals — that's the pattern, and I talked myself out of predicting it.\n\n```json\n{\n  \"got_right\": [\n    \"Colombia's defensive excellence held — Nati failed to score, consistent with 0.25/game conceding rate\",\n    \"Tight, low-scoring match profile anticipated correctly\",\n    \"Díaz transition threat was Colombia's clearest path — but neither path materialised\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Colombia would score via Díaz — they failed to score at all\",\n    \"Dismissed the Portugal 0-0 as tactically managed rather than a genuine attacking ceiling signal\",\n    \"Win probability of 0.43 was too high — the match strongly favoured a draw outcome that I had at only 0.29\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would treat the Portugal 0-0 as a direct comparator for Colombia's attacking output against elite defences, not a managed exception, and raise draw probability to at least 0.40 accordingly.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-08T10:16:13.961472+00:00",
+  "got_right": [
+    "Colombia's defensive excellence held — Nati failed to score, consistent with 0.25/game conceding rate",
+    "Tight, low-scoring match profile anticipated correctly",
+    "Díaz transition threat was Colombia's clearest path — but neither path materialised"
+  ],
+  "got_wrong": [
+    "Predicted Colombia would score via Díaz — they failed to score at all",
+    "Dismissed the Portugal 0-0 as tactically managed rather than a genuine attacking ceiling signal",
+    "Win probability of 0.43 was too high — the match strongly favoured a draw outcome that I had at only 0.29"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would treat the Portugal 0-0 as a direct comparator for Colombia's attacking output against elite defences, not a managed exception, and raise draw probability to at least 0.40 accordingly."
+}

@@ -1,0 +1,22 @@
+{
+  "fixture_id": "093",
+  "date": "2026-07-06",
+  "stage": "round_of_16",
+  "home": "POR",
+  "away": "ESP",
+  "home_score": 0,
+  "away_score": 1,
+  "ingested_at": "2026-07-06T21:05:07.714719+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ESP",
+  "goal_scorers": [
+    {
+      "name": "Mikel Merino",
+      "team": "away",
+      "minute": "90'+1'",
+      "type": "Goal"
+    }
+  ]
+}

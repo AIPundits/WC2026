@@ -1,11 +1,11 @@
 {
   "team_code": "USA",
   "predictions_made": 1,
-  "results_scored": 4,
+  "results_scored": 5,
   "correct_winner": 2,
   "correct_scoreline_pattern": 1,
   "exact_score": 0,
-  "brier_score": 0.2153,
+  "brier_score": 0.216,
   "per_prediction": [
     {
       "fixture_id": "004",
@@ -52,6 +52,21 @@
       "correct_scoreline_pattern": true,
       "brier": 0.0899,
       "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "094",
+      "date": "2026-07-06",
+      "stage": "round_of_16",
+      "opponent": "BEL",
+      "predicted": "2-1",
+      "actual": "1-4",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2186,
+      "correct_advanced": false,
       "went_to_extra_time": false,
       "went_to_penalties": false
     }

@@ -1,0 +1,11 @@
+{
+  "fixture_id": "094",
+  "fixture_date": "2026-07-06",
+  "home_code": "USA",
+  "away_code": "BEL",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 3.435855,
+  "model": "claude-sonnet-4-6"
+}

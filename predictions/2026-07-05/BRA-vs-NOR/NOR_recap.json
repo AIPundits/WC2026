@@ -1,0 +1,22 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "091",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "I got Haaland right — I said he'd convert one genuine chance against Marquinhos, and he did exactly that. What I got badly wrong is the rest of the picture: I called Brazil's defensive record the \"dominant asymmetry,\" predicted their attack would do the damage our backline couldn't contain, and locked in a 1-2 loss with 53% probability on a Brazil win. Norway won 2-1. The Lions didn't just scrape a goal — they took the game, which means the midfield injury argument I made (Paqueta out, Casemiro uncertain) had a much larger effect on Brazil's attacking output than I credited, and Norway's own defensive improvement or Brazil's finishing let us down at the other end. The France 4-1 blueprint I kept citing turned out to be the wrong reference point — Vinicius and Rayan didn't replicate it.\n\n```json\n{\n  \"got_right\": [\n    \"Haaland converting a genuine chance against Marquinhos — predicted him as scorer, he scored\",\n    \"Brazil's midfield injury doubts (Paqueta out) as a structural weakness worth flagging\",\n    \"Identified the match as genuinely uncertain, not a comfortable Brazil cruise\"\n  ],\n  \"got_wrong\": [\n    \"Brazil's 0.5 goals conceded per game framed as the dominant asymmetry — Norway scored twice\",\n    \"France 4-1 blueprint treated as the likely template — Brazil's wide attack did not replicate it\",\n    \"Predicted loss for The Lions with 53% Brazil win probability — result was a Norway win\",\n    \"Underestimated Norway's defensive resilience in a knockout elimination scenario\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I'd weight Brazil's attacking execution risk more heavily against a Norway side defending for their tournament lives, rather than assuming their group-stage defensive average would simply carry over against Haaland at peak form.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-05T22:05:56.209348+00:00",
+  "got_right": [
+    "Haaland converting a genuine chance against Marquinhos — predicted him as scorer, he scored",
+    "Brazil's midfield injury doubts (Paqueta out) as a structural weakness worth flagging",
+    "Identified the match as genuinely uncertain, not a comfortable Brazil cruise"
+  ],
+  "got_wrong": [
+    "Brazil's 0.5 goals conceded per game framed as the dominant asymmetry — Norway scored twice",
+    "France 4-1 blueprint treated as the likely template — Brazil's wide attack did not replicate it",
+    "Predicted loss for The Lions with 53% Brazil win probability — result was a Norway win",
+    "Underestimated Norway's defensive resilience in a knockout elimination scenario"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I'd weight Brazil's attacking execution risk more heavily against a Norway side defending for their tournament lives, rather than assuming their group-stage defensive average would simply carry over against Haaland at peak form."
+}

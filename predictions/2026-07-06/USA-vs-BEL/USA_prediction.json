@@ -1,0 +1,28 @@
+{
+  "team_code": "USA",
+  "fixture_id": "094",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.43,
+  "draw_probability": 0.22,
+  "loss_probability": 0.35,
+  "key_factors": [
+    "Balogun reinstatement \u2014 full-strength attack restored after red card overturned",
+    "Belgium AET fatigue from 120 mins vs Senegal \u2014 USA fresher entering this match",
+    "Belgium stifled by compact defences (0-0 Iran, 1-1 Egypt) \u2014 Pochettino's 3-5-2 is exactly that shape",
+    "Co-host crowd at Lumen Field \u2014 genuine environmental factor",
+    "Calibration: history shows I over-predict draws and under-predict decisive USA wins"
+  ],
+  "predicted_scorers": [
+    "Balogun",
+    "Pulisic"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T11:02:03.070458+00:00"
+}

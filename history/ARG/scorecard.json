@@ -1,11 +1,11 @@
 {
   "team_code": "ARG",
   "predictions_made": 1,
-  "results_scored": 4,
-  "correct_winner": 4,
-  "correct_scoreline_pattern": 4,
+  "results_scored": 5,
+  "correct_winner": 5,
+  "correct_scoreline_pattern": 5,
   "exact_score": 0,
-  "brier_score": 0.0875,
+  "brier_score": 0.0837,
   "per_prediction": [
     {
       "fixture_id": "019",
@@ -51,6 +51,21 @@
       "correct_winner": true,
       "correct_scoreline_pattern": true,
       "brier": 0.0253,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "095",
+      "date": "2026-07-07",
+      "stage": "round_of_16",
+      "opponent": "EGY",
+      "predicted": "2-1",
+      "actual": "3-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.0686,
       "correct_advanced": true,
       "went_to_extra_time": false,
       "went_to_penalties": false

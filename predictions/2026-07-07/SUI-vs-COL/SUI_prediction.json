@@ -1,0 +1,31 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "096",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "goes_to_extra_time": true,
+  "predicted_score_aet": {
+    "self": 2,
+    "opponent": 1
+  },
+  "penalty_winner": null,
+  "win_probability": 0.33,
+  "draw_probability": 0.36,
+  "loss_probability": 0.31,
+  "key_factors": [
+    "Calibration: documented Qatar draw-miss shows I under-predict draws \u2014 correcting upward",
+    "Both attacks quality-adjusted against respective defences: roughly equal constraints",
+    "Colombia defense 0.25/game vs Nati attack 2.25/game \u2014 strongest single fact, but symmetry applies both ways",
+    "Colombia attack without C\u00f3rdoba: 2 goals in last 3 matches \u2014 limits their path to a decisive win",
+    "Manzambi pace is Nati's extra-time X-factor if match stays level at 90"
+  ],
+  "predicted_scorers": [
+    "Manzambi",
+    "Embolo"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-07T09:29:41.442950+00:00"
+}

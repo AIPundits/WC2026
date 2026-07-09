@@ -1,0 +1,30 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "094",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 1
+  },
+  "goes_to_extra_time": true,
+  "predicted_score_aet": {
+    "self": 2,
+    "opponent": 1
+  },
+  "penalty_winner": null,
+  "win_probability": 0.34,
+  "draw_probability": 0.36,
+  "loss_probability": 0.3,
+  "key_factors": [
+    "Calibration: Belgium drew both group stage matches vs compact organised defences (Egypt 1-1, Iran 0-0)",
+    "Pochettino 3-5-2 mirrors exact defensive shape that has blanked Belgian attack twice",
+    "Belgium AET fatigue \u2014 120 mins vs Senegal vs USA's 90 mins vs Bosnia",
+    "Balogun reinstated \u2014 USA full-strength attack genuine threat to score",
+    "De Bruyne and Courtois quality gives Belgium edge if match reaches extra time"
+  ],
+  "predicted_scorers": [
+    "De Bruyne"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-06T11:02:03.071148+00:00"
+}

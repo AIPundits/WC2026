@@ -1,0 +1,11 @@
+{
+  "fixture_id": "096",
+  "fixture_date": "2026-07-07",
+  "home_code": "SUI",
+  "away_code": "COL",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 4.86615465,
+  "model": "claude-sonnet-4-6"
+}

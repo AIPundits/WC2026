@@ -1,0 +1,22 @@
+{
+  "fixture_id": "091",
+  "date": "2026-07-05",
+  "stage": "round_of_16",
+  "home": "BRA",
+  "away": "NOR",
+  "home_score": 1,
+  "away_score": 2,
+  "ingested_at": "2026-07-05T22:05:05.387187+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "NOR",
+  "goal_scorers": [
+    {
+      "name": "Erling Haaland",
+      "team": "away",
+      "minute": "90'",
+      "type": "Goal"
+    }
+  ]
+}
