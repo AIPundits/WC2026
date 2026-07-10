@@ -1150,5 +1150,53 @@
     "home": "SUI",
     "away": "COL",
     "sofascore_event_id": 0
+  },
+  {
+    "id": "097",
+    "date": "2026-07-09",
+    "kickoff_utc": "2026-07-09T20:00Z",
+    "venue": "Gillette Stadium, Foxborough",
+    "stage": "round_of_8",
+    "group": null,
+    "round": 6,
+    "home": "FRA",
+    "away": "MOR",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "098",
+    "date": "2026-07-10",
+    "kickoff_utc": "2026-07-10T19:00Z",
+    "venue": "SoFi Stadium, Inglewood",
+    "stage": "round_of_8",
+    "group": null,
+    "round": 6,
+    "home": "ESP",
+    "away": "BEL",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "099",
+    "date": "2026-07-11",
+    "kickoff_utc": "2026-07-11T21:00Z",
+    "venue": "Hard Rock Stadium, Miami Gardens",
+    "stage": "round_of_8",
+    "group": null,
+    "round": 6,
+    "home": "NOR",
+    "away": "ENG",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "100",
+    "date": "2026-07-12",
+    "kickoff_utc": "2026-07-12T01:00Z",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "stage": "round_of_8",
+    "group": null,
+    "round": 6,
+    "home": "ARG",
+    "away": "SUI",
+    "sofascore_event_id": 0
   }
 ]

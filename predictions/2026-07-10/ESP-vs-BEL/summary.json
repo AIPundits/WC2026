@@ -1,0 +1,11 @@
+{
+  "fixture_id": "098",
+  "fixture_date": "2026-07-10",
+  "home_code": "ESP",
+  "away_code": "BEL",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.0408308,
+  "model": "claude-sonnet-4-6"
+}

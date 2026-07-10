@@ -1,0 +1,28 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "098",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.6,
+  "draw_probability": 0.22,
+  "loss_probability": 0.18,
+  "key_factors": [
+    "Spain's 5-match clean sheet run \u2014 zero conceded all tournament",
+    "Onana ACL injury leaves Belgium structurally weaker vs Rodri-Pedri axis",
+    "De Ketelaere form is genuine \u2014 highest-quality attacking threat Spain have faced",
+    "De Bruyne likely bench role \u2014 Belgium's first-half tempo disruption limited",
+    "Historical calibration: Spain have out-scored my projections twice in this tournament"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal",
+    "Yamal"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-10T13:26:26.415927+00:00"
+}

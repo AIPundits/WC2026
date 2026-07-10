@@ -1,0 +1,11 @@
+{
+  "fixture_id": "097",
+  "fixture_date": "2026-07-09",
+  "home_code": "FRA",
+  "away_code": "MOR",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.0943580000000002,
+  "model": "claude-sonnet-4-6"
+}

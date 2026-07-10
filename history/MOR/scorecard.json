@@ -1,11 +1,11 @@
 {
   "team_code": "MOR",
   "predictions_made": 3,
-  "results_scored": 5,
-  "correct_winner": 3,
-  "correct_scoreline_pattern": 2,
+  "results_scored": 6,
+  "correct_winner": 4,
+  "correct_scoreline_pattern": 3,
   "exact_score": 1,
-  "brier_score": 0.1809,
+  "brier_score": 0.1655,
   "per_prediction": [
     {
       "fixture_id": "006",
@@ -65,6 +65,21 @@
       "exact_score": false,
       "correct_winner": true,
       "correct_scoreline_pattern": false,
+      "brier": 0.0883,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "097",
+      "date": "2026-07-09",
+      "stage": "round_of_8",
+      "opponent": "FRA",
+      "predicted": "1-2",
+      "actual": "0-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
       "brier": 0.0883,
       "correct_advanced": true,
       "went_to_extra_time": false,

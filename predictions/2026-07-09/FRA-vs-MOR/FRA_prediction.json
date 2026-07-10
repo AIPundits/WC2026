@@ -1,0 +1,28 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "097",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.65,
+  "draw_probability": 0.18,
+  "loss_probability": 0.17,
+  "key_factors": [
+    "France's exceptional tournament form (5W, 14 goals, 0.4 conceded/game)",
+    "Morocco scored against Brazil in regulation \u2014 attacking quality evidenced against elite opposition",
+    "Ounahi threat in midfield space if Tchouam\u00e9ni remains absent",
+    "Hakimi yellow card constrains Morocco's primary right-side outlet",
+    "Saibari confirmed out \u2014 Morocco's attacking depth reduced but not eliminated"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9",
+    "Demb\u00e9l\u00e9"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-09T07:57:40.334185+00:00"
+}

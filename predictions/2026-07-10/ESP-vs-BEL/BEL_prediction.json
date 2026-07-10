@@ -1,0 +1,27 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "098",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.22,
+  "draw_probability": 0.18,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "De Ketelaere's tournament-leading knockout form \u2014 best attacking threat Spain have faced",
+    "Onana ACL injury \u2014 Dendoncker/Tielemans face structural midfield deficit vs Rodri/Pedri",
+    "Spain 5 clean sheets in 5 matches \u2014 Belgium attempting to be first team to score",
+    "De Bruyne likely bench role per Garcia's demonstrated management pattern",
+    "Calibration: Belgium historically more decisive than I've predicted \u2014 but Spain's defence is categorically different to USA or Senegal"
+  ],
+  "predicted_scorers": [
+    "De Ketelaere"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-10T13:26:26.416596+00:00"
+}

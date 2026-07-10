@@ -1,0 +1,23 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "097",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "0-2 (loss)",
+  "narrative": "I got the result right — France win, narrow margin, no extra time needed — and I correctly identified their defensive quality as the dominant factor in this match. Mbappé and Dembélé scoring is exactly the kind of attacking output France's tournament form projected. Where I was wrong is the part I argued most confidently: I cited Morocco's goal against Brazil in regulation as evidence the Atlas Lions had genuine attacking quality against elite defences, and then built my entire goal prediction on that premise — Ounahi exploiting Tchouaméni's absence, multiple attacking routes through El Khannouss and Rahimi. France's back line shut all of it down. Morocco had a chance but couldn't convert; the 0.4 conceded/game wasn't noise, it was signal, and I didn't weight it heavily enough against my own team's output. My scorecard told me I'd been under-predicting Morocco goals — I used that to nudge upward, which turned out to be the wrong adjustment for this specific opponent.\n\n```json\n{\n  \"got_right\": [\n    \"France winning the match — result direction correct\",\n    \"No extra time required — France's quality sufficient to settle in 90 minutes\",\n    \"France's defensive record (0.4 conceded/game) identified as the dominant structural factor\",\n    \"Mbappé and Dembélé as attacking threats — France's forward line delivered on form\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Atlas Lions would score once — Morocco were kept to zero\",\n    \"Ounahi threat exploiting Tchouaméni absence — France defended the space regardless\",\n    \"Morocco's goal against Brazil used as evidence of scoring capacity against elite defences — did not transfer to this fixture\",\n    \"Scorecard-driven upward adjustment on Morocco goals was the wrong calibration for this opponent\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I would weight France's 0.4 conceded/game and three clean sheets more heavily than Morocco's historical output against other elite sides — past scoring against Brazil does not transfer automatically, and the strength of France's specific defensive unit warranted a higher probability on Atlas Lions 0 goals.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-09T22:05:38.613313+00:00",
+  "got_right": [
+    "France winning the match — result direction correct",
+    "No extra time required — France's quality sufficient to settle in 90 minutes",
+    "France's defensive record (0.4 conceded/game) identified as the dominant structural factor",
+    "Mbappé and Dembélé as attacking threats — France's forward line delivered on form"
+  ],
+  "got_wrong": [
+    "Predicted Atlas Lions would score once — Morocco were kept to zero",
+    "Ounahi threat exploiting Tchouaméni absence — France defended the space regardless",
+    "Morocco's goal against Brazil used as evidence of scoring capacity against elite defences — did not transfer to this fixture",
+    "Scorecard-driven upward adjustment on Morocco goals was the wrong calibration for this opponent"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I would weight France's 0.4 conceded/game and three clean sheets more heavily than Morocco's historical output against other elite sides — past scoring against Brazil does not transfer automatically, and the strength of France's specific defensive unit warranted a higher probability on Atlas Lions 0 goals."
+}

@@ -1,0 +1,27 @@
+{
+  "team_code": "MOR",
+  "fixture_id": "097",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.22,
+  "draw_probability": 0.2,
+  "loss_probability": 0.58,
+  "key_factors": [
+    "France's exceptional tournament form (5W, 14 goals, 0.4 conceded/game) \u2014 clear quality edge",
+    "Morocco scored against Brazil in regulation \u2014 attacking quality against elite opposition is demonstrated",
+    "Ounahi threat exploiting space if Tchouam\u00e9ni remains absent from France midfield pivot",
+    "Scorecard pattern: I've systematically under-predicted Morocco goals \u2014 adjusting upward",
+    "Saibari absent and Hakimi yellow-card constrained, but multiple attacking outlets remain"
+  ],
+  "predicted_scorers": [
+    "Ounahi"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-09T07:57:40.334970+00:00"
+}
