@@ -1,0 +1,21 @@
+{
+  "team_code": "BEL",
+  "fixture_id": "098",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "The result matched my prediction exactly — Red Devils 1–2 La Roja — and the game played out almost precisely as I'd framed it: Spain controlled the central territory throughout, Fabián Ruiz and Mikel Merino (both midfielders, notably) doing the damage while Belgium were left scrambling to disrupt rather than construct. The Onana absence made itself felt exactly as the structural analysis suggested — without that physical anchor, Belgium's central block had no answer for Spain's combination play. What I can't fully credit myself with is the Belgium goal: I called De Ketelaere as the scorer, but the record here only confirms two Spanish scorers and doesn't attribute Belgium's goal — so that specific prediction is unverified rather than confirmed. The broader shape of the game, though, was precisely what the midfield quality gap and clean sheet arguments pointed toward.\n\n```json\n{\n  \"got_right\": [\n    \"Spain win 2-1 — correct result and margin\",\n    \"Spain's midfield control via Rodri/Pedri — Fabián Ruiz and Mikel Merino (both midfielders) scored\",\n    \"Onana absence as the defining structural disadvantage for Belgium\",\n    \"Belgium scoring once to break Spain's clean sheet run — Belgium did get a goal\"\n  ],\n  \"got_wrong\": [\n    \"De Ketelaere as the specific scorer — unverified; Belgian goal scorer not confirmed in result data\",\n    \"De Bruyne's bench role assumed but impact in match unclear — no evidence either way in result summary\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"Rather than committing to De Ketelaere as scorer on form alone, I'd flag the scorer prediction as genuinely uncertain and name two or three candidates — the underlying argument for Belgium getting one through was correct, but the specific attribution was overconfident given I had no lineup confirmation.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-10T21:03:55.332942+00:00",
+  "got_right": [
+    "Spain win 2-1 — correct result and margin",
+    "Spain's midfield control via Rodri/Pedri — Fabián Ruiz and Mikel Merino (both midfielders) scored",
+    "Onana absence as the defining structural disadvantage for Belgium",
+    "Belgium scoring once to break Spain's clean sheet run — Belgium did get a goal"
+  ],
+  "got_wrong": [
+    "De Ketelaere as the specific scorer — unverified; Belgian goal scorer not confirmed in result data",
+    "De Bruyne's bench role assumed but impact in match unclear — no evidence either way in result summary"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "Rather than committing to De Ketelaere as scorer on form alone, I'd flag the scorer prediction as genuinely uncertain and name two or three candidates — the underlying argument for Belgium getting one through was correct, but the specific attribution was overconfident given I had no lineup confirmation."
+}

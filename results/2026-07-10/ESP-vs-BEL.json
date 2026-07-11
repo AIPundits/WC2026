@@ -1,0 +1,28 @@
+{
+  "fixture_id": "098",
+  "date": "2026-07-10",
+  "stage": "round_of_8",
+  "home": "ESP",
+  "away": "BEL",
+  "home_score": 2,
+  "away_score": 1,
+  "ingested_at": "2026-07-10T21:03:12.975283+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ESP",
+  "goal_scorers": [
+    {
+      "name": "Fabián Ruiz",
+      "team": "home",
+      "minute": "30'",
+      "type": "Goal"
+    },
+    {
+      "name": "Mikel Merino",
+      "team": "home",
+      "minute": "88'",
+      "type": "Goal"
+    }
+  ]
+}

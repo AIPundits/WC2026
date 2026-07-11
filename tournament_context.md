@@ -1,24 +1,24 @@
-# Tournament Context — updated 2026-07-10
+# Tournament Context — updated 2026-07-11
 
-**Matches with results:** 97 (72 group stage, 25 knockout)
+**Matches with results:** 98 (72 group stage, 26 knockout)
 **Average goals/game (all matches):** 2.91
 **Draw rate — group stage:** 27.8% (20 draws in 72 matches)
-**Draw rate — knockout (level at 90 min):** 16.0% (4 in 25 matches)
+**Draw rate — knockout (level at 90 min):** 15.4% (4 in 26 matches)
 
 ## Knockout scoreline frequency (use this for knockout fixtures)
 
-*25 knockout matches played. 4 went to extra time level at 90 min.* *Of 21 decisive results: 13 settled by 1 goal, 8 by 2+ goals.*
+*26 knockout matches played. 4 went to extra time level at 90 min.* *Of 22 decisive results: 14 settled by 1 goal, 8 by 2+ goals.*
 
 | Scoreline | Count | % of KO matches |
 |-----------|-------|-----------------|
-| 2-1 | 5 | 20.0% |
-| 3-2 | 4 | 16.0% |
-| 2-0 | 4 | 16.0% |
-| 1-0 | 4 | 16.0% |
-| 1-1 draw | 3 | 12.0% |
-| 3-0 | 3 | 12.0% |
-| 4-1 | 1 | 4.0% |
-| 0-0 draw | 1 | 4.0% |
+| 2-1 | 6 | 23.1% |
+| 3-2 | 4 | 15.4% |
+| 2-0 | 4 | 15.4% |
+| 1-0 | 4 | 15.4% |
+| 1-1 draw | 3 | 11.5% |
+| 3-0 | 3 | 11.5% |
+| 4-1 | 1 | 3.8% |
+| 0-0 draw | 1 | 3.8% |
 
 ## Group stage scoreline frequency (context only for knockout fixtures)
 
@@ -46,9 +46,9 @@
 
 ## Calibration notes for pundits
 
-- **Tight margins dominate knockout results** — of 21 decisive knockout results, 13 were settled by exactly 1 goal and only 8 by 2 or more. A 1-goal winning margin (e.g. 1-0, 2-1) is the knockout norm; predict a 2+ goal gap only when there is a clear quality and fitness gap evidenced by this tournament.
-- **Knockout draw rate (level at 90 min): 16.0% (4/25 matches)** — a draw at 90 min triggers extra time. Do not set `draw_probability` below this rate without strong evidence of a decisive winner.
-- **Clean sheets occur in 48.0% of knockout matches (12/25)** — one side failing to score is a genuine and common outcome. If a team has scored in fewer than half their tournament matches, or the opponent has conceded fewer than 1 goal per game, 0 goals for that team is the correct default — not 1.
+- **Tight margins dominate knockout results** — of 22 decisive knockout results, 14 were settled by exactly 1 goal and only 8 by 2 or more. A 1-goal winning margin (e.g. 1-0, 2-1) is the knockout norm; predict a 2+ goal gap only when there is a clear quality and fitness gap evidenced by this tournament.
+- **Knockout draw rate (level at 90 min): 15.4% (4/26 matches)** — a draw at 90 min triggers extra time. Do not set `draw_probability` below this rate without strong evidence of a decisive winner.
+- **Clean sheets occur in 46.2% of knockout matches (12/26)** — one side failing to score is a genuine and common outcome. If a team has scored in fewer than half their tournament matches, or the opponent has conceded fewer than 1 goal per game, 0 goals for that team is the correct default — not 1.
 - **Group stage scoring volume is evidence about individual teams, not knockout scorelines** — a team that scored consistently in the group stage has proven attacking quality that carries into the knockouts. An inability to score in the group stage is equally telling. But use the knockout frequency table above as your scoreline prior, not the group stage table.
 - **Group stage draw rate: 27.8%** — relevant only for group stage fixtures.
 - **Blowouts are rare in knockout rounds** — they occurred in the group stage (6-0, 7-1) but the knockout data shows far tighter margins. Only predict a large margin if the quality gap is exceptional and evidenced by this tournament, not just reputation.
