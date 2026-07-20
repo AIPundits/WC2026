@@ -1,0 +1,28 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "102",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.38,
+  "draw_probability": 0.25,
+  "loss_probability": 0.37,
+  "key_factors": [
+    "coin-flip semi \u2014 2-1 is the modal knockout scoreline (25.9%)",
+    "England's 1.00/game defence is the best Argentina have faced; streak-of-3 unlikely to persist",
+    "England outscore quality attacks (4-2 Croatia, 3-2 Mexico) rather than fold",
+    "scorecard calibration: under-rated England's knockout resilience vs Mexico; never predicted a draw despite Ghana 0-0",
+    "freshness + Messi's penalty misses favour England if it goes deep"
+  ],
+  "predicted_scorers": [
+    "Bellingham",
+    "Kane"
+  ],
+  "confidence": "low",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-15T10:36:24.598203+00:00"
+}

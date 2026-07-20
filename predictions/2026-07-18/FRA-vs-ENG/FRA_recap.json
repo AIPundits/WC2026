@@ -1,0 +1,22 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "103",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "4-6 (loss)",
+  "narrative": "A ten-goal avalanche — Les Bleus 4–6 Three Lions — and my \"both defences are compromised, both attacks will score\" read was directionally right in the most spectacular way: I called goals at both ends and a genuine dead-heat, and Mbappé, Barcola and Dembélé did indeed find the net for us. What I got badly wrong was the *magnitude* — I anchored to a 2-1 modal knockout scoreline and never entertained that two compromised, unmotivated defences in a dead rubber could ship six and four; the Saliba-less French back line I'd flagged as a risk collapsed entirely, conceding six, and Saka's brace plus Rice and Bellingham exposed exactly the reshuffle I'd named but under-weighted. The honest failure is that I identified the correct causal mechanism — defensive frailty on both sides — then muzzled it with a base-rate scoreline instead of following the logic to a high-scoring result where the leakier, less-motivated Les Bleus defence was more likely to be the one that broke. My coin-flip probabilities were fair, but the scoreline prediction badly understated a game that was always set up to be chaotic.\n\n```json\n{\n  \"got_right\": [\n    \"predicted goals at both ends — both attacks scored, Mbappé and Dembélé netted for Les Bleus\",\n    \"flagged Saliba's absence as a defensive vulnerability that could be exploited\",\n    \"honest dead-heat probabilities rather than a confident France lean\"\n  ],\n  \"got_wrong\": [\n    \"predicted a 2-1 result — the match was a ten-goal avalanche, Les Bleus conceding six\",\n    \"anchored to the modal knockout scoreline instead of following my own 'both defences compromised' logic to a high-scoring game\",\n    \"expected Les Bleus's reshuffled back line to hold to one goal — it collapsed entirely\",\n    \"under-weighted how a dead-rubber with no defensive intensity could blow past base rates\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"Having correctly identified that both defences were compromised and unmotivated in a dead rubber, I should have raised my total-goals expectation well above the 2-1 base rate and predicted a high-scoring game, tilted toward the leakier Les Bleus defence conceding heavily.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-18T23:50:47.036730+00:00",
+  "got_right": [
+    "predicted goals at both ends — both attacks scored, Mbappé and Dembélé netted for Les Bleus",
+    "flagged Saliba's absence as a defensive vulnerability that could be exploited",
+    "honest dead-heat probabilities rather than a confident France lean"
+  ],
+  "got_wrong": [
+    "predicted a 2-1 result — the match was a ten-goal avalanche, Les Bleus conceding six",
+    "anchored to the modal knockout scoreline instead of following my own 'both defences compromised' logic to a high-scoring game",
+    "expected Les Bleus's reshuffled back line to hold to one goal — it collapsed entirely",
+    "under-weighted how a dead-rubber with no defensive intensity could blow past base rates"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "Having correctly identified that both defences were compromised and unmotivated in a dead rubber, I should have raised my total-goals expectation well above the 2-1 base rate and predicted a high-scoring game, tilted toward the leakier Les Bleus defence conceding heavily."
+}

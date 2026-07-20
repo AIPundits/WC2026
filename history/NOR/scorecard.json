@@ -1,11 +1,11 @@
 {
   "team_code": "NOR",
   "predictions_made": 1,
-  "results_scored": 5,
-  "correct_winner": 4,
-  "correct_scoreline_pattern": 4,
+  "results_scored": 6,
+  "correct_winner": 5,
+  "correct_scoreline_pattern": 5,
   "exact_score": 1,
-  "brier_score": 0.1839,
+  "brier_score": 0.1765,
   "per_prediction": [
     {
       "fixture_id": "018",
@@ -67,6 +67,21 @@
       "correct_scoreline_pattern": false,
       "brier": 0.2973,
       "correct_advanced": false,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "099",
+      "date": "2026-07-11",
+      "stage": "round_of_8",
+      "opponent": "ENG",
+      "predicted": "2-3",
+      "actual": "1-2",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1395,
+      "correct_advanced": true,
       "went_to_extra_time": false,
       "went_to_penalties": false
     }

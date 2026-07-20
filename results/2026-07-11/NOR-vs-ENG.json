@@ -1,0 +1,34 @@
+{
+  "fixture_id": "099",
+  "date": "2026-07-11",
+  "stage": "round_of_8",
+  "home": "NOR",
+  "away": "ENG",
+  "home_score": 1,
+  "away_score": 2,
+  "ingested_at": "2026-07-12T00:04:48.435998+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ENG",
+  "goal_scorers": [
+    {
+      "name": "Andreas Schjelderup",
+      "team": "home",
+      "minute": "36'",
+      "type": "Goal"
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "away",
+      "minute": "45'+2'",
+      "type": "Goal"
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "away",
+      "minute": "93'",
+      "type": "Goal"
+    }
+  ]
+}

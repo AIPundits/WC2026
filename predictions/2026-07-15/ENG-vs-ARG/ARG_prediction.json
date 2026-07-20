@@ -1,0 +1,28 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "102",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.43,
+  "draw_probability": 0.25,
+  "loss_probability": 0.32,
+  "key_factors": [
+    "2-1 is the modal knockout scoreline (25.9%)",
+    "Argentina scored in all 6 matches; England conceded 2 each to Croatia & Mexico",
+    "Argentina nominal market favourite, Messi tournament top scorer (8)",
+    "held scoreline at 2 vs England's best-faced defence rather than chase the 3-goal streak",
+    "draw held at ~1-in-4 base rate; ET/penalty tail live"
+  ],
+  "predicted_scorers": [
+    "Messi",
+    "\u00c1lvarez"
+  ],
+  "confidence": "low",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-15T10:36:24.600840+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "100",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.58,
+  "draw_probability": 0.22,
+  "loss_probability": 0.2,
+  "key_factors": [
+    "Calibration: systematic undercount of Argentina goals \u2014 partially offset by Switzerland's tournament-evidenced defensive quality (0.8 conceded/game, Kobel outstanding)",
+    "Manzambi confirmed OUT \u2014 Switzerland scored 0 regulation goals in 120 mins without him vs Colombia",
+    "Xhaka, Zakaria, Muheim all on yellow cards \u2014 limits Swiss pressing aggression and transitional attack",
+    "Argentina's consistent multi-scorer threat (Romero, Messi, Enzo across knockouts) too varied for containment",
+    "H2H: Switzerland never beaten Argentina in any WC meeting; 2014 ET win the closest prior comparable"
+  ],
+  "predicted_scorers": [
+    "\u00c1lvarez",
+    "Messi"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-12T00:42:42.070971+00:00"
+}

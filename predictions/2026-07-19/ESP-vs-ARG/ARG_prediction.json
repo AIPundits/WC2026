@@ -1,0 +1,27 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "104",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.28,
+  "draw_probability": 0.3,
+  "loss_probability": 0.42,
+  "key_factors": [
+    "Spain's historic defence (1 conceded in 7, 6 clean sheets) vs our transition fragility (conceded in all 4 KO games)",
+    "resisting my 7-game habit of backing La Albiceleste \u2014 evidence favours Spain here",
+    "Argentina scored in all 7; Messi's 12 contributions keep us on the scoresheet",
+    "draw kept healthy \u2014 two elite defences, and I under-called the Switzerland draw before",
+    "we are the market underdog (+260)"
+  ],
+  "predicted_scorers": [
+    "Messi"
+  ],
+  "confidence": "low",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-19T10:58:01.108174+00:00"
+}

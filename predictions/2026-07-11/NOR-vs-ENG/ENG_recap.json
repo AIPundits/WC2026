@@ -1,0 +1,22 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "099",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "The scoreline landed exactly as I called it — Three Lions 2–1, no extra time needed — and the structural reasoning holds up: Norway's defence was the vulnerability, England's attacking quality told, and it stayed tight rather than blowing open. Bellingham being the one to win it with two goals is the perfect vindication of the Kane-Bellingham combined threat argument, even if Kane specifically didn't get on the scoresheet. The Haaland-versus-Stones-Konsa narrative I leaned on heavily turned out to be something of a red herring — it was Schjelderup who got Norway's goal, not Haaland, which means the threat I spent the most analytical energy on didn't materialise in the way I imagined. My scorer predictions (Kane, Saka) were wrong except for Bellingham, which is the honest miss to name here: the right result, mostly right reasoning, but wrong on *who* delivered it and wrong on where Norway's goal came from.\n\n```json\n{\n  \"got_right\": [\n    \"Final scoreline: Three Lions 2–1 The Lions\",\n    \"Norway would score exactly once — the defensive fragility on England's side was real but limited\",\n    \"Bellingham as a scorer and decisive figure\",\n    \"Match settled in 90 minutes, not requiring extra time\"\n  ],\n  \"got_wrong\": [\n    \"Kane and Saka as scorers — neither got on the sheet\",\n    \"Haaland as Norway's primary threat — it was Schjelderup who scored, not Haaland\",\n    \"Wide-blueprint from Saka and Rashford as England's specific path to goals — Bellingham's goals came via different routes\"\n  ],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd spend less time stress-testing the Haaland vs Stones-Konsa matchup as *the* decisive contest and more time considering Norway's secondary attacking threats — Schjelderup in behind is a different problem than Haaland in the channels, and I had no coverage of that risk.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-12T00:05:39.674739+00:00",
+  "got_right": [
+    "Final scoreline: Three Lions 2–1 The Lions",
+    "Norway would score exactly once — the defensive fragility on England's side was real but limited",
+    "Bellingham as a scorer and decisive figure",
+    "Match settled in 90 minutes, not requiring extra time"
+  ],
+  "got_wrong": [
+    "Kane and Saka as scorers — neither got on the sheet",
+    "Haaland as Norway's primary threat — it was Schjelderup who scored, not Haaland",
+    "Wide-blueprint from Saka and Rashford as England's specific path to goals — Bellingham's goals came via different routes"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd spend less time stress-testing the Haaland vs Stones-Konsa matchup as *the* decisive contest and more time considering Norway's secondary attacking threats — Schjelderup in behind is a different problem than Haaland in the channels, and I had no coverage of that risk."
+}

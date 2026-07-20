@@ -1,0 +1,23 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "100",
+  "predicted_from_perspective": "1-2 (loss)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "I got the direction right — a Nati loss, with Switzerland scoring exactly the one goal I predicted — but I confidently anchored Argentina at two goals when the tournament evidence was already screaming three: La Albiceleste had scored 3+ in four of five matches, and the Argentine pundit explicitly flagged their own systematic undercount of Argentina's goals across every session of this debate. I argued that Switzerland's defensive ceiling (0.8 conceded per game, Kobel outstanding) would hold Argentina to two, but I was giving too much weight to the group-stage and early knockout defensive record against weaker attacks — Yakin's structure simply couldn't contain Messi and Álvarez for the full 90 minutes against this level of quality. What I got wrong most critically was treating Switzerland's defensive record as predictive of Argentina's output, rather than recognising that Argentina's attack had been consistently underestimated across the tournament by everyone including me. The one thing I'd change: given Argentina's 3+ goals in 4 of 5 matches and the explicit calibration signal from the scorecard showing I was systematically under-predicting Nati's defensive vulnerabilities against elite opposition, I should have predicted 3 Argentina goals and adjusted my loss probability upward accordingly.\n\n```json\n{\n  \"got_right\": [\n    \"Predicted a Nati loss — correct outcome direction\",\n    \"Predicted Switzerland would score 1 goal — correct\",\n    \"Argentina's attacking quality proving decisive over 90 minutes\",\n    \"Manzambi's absence limiting Nati's ceiling — they did not score more than 1\"\n  ],\n  \"got_wrong\": [\n    \"Predicted Argentina would score 2 goals — they scored 3, consistent with their tournament pattern\",\n    \"Over-rated Switzerland's defensive ceiling against elite opposition — conceded 3, not 2\",\n    \"Dismissed Argentina's 3+ goals-per-match pattern when setting my Argentina goal prediction\",\n    \"Treated Switzerland's 0.8 goals conceded per game as a reliable cap against Argentina's attack specifically\"\n  ],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"Given Argentina's 3+ goal output in four of five tournament matches and the explicit scorecard warning about under-predicting their goals, I should have predicted 3 Argentina goals rather than 2 and accepted that Switzerland's defensive record would not hold against the tournament's most consistent attack.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-12T14:06:22.246307+00:00",
+  "got_right": [
+    "Predicted a Nati loss — correct outcome direction",
+    "Predicted Switzerland would score 1 goal — correct",
+    "Argentina's attacking quality proving decisive over 90 minutes",
+    "Manzambi's absence limiting Nati's ceiling — they did not score more than 1"
+  ],
+  "got_wrong": [
+    "Predicted Argentina would score 2 goals — they scored 3, consistent with their tournament pattern",
+    "Over-rated Switzerland's defensive ceiling against elite opposition — conceded 3, not 2",
+    "Dismissed Argentina's 3+ goals-per-match pattern when setting my Argentina goal prediction",
+    "Treated Switzerland's 0.8 goals conceded per game as a reliable cap against Argentina's attack specifically"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "Given Argentina's 3+ goal output in four of five tournament matches and the explicit scorecard warning about under-predicting their goals, I should have predicted 3 Argentina goals rather than 2 and accepted that Switzerland's defensive record would not hold against the tournament's most consistent attack."
+}

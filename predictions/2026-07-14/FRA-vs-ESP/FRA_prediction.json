@@ -1,0 +1,27 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "101",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 0
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.47,
+  "draw_probability": 0.26,
+  "loss_probability": 0.27,
+  "key_factors": [
+    "France only team with clean sheet in every knockout tie",
+    "both defences elite - tight-margin match",
+    "recent H2H all decisive after 90 min",
+    "market slight France lean",
+    "Williams fitness doubt weakens Spain's left"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9"
+  ],
+  "confidence": "medium",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-14T11:55:29.241010+00:00"
+}

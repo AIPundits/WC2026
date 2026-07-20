@@ -1,11 +1,11 @@
 {
   "team_code": "ENG",
   "predictions_made": 1,
-  "results_scored": 5,
-  "correct_winner": 3,
-  "correct_scoreline_pattern": 3,
-  "exact_score": 2,
-  "brier_score": 0.2014,
+  "results_scored": 8,
+  "correct_winner": 5,
+  "correct_scoreline_pattern": 5,
+  "exact_score": 3,
+  "brier_score": 0.1899,
   "per_prediction": [
     {
       "fixture_id": "022",
@@ -67,6 +67,51 @@
       "correct_scoreline_pattern": false,
       "brier": 0.2666,
       "correct_advanced": false,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "099",
+      "date": "2026-07-11",
+      "stage": "round_of_8",
+      "opponent": "NOR",
+      "predicted": "2-1",
+      "actual": "2-1",
+      "exact_score": true,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1163,
+      "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "102",
+      "date": "2026-07-15",
+      "stage": "round_of_4",
+      "opponent": "ARG",
+      "predicted": "2-1",
+      "actual": "1-2",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2013,
+      "correct_advanced": false,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "103",
+      "date": "2026-07-18",
+      "stage": "third_place",
+      "opponent": "FRA",
+      "predicted": "2-1",
+      "actual": "6-4",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.1946,
+      "correct_advanced": true,
       "went_to_extra_time": false,
       "went_to_penalties": false
     }

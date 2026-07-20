@@ -1,0 +1,29 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "099",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.52,
+  "draw_probability": 0.2,
+  "loss_probability": 0.28,
+  "key_factors": [
+    "Calibration: I've underestimated England's goals in knockout matches \u2014 upward pressure on England tally vs Norway's 0 clean sheets",
+    "2-1 is the most frequent KO scoreline at 23.1% \u2014 base rate prior holds without exceptional evidence for 3-2",
+    "Haaland vs Stones-Konsa CB pairing is a genuine structural mismatch \u2014 Norway will score once",
+    "Saka and Rashford replicating France's wide blueprint \u2014 England's clearest path to goals",
+    "England's superior defensive record (1.4/game) even with makeshift backline makes a second Norway goal the minority scenario"
+  ],
+  "predicted_scorers": [
+    "Kane",
+    "Saka",
+    "Bellingham"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-11T17:03:25.480813+00:00"
+}

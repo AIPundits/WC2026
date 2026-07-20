@@ -1,0 +1,14 @@
+{
+  "fixture_id": "101",
+  "date": "2026-07-14",
+  "stage": "round_of_4",
+  "home": "FRA",
+  "away": "ESP",
+  "home_score": 0,
+  "away_score": 2,
+  "ingested_at": "2026-07-15T11:28:39.005968+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ESP"
+}

@@ -1190,13 +1190,61 @@
   {
     "id": "100",
     "date": "2026-07-12",
-    "kickoff_utc": "2026-07-12T01:00Z",
+    "kickoff_utc": "2026-07-13T01:00Z",
     "venue": "Arrowhead Stadium, Kansas City",
     "stage": "round_of_8",
     "group": null,
     "round": 6,
     "home": "ARG",
     "away": "SUI",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "101",
+    "date": "2026-07-14",
+    "kickoff_utc": "2026-07-14T19:00Z",
+    "venue": "AT&T Stadium, Arlington",
+    "stage": "round_of_4",
+    "group": null,
+    "round": 7,
+    "home": "FRA",
+    "away": "ESP",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "102",
+    "date": "2026-07-15",
+    "kickoff_utc": "2026-07-15T19:00Z",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "stage": "round_of_4",
+    "group": null,
+    "round": 7,
+    "home": "ENG",
+    "away": "ARG",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "103",
+    "date": "2026-07-18",
+    "kickoff_utc": "2026-07-18T21:00Z",
+    "venue": "Hard Rock Stadium, Miami Gardens",
+    "stage": "third_place",
+    "group": null,
+    "round": 8,
+    "home": "FRA",
+    "away": "ENG",
+    "sofascore_event_id": 0
+  },
+  {
+    "id": "104",
+    "date": "2026-07-19",
+    "kickoff_utc": "2026-07-19T19:00Z",
+    "venue": "MetLife Stadium, East Rutherford",
+    "stage": "final",
+    "group": null,
+    "round": 9,
+    "home": "ESP",
+    "away": "ARG",
     "sofascore_event_id": 0
   }
 ]

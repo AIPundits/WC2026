@@ -1,11 +1,11 @@
 {
   "team_code": "FRA",
   "predictions_made": 1,
-  "results_scored": 6,
+  "results_scored": 8,
   "correct_winner": 6,
   "correct_scoreline_pattern": 6,
   "exact_score": 1,
-  "brier_score": 0.0761,
+  "brier_score": 0.1151,
   "per_prediction": [
     {
       "fixture_id": "017",
@@ -82,6 +82,36 @@
       "correct_scoreline_pattern": true,
       "brier": 0.0613,
       "correct_advanced": true,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "101",
+      "date": "2026-07-14",
+      "stage": "round_of_4",
+      "opponent": "ESP",
+      "predicted": "1-0",
+      "actual": "0-2",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.2738,
+      "correct_advanced": false,
+      "went_to_extra_time": false,
+      "went_to_penalties": false
+    },
+    {
+      "fixture_id": "103",
+      "date": "2026-07-18",
+      "stage": "third_place",
+      "opponent": "ENG",
+      "predicted": "2-1",
+      "actual": "4-6",
+      "exact_score": false,
+      "correct_winner": false,
+      "correct_scoreline_pattern": false,
+      "brier": 0.1909,
+      "correct_advanced": false,
       "went_to_extra_time": false,
       "went_to_penalties": false
     }

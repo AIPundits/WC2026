@@ -1,0 +1,23 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "102",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "An honest one to own: I called this a coin-flip and it was — settled by a single goal, both sides scoring, no clean sheet, exactly the tight margin I described. Where I went wrong was the tie-breaker: I let my scorecard-caution about under-rating Three Lions nudge a genuine 50/50 toward us, when the neutral market signal marginally favoured La Albiceleste and that edge held. My \"England outscore quality attacks\" pattern didn't materialise — Three Lions managed only Gordon's goal, not the two-plus I banked on, while Enzo Fernández's strike came from midfield rather than the Messi/Álvarez threat I flagged, so both my predicted scorers missed even as the scoreline shape (1-goal, no clean sheet) landed.\n\n```json\n{\n  \"got_right\": [\"coin-flip semi settled by a single goal\", \"both teams scored, no clean sheet\", \"Argentina's 3-goal streak broke — they scored 2, as I argued\", \"gave La Albiceleste a genuine 37% to win\"],\n  \"got_wrong\": [\"backed Three Lions to win when La Albiceleste's marginal edge held\", \"expected Three Lions to outscore a quality attack — we managed only one goal\", \"predicted scorers Bellingham/Kane — actual scorer was Gordon\", \"flagged Messi/Álvarez for Argentina — the goal came from Enzo Fernández\"],\n  \"reasoning_verdict\": \"overconfident\",\n  \"one_thing_id_change\": \"I'd trust the neutral market signal on a true coin-flip and not let a self-calibration note about past England misses tip the winner call back toward my own side.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-15T21:05:49.228871+00:00",
+  "got_right": [
+    "coin-flip semi settled by a single goal",
+    "both teams scored, no clean sheet",
+    "Argentina's 3-goal streak broke — they scored 2, as I argued",
+    "gave La Albiceleste a genuine 37% to win"
+  ],
+  "got_wrong": [
+    "backed Three Lions to win when La Albiceleste's marginal edge held",
+    "expected Three Lions to outscore a quality attack — we managed only one goal",
+    "predicted scorers Bellingham/Kane — actual scorer was Gordon",
+    "flagged Messi/Álvarez for Argentina — the goal came from Enzo Fernández"
+  ],
+  "reasoning_verdict": "overconfident",
+  "one_thing_id_change": "I'd trust the neutral market signal on a true coin-flip and not let a self-calibration note about past England misses tip the winner call back toward my own side."
+}

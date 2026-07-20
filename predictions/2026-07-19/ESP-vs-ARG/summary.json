@@ -1,0 +1,11 @@
+{
+  "fixture_id": "104",
+  "fixture_date": "2026-07-19",
+  "home_code": "ESP",
+  "away_code": "ARG",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 4.56926875,
+  "model": "claude-opus-4-8"
+}

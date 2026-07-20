@@ -1,0 +1,64 @@
+{
+  "fixture_id": "103",
+  "date": "2026-07-18",
+  "stage": "third_place",
+  "home": "FRA",
+  "away": "ENG",
+  "home_score": 4,
+  "away_score": 6,
+  "ingested_at": "2026-07-18T23:50:14.895888+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ENG",
+  "goal_scorers": [
+    {
+      "name": "Declan Rice",
+      "team": "away",
+      "minute": "3'",
+      "type": "Goal"
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "away",
+      "minute": "37'",
+      "type": "Goal"
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "away",
+      "minute": "45'+1'",
+      "type": "Goal"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "home",
+      "minute": "48'",
+      "type": "Goal"
+    },
+    {
+      "name": "Bradley Barcola",
+      "team": "home",
+      "minute": "54'",
+      "type": "Goal"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "home",
+      "minute": "66'",
+      "type": "Goal"
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": "home",
+      "minute": "90'+6'",
+      "type": "Goal"
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "away",
+      "minute": "90'+8'",
+      "type": "Goal"
+    }
+  ]
+}

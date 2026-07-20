@@ -1,0 +1,21 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "102",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-1 (win)",
+  "narrative": "A clean one for the process: I called **La Albiceleste 2 – Three Lions 1**, and that's exactly how it finished — a one-goal knockout margin with both sides scoring, which was the spine of my argument all along. The \"both attacks trade\" thesis held: Three Lions found their goal through Gordon just as I said England score against everyone, and La Albiceleste edged it by a single strike rather than the old three-goal streak, vindicating the disciplined decision to revert our tally to two against the meanest defence we'd faced. Where I missed was the scoresheet — I named Messi and Álvarez, but it was **Enzo Fernández** who delivered for La Albiceleste, exactly the deep-midfield runner my own briefing described as threading through the lines, and I should have trusted that system read over the marquee names. The winner, scoreline and shape were all sound, not lucky — only the goalscorer picks let me down.\n\n```json\n{\n  \"got_right\": [\"narrow one-goal Argentina win (2-1) as the modal knockout outcome\", \"both attacks scoring — England found the net as predicted\", \"reverting Argentina's tally to 2 rather than chasing the 3-goal streak\", \"Argentina as the nominal favourite edging it in regulation\"],\n  \"got_wrong\": [\"predicted scorers Messi and Álvarez — it was Enzo Fernández who scored\", \"assumed the front line would decide it rather than a deep midfield runner\"],\n  \"reasoning_verdict\": \"sound\",\n  \"one_thing_id_change\": \"I'd have leaned on my own system read and named Enzo Fernández among the scorers, since the briefing itself flagged Argentina's midfielders threading through gaps as the primary goal source.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-15T21:05:49.229984+00:00",
+  "got_right": [
+    "narrow one-goal Argentina win (2-1) as the modal knockout outcome",
+    "both attacks scoring — England found the net as predicted",
+    "reverting Argentina's tally to 2 rather than chasing the 3-goal streak",
+    "Argentina as the nominal favourite edging it in regulation"
+  ],
+  "got_wrong": [
+    "predicted scorers Messi and Álvarez — it was Enzo Fernández who scored",
+    "assumed the front line would decide it rather than a deep midfield runner"
+  ],
+  "reasoning_verdict": "sound",
+  "one_thing_id_change": "I'd have leaned on my own system read and named Enzo Fernández among the scorers, since the briefing itself flagged Argentina's midfielders threading through gaps as the primary goal source."
+}

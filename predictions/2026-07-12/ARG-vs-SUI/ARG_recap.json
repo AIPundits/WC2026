@@ -1,0 +1,21 @@
+{
+  "team_code": "ARG",
+  "fixture_id": "100",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "1-1 (draw)",
+  "narrative": "The result vindicates the direction of the prediction but confirms a calibration pattern I flagged myself and still didn't fully act on: La Albiceleste scored 3, not 2, making this the fourth match in five where I predicted 2 Argentina goals and they delivered 3. My reasoning about the decisive factors was sound — Manzambi's absence weakening Nati's attack, the yellow-card constraint on Xhaka and Zakaria limiting Swiss pressing, and Argentina's multi-scorer threat being too varied for containment — and the final scoreline of 3-1 fits the template of Argentina's tournament: a goal conceded (Nati found their one, consistent with my prediction), but La Albiceleste's attacking depth ultimately overwhelming a well-organised defensive structure. What I underestimated was that Argentina's quality gap over this specific Nati side — without Manzambi and with three key players managing cards — was wide enough to produce three goals rather than two, and my calibration warning was staring at me in the scorecard and I still hedged it away.\n\n```json\n{\n  \"got_right\": [\n    \"Argentina winning in regulation — correct direction, correct stage\",\n    \"Nati scoring exactly 1 goal — consistent with their ceiling without Manzambi\",\n    \"Yellow card constraints on Xhaka/Zakaria limiting Swiss pressing effectiveness\",\n    \"Argentina's multi-scorer attacking threat proving too varied for Nati to contain\"\n  ],\n  \"got_wrong\": [\n    \"Argentina scoring only 2 goals — they scored 3, continuing the exact undercount pattern my scorecard flagged\",\n    \"Treating Switzerland's 0.8 goals conceded/game as a hard ceiling on Argentina's output — it wasn't\"\n  ],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I would have acted on the calibration signal from my own scorecard more decisively — four matches in five where I predicted 2 Argentina goals and they scored 3 is a structural undercount, and the quality gap against a Nati side missing Manzambi with three card-constrained starters was sufficient evidence to predict 3-1 rather than 2-1.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-12T14:06:22.245456+00:00",
+  "got_right": [
+    "Argentina winning in regulation — correct direction, correct stage",
+    "Nati scoring exactly 1 goal — consistent with their ceiling without Manzambi",
+    "Yellow card constraints on Xhaka/Zakaria limiting Swiss pressing effectiveness",
+    "Argentina's multi-scorer attacking threat proving too varied for Nati to contain"
+  ],
+  "got_wrong": [
+    "Argentina scoring only 2 goals — they scored 3, continuing the exact undercount pattern my scorecard flagged",
+    "Treating Switzerland's 0.8 goals conceded/game as a hard ceiling on Argentina's output — it wasn't"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I would have acted on the calibration signal from my own scorecard more decisively — four matches in five where I predicted 2 Argentina goals and they scored 3 is a structural undercount, and the quality gap against a Nati side missing Manzambi with three card-constrained starters was sufficient evidence to predict 3-1 rather than 2-1."
+}

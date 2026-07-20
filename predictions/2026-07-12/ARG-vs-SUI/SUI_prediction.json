@@ -1,0 +1,28 @@
+{
+  "team_code": "SUI",
+  "fixture_id": "100",
+  "predicted_score": {
+    "self": 1,
+    "opponent": 2
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.18,
+  "draw_probability": 0.22,
+  "loss_probability": 0.6,
+  "key_factors": [
+    "Scorecard pattern: over-predicted opponent goals vs Switzerland in Algeria and Colombia \u2014 Swiss blank a real possibility",
+    "Manzambi OUT \u2014 directly predictive: 0 regulation goals in 120 mins without him already evidenced vs Colombia",
+    "Xhaka, Zakaria, Muheim on yellows \u2014 passive setup limits Swiss attacking transitions",
+    "Argentina scored in all 5 matches (2.8/game) \u2014 consistent attack overrides defensive base-rate default",
+    "Switzerland's defensive ceiling (Kobel, deep block, 0.8 conceded/game) keeps this tight; extra time possible with Argentina advancing"
+  ],
+  "predicted_scorers": [
+    "Embolo",
+    "Messi"
+  ],
+  "confidence": "medium",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-12T00:42:42.071629+00:00"
+}

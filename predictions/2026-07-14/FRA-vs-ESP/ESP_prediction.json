@@ -1,0 +1,28 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "101",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.36,
+  "draw_probability": 0.29,
+  "loss_probability": 0.35,
+  "key_factors": [
+    "Spain best defensive record in tournament (1 conceded in 6)",
+    "France's KO clean sheets came vs weaker attacks than Spain's",
+    "Spain scored in every knockout tie",
+    "Euro 2024 SF: Spain beat France 2-1",
+    "Williams fitness doubt weakens Spain's left"
+  ],
+  "predicted_scorers": [
+    "Yamal",
+    "Oyarzabal"
+  ],
+  "confidence": "low",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-14T11:55:29.242405+00:00"
+}

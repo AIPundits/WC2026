@@ -1,0 +1,14 @@
+{
+  "fixture_id": "100",
+  "date": "2026-07-12",
+  "stage": "round_of_8",
+  "home": "ARG",
+  "away": "SUI",
+  "home_score": 1,
+  "away_score": 1,
+  "ingested_at": "2026-07-12T13:33:19.114158+00:00",
+  "home_score_aet": 3,
+  "away_score_aet": 1,
+  "penalty_winner": null,
+  "advanced": "ARG"
+}

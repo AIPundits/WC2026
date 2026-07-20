@@ -1,0 +1,28 @@
+{
+  "team_code": "FRA",
+  "fixture_id": "103",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.39,
+  "draw_probability": 0.22,
+  "loss_probability": 0.39,
+  "key_factors": [
+    "Genuine dead-rubber coin-flip: probabilities level, not a hopeful France lean (calibration after Spain miss)",
+    "Both defences compromised (Saliba out; Quansah out, Konsa doubt) \u2014 both attacks likely to score",
+    "2-1 is tournament modal KO scoreline (26.7%) \u2014 one-goal margin, goals both ends",
+    "Fractional France tie-break: higher scoring rate (2.29 vs 2.0) and recent H2H edge",
+    "Draw tail (0.22) above KO baseline reflects rotation and dead-rubber unpredictability"
+  ],
+  "predicted_scorers": [
+    "Mbapp\u00e9",
+    "Olise"
+  ],
+  "confidence": "low",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-18T09:03:23.912845+00:00"
+}

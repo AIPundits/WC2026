@@ -1,11 +1,11 @@
 {
   "team_code": "SUI",
   "predictions_made": 2,
-  "results_scored": 5,
-  "correct_winner": 4,
-  "correct_scoreline_pattern": 3,
+  "results_scored": 6,
+  "correct_winner": 5,
+  "correct_scoreline_pattern": 4,
   "exact_score": 1,
-  "brier_score": 0.2123,
+  "brier_score": 0.2325,
   "per_prediction": [
     {
       "fixture_id": "005",
@@ -69,6 +69,21 @@
       "correct_advanced": true,
       "went_to_extra_time": true,
       "went_to_penalties": true
+    },
+    {
+      "fixture_id": "100",
+      "date": "2026-07-12",
+      "stage": "round_of_8",
+      "opponent": "ARG",
+      "predicted": "1-2",
+      "actual": "1-1",
+      "exact_score": false,
+      "correct_winner": true,
+      "correct_scoreline_pattern": true,
+      "brier": 0.3336,
+      "correct_advanced": true,
+      "went_to_extra_time": true,
+      "went_to_penalties": false
     }
   ]
 }

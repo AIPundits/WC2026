@@ -1,0 +1,11 @@
+{
+  "fixture_id": "103",
+  "fixture_date": "2026-07-18",
+  "home_code": "FRA",
+  "away_code": "ENG",
+  "turns": 12,
+  "consensus_reached": false,
+  "stopped_reason": "final-turn lock-in",
+  "total_cost_usd": 9.978173,
+  "model": "claude-opus-4-8"
+}

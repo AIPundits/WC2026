@@ -1,0 +1,28 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "099",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 3
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.34,
+  "draw_probability": 0.18,
+  "loss_probability": 0.48,
+  "key_factors": [
+    "Calibration: I missed the Brazil upset \u2014 systematically underrating Norway's ceiling; adjusting Norway win probability upward",
+    "England CB crisis (Quansah suspended, Guehi doubtful) vs Haaland \u2014 structural mismatch at centre-back",
+    "Norway's wide-area vulnerability to Saka and Rashford (France blueprint confirmed) \u2014 England route to goals is clear",
+    "Both teams combined 0 clean sheets in 10 WC matches \u2014 high-volume scoreline justified over base-rate 2-1",
+    "Market prices draw at 28% (above 15.4% KO base rate) \u2014 reflects genuine uncertainty from both teams' open styles"
+  ],
+  "predicted_scorers": [
+    "Haaland",
+    "\u00d8degaard"
+  ],
+  "confidence": "low",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-11T17:03:25.479874+00:00"
+}

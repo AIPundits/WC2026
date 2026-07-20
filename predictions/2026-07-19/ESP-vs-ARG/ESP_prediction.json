@@ -1,0 +1,28 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "104",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.5,
+  "draw_probability": 0.24,
+  "loss_probability": 0.26,
+  "key_factors": [
+    "La Roja best defensive record in tournament (1 conceded in 7, 6 clean sheets)",
+    "Argentina conceded in all 4 knockout matches \u2014 transition fragility vs Spain's press",
+    "La Roja won every knockout inside 90 min \u2014 regulation control, no ET reliance",
+    "Rodri-Fabi\u00e1n-Pedri midfield command is the game's fulcrum",
+    "Argentina's relentless attack (scored all 7, Messi 12 contributions) keeps them on the scoresheet"
+  ],
+  "predicted_scorers": [
+    "Oyarzabal",
+    "Yamal"
+  ],
+  "confidence": "medium",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-19T10:58:01.107422+00:00"
+}

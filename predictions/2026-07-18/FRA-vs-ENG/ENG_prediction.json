@@ -1,0 +1,28 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "103",
+  "predicted_score": {
+    "self": 2,
+    "opponent": 1
+  },
+  "goes_to_extra_time": false,
+  "predicted_score_aet": null,
+  "penalty_winner": null,
+  "win_probability": 0.38,
+  "draw_probability": 0.25,
+  "loss_probability": 0.37,
+  "key_factors": [
+    "genuine dead-rubber coin-flip: compromised defences both sides, both attacks likely to score",
+    "calibration: raising draw to ~25% baseline to correct a 0-for-7 draw-avoidance pattern",
+    "team-wide bronze motivation (England) offsets France's individual record hook",
+    "France's fractional edge on scoring rate (2.29 vs 2.0) and recent H2H",
+    "2-1 is the modal knockout scoreline (26.7%) \u2014 one-goal margin, goals both ends"
+  ],
+  "predicted_scorers": [
+    "Kane",
+    "Bellingham"
+  ],
+  "confidence": "low",
+  "model": "claude-opus-4-8",
+  "emitted_at_utc": "2026-07-18T09:03:23.913546+00:00"
+}

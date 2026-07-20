@@ -1,0 +1,11 @@
+{
+  "fixture_id": "100",
+  "fixture_date": "2026-07-12",
+  "home_code": "ARG",
+  "away_code": "SUI",
+  "turns": 6,
+  "consensus_reached": true,
+  "stopped_reason": "consensus-forced final",
+  "total_cost_usd": 1.3342914000000003,
+  "model": "claude-sonnet-4-6"
+}

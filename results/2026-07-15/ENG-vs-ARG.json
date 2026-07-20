@@ -1,0 +1,28 @@
+{
+  "fixture_id": "102",
+  "date": "2026-07-15",
+  "stage": "round_of_4",
+  "home": "ENG",
+  "away": "ARG",
+  "home_score": 1,
+  "away_score": 2,
+  "ingested_at": "2026-07-15T21:05:05.836245+00:00",
+  "home_score_aet": null,
+  "away_score_aet": null,
+  "penalty_winner": null,
+  "advanced": "ARG",
+  "goal_scorers": [
+    {
+      "name": "Anthony Gordon",
+      "team": "home",
+      "minute": "55'",
+      "type": "Goal"
+    },
+    {
+      "name": "Enzo Fernández",
+      "team": "away",
+      "minute": "85'",
+      "type": "Goal"
+    }
+  ]
+}

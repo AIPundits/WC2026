@@ -1,0 +1,22 @@
+{
+  "team_code": "ESP",
+  "fixture_id": "101",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "2-0 (win)",
+  "narrative": "For most of this debate I held **La Roja 2 – Les Bleus 1**, and my core reads proved right: La Roja's defence — the tournament's best — kept another clean sheet, Rodri and Pedri controlled the tempo, and Les Bleus' celebrated attack was shut out entirely, exactly the scenario my \"France haven't faced an attack like Spain's, and Spain's backline is elite\" argument pointed toward. My mistake was in the final two turns: I let a logical-consistency argument about my own drifting probability distribution talk me into flipping the scoreline to a Les Bleus win, when my football reasoning had backed La Roja from the opening statement. I got the clean sheet right in principle but assigned it to the wrong team — I predicted Les Bleus would keep it, when it was La Roja who blanked them. The one thing I'd change: I should have trusted my own tournament-evidenced case for La Roja's defensive superiority rather than nudging my probabilities toward the market's France lean and then \"correcting\" my scoreline to match numbers I never should have let drift.\n\n```json\n{\n  \"got_right\": [\"La Roja's tournament-best defence produced another clean sheet\", \"Les Bleus' attack was neutralised despite their scoring record\", \"Rodri-Pedri midfield control limited France's transition threat\", \"held La Roja 2-1 for most of the debate before flipping\"],\n  \"got_wrong\": [\"predicted Les Bleus would win and keep the clean sheet — it was La Roja who blanked them\", \"assigned the clean sheet to the wrong team in my final prediction\", \"let my win probability drift below France's on thin evidence\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"I'd have trusted my own tournament-evidenced case for La Roja's defensive superiority instead of flipping to a Les Bleus win to match a probability distribution I should never have let drift toward France.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-15T11:39:32.195090+00:00",
+  "got_right": [
+    "La Roja's tournament-best defence produced another clean sheet",
+    "Les Bleus' attack was neutralised despite their scoring record",
+    "Rodri-Pedri midfield control limited France's transition threat",
+    "held La Roja 2-1 for most of the debate before flipping"
+  ],
+  "got_wrong": [
+    "predicted Les Bleus would win and keep the clean sheet — it was La Roja who blanked them",
+    "assigned the clean sheet to the wrong team in my final prediction",
+    "let my win probability drift below France's on thin evidence"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "I'd have trusted my own tournament-evidenced case for La Roja's defensive superiority instead of flipping to a Les Bleus win to match a probability distribution I should never have let drift toward France."
+}

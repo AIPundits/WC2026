@@ -1,0 +1,23 @@
+{
+  "team_code": "ENG",
+  "fixture_id": "103",
+  "predicted_from_perspective": "2-1 (win)",
+  "actual_from_perspective": "6-4 (win)",
+  "narrative": "An honest one to reflect on: I got the winner right and, more importantly, the *shape* right — I argued relentlessly that both defences were compromised (Saliba out, England's back line patched) and that both attacks would score in an open dead rubber, and a 6-4 is that thesis turned up to eleven. What I got badly wrong was the volume: I anchored on the modal 2-1 and predicted just three goals total when the match produced ten, so while Bellingham delivered as one of my named scorers, I completely missed Saka's brace, Rice's strike, and the sheer end-to-end chaos of it. The truth is my \"both attacks will score\" logic pointed at a high-scoring game and I then throttled it back to a tight scoreline out of knockout-margin habit. I'd rather have trusted my own read than the base-rate prior here.\n\n```json\n{\n  \"got_right\": [\"correct winner — Three Lions edged it\", \"both defences compromised, both attacks scored — goals at both ends as argued\", \"Saliba's absence plus patched back lines produced an open, leaky game\", \"Bellingham flagged and delivered as a scorer\"],\n  \"got_wrong\": [\"massively under-predicted goal volume — predicted 3 total, actual was 10\", \"anchored on a tight one-goal margin when it was a 4-goal thriller\", \"missed Saka's brace and Rice's goal entirely\", \"named Kane, who did not score\"],\n  \"reasoning_verdict\": \"underconfident\",\n  \"one_thing_id_change\": \"In a low-stakes dead rubber with both back lines disrupted, I'd have trusted my 'both attacks score' read and widened the scoreline rather than throttling back to the modal 2-1 out of knockout-margin habit.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-18T23:50:47.037478+00:00",
+  "got_right": [
+    "correct winner — Three Lions edged it",
+    "both defences compromised, both attacks scored — goals at both ends as argued",
+    "Saliba's absence plus patched back lines produced an open, leaky game",
+    "Bellingham flagged and delivered as a scorer"
+  ],
+  "got_wrong": [
+    "massively under-predicted goal volume — predicted 3 total, actual was 10",
+    "anchored on a tight one-goal margin when it was a 4-goal thriller",
+    "missed Saka's brace and Rice's goal entirely",
+    "named Kane, who did not score"
+  ],
+  "reasoning_verdict": "underconfident",
+  "one_thing_id_change": "In a low-stakes dead rubber with both back lines disrupted, I'd have trusted my 'both attacks score' read and widened the scoreline rather than throttling back to the modal 2-1 out of knockout-margin habit."
+}

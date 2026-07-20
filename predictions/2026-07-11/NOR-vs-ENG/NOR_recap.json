@@ -1,0 +1,23 @@
+{
+  "team_code": "NOR",
+  "fixture_id": "099",
+  "predicted_from_perspective": "2-3 (loss)",
+  "actual_from_perspective": "1-2 (loss)",
+  "narrative": "I got the direction right — England win — and Bellingham being the decisive force was baked into my analysis from the start (10 combined goals with Kane, attacking threat clear). Norway's wide-area vulnerability was also a genuine factor: the France blueprint held up, and The Lions couldn't stop England's runners from wide. Those two elements of my pre-match reasoning were sound.\n\nBut the volume call was wrong, and that matters. I leaned hard on \"0 clean sheets in 10 combined WC matches\" to justify a 2-3 scoreline, and it ended 1-2. Only three goals, not five. England were more defensively organised than I predicted — the Stones-Konsa pairing I flagged as a structural crisis held reasonably well, and crucially, **Haaland didn't score**. Schjelderup — whom I mentioned in my Turn 1 predicted scorers — got The Lions' goal, so I had the scorer right but for the wrong reason. My CB crisis narrative was the centrepiece of Norway's goal threat, and it produced nothing.\n\nThe one thing I'd change: I over-indexed on both teams' inability to keep a clean sheet as a predictor of total volume, when those figures were aggregated across very different opponents. England's goal concession rate against elite teams was lower than the aggregate implied, and I should have weighted that more carefully rather than treating \"0 clean sheets in 10 matches\" as a flat prediction signal.\n\n```json\n{\n  \"got_right\": [\n    \"England winning the match — correct direction throughout all three turns\",\n    \"Bellingham as the decisive attacking force — scored both England goals\",\n    \"Norway's wide-area vulnerability to direct runners (France blueprint confirmed)\",\n    \"Schjelderup as Norway's scorer — named him in Turn 1 predicted scorers\"\n  ],\n  \"got_wrong\": [\n    \"Total goal volume — predicted 5 goals (2-3), actual was 3 (1-2)\",\n    \"Haaland scoring — he didn't; the CB crisis didn't produce the Haaland goals I centred the argument on\",\n    \"Stones-Konsa as a structural crisis — they held reasonably well, England's defence was more organised than predicted\",\n    \"England's clean sheet — they effectively kept one (1 goal conceded in a KO match is well within range)\"\n  ],\n  \"reasoning_verdict\": \"fortunate\",\n  \"one_thing_id_change\": \"I'd disaggregate England's goals-conceded record by opponent quality rather than treating '0 clean sheets in 10 matches' as a flat signal — against elite opposition England were much harder to break down, and that should have tempered my high-volume scoreline.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "emitted_at_utc": "2026-07-12T00:05:39.665665+00:00",
+  "got_right": [
+    "England winning the match — correct direction throughout all three turns",
+    "Bellingham as the decisive attacking force — scored both England goals",
+    "Norway's wide-area vulnerability to direct runners (France blueprint confirmed)",
+    "Schjelderup as Norway's scorer — named him in Turn 1 predicted scorers"
+  ],
+  "got_wrong": [
+    "Total goal volume — predicted 5 goals (2-3), actual was 3 (1-2)",
+    "Haaland scoring — he didn't; the CB crisis didn't produce the Haaland goals I centred the argument on",
+    "Stones-Konsa as a structural crisis — they held reasonably well, England's defence was more organised than predicted",
+    "England's clean sheet — they effectively kept one (1 goal conceded in a KO match is well within range)"
+  ],
+  "reasoning_verdict": "fortunate",
+  "one_thing_id_change": "I'd disaggregate England's goals-conceded record by opponent quality rather than treating '0 clean sheets in 10 matches' as a flat signal — against elite opposition England were much harder to break down, and that should have tempered my high-volume scoreline."
+}
